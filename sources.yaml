@@ -240,6 +240,27 @@ sources:
       - match: ["käräjäoikeu"]
         label: "Käräjäoikeus"
 
+  # Tuomioistuimet.fi:n omat ratkaisulistat, eri sivu kuin yllä oleva
+  # ajankohtaissyöte. Näillä sivuilla on oikeita ratkaisuselosteita
+  # tiedotteiden sijaan, ja jokaisella kortilla on tuomioistuimen itsensä
+  # antama, tarkka asiasanaluettelo (esim. "Tietosuoja – Asiakirjajulkisuus
+  # – Asiakastietolaki"), joka toimii keywords-kenttänä ja tekee
+  # avainsanasuodatuksesta osuvampaa kuin ajankohtaissyötteellä. Sivu listaa
+  # ratkaisuja kaikista aihepiireistä, ei vain tietosuojasta.
+  - id: hao-ratkaisut
+    name: "Hallinto-oikeuksien ratkaisut"
+    type: court_rulings
+    court: "Hallinto-oikeus"
+    weight: 2
+    url: "https://www.tuomioistuimet.fi/tuomioistuinten-ratkaisut/hallinto-oikeuksien-ratkaisut/"
+
+  - id: hovi-ratkaisut
+    name: "Hovioikeuksien ratkaisut"
+    type: court_rulings
+    court: "Hovioikeus"
+    weight: 2
+    url: "https://www.tuomioistuimet.fi/tuomioistuinten-ratkaisut/hovioikeuksien-ratkaisut/"
+
   - id: mao
     name: "Markkinaoikeus"
     type: wp_rss
@@ -648,7 +669,7 @@ sources:
     require_any: *oikeustiede
 
   # ===================================================================
-  # Luku 9: muut uutiset ja asianajotoimistojen julkaisut
+  # Luku 9: muut uutiset ja järjestöjen julkaisut
   # ===================================================================
   # Edilex uutisoi säädösmuutokset ja uudet ratkaisut samana päivänä, joten
   # se toimii varmistuksena sille että mikään ei mene ohi. Otsikon edessä
@@ -688,40 +709,6 @@ sources:
     weight: 1
     optional: true
     url: "https://asianajajat.fi/feed/"
-
-  # Asianajotoimistojen omat julkaisut. Näistä tulee paljon muutakin kuin
-  # tietosuojaa, joten avainsanasuodatus tekee suurimman osan työstä.
-  - id: roschier
-    name: "Roschier"
-    type: plain_rss
-    court: "Asianajotoimisto"
-    weight: 1
-    optional: true
-    url: "https://www.roschier.com/feed"
-
-  - id: hannessnellman
-    name: "Hannes Snellman"
-    type: plain_rss
-    court: "Asianajotoimisto"
-    weight: 1
-    optional: true
-    url: "https://www.hannessnellman.com/feed/"
-
-  - id: castren
-    name: "Castrén & Snellman"
-    type: plain_rss
-    court: "Asianajotoimisto"
-    weight: 1
-    optional: true
-    url: "https://www.castren.fi/feed/"
-
-  - id: krogerus
-    name: "Krogerus"
-    type: plain_rss
-    court: "Asianajotoimisto"
-    weight: 1
-    optional: true
-    url: "https://www.krogerus.com/articles.rss"
 
   # ===================================================================
   # Luku 10: kyberturvallisuus

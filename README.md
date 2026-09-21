@@ -27,13 +27,17 @@ katetuksi automaattisesti:
 
 | Aihe | Lähteet |
 |---|---|
-| Kansallinen oikeuskäytäntö | KKO, KHO, markkinaoikeus, vakuutusoikeus, työtuomioistuin, tuomioistuinlaitoksen yhteinen syöte (hovioikeudet ja hallinto-oikeudet) |
+| Kansallinen oikeuskäytäntö | KKO, KHO, markkinaoikeus, vakuutusoikeus, työtuomioistuin, tuomioistuinlaitoksen yhteinen ajankohtaissyöte (kaikki oikeusasteet tiedotteina), hallinto-oikeuksien ratkaisulista, hovioikeuksien ratkaisulista |
 | EU | unionin tuomioistuin (SPARQL), curia-tiedotteet, komission digitaalinen strategia, Euroopan parlamentti |
 | Säädösvalmistelu | Finlexin säädöskokoelma, Finlexin hallituksen esitykset, valtioneuvosto, oikeusministeriö, LVM, TEM, VM |
 | Valvontaviranomaiset | tietosuojavaltuutettu, Traficom, EDPB, EDPS, Puolan UODO |
 | Oikeudelliset julkaisut | Helda, Lauda, UTUPub, UEF eRepo, JYX, Doria, Osuva |
-| Muut uutiset ja blogit | Edilex, IAPP, Asianajajaliitto, Roschier, Hannes Snellman, Castrén & Snellman, Krogerus |
+| Muut uutiset ja blogit | Edilex, IAPP, Asianajajaliitto |
 | Kyberturvallisuus | Kyberturvallisuuskeskus, ENISA (uutiset ja julkaisut), sisäministeriö |
+
+Asianajotoimistojen omat julkaisut (Roschier, Hannes Snellman, Castrén &
+Snellman, Krogerus) on poistettu lähteistä tietoisesti, sivu keskittyy
+viranomaisten ja tuomioistuinten omaan aineistoon.
 
 Kolme uutiskirjeen lähdettä jää käsityöksi. Eduskunnan VaskiData palauttaa
 `XmlData`-möykkyjä ilman käyttökelpoista päivämääräsaraketta. Bird & Birdin
@@ -244,14 +248,21 @@ merkittävimmät ratkaisut uutisina.
 
 ## Tunnetut rajoitukset
 
-- Yksittäisillä hovioikeuksilla, hallinto-oikeuksilla ja käräjäoikeuksilla ei
-  ole omaa syötettä. Vanhat `oikeus.fi`-osoitteet vastaavat 404, joten ne on
-  korvattu tuomioistuinlaitoksen yhteisellä ajankohtaissyötteellä. Se kattaa
-  saman aineiston mutta tiedotteina, ei ratkaisuselosteina.
-  `court_patterns`-asetus lukee otsikosta minkä oikeusasteen juttu on
-  kyseessä (myös taivutusmuodoissa, ja KHO erotellaan tavallisesta
-  hallinto-oikeudesta) ja näyttää sen sivun oikeusaste-suodattimessa omana
-  nappinaan yleisnimen "Tuomioistuimet" sijaan.
+- Käräjäoikeuksilla ei ole omaa ratkaisulistaa, koska vanhat `oikeus.fi`-
+  osoitteet vastaavat 404. Ne katetaan tuomioistuinlaitoksen yhteisellä
+  ajankohtaissyötteellä, joka kertoo samat asiat tiedotteina, ei
+  ratkaisuselosteina. `court_patterns`-asetus lukee otsikosta minkä
+  oikeusasteen juttu on kyseessä (myös taivutusmuodoissa, ja KHO erotellaan
+  tavallisesta hallinto-oikeudesta) ja näyttää sen sivun oikeusaste-
+  suodattimessa omana nappinaan yleisnimen "Tuomioistuimet" sijaan.
+  Hallinto-oikeuksilla ja hovioikeuksilla sen sijaan on oma lähteensä
+  (`hao-ratkaisut`, `hovi-ratkaisut`), joka lukee suoraan tuomioistuimet.fi:n
+  omat ratkaisulistat. Näillä on oikeat ratkaisuselosteet ja tuomioistuimen
+  itsensä antama asiasanaluettelo (esim. "Tietosuoja – Asiakirjajulkisuus"),
+  joka on huomattavasti tarkempi kuin ajankohtaissyötteen otsikko ja tekee
+  avainsanasuodatuksesta osuvampaa. Sivu näyttää satoja ratkaisuja
+  kaikista aihepiireistä, joten näillä lähteillä ei ole omaa
+  `require_any`-listaa, vaan ne luottavat yleiseen `must_any`-suodatukseen.
 - Unionin tuomioistuimen SPARQL-haku hakee kaikki tuomiot aihealueesta
   riippumatta, joten pelkkä yleinen avainsana ("seuraamusmaksu") saattoi
   päästää läpi tietosuojaan liittymättömiä ratkaisuja (esim. liikennealan

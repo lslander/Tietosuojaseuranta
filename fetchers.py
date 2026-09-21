@@ -445,6 +445,90 @@ def _guess_date(anchor) -> dt.date | None:
     return None
 
 
+_SOFT_HYPHEN_RE = re.compile("[\xad\u200b]")
+_WHITESPACE_RE = re.compile(r"\s+")
+
+
+def _clean_card_text(text: str) -> str:
+    """Siivoaa tuomioistuimet.fi:n korttien pehmeät tavuviivat ja kapeat välit.
+
+    Sivusto lisää rivitystä varten näkymättömiä merkkejä sanojen sisään
+    (esim. "Poh\xadjois-Suo\xadmen" ja "1285/\u200b2026"), jotka eivät näy
+    selaimessa mutta tulisivat mukaan tekstiin sellaisenaan.
+    """
+    return _WHITESPACE_RE.sub(" ", _SOFT_HYPHEN_RE.sub("", text)).strip()
+
+
+# --------------------------------------------------------------------------
+# Tuomioistuimet.fi: hallinto-oikeuksien ja hovioikeuksien ratkaisulistat
+# --------------------------------------------------------------------------
+# Nämä ovat eri sivuja kuin "tuomioistuimet"-lähteen ajankohtaissyöte: siinä
+# on tiedotteita kaikista oikeusasteista, tässä oikeita ratkaisuselosteita
+# yhdeltä oikeusasteelta kerrallaan. Sivu näyttää jokaisen ratkaisun
+# korttina (div.content-lift), jossa on oma <time datetime="pp.kk.vvvv">,
+# asian tunniste otsikkona ja tuomioistuimen itsensä antama asiasanaluettelo
+# lyhyenä tiivistelmänä. Asiasanat ovat huomattavasti tarkempia kuin
+# ajankohtaissyötteen otsikot (esim. "Tietosuoja – Asiakirjajulkisuus –
+# Asiakastietolaki"), joten ne riittävät sellaisenaan keywords-kentäksi ja
+# avainsanasuodatus toimii niiden varassa hyvin. Sivu listaa satoja
+# ratkaisuja kaikista aihepiireistä, joten lähteellä ei ole always_include-
+# eikä require_any-asetusta: pelkkä yleinen must_any-suodatus riittää.
+def fetch_court_rulings(source: dict) -> list[Item]:
+    soup = BeautifulSoup(_get(source).text, "html.parser")
+    card_selector = source.get("card_selector", "div.content-lift")
+
+    seen: set[str] = set()
+    items: list[Item] = []
+    for card in soup.select(card_selector):
+        a = card.find("a", href=True)
+        if a is None:
+            continue
+        href = urllib.parse.urljoin(source["url"], a["href"].strip())
+        if href in seen:
+            continue
+
+        title_el = card.find(class_="content-lift__title")
+        if title_el is None:
+            continue
+        title = _clean_card_text(title_el.get_text(" ", strip=True))
+        if not title:
+            continue
+
+        date, exact = None, True
+        time_el = card.find("time")
+        if time_el is not None:
+            m = DATE_RE.search(time_el.get("datetime", "") or time_el.get_text(" ", strip=True))
+            if m:
+                d, mo, y = (int(x) for x in m.groups())
+                try:
+                    date = _sane_date(dt.date(y, mo, d))
+                except ValueError:
+                    date = None
+        if date is None:
+            date = _date_from_url(href)
+        if date is None:
+            date, exact = dt.date.today(), False
+
+        excerpt_el = card.find(class_="content-lift__excerpt")
+        keywords = _clean_card_text(excerpt_el.get_text(" ", strip=True)) if excerpt_el else ""
+
+        seen.add(href)
+        items.append(
+            Item(
+                source_id=source["id"],
+                source_name=source["name"],
+                court=source.get("court", source["name"]),
+                title=title[:220],
+                url=href,
+                date=date,
+                keywords=keywords[:300],
+                weight=source.get("weight", 1),
+                tags=[] if exact else ["pvm arvioitu"],
+            )
+        )
+    return items
+
+
 # --------------------------------------------------------------------------
 # Finlex: säädöskokoelma ja hallituksen esitykset
 # --------------------------------------------------------------------------
@@ -682,6 +766,7 @@ FETCHERS = {
     "html_list": fetch_html_list,
     "oai_pmh": fetch_oai_pmh,
     "finlex": fetch_finlex,
+    "court_rulings": fetch_court_rulings,
 }
 
 

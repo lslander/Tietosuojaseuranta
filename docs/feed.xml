@@ -4,7 +4,7 @@
 <link>https://lslander.github.io/Tietosuojaseuranta/</link>
 <description>Tietosuoja, teknologia ja datasääntely</description>
 <language>fi</language>
-<lastBuildDate>Fri, 18 Sep 2026 14:40:21 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 05:24:59 +0000</lastBuildDate>
 <item>
 <title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 38/2026</title>
 <link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-382026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
@@ -515,30 +515,5 @@ Lisäksi tällä viikolla julkaistu heinäkuun Kybersää osoittaa sateisen syks
 <pubDate>Thu, 28 May 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>
-</item>
-<item>
-<title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus - 21/2026</title>
-<link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-212026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
-<guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-212026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
-<pubDate>Fri, 22 May 2026 09:00:00 +0000</pubDate>
-<description>Kesän kynnyksellä kyberturvallisuudessa korostuvat sekä arjen huolellisuus että ennakoiva varautuminen. Tämän viikon katsauksessa nostamme esiin ajankohtaisia huijauksia, Microsoft 365 -ympäristöihin kohdistuvia uusia kalastelutapoja, Secure Boot -varmenteiden tulevia muutoksia, energia-alan kyberharjoittelua tuulivoimaympäristöissä, avoinna olevasta EU-rahoituksesta sekä Kyberturvallisuuskeskukse</description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>TSV: Henkilötietojen käsittelyn läpinäkyvyyttä selvittävä kysely lähetetty eduskuntapuolueille</title>
-<link>https://tietosuoja.fi/-/henkilotietojen-kasittelyn-lapinakyvyytta-selvittava-kysely-lahetetty-eduskuntapuolueille</link>
-<guid isPermaLink="true">https://tietosuoja.fi/-/henkilotietojen-kasittelyn-lapinakyvyytta-selvittava-kysely-lahetetty-eduskuntapuolueille</guid>
-<pubDate>Thu, 21 May 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>Kyberturvallisuuskeskus: Uusi aalto M365-tietojenkalastelussa - AI‑avusteinen laitekoodin kalastelukampanja</title>
-<link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/uusi-aalto-m365-tietojenkalastelussa-ai-avusteinen-laitekoodin-kalastelukampanja?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
-<guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/uusi-aalto-m365-tietojenkalastelussa-ai-avusteinen-laitekoodin-kalastelukampanja?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
-<pubDate>Thu, 21 May 2026 09:00:00 +0000</pubDate>
-<description>Tietoturvatutkijat ovat havainneet laajamittaisen kalastelukampanjan, jossa hyödynnetään laitekooditodennusmenetelmää ja tekoälyä hyökkäysten tehostamiseen. Kampanja kohdistuu organisaatioihin ja yksittäisiin käyttäjiin. Hyökkäyksen tavoitteena on saada luvaton pääsy tileihin sekä yritysten resursseihin. Kyberturvallisuuskeskus on saanut ilmoituksia vastaavista tapauksista myös Suomessa. Organisaa</description>
-<category>Tekoäly</category>
-<category>Kyberturvallisuus</category>
 </item>
 </channel></rss>

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-18T14:40:21",
+  "generated": "2026-09-21T05:24:59",
   "window_days": 120,
   "sources": [
     {
@@ -63,7 +63,7 @@
       "name": "Unionin tuomioistuin (EUT ja unionin yleinen tuomioistuin)",
       "court": "EUT",
       "ok": true,
-      "fetched": 407,
+      "fetched": 405,
       "error": ""
     },
     {
@@ -1255,58 +1255,6 @@
       ],
       "tags": [
         "tietosuoja"
-      ]
-    },
-    {
-      "court": "Kyberturvallisuuskeskus",
-      "source": "Kyberturvallisuuskeskus",
-      "title": "Kyberturvallisuuskeskuksen viikkokatsaus - 21/2026",
-      "url": "https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-212026?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
-      "date": "2026-05-22",
-      "keywords": "",
-      "summary": "Kesän kynnyksellä kyberturvallisuudessa korostuvat sekä arjen huolellisuus että ennakoiva varautuminen. Tämän viikon katsauksessa nostamme esiin ajankohtaisia huijauksia, Microsoft 365 -ympäristöihin kohdistuvia uusia kalastelutapoja, Secure Boot -varmenteiden tulevia muutoksia, energia-alan kyberharjoittelua tuulivoimaympäristöissä, avoinna olevasta EU-rahoituksesta sekä Kyberturvallisuuskeskukse",
-      "score": 13,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "kyberturvallisuus"
-      ]
-    },
-    {
-      "court": "TSV",
-      "source": "Tietosuojavaltuutetun toimisto",
-      "title": "Henkilötietojen käsittelyn läpinäkyvyyttä selvittävä kysely lähetetty eduskuntapuolueille",
-      "url": "https://tietosuoja.fi/-/henkilotietojen-kasittelyn-lapinakyvyytta-selvittava-kysely-lahetetty-eduskuntapuolueille",
-      "date": "2026-05-21",
-      "keywords": "",
-      "summary": "",
-      "score": 33,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "henkilötiet"
-      ]
-    },
-    {
-      "court": "Kyberturvallisuuskeskus",
-      "source": "Kyberturvallisuuskeskus",
-      "title": "Uusi aalto M365-tietojenkalastelussa - AI‑avusteinen laitekoodin kalastelukampanja",
-      "url": "https://www.kyberturvallisuuskeskus.fi/fi/uutiset/uusi-aalto-m365-tietojenkalastelussa-ai-avusteinen-laitekoodin-kalastelukampanja?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
-      "date": "2026-05-21",
-      "keywords": "",
-      "summary": "Tietoturvatutkijat ovat havainneet laajamittaisen kalastelukampanjan, jossa hyödynnetään laitekooditodennusmenetelmää ja tekoälyä hyökkäysten tehostamiseen. Kampanja kohdistuu organisaatioihin ja yksittäisiin käyttäjiin. Hyökkäyksen tavoitteena on saada luvaton pääsy tileihin sekä yritysten resursseihin. Kyberturvallisuuskeskus on saanut ilmoituksia vastaavista tapauksista myös Suomessa. Organisaa",
-      "score": 31,
-      "topics": [
-        "Tekoäly",
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "tärkeä",
-        "tekoäly",
-        "kyberturvallisuus",
-        "tietojenkalastelu"
       ]
     }
   ]

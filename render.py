@@ -314,7 +314,7 @@ FI_MONTHS = ["", "tammikuuta", "helmikuuta", "maaliskuuta", "huhtikuuta",
 # Uutiskirjeen lähteet, joista ei saa koneluettavaa aineistoa. Nämä näkyvät
 # lähdepaneelissa, jotta sivu kertoo itse mitä se ei kata.
 MANUAL_SOURCES = [
-    "EDPS", "Puolan UODO", "eduskunnan VaskiData", "Finlexin säädöskokoelma",
+    "eduskunnan VaskiData", "Bird & Birdin omat julkaisut", "Tampereen Trepo",
 ]
 
 

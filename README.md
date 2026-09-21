@@ -1,7 +1,7 @@
 # Oikeustapausseuranta
 
 Henkilökohtainen uutisvirta tietosuojaa, teknologiaa ja datasääntelyä koskevista
-ratkaisuista. Python-skripti hakee aineiston 26 lähteestä, suodattaa sen
+ratkaisuista. Python-skripti hakee aineiston 40 lähteestä, suodattaa sen
 avainsanoilla ja kirjoittaa staattisen verkkosivun. GitHub Actions ajaa haun
 arkisin aamulla ja GitHub Pages julkaisee sivun.
 
@@ -27,19 +27,21 @@ katetuksi automaattisesti:
 
 | Aihe | Lähteet |
 |---|---|
-| Kansallinen oikeuskäytäntö | KKO, KHO, markkinaoikeus, vakuutusoikeus, työtuomioistuin, Helsingin ja Turun hovioikeus |
-| EU | unionin tuomioistuin (SPARQL), curia-tiedotteet, komission digitaalinen strategia |
-| Säädösvalmistelu | valtioneuvosto, oikeusministeriö, LVM, TEM |
-| Valvontaviranomaiset | tietosuojavaltuutettu, Traficom, EDPB |
-| Oikeudelliset julkaisut | Helda, Lauda, UTUPub, UEF eRepo, JYX, Doria |
-| Kyberturvallisuus | Kyberturvallisuuskeskus, ENISA (uutiset ja julkaisut) |
+| Kansallinen oikeuskäytäntö | KKO, KHO, markkinaoikeus, vakuutusoikeus, työtuomioistuin, tuomioistuinlaitoksen yhteinen syöte (hovioikeudet ja hallinto-oikeudet) |
+| EU | unionin tuomioistuin (SPARQL), curia-tiedotteet, komission digitaalinen strategia, Euroopan parlamentti |
+| Säädösvalmistelu | Finlexin säädöskokoelma, Finlexin hallituksen esitykset, valtioneuvosto, oikeusministeriö, LVM, TEM, VM |
+| Valvontaviranomaiset | tietosuojavaltuutettu, Traficom, EDPB, EDPS, Puolan UODO |
+| Oikeudelliset julkaisut | Helda, Lauda, UTUPub, UEF eRepo, JYX, Doria, Osuva |
+| Muut uutiset ja blogit | Edilex, IAPP, Asianajajaliitto, Roschier, Hannes Snellman, Castrén & Snellman, Krogerus |
+| Kyberturvallisuus | Kyberturvallisuuskeskus, ENISA (uutiset ja julkaisut), sisäministeriö |
 
-Osa uutiskirjeen lähteistä jää käsityöksi, koska niistä ei saa koneluettavaa
-aineistoa. EDPS vastaa jokaiseen pyyntöön HTTP 202 ja tyhjällä rungolla,
-Puolan UODO ei tarjoa syötettä lainkaan, eduskunnan VaskiData palauttaa
-`XmlData`-möykkyjä ilman käyttökelpoista päivämääräsaraketta ja Finlexin
-säädöskokoelma rakennetaan selaimessa. Näitä kannattaa vilkaista käsin, jos
-uutiskirjeen taso on tavoite.
+Kolme uutiskirjeen lähdettä jää käsityöksi. Eduskunnan VaskiData palauttaa
+`XmlData`-möykkyjä ilman käyttökelpoista päivämääräsaraketta. Bird & Birdin
+omat julkaisut piirtyvät kokonaan selaimessa, eli `twobirds.com/en/insights`
+vastaa 60 kilotavulla JavaScriptiä ja nollalla artikkelilla, eikä yhtään
+RSS-polkua ole. Tampereen Trepo vastaa OAI-polkuun 200 mutta nollalla
+tietueella. Nämä näkyvät sivun lähdepaneelissa, jotta sivu kertoo itse mitä
+se ei kata.
 
 ## Käyttöönotto
 
@@ -164,10 +166,11 @@ jos lähdetyyppi on jo olemassa:
 ```yaml
 - id: oma-lahde
   name: "Lähteen nimi sivun alaviitteeseen"
-  type: plain_rss          # wp_rss, plain_rss, eu_sparql, html_list, oai_pmh
+  type: plain_rss          # wp_rss, plain_rss, eu_sparql, html_list, oai_pmh, finlex
   court: "TUNNUS"          # lyhenne suodatusnappiin
   weight: 2                # 1-3, vaikuttaa järjestykseen
   optional: true           # virhe ei kaada ajoa
+  browser: true            # selaimen tunniste, jos palvelin torjuu robotin
   url: "https://..."
   require_any: []          # valinnainen lisäportti
   never_any: []            # valinnainen poissulku
@@ -185,6 +188,25 @@ Tyypit:
 - `oai_pmh` hakee yliopistojen julkaisuarkistot. Asetukset ovat
   `lookback_days` (kuinka kaukaa taaksepäin haetaan), `max_pages` (yksi sivu
   on 100 tietuetta) ja `type_contains` (millaiset julkaisutyypit kelpaavat).
+- `finlex` lukee säädöskokoelman ja hallituksen esitykset listasivun
+  HTML:stä. Vaatii `browser: true`.
+
+`html_list` on näistä säädettävin, koska listasivut ovat erilaisia:
+
+- `link_pattern` rajaa mitkä linkit kelpaavat, `skip_pattern` pudottaa
+  osastosivut silloin kun ne ovat saman polun alla kuin artikkelit.
+- `min_title_len` pudottaa navigaatiolinkit, oletus on 20 merkkiä.
+- `strip_title_prefix` siivoaa otsikon edestä turhan osan. Edilex kirjoittaa
+  kellonajan otsikkoon muodossa "18.9.2026 16.00 Otsikko".
+- `detail_date: true` hakee puuttuvan päivämäärän jutun omalta sivulta.
+  Tämä maksaa yhden pyynnön juttua kohden, joten se on päällä vain
+  IAPP:lla, jonka listasivulla ei ole päivämäärää missään muodossa.
+
+Palvelimen hiljainen torjunta kannattaa pitää mielessä. `europa.eu` vastaa
+rehelliselle tunnisteelle koodilla 202 ja tyhjällä rungolla, eikä
+`raise_for_status` nosta siitä virhettä. Lähde näyttäisi silloin vihreältä ja
+tyhjältä, vaikka se on estetty. Siksi `_get` pitää alle 200 tavun vastausta
+aina virheenä ja `browser: true` antaa lähteelle selaimen tunnisteen.
 
 Valtioneuvoston hallinnonalan sivut pyörivät Liferaylla, joka tarjoaa RSS:n
 osoitteessa `/<sivu>/-/asset_publisher/<TUNNUS>/rss`. Tunnusta ei näy
@@ -200,12 +222,21 @@ vanhalla. Väärä polku palauttaa 404 tai nolla tietuetta ilman virheilmoitusta
 Uusi lähdetyyppi vaatii funktion `fetchers.py`-tiedostoon ja merkinnän
 `FETCHERS`-sanakirjaan.
 
-## Miksi Finlexiä ei käytetä
+## Finlex ilman rajapintaa
 
-Finlexillä ei ole avointa oikeuskäytännön rajapintaa. `api.finlex.fi` vastaa
-401, `opendata.finlex.fi` vaatii tunnisteen ja Akoma Ntoso -polut
-oikeustapauksiin palauttavat 404. Siksi ratkaisut haetaan tuomioistuinten
-omilta sivuilta, joilla WordPress tarjoaa syötteen ilman avainta.
+Finlexillä ei ole avointa rajapintaa. `api.finlex.fi` vastaa 401,
+`opendata.finlex.fi` vastaa 403 ja Akoma Ntoso -polut oikeustapauksiin
+palauttavat 404. Oikeuskäytäntö haetaan siksi tuomioistuinten omilta
+sivuilta, joilla WordPress tarjoaa syötteen ilman avainta.
+
+Säädöskokoelma ja hallituksen esitykset luetaan listasivun HTML:stä omalla
+`finlex`-tyypillä. Sivusto on Next.js, joten valmista DOM-listaa ei ole vaan
+aineisto tulee palvelinkomponenttien virtana, jossa JSON on pakattu kahteen
+kertaan. Otsikot löytyvät linkkien `aria-label`-arvoista muodossa
+"853/2026, Valtioneuvoston asetus ...". Listasivulla ei ole päivämääriä ja
+säädöksiä on vuodessa yli 800, joten hakija suodattaa ensin otsikosta
+`require_any`-listalla ja hakee julkaisupäivän vasta jäljelle jääneiden
+säädösten omilta sivuilta. Näin verkkopyyntöjä tulee kymmeniä eikä satoja.
 
 Tietosuojavaltuutetun ratkaisut julkaistaan Finlexissä, joten niitä seurataan
 toimiston ajankohtaissivulta. Sieltä löytyvät seuraamusmaksut ja
@@ -213,17 +244,38 @@ merkittävimmät ratkaisut uutisina.
 
 ## Tunnetut rajoitukset
 
-- Hovioikeuksien syötteet palauttavat tällä hetkellä nolla juttua.
-  Ne on jätetty `optional: true` -merkinnällä paikalleen, koska osoitteet
-  voivat alkaa toimia. Lähdepaneeli näyttää ne nollana, ei virheenä, koska
-  osoite vastaa.
-- Doria vastaa epätasaisesti ja putoaa satunnaisesti pois ajosta. Silloin se
-  näkyy lähdepaneelissa punaisena. Seuraava ajo yleensä korjaa tilanteen.
+- Yksittäisillä hovioikeuksilla, hallinto-oikeuksilla ja käräjäoikeuksilla ei
+  ole omaa syötettä. Vanhat `oikeus.fi`-osoitteet vastaavat 404, joten ne on
+  korvattu tuomioistuinlaitoksen yhteisellä ajankohtaissyötteellä. Se kattaa
+  saman aineiston mutta tiedotteina, ei ratkaisuselosteina.
+  `court_patterns`-asetus lukee otsikosta minkä oikeusasteen juttu on
+  kyseessä (myös taivutusmuodoissa, ja KHO erotellaan tavallisesta
+  hallinto-oikeudesta) ja näyttää sen sivun oikeusaste-suodattimessa omana
+  nappinaan yleisnimen "Tuomioistuimet" sijaan.
+- Unionin tuomioistuimen SPARQL-haku hakee kaikki tuomiot aihealueesta
+  riippumatta, joten pelkkä yleinen avainsana ("seuraamusmaksu") saattoi
+  päästää läpi tietosuojaan liittymättömiä ratkaisuja (esim. liikennealan
+  sakkoasia). `eu-courts`-lähteellä on nyt oma, tarkempi `require_any`-lista,
+  joka karsii nämä pois ennen yleistä avainsanasuodatusta.
+- EDPS:n oma uutissivu on JavaScript-haasteen takana ja vastaa 202 myös
+  selaimen tunnisteella, joten nostot luetaan etusivulta. Saalis on pieni.
+- Doria ja muut yliopistojen OAI-PMH-arkistot katkaisevat yhteyden joskus
+  kesken vastauksen. Haku yrittää nyt saman pyynnön uudelleen kolme kertaa
+  kasvavalla odotuksella ennen kuin lähde merkitään epäonnistuneeksi, joten
+  yksittäinen katkos ei enää yleensä näy lähdepaneelissa punaisena.
+- UODO:n etusivun asettelu vaihtelee, ja joskus sinne ilmestyy pysyviä
+  ohjesivuja ("What rights does the GDPR give you?") uutisten sekaan
+  `link_pattern`-suodatuksesta huolimatta. Näiden otsikon perässä on aina
+  sivun oma "Check"-nappi, joten `never_any: ["check"]` pudottaa ne pois
+  toisena suojakerroksena.
 - Unionin tuomioistuimen suomenkielinen toisinto ilmestyy viiveellä.
   Skripti ottaa englanninkielisen asiasanoituksen varalle ja korvaa sen
   suomenkielisellä, kun se on saatavilla.
-- HTML-listauksesta päivämäärä ei aina löydy. Silloin juttu saa merkinnän
-  "pvm arvioitu" ja päiväksi tulee ajopäivä.
+- HTML-listauksesta päivämäärä ei aina löydy. Hakija etsii sen ensin linkin
+  läheltä, sitten osoitteesta ja lopuksi jutun omalta sivulta, jos lähteessä
+  on `detail_date: true`. Jos mikään ei tuota tulosta, juttu saa merkinnän
+  "pvm arvioitu" ja päiväksi tulee ajopäivä. Arvatut jäävät järjestyksessä
+  saman päivän varmojen juttujen jälkeen, jotta ne eivät nouse kärkeen.
 - Julkaisuarkistot ovat hitaita ja epätasaisia. Yhdestä yliopistosta voi tulla
   kymmeniä osumia ja toisesta yksi, koska tietueiden asiasanoitus vaihtelee.
   Tampereen Trepo jätettiin pois, koska yhteys aikakatkeaa toistuvasti.

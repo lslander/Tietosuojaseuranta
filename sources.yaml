@@ -10,7 +10,7 @@ settings:
   # Montako juttua enintään yhdelle sivulle.
   max_items: 200
   # Sivun otsikko ja omistaja.
-  site_title: "Oikeustapausseuranta"
+  site_title: "Data Protection Newsfeed"
   site_subtitle: "Tietosuoja, teknologia ja datasääntely"
   timezone: "Europe/Helsinki"
 
@@ -204,23 +204,41 @@ sources:
   # ===================================================================
   # Luku 3 ja 4: hovioikeudet ja erityistuomioistuimet
   # ===================================================================
-  # Hovioikeudet julkaisevat ratkaisujaan epätasaisesti ja osa domaineista
-  # elää. Skripti ohittaa lähteen hiljaisesti, jos syöte ei vastaa.
-  - id: ho-helsinki
-    name: "Helsingin hovioikeus"
-    type: wp_rss
-    court: "HelHO"
-    weight: 1
-    optional: true
-    url: "https://oikeus.fi/hovioikeudet/helsinginhovioikeus/feed/rss-feed?post_type=ratkaisu"
-
-  - id: ho-turku
-    name: "Turun hovioikeus"
-    type: wp_rss
-    court: "THO"
-    weight: 1
-    optional: true
-    url: "https://oikeus.fi/hovioikeudet/turunhovioikeus/feed/rss-feed?post_type=ratkaisu"
+  # Yksittäisillä hovioikeuksilla, hallinto-oikeuksilla ja käräjäoikeuksilla
+  # ei ole omaa syötettä. Vanhat oikeus.fi-osoitteet vastaavat nykyään 404,
+  # joten ne on korvattu tuomioistuinlaitoksen yhteisellä
+  # ajankohtaissyötteellä. Se kattaa kaikkien näiden tiedotteet samassa
+  # virrassa. court_patterns lukee otsikosta mikä oikeusaste on kyseessä
+  # (esim. "Turun hallinto-oikeuden viikolla..." -> "Hallinto-oikeus") ja
+  # käyttää sitä jutun oikeusastetunnisteena "Tuomioistuimet"-yleisnimen
+  # sijaan, jotta sivun oikeusaste-suodattimesta löytyy myös
+  # "Hallinto-oikeus", "Hovioikeus" ja "Käräjäoikeus" omina nappeinaan.
+  # Jos mikään näistä ei osu (esim. KKO/KHO/vakuutusoikeus mainitaan
+  # samassa syötteessä), juttu pitää court-kentän oletusarvon.
+  - id: tuomioistuimet
+    name: "Tuomioistuinlaitos"
+    type: plain_rss
+    court: "Tuomioistuimet"
+    weight: 2
+    url: "https://www.tuomioistuimet.fi/feed/rss-feed?post_type=ajankohtaiset"
+    # Sanavartalot ilman taivutuspäätettä (sama periaate kuin yllä olevan
+    # keywords-lohkon must_any-listalla), koska otsikoissa esiintyy sekä
+    # nominatiivi ("hovioikeus hylkäsi...") että genetiivi
+    # ("hovioikeuden ratkaisu..."), eikä "hovioikeus" osu jälkimmäiseen.
+    # "Korkein hallinto-oikeus" tarkistetaan ennen yleistä hallinto-oikeus-
+    # sääntöä, ettei KHO:ta koskeva juttu putoa väärin alueellisen
+    # hallinto-oikeuden koriin.
+    court_patterns:
+      - match: ["korkei", "hallinto-oikeu"]
+        label: "KHO"
+      - match: ["korkei", "oikeu"]
+        label: "KKO"
+      - match: ["hovioikeu"]
+        label: "Hovioikeus"
+      - match: ["hallinto-oikeu"]
+        label: "Hallinto-oikeus"
+      - match: ["käräjäoikeu"]
+        label: "Käräjäoikeus"
 
   - id: mao
     name: "Markkinaoikeus"
@@ -256,6 +274,66 @@ sources:
     celex_types: ["CJ", "TJ", "CC"]
     language: "fin"
     lookback_days: 150
+    # Haku hakee KAIKKI unionin tuomioistuimen ratkaisut aihealueesta
+    # riippumatta ja luottaa sen jälkeen pelkkään must_any-suodatukseen.
+    # Ongelma: EUT:n asiasanateksti on lyhyt oikeudellinen tiivistelmä, jossa
+    # yleiset hallinto-oikeuden sanat kuten "seuraamusmaksu" esiintyvät myös
+    # esim. liikenne- tai kilpailuoikeuden ratkaisuissa. Esimerkki: C-437/25
+    # koski kuljettajakortin väärinkäytöstä määrättyä kiinteämääräistä
+    # seuraamusmaksua (asetus 165/2014, tieliikenne), ei tietosuojaa, mutta
+    # pelkkä sana "seuraamusmaksu" riitti läpäisemään must_any-listan.
+    # require_any on tätä varten oleva lähdekohtainen lisäsuodatin: jutun
+    # pitää osua johonkin näistä tarkemmista termeistä, ennen kuin se edes
+    # pääsee yleisen must_any-listan arvioitavaksi. Listasta on tietoisesti
+    # jätetty pois yleiset hallinto-oikeuden sanat (seuraamusmaksu,
+    # liikesalaisuu, vaikutustenarviointi, julkisuuslaki), koska ne osuvat
+    # yhtä hyvin muihinkin oikeudenaloihin.
+    require_any:
+      - tietosuoja
+      - henkilötiet
+      - yksityiselämän suoja
+      - gdpr
+      - "2016/679"
+      - rekisterinpitäj
+      - tietosuojavaltuutet
+      - tietoturvaloukkaus
+      - profilointi
+      - automaattinen päätöksenteko
+      - biometri
+      - evästeet
+      - verkkojäljit
+      - sähköisen viestinnän
+      - sähköinen viestintä
+      - televiestint
+      - viestintäsalaisuu
+      - verkkotunnus
+      - teletoiminta
+      - tekoäly
+      - "2024/1689"
+      - ai act
+      - data act
+      - datasäädös
+      - datan hallinnointi
+      - digipalvelusäädös
+      - digimarkkinasäädös
+      - dsa
+      - dma
+      - alustasääntely
+      - digitaalinen identiteetti
+      - eidas
+      - kyberturvallisuus
+      - kyberhyökkäy
+      - kyberkestävyy
+      - nis2
+      - nis 2
+      - tietomurto
+      - personal data
+      - data protection
+      - artificial intelligence
+      - electronic communications
+      - privacy
+      - cyber
+      - data governance
 
   - id: curia-press
     name: "Unionin tuomioistuimen lehdistötiedotteet"
@@ -272,12 +350,68 @@ sources:
     weight: 2
     url: "https://digital-strategy.ec.europa.eu/en/rss.xml"
 
+  # Parlamentin lehdistötiedotteet kertovat missä vaiheessa säädöshankkeet
+  # ovat. Palvelin torjuu tuntemattoman asiakasohjelman vastaamalla
+  # koodilla 202 ja tyhjällä rungolla, joten browser: true on pakollinen.
+  - id: ep
+    name: "Euroopan parlamentti, lehdistötiedotteet"
+    type: plain_rss
+    court: "EP"
+    weight: 1
+    browser: true
+    url: "https://www.europarl.europa.eu/rss/doc/press-releases/en.xml"
+
   # ===================================================================
   # Luku 6: kansalliset säädösmuutokset ja esityöt
   # ===================================================================
-  # Hallituksen esitykset uutisoidaan ministeriöiden tiedotteissa.
+  # Finlexillä ei ole avointa rajapintaa. api.finlex.fi vastaa 401 ja
+  # opendata.finlex.fi 403, joten säädökset luetaan listasivun HTML:stä.
+  # Listasivulla ei ole päivämääriä ja säädöksiä on vuodessa yli 800, joten
+  # hakija suodattaa ensin otsikosta ja hakee julkaisupäivän vasta jäljelle
+  # jääneiden säädösten omilta sivuilta. require_any on siis tehokkuutta
+  # varten, ei korvaa keywords.must_any -suodatusta.
+  #
   # Eduskunnan avoin data (VaskiData) palauttaa raakaa XML:ää ilman
-  # päivämääräsaraketta, joten se ei sovellu tähän suoraan.
+  # päivämääräsaraketta, joten se ei sovellu tähän suoraan. Hallituksen
+  # esitykset tulevat sen sijaan Finlexin omasta osastosta.
+  - id: finlex-sk
+    name: "Finlex, säädöskokoelma"
+    type: finlex
+    court: "Säädöskokoelma"
+    weight: 3
+    browser: true
+    url: "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026"
+    lookback_days: 120
+    max_detail: 30
+    require_any: &saadosaiheet
+      - tietosuoja
+      - henkilötiet
+      - tietojen käsittely
+      - tiedonhallin
+      - kyberturvallisuu
+      - tietoturva
+      - sähköisen viestinnän
+      - tekoäly
+      - digitaalis
+      - tunnistus
+      - tietoliikenne
+      - verkkotunnus
+      - julkisuudesta
+      - rekisteri
+      - tietojärjestelm
+      - data
+
+  - id: finlex-he
+    name: "Finlex, hallituksen esitykset"
+    type: finlex
+    court: "HE"
+    weight: 2
+    browser: true
+    url: "https://www.finlex.fi/fi/hallituksen-esitykset/2026"
+    lookback_days: 150
+    max_detail: 20
+    require_any: *saadosaiheet
+
   - id: vn
     name: "Valtioneuvosto"
     type: html_list
@@ -313,6 +447,17 @@ sources:
     optional: true
     url: "https://tem.fi/etusivu/-/asset_publisher/PuQeVCwBv2KT/rss"
 
+  # Valtiovarainministeriö vastaa julkisen hallinnon tiedonhallinnasta ja
+  # digitalisaatiosta, eli tiedonhallintalaista ja digitaalisesta
+  # henkilöllisyystodistuksesta.
+  - id: vm
+    name: "Valtiovarainministeriö"
+    type: plain_rss
+    court: "VM"
+    weight: 1
+    optional: true
+    url: "https://vm.fi/ajankohtaista/-/asset_publisher/RhzFRyKj5aHx/rss"
+
   # ===================================================================
   # Luku 7: tietosuojaviranomaiset
   # ===================================================================
@@ -347,6 +492,50 @@ sources:
     weight: 2
     always_include: true
     url: "https://www.edpb.europa.eu/rss.xml"
+
+  # EDPS:n oma uutissivu on JavaScript-haasteen takana: se vastaa koodilla
+  # 202 ja lähes tyhjällä rungolla myös selaimen tunnisteella. Etusivu
+  # aukeaa, joten nostot luetaan sieltä. Saalis on pieni mutta oikea.
+  - id: edps
+    name: "Euroopan tietosuojavaltuutettu (EDPS)"
+    type: html_list
+    court: "EDPS"
+    weight: 2
+    optional: true
+    browser: true
+    always_include: true
+    url: "https://www.edps.europa.eu/_en"
+    link_pattern: "(/press-publications/press-news/(blog|news|press-releases)/|/our-work/publications/(opinions|techdispatch)/\\d{4}-)"
+    strip_title_prefix: "^Read more about\\s*"
+    min_title_len: 25
+    never_any:
+      - "read the press release"
+      - "read the opinion"
+
+  # Puolan tietosuojaviranomainen julkaisee englanniksi ja tekee
+  # poikkeuksellisen paljon valvontapäätöksiä, joten se on hyvä mittari
+  # siitä mihin suuntaan eurooppalainen valvontakäytäntö kehittyy.
+  - id: uodo
+    name: "Puolan tietosuojaviranomainen (UODO)"
+    type: html_list
+    court: "UODO"
+    weight: 1
+    optional: true
+    browser: true
+    always_include: true
+    url: "https://uodo.gov.pl/en"
+    # Osasto 553 on uutiset. Etusivulla on lisäksi ohjesivuja osastoissa
+    # 664, 665 ja 666 ("What rights does the GDPR give you?"). Ne ovat
+    # pysyvää ohjeistusta ilman päivämäärää, joten ne rajataan pois.
+    link_pattern: "uodo\\.gov\\.pl/en/553/\\d+"
+    min_title_len: 25
+    # Etusivun asettelu vaihtelee, ja joskus 553-suodatuksesta huolimatta
+    # ohjesivuja pääsee läpi. Ne tunnistaa siitä, että sivun "Check"-nappi
+    # liimautuu otsikkotekstin perään ("... designate a DPO? Check").
+    # Oikea uutinen ei koskaan pääty tähän sanaan, joten tämä on turvallinen
+    # toinen suojakerros link_patternin lisäksi.
+    never_any:
+      - "check"
 
   # ===================================================================
   # Luku 8: oikeudelliset julkaisut (väitöskirjat ja opinnäytteet)
@@ -446,6 +635,94 @@ sources:
     type_contains: *julkaisutyypit
     require_any: *oikeustiede
 
+  - id: osuva
+    name: "Osuva (Vaasan yliopisto)"
+    type: oai_pmh
+    court: "Julkaisu"
+    weight: 1
+    optional: true
+    url: "https://osuva.uwasa.fi/server/oai/request"
+    lookback_days: 75
+    max_pages: 5
+    type_contains: *julkaisutyypit
+    require_any: *oikeustiede
+
+  # ===================================================================
+  # Luku 9: muut uutiset ja asianajotoimistojen julkaisut
+  # ===================================================================
+  # Edilex uutisoi säädösmuutokset ja uudet ratkaisut samana päivänä, joten
+  # se toimii varmistuksena sille että mikään ei mene ohi. Otsikon edessä
+  # on kellonaika muodossa "18.9.2026 16.00", joka siivotaan pois.
+  - id: edilex
+    name: "Edilex, uutiset"
+    type: html_list
+    court: "Edilex"
+    weight: 2
+    optional: true
+    browser: true
+    url: "https://www.edilex.fi/uutiset"
+    link_pattern: "edilex\\.fi/uutiset/\\d+"
+    strip_title_prefix: "^\\d{1,2}\\.\\d{1,2}\\.\\d{4}\\s+\\d{1,2}\\.\\d{2}\\s*"
+
+  # IAPP on alan kansainvälinen kattojärjestö. Listasivu ei kerro
+  # julkaisupäivää missään muodossa, joten se haetaan juttujen omilta
+  # sivuilta (detail_date). Ilman sitä kaikki IAPP:n jutut saisivat
+  # hakupäivän ja jäisivät feedin kärkeen viikoksi.
+  - id: iapp
+    name: "IAPP"
+    type: html_list
+    court: "IAPP"
+    weight: 1
+    optional: true
+    browser: true
+    url: "https://iapp.org/news/"
+    link_pattern: "iapp\\.org/news/a/"
+    min_title_len: 25
+    detail_date: true
+    max_detail: 25
+
+  - id: asianajajat
+    name: "Suomen Asianajajaliitto"
+    type: plain_rss
+    court: "Asianajajaliitto"
+    weight: 1
+    optional: true
+    url: "https://asianajajat.fi/feed/"
+
+  # Asianajotoimistojen omat julkaisut. Näistä tulee paljon muutakin kuin
+  # tietosuojaa, joten avainsanasuodatus tekee suurimman osan työstä.
+  - id: roschier
+    name: "Roschier"
+    type: plain_rss
+    court: "Asianajotoimisto"
+    weight: 1
+    optional: true
+    url: "https://www.roschier.com/feed"
+
+  - id: hannessnellman
+    name: "Hannes Snellman"
+    type: plain_rss
+    court: "Asianajotoimisto"
+    weight: 1
+    optional: true
+    url: "https://www.hannessnellman.com/feed/"
+
+  - id: castren
+    name: "Castrén & Snellman"
+    type: plain_rss
+    court: "Asianajotoimisto"
+    weight: 1
+    optional: true
+    url: "https://www.castren.fi/feed/"
+
+  - id: krogerus
+    name: "Krogerus"
+    type: plain_rss
+    court: "Asianajotoimisto"
+    weight: 1
+    optional: true
+    url: "https://www.krogerus.com/articles.rss"
+
   # ===================================================================
   # Luku 10: kyberturvallisuus
   # ===================================================================
@@ -484,3 +761,15 @@ sources:
     optional: true
     url: "https://www.enisa.europa.eu/publications"
     link_pattern: "enisa\\.europa\\.eu/publications/"
+
+  # Sisäministeriö vastaa kansallisesta kyberturvallisuusstrategiasta ja
+  # sen alaisuudessa valmistellaan poliisin tiedonsaantia koskevat
+  # lainsäädäntöhankkeet.
+  - id: intermin
+    name: "Sisäministeriö"
+    type: html_list
+    court: "SM"
+    weight: 1
+    optional: true
+    url: "https://intermin.fi/ajankohtaista"
+    link_pattern: "intermin\\.fi/-/"

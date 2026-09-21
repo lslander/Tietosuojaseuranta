@@ -71,6 +71,9 @@ def filter_items(items: list[Item], keywords: dict, window_days: int,
         seen.add(item.key)
         kept.append(item)
 
-    kept.sort(key=lambda i: (i.date, i.score), reverse=True)
+    # Arvattu päivämäärä on aina tämä päivä, joten ilman toista avainta
+    # arvaukset nousisivat saman päivän varmojen juttujen edelle. Ne
+    # järjestetään päivän sisällä viimeisiksi.
+    kept.sort(key=lambda i: (i.date, "pvm arvioitu" not in i.tags, i.score), reverse=True)
     log.info("Suodatuksen jälkeen %d juttua", len(kept))
     return kept

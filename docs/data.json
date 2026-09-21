@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-21T11:59:29",
+  "generated": "2026-09-21T12:32:01",
   "window_days": 120,
   "sources": [
     {
@@ -24,6 +24,22 @@
       "court": "Tuomioistuimet",
       "ok": true,
       "fetched": 30,
+      "error": ""
+    },
+    {
+      "id": "hao-ratkaisut",
+      "name": "Hallinto-oikeuksien ratkaisut",
+      "court": "Hallinto-oikeus",
+      "ok": true,
+      "fetched": 100,
+      "error": ""
+    },
+    {
+      "id": "hovi-ratkaisut",
+      "name": "Hovioikeuksien ratkaisut",
+      "court": "Hovioikeus",
+      "ok": true,
+      "fetched": 96,
       "error": ""
     },
     {
@@ -206,17 +222,17 @@
       "id": "uef",
       "name": "eRepo (Itä-Suomen yliopisto)",
       "court": "Julkaisu",
-      "ok": false,
-      "fetched": 0,
-      "error": "403 Client Error: Forbidden for url: https://erepo.uef.fi/server/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-07-08"
+      "ok": true,
+      "fetched": 19,
+      "error": ""
     },
     {
       "id": "jyx",
       "name": "JYX (Jyväskylän yliopisto)",
       "court": "Julkaisu",
-      "ok": true,
-      "fetched": 10,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "error": "403 Client Error: Forbidden for url: https://jyx.jyu.fi/dspace-oai//request?verb=ListRecords&resumptionToken=oai_dc%2F2026-07-08T00%3A00%3A00Z%2F%2F%2F100"
     },
     {
       "id": "doria",
@@ -239,7 +255,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 77,
+      "fetched": 78,
       "error": ""
     },
     {
@@ -254,38 +270,6 @@
       "id": "asianajajat",
       "name": "Suomen Asianajajaliitto",
       "court": "Asianajajaliitto",
-      "ok": true,
-      "fetched": 10,
-      "error": ""
-    },
-    {
-      "id": "roschier",
-      "name": "Roschier",
-      "court": "Asianajotoimisto",
-      "ok": true,
-      "fetched": 10,
-      "error": ""
-    },
-    {
-      "id": "hannessnellman",
-      "name": "Hannes Snellman",
-      "court": "Asianajotoimisto",
-      "ok": true,
-      "fetched": 10,
-      "error": ""
-    },
-    {
-      "id": "castren",
-      "name": "Castrén & Snellman",
-      "court": "Asianajotoimisto",
-      "ok": true,
-      "fetched": 10,
-      "error": ""
-    },
-    {
-      "id": "krogerus",
-      "name": "Krogerus",
-      "court": "Asianajotoimisto",
       "ok": true,
       "fetched": 10,
       "error": ""
@@ -325,6 +309,24 @@
   ],
   "items": [
     {
+      "court": "EDPB",
+      "source": "Euroopan tietosuojaneuvosto (EDPB)",
+      "title": "EDPB harmonises fining methodology and adopts final DSA-GDPR guidelines",
+      "url": "https://www.edpb.europa.eu/news/edpb-harmonises-fining-methodology-and-adopts-final-dsa-gdpr-guidelines_en",
+      "date": "2026-09-21",
+      "keywords": "",
+      "summary": "ikerinar Mon, 21/09/2026 - 11:42",
+      "score": 26,
+      "topics": [
+        "Tietosuoja",
+        "Datasääntely"
+      ],
+      "tags": [
+        "GDPR",
+        "DSA"
+      ]
+    },
+    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 38/2026",
@@ -363,23 +365,6 @@
       "source": "Valtioneuvosto",
       "title": "Tutkimus- ja innovaationeuvosto kävi läpi kansallisten TKI-valintojen tilannetta ja kutsuu asiantuntijapaneelin arvioimaan tekoälyn vaikutuksia",
       "url": "https://valtioneuvosto.fi/-/tutkimus-ja-innovaationeuvosto-kavi-lapi-kansallisten-tki-valintojen-tilannetta-ja-kutsuu-asiantuntijapaneelin-arvioimaan-tekoalyn-vaikutuksia",
-      "date": "2026-09-17",
-      "keywords": "",
-      "summary": "",
-      "score": 35,
-      "topics": [
-        "Tekoäly"
-      ],
-      "tags": [
-        "tärkeä",
-        "tekoäly"
-      ]
-    },
-    {
-      "court": "Edilex",
-      "source": "Edilex, uutiset",
-      "title": "SEAMK: Tekoäly haastaa korkeakoulut pohtimaan akateemista rehellisyyttä uudella tavalla",
-      "url": "https://www.edilex.fi/uutiset/102971",
       "date": "2026-09-17",
       "keywords": "",
       "summary": "",
@@ -435,22 +420,6 @@
       ],
       "tags": [
         "personal data"
-      ]
-    },
-    {
-      "court": "Asianajotoimisto",
-      "source": "Roschier",
-      "title": "Nordic Data Center Forum explored the opportunities and challenges shaping the next phase of AI infrastructure growth",
-      "url": "https://www.roschier.com/newsroom/nordic-data-center-forum-explored-the-opportunities-and-challenges-shaping-the-next-phase-of-ai-infrastructure-growth",
-      "date": "2026-09-17",
-      "keywords": "",
-      "summary": "Artificial intelligence is accelerating demand for digital infrastructure at an unprecedented pace, placing data centers at the center of discussions around investment, energy, financing and competitiveness. Recently, Roschier hosted the inaugural Nordic Data Center Forum in Stockholm, bringing together investors, developers, financiers, energy companies and other market participants from across t",
-      "score": 13,
-      "topics": [
-        "Tekoäly"
-      ],
-      "tags": [
-        "artificial intelligence"
       ]
     },
     {
@@ -737,6 +706,22 @@
       ],
       "tags": [
         "kyberturvallisuus"
+      ]
+    },
+    {
+      "court": "Hovioikeus",
+      "source": "Hovioikeuksien ratkaisut",
+      "title": "HelHO:2026:8",
+      "url": "https://www.tuomioistuimet.fi/ratkaisut/helho20268/",
+      "date": "2026-09-07",
+      "keywords": "Oikeudenkäynnin julkisuus – Tietopyyntö, Tietosuoja, Väliintulo",
+      "summary": "",
+      "score": 23,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tietosuoja"
       ]
     },
     {
@@ -1235,22 +1220,6 @@
       ]
     },
     {
-      "court": "Julkaisu",
-      "source": "JYX (Jyväskylän yliopisto)",
-      "title": "How in-store QR codes shape the in-store customer experience",
-      "url": "http://urn.fi/URN:NBN:fi:jyu-202608186595",
-      "date": "2026-08-18",
-      "keywords": "QR codes, In-store customer experience, In-store technologies, Omnichannel, Participatory dimension, Fashion retail, Value Creation for Cyber-Physical Systems and Services, Digitaalinen liiketoiminta ja talous (painoala), Tietojärjestelmätiede, Hyvinvoinnin tutkimuksen yhteisö, Kestävä liiketoiminta",
-      "summary": "Retailers are introducing new technologies into brick-and-mortar (B&amp;M) stores to enhance the in-store customer experience (ISCX). In fashion retail, quick response (QR) codes provide customers with online content and are becoming more prevalent due to emerging global recommendations and European Union (EU) regulations. However, an in-depth understanding of how QR codes shape the ISCX and its f",
-      "score": 13,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "cyber"
-      ]
-    },
-    {
       "court": "TSV",
       "source": "Tietosuojavaltuutetun toimisto",
       "title": "Apulaistietosuojavaltuutettu: Tietoa urheilijan lievästä dopingrikkomuksesta ei olisi pitänyt julkaista, kun toimintakielto oli jo päättynyt",
@@ -1543,18 +1512,6 @@
       "tags": [
         "tietosuoja"
       ]
-    },
-    {
-      "court": "EDPB",
-      "source": "Euroopan tietosuojaneuvosto (EDPB)",
-      "title": "EDPB calls for legal basis for cross-regulatory information sharing",
-      "url": "https://www.edpb.europa.eu/news/edpb-calls-for-legal-basis-for-cross-regulatory-information-sharing_en",
-      "date": "2026-07-17",
-      "keywords": "",
-      "summary": "ipetstef Fri, 17/07/2026 - 14:50",
-      "score": 23,
-      "topics": [],
-      "tags": []
     },
     {
       "court": "Kyberturvallisuuskeskus",

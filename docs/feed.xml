@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0"><channel>
-<title>Oikeustapausseuranta</title>
+<title>Data Protection Newsfeed</title>
 <link>https://lslander.github.io/Tietosuojaseuranta/</link>
 <description>Tietosuoja, teknologia ja datasääntely</description>
 <language>fi</language>
-<lastBuildDate>Mon, 21 Sep 2026 05:24:59 +0000</lastBuildDate>
+<lastBuildDate>Mon, 21 Sep 2026 11:59:29 +0000</lastBuildDate>
 <item>
 <title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 38/2026</title>
 <link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-382026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
@@ -14,11 +14,11 @@
 <category>Kyberturvallisuus</category>
 </item>
 <item>
-<title>EUT: C-437/25 FT vastaan Nachalnik Oblasten otdel „Avtomobilna administratsia“ - Gabrovo (tuomio)</title>
-<link>https://eur-lex.europa.eu/legal-content/FI/TXT/?uri=CELEX:62025CJ0437</link>
-<guid isPermaLink="true">https://eur-lex.europa.eu/legal-content/FI/TXT/?uri=CELEX:62025CJ0437</guid>
-<pubDate>Thu, 17 Sep 2026 09:00:00 +0000</pubDate>
-<description>Ennakkoratkaisupyyntö – Liikenne – Asetus (EU) N:o 165/2014 – 27 ja 41 artikla – Toiselle kuuluvan kuljettajakortin käyttäminen – Seuraamus – Kiinteämääräinen seuraamusmaksu – Yksilöinnin mahdottomuus – Suhteellisuusperiaate</description>
+<title>IAPP: Notes from the IAPP Canada: Stop using privacy as an excuse, treat it as an enabler</title>
+<link>https://iapp.org/news/a/notes-from-the-iapp-canada-stop-using-privacy-as-an-excuse-treat-it-as-an-enabler</link>
+<guid isPermaLink="true">https://iapp.org/news/a/notes-from-the-iapp-canada-stop-using-privacy-as-an-excuse-treat-it-as-an-enabler</guid>
+<pubDate>Fri, 18 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
 <category>Tietosuoja</category>
 </item>
 <item>
@@ -30,11 +30,75 @@
 <category>Tekoäly</category>
 </item>
 <item>
+<title>Edilex: SEAMK: Tekoäly haastaa korkeakoulut pohtimaan akateemista rehellisyyttä uudella tavalla</title>
+<link>https://www.edilex.fi/uutiset/102971</link>
+<guid isPermaLink="true">https://www.edilex.fi/uutiset/102971</guid>
+<pubDate>Thu, 17 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tekoäly</category>
+</item>
+<item>
+<title>VM: Valtiovarainministerit keskustelevat innovaatioista rahoitussektorilla ja tekoälystä</title>
+<link>https://vm.fi/-/valtiovarainministerit-keskustelevat-innovaatioista-rahoitussektorilla-ja-tekoalysta</link>
+<guid isPermaLink="true">https://vm.fi/-/valtiovarainministerit-keskustelevat-innovaatioista-rahoitussektorilla-ja-tekoalysta</guid>
+<pubDate>Thu, 17 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tekoäly</category>
+</item>
+<item>
+<title>EDPS: TechDispatch on secure multi-party computation</title>
+<link>https://www.edps.europa.eu/data-protection/our-work/publications/techdispatch/2026-09-17-techdispatch-12026-secure-multi-party-computation_en</link>
+<guid isPermaLink="true">https://www.edps.europa.eu/data-protection/our-work/publications/techdispatch/2026-09-17-techdispatch-12026-secure-multi-party-computation_en</guid>
+<pubDate>Thu, 17 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+</item>
+<item>
 <title>EUT: 130/2026 : 17 September 2026 - Opinion of the Advocate General to the Court of Justice Dean Spielmann in Case C-317/25</title>
 <link>https://curia.europa.eu/site/jcms/p1_1000087611</link>
 <guid isPermaLink="true">https://curia.europa.eu/site/jcms/p1_1000087611</guid>
 <pubDate>Thu, 17 Sep 2026 09:00:00 +0000</pubDate>
 <description>Groupe Canal + Approximation of laws Advocate General Spielmann: the consent given to an undertaking for ‘its partners’ to use personal data for the purposes of direct marketing is valid only if the identity of those partners is known</description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>Asianajotoimisto: Nordic Data Center Forum explored the opportunities and challenges shaping the next phase of AI infrastructure growth</title>
+<link>https://www.roschier.com/newsroom/nordic-data-center-forum-explored-the-opportunities-and-challenges-shaping-the-next-phase-of-ai-infrastructure-growth</link>
+<guid isPermaLink="true">https://www.roschier.com/newsroom/nordic-data-center-forum-explored-the-opportunities-and-challenges-shaping-the-next-phase-of-ai-infrastructure-growth</guid>
+<pubDate>Thu, 17 Sep 2026 09:00:00 +0000</pubDate>
+<description>Artificial intelligence is accelerating demand for digital infrastructure at an unprecedented pace, placing data centers at the center of discussions around investment, energy, financing and competitiveness. Recently, Roschier hosted the inaugural Nordic Data Center Forum in Stockholm, bringing together investors, developers, financiers, energy companies and other market participants from across t</description>
+<category>Tekoäly</category>
+</item>
+<item>
+<title>IAPP: Notes from the Asia-Pacific region: AI, privacy and cyber enforcement in Greater China, Hong Kong</title>
+<link>https://iapp.org/news/a/notes-from-the-asia-pacific-region-ai-privacy-and-cyber-enforcement-in-greater-china-hong-kong</link>
+<guid isPermaLink="true">https://iapp.org/news/a/notes-from-the-asia-pacific-region-ai-privacy-and-cyber-enforcement-in-greater-china-hong-kong</guid>
+<pubDate>Wed, 16 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+<category>Kyberturvallisuus</category>
+</item>
+<item>
+<title>IAPP: Truyo launches new warranty program for privacy compliance, AI governance platforms</title>
+<link>https://iapp.org/news/a/truyo-launches-new-warranty-program-for-privacy-compliance-ai-governance-platforms</link>
+<guid isPermaLink="true">https://iapp.org/news/a/truyo-launches-new-warranty-program-for-privacy-compliance-ai-governance-platforms</guid>
+<pubDate>Tue, 15 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>IAPP: How a UK ruling shapes DSAR compliance</title>
+<link>https://iapp.org/news/a/how-a-uk-ruling-shapes-dsar-compliance</link>
+<guid isPermaLink="true">https://iapp.org/news/a/how-a-uk-ruling-shapes-dsar-compliance</guid>
+<pubDate>Mon, 14 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Datasääntely</category>
+</item>
+<item>
+<title>IAPP: When &#x27;agentic AI&#x27; meets data protection law: A fundamental mismatch?</title>
+<link>https://iapp.org/news/a/when-agentic-ai-meets-data-protection-law-a-fundamental-mismatch</link>
+<guid isPermaLink="true">https://iapp.org/news/a/when-agentic-ai-meets-data-protection-law-a-fundamental-mismatch</guid>
+<pubDate>Mon, 14 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
 <category>Tietosuoja</category>
 </item>
 <item>
@@ -53,6 +117,54 @@
 <category>Kyberturvallisuus</category>
 </item>
 <item>
+<title>IAPP: Notes from the IAPP Canada: The tongue-tied truth about privacy</title>
+<link>https://iapp.org/news/a/notes-from-the-iapp-canada-the-tongue-tied-truth-about-privacy</link>
+<guid isPermaLink="true">https://iapp.org/news/a/notes-from-the-iapp-canada-the-tongue-tied-truth-about-privacy</guid>
+<pubDate>Fri, 11 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>EUT: C-669/24 Bundesverband der Verbraucherzentralen und Verbraucherverbände - Verbraucherzentrale Bundesverband e.V. vastaa (tuomio)</title>
+<link>https://eur-lex.europa.eu/legal-content/FI/TXT/?uri=CELEX:62024CJ0669</link>
+<guid isPermaLink="true">https://eur-lex.europa.eu/legal-content/FI/TXT/?uri=CELEX:62024CJ0669</guid>
+<pubDate>Thu, 10 Sep 2026 09:00:00 +0000</pubDate>
+<description>Ennakkoratkaisupyyntö – Jäsenvaltioiden lainsäädännön lähentäminen – Televiestintäala – Direktiivi (EU) 2018/1972 – Eurooppalainen sähköisen viestinnän säännöstö – Sopimus sähköisestä viestintäpalvelusta – Palveluntarjoajan oikeus muuttaa sopimusta yksipuolisesti – 105 artiklan 4 kohdan ensimmäinen alakohta – Loppukäyttäjien irtisanomisoikeus</description>
+<category>Sähköinen viestintä</category>
+</item>
+<item>
+<title>Säädöskokoelma: 833/2026, Laki henkilötietojen käsittelystä Rajavartiolaitoksessa annetun lain 50 §:n muuttamisesta</title>
+<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/833</link>
+<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/833</guid>
+<pubDate>Thu, 10 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>Säädöskokoelma: 831/2026, Laki henkilötietojen käsittelystä Tullissa annetun lain 35 §:n muuttamisesta</title>
+<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/831</link>
+<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/831</guid>
+<pubDate>Thu, 10 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>Säädöskokoelma: 830/2026, Laki henkilötietojen käsittelystä poliisitoimessa annetun lain 41 §:n muuttamisesta</title>
+<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/830</link>
+<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/830</guid>
+<pubDate>Thu, 10 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>IAPP: Autonomous cyberattacks fuel US Congress&#x27; AI focus through 2026 midterms and beyond</title>
+<link>https://iapp.org/news/a/autonomous-cyberattacks-fuel-us-congress-ai-focus-through-2026-midterms-and-beyond</link>
+<guid isPermaLink="true">https://iapp.org/news/a/autonomous-cyberattacks-fuel-us-congress-ai-focus-through-2026-midterms-and-beyond</guid>
+<pubDate>Thu, 10 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Kyberturvallisuus</category>
+</item>
+<item>
 <title>Kyberturvallisuuskeskus: Elokuun Kybersää 2026</title>
 <link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/elokuun-kybersaa-2026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
 <guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/elokuun-kybersaa-2026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
@@ -68,12 +180,52 @@
 <description>ikerinar Wed, 09/09/2026 - 11:58</description>
 </item>
 <item>
+<title>IAPP: Delaware enacts HB 380: Key updates to the Delaware Personal Data Privacy Act</title>
+<link>https://iapp.org/news/a/delaware-enacts-hb-380-key-updates-to-the-delaware-personal-data-privacy-act</link>
+<guid isPermaLink="true">https://iapp.org/news/a/delaware-enacts-hb-380-key-updates-to-the-delaware-personal-data-privacy-act</guid>
+<pubDate>Wed, 09 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>Säädöskokoelma: 791/2026, Laki henkilötietojen käsittelystä Rikosseuraamuslaitoksessa annetun lain muuttamisesta</title>
+<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/791</link>
+<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/791</guid>
+<pubDate>Tue, 08 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>UODO: The MPs – Waldemar Buda and Michał Woś – were reprimanded for their lack of cooperation with the President of the Personal Data Protection Office 08.09.2026</title>
+<link>https://uodo.gov.pl/en/553/2263</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2263</guid>
+<pubDate>Tue, 08 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>Säädöskokoelma: 785/2026, Laki kyberturvallisuuslain 26 §:n ja liitteen I muuttamisesta</title>
+<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/785</link>
+<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/785</guid>
+<pubDate>Mon, 07 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Kyberturvallisuus</category>
+</item>
+<item>
 <title>EU-komissio: Apply AI Summit</title>
 <link>https://digital-strategy.ec.europa.eu/en/events/apply-ai-summit</link>
 <guid isPermaLink="true">https://digital-strategy.ec.europa.eu/en/events/apply-ai-summit</guid>
 <pubDate>Mon, 07 Sep 2026 09:00:00 +0000</pubDate>
 <description>Anonymous (not verified) Mon, 09/07/2026 - 15:58 17 November 2026 The EGG (Brussels) The  will gather high-level stakeholders – from industrial representatives, policymakers and startups – to accelerate AI implementation in strategic industries. Main link https://digital-strategy.ec.europa.eu/en/policies/apply-ai-summit Register until 13 November Related topics Events Artificial intelligence</description>
 <category>Tekoäly</category>
+</item>
+<item>
+<title>UODO: &quot;Personal Data Protection Office on tour across Poland&quot; – three active days in Kluczbork, Opole and Wrocław are behind us 07.09.2026</title>
+<link>https://uodo.gov.pl/en/553/2264</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2264</guid>
+<pubDate>Mon, 07 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
 </item>
 <item>
 <title>TSV: Tietosuojavaltuutettu selvittää Kotkamiehen sosiaalisen median videoiden laillisuutta</title>
@@ -92,6 +244,15 @@
 <category>Julkisuus ja salassapito</category>
 </item>
 <item>
+<title>UODO: FROM THE AI ACT TO NATIONAL REGULATIONS – The Personal Data Protection Office webinar 04.09.2026</title>
+<link>https://uodo.gov.pl/en/553/2266</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2266</guid>
+<pubDate>Fri, 04 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+<category>Tekoäly</category>
+</item>
+<item>
 <title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus - 36/2026</title>
 <link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-362026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
 <guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-362026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
@@ -105,6 +266,39 @@
 <guid isPermaLink="true">https://www.edpb.europa.eu/news/data-protection-commission-announces-final-decision-following-inquiry-into-the-health-service_en</guid>
 <pubDate>Thu, 03 Sep 2026 09:00:00 +0000</pubDate>
 <description>ikerinar Thu, 03/09/2026 - 09:42</description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>UODO: Artificial Intelligence and the Law. The Personal Data Protection Office invites you to the third Open Expert Lecture 03.09.2026</title>
+<link>https://uodo.gov.pl/en/553/2262</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2262</guid>
+<pubDate>Thu, 03 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+<category>Tekoäly</category>
+</item>
+<item>
+<title>UODO: Warsaw Voivodeship Administrative Court upholds the position of the President of the Personal Data Protection Office concerning the reprimand issued to an MP 03.09.2026</title>
+<link>https://uodo.gov.pl/en/553/2261</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2261</guid>
+<pubDate>Thu, 03 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>Julkaisu: Navigating the use of AI in the public sector : The complex world of AI ethics and regulation in Finnish municipalities</title>
+<link>https://osuva.uwasa.fi/handle/11111/21234</link>
+<guid isPermaLink="true">https://osuva.uwasa.fi/handle/11111/21234</guid>
+<pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate>
+<description>artificial intelligence, regulation (control), legislation, good governance, public administration, public sector, municipalities, ethics, fi=Julkisen toiminnan johtaminen|en=Public Policy and Management|, fi=Hallintotieteiden maisteriohjelma|en=Master&amp;apos;s Programme in Administrative Sciences|</description>
+<category>Tekoäly</category>
+</item>
+<item>
+<title>UODO: Report on the activities of the President of the Personal Data Protection Office in 2025 01.09.2026</title>
+<link>https://uodo.gov.pl/en/553/2259</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2259</guid>
+<pubDate>Tue, 01 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
 <category>Tietosuoja</category>
 </item>
 <item>
@@ -176,6 +370,14 @@
 <category>Kyberturvallisuus</category>
 </item>
 <item>
+<title>SM: Tyrmäystippoja vastaan tekoälyn ja pikatestien voimin</title>
+<link>https://intermin.fi/-/tyrmaystippoja-vastaan-tekoalyn-ja-pikatestien-voimin</link>
+<guid isPermaLink="true">https://intermin.fi/-/tyrmaystippoja-vastaan-tekoalyn-ja-pikatestien-voimin</guid>
+<pubDate>Fri, 21 Aug 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tekoäly</category>
+</item>
+<item>
 <title>EDPB: Data breach: the CNIL fined MOBIUS SOLUTIONS LTD €1 million</title>
 <link>https://www.edpb.europa.eu/news/data-breach-the-cnil-fined-mobius-solutions-ltd-eur1-million_en</link>
 <guid isPermaLink="true">https://www.edpb.europa.eu/news/data-breach-the-cnil-fined-mobius-solutions-ltd-eur1-million_en</guid>
@@ -212,12 +414,36 @@
 <category>Kyberturvallisuus</category>
 </item>
 <item>
+<title>SM: Lakiesitys henkilötietojen käsittelystä pelastustoimessa lausuntokierrokselle</title>
+<link>https://intermin.fi/-/lakiesitys-henkilotietojen-kasittelysta-pelastustoimessa-lausuntokierrokselle</link>
+<guid isPermaLink="true">https://intermin.fi/-/lakiesitys-henkilotietojen-kasittelysta-pelastustoimessa-lausuntokierrokselle</guid>
+<pubDate>Fri, 21 Aug 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>Edilex: Tekoälyn käytöstä on nyt kerrottava aiempaa avoimemmin – Traficom julkaisi ohjeet uusiin velvoitteisiin Avoin</title>
+<link>https://www.edilex.fi/uutiset/102637</link>
+<guid isPermaLink="true">https://www.edilex.fi/uutiset/102637</guid>
+<pubDate>Thu, 20 Aug 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tekoäly</category>
+</item>
+<item>
 <title>MAO: MAO:387/2026</title>
 <link>https://www.markkinaoikeus.fi/ratkaisut/ratkaisujen-arkisto/mao387-2026/</link>
 <guid isPermaLink="true">https://www.markkinaoikeus.fi/ratkaisut/ratkaisujen-arkisto/mao387-2026/</guid>
 <pubDate>Thu, 20 Aug 2026 09:00:00 +0000</pubDate>
 <description>liikesalaisuus – väliaikainen kielto</description>
 <category>Julkisuus ja salassapito</category>
+</item>
+<item>
+<title>Julkaisu: Who Is Really Playing in the Sandbox?</title>
+<link>https://osuva.uwasa.fi/handle/11111/21197</link>
+<guid isPermaLink="true">https://osuva.uwasa.fi/handle/11111/21197</guid>
+<pubDate>Wed, 19 Aug 2026 09:00:00 +0000</pubDate>
+<description>Regulatory sandboxes, AI regulatory sandboxes, EU AI Act, regulation of AI, soft-law, AI regulatory challenges, regulation of new technologies, company’s perspective to AI regulation, testing regulatory regime, fi=Talousoikeus|en=Business Law|</description>
+<category>Tekoäly</category>
 </item>
 <item>
 <title>EU-komissio: Call for tenders: Study on how online marketplace design influences user behaviour</title>
@@ -252,6 +478,13 @@
 <category>Tietosuoja</category>
 </item>
 <item>
+<title>EDPS: EDPS publishes Opinion on proposal to modernise Eurojust</title>
+<link>https://www.edps.europa.eu/data-protection/our-work/publications/opinions/2026-08-11-edps-opinion-192026-regulation-establishment-eurojust-and-repealing-regulation-eu-20181727_en</link>
+<guid isPermaLink="true">https://www.edps.europa.eu/data-protection/our-work/publications/opinions/2026-08-11-edps-opinion-192026-regulation-establishment-eurojust-and-repealing-regulation-eu-20181727_en</guid>
+<pubDate>Fri, 14 Aug 2026 09:00:00 +0000</pubDate>
+<description></description>
+</item>
+<item>
 <title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 33/2026</title>
 <link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-332026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
 <guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-332026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
@@ -259,6 +492,13 @@
 <description>Tällä viikolla kerromme tietomurroista, joissa verkkosivupalvelimet on valjastettu jakamaan haittaohjelmia verkkosivujen selaajille. Yksinkertaiset varotoimet auttavat suojautumaan haittaohjelman uhkaa vastaan. Kehotamme myös valppauteen pikaviestinpalvelun uusia ominaisuuksia käyttäessä.
 Lisäksi tällä viikolla julkaistu heinäkuun Kybersää osoittaa sateisen syksyn merkkejä.</description>
 <category>Kyberturvallisuus</category>
+</item>
+<item>
+<title>EDPS: EDPS publishes Opinion on Europol proposals</title>
+<link>https://www.edps.europa.eu/data-protection/our-work/publications/opinions/2026-08-11-edps-opinion-182026-regulation-europol-repealing-regulation-eu-2016794_en</link>
+<guid isPermaLink="true">https://www.edps.europa.eu/data-protection/our-work/publications/opinions/2026-08-11-edps-opinion-182026-regulation-europol-repealing-regulation-eu-2016794_en</guid>
+<pubDate>Thu, 13 Aug 2026 09:00:00 +0000</pubDate>
+<description></description>
 </item>
 <item>
 <title>Kyberturvallisuuskeskus: Heinäkuun Kybersää 2026</title>
@@ -381,138 +621,26 @@ Lisäksi tällä viikolla julkaistu heinäkuun Kybersää osoittaa sateisen syks
 <category>Kyberturvallisuus</category>
 </item>
 <item>
-<title>ENISA: Where do SMEs stand in preparing for the Cyber Resilience Act?</title>
-<link>https://www.enisa.europa.eu/news/where-do-smes-stand-in-preparing-for-the-cyber-resilience-act</link>
-<guid isPermaLink="true">https://www.enisa.europa.eu/news/where-do-smes-stand-in-preparing-for-the-cyber-resilience-act</guid>
-<pubDate>Mon, 13 Jul 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>ENISA: SME Cyber Resilience Maturity Assessment Model</title>
-<link>https://www.enisa.europa.eu/publications/sme-cyber-resilience-maturity-assessment-model</link>
-<guid isPermaLink="true">https://www.enisa.europa.eu/publications/sme-cyber-resilience-maturity-assessment-model</guid>
-<pubDate>Mon, 13 Jul 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>ENISA: Team Europe wins 1st ever International Cybersecurity Challenge for women</title>
-<link>https://www.enisa.europa.eu/news/team-europe-wins-1st-ever-international-cybersecurity-challenge-for-women</link>
-<guid isPermaLink="true">https://www.enisa.europa.eu/news/team-europe-wins-1st-ever-international-cybersecurity-challenge-for-women</guid>
-<pubDate>Fri, 10 Jul 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>TSV: Euroopan tietosuojaneuvosto julkaisi ohjeet anonymisoinnista ja tiedonharavoinnista</title>
-<link>https://tietosuoja.fi/-/euroopan-tietosuojaneuvosto-julkaisi-ohjeet-anonymisoinnista-ja-tiedonharavoinnista</link>
-<guid isPermaLink="true">https://tietosuoja.fi/-/euroopan-tietosuojaneuvosto-julkaisi-ohjeet-anonymisoinnista-ja-tiedonharavoinnista</guid>
-<pubDate>Thu, 09 Jul 2026 09:00:00 +0000</pubDate>
+<title>Säädöskokoelma: 736/2026, Laki henkilötietojen käsittelystä maahanmuuttohallinnossa annetun lain 13 §:n muuttamisesta</title>
+<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/736</link>
+<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/736</guid>
+<pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>
 </item>
 <item>
-<title>ENISA: ENISA’s view on Cybersecurity in the Frontier AI Era</title>
-<link>https://www.enisa.europa.eu/publications/enisas-view-on-cybersecurity-in-the-frontier-ai-era</link>
-<guid isPermaLink="true">https://www.enisa.europa.eu/publications/enisas-view-on-cybersecurity-in-the-frontier-ai-era</guid>
-<pubDate>Tue, 07 Jul 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>KKO: KKO:2026:50</title>
-<link>https://www.korkeinoikeus.fi/ennakkopaatokset/ennakkopaatokset-vuosittain/kko202650/</link>
-<guid isPermaLink="true">https://www.korkeinoikeus.fi/ennakkopaatokset/ennakkopaatokset-vuosittain/kko202650/</guid>
-<pubDate>Tue, 30 Jun 2026 09:00:00 +0000</pubDate>
-<description>Oikeudenkäynnin julkisuus  – Tietopyyntö, Tietosuoja</description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>TSV: Oikeuspalveluvirastolle huomautus työntekijöiden luottotietojen perusteettomasta tarkastamisesta</title>
-<link>https://tietosuoja.fi/-/oikeuspalveluvirastolle-huomautus-tyontekijoiden-luottotietojen-perusteettomasta-tarkastamisesta</link>
-<guid isPermaLink="true">https://tietosuoja.fi/-/oikeuspalveluvirastolle-huomautus-tyontekijoiden-luottotietojen-perusteettomasta-tarkastamisesta</guid>
-<pubDate>Thu, 25 Jun 2026 09:00:00 +0000</pubDate>
-<description></description>
-</item>
-<item>
-<title>Kyberturvallisuuskeskus: FortiBleed-kyberhyökkäyskampanjan vaikutukset näkyvät myös Suomessa</title>
-<link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/fortibleed-kyberhyokkayskampanjan-vaikutukset-nakyvat-myos-suomessa?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
-<guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/fortibleed-kyberhyokkayskampanjan-vaikutukset-nakyvat-myos-suomessa?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
-<pubDate>Tue, 23 Jun 2026 09:00:00 +0000</pubDate>
-<description>Kesäkuussa 2026 paljastunut FortiBleed-kampanja on yksi vuoden merkittävimmistä maailmanlaajuisista kyberhyökkäyksistä. Se koskee erityisesti Fortinetin FortiGate-palomuureja ja SSL-VPN-laitteita, joihin on kohdistunut tietomurtoja ja tietomurron yrityksiä aiemmin vuotaneita ja varastettuja kirjautumistunnuksia hyväksikäyttäen. Kyberturvallisuuskeskus on kartoittanut suomalaisia kohdeorganisaatioi</description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>TSV: Korkein hallinto-oikeus piti voimassa Verkkokauppa.comille määrätyn seuraamusmaksun tietosuojarikkomuksista</title>
-<link>https://tietosuoja.fi/-/korkein-hallinto-oikeus-piti-voimassa-verkkokauppa.comille-maaratyn-seuraamusmaksun-tietosuojarikkomuksista</link>
-<guid isPermaLink="true">https://tietosuoja.fi/-/korkein-hallinto-oikeus-piti-voimassa-verkkokauppa.comille-maaratyn-seuraamusmaksun-tietosuojarikkomuksista</guid>
-<pubDate>Fri, 12 Jun 2026 09:00:00 +0000</pubDate>
+<title>Säädöskokoelma: 735/2026, Laki henkilötietojen käsittelystä Puolustusvoimissa annetun lain 29 §:n muuttamisesta</title>
+<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/735</link>
+<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/735</guid>
+<pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>
 </item>
 <item>
-<title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus - 24/2026</title>
-<link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-242026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
-<guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-242026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
-<pubDate>Fri, 12 Jun 2026 09:00:00 +0000</pubDate>
-<description>Tällä viikolla kerromme vaarallisista puhelinhuijauksista Klarnan nimissä. Kerromme myös kesän aikana yleistyvistä toimitusjohtajahuijauksista sekä toivotamme halukkaat tervetulleeksi kansainväliseen Connect4Cyber verkostoitumistapahtumaan. Nostamme lisäksi toukokouun Kybersään julkaisun sekä toivotamme hyvää kesää, sillä Kyberturvallisuuskeskuksen viikkokatsaus jää kesätauolle. Lopuksi voit tutus</description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>TSV: Euroopan tietosuojaneuvoston mallipohja tietoturvaloukkausilmoituksille avoinna kommenteille</title>
-<link>https://tietosuoja.fi/-/euroopan-tietosuojaneuvoston-mallipohja-tietoturvaloukkausilmoituksille-avoinna-kommenteille</link>
-<guid isPermaLink="true">https://tietosuoja.fi/-/euroopan-tietosuojaneuvoston-mallipohja-tietoturvaloukkausilmoituksille-avoinna-kommenteille</guid>
-<pubDate>Thu, 11 Jun 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>ENISA: Cyber Europe 2026: All eyes on the EU’s collective response and resilience</title>
-<link>https://www.enisa.europa.eu/news/cyber-europe-2026-all-eyes-on-the-eus-collective-response-and-resilience</link>
-<guid isPermaLink="true">https://www.enisa.europa.eu/news/cyber-europe-2026-all-eyes-on-the-eus-collective-response-and-resilience</guid>
-<pubDate>Thu, 11 Jun 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus - 23/2026</title>
-<link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-232026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
-<guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-232026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
-<pubDate>Fri, 05 Jun 2026 09:00:00 +0000</pubDate>
-<description>Tällä viikolla kerromme pienestä kesän kybermuistilistasta, jonka avulla voit parantaa tietoturvaa helpoilla toimenpiteillä. Kerromme myös uuden kyberkestävyyslain voimaantulosta sekä esittelemme keväällä järjestettyä valtionhallinnon kyberharjoitusta. Lopuksi tutustumme ajankohtaisiin huijauksiin. Viikkokatsaus jää kesätauolle 19.6.–6.8.2026 väliseksi ajaksi.</description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>TSV: Norjan tietosuojaviranomainen: Gigantin emoyhtiölle 1,85 miljoonan euron seuraamusmaksu tietosuojarikkomuksista klubijäsenten henkilötietojen käsittelyssä</title>
-<link>https://tietosuoja.fi/-/norjan-tietosuojaviranomainen-gigantin-emoyhtiolle-1-85-miljoonan-euron-seuraamusmaksu-tietosuojarikkomuksista-klubijasenten-henkilotietojen-kasittelyssa</link>
-<guid isPermaLink="true">https://tietosuoja.fi/-/norjan-tietosuojaviranomainen-gigantin-emoyhtiolle-1-85-miljoonan-euron-seuraamusmaksu-tietosuojarikkomuksista-klubijasenten-henkilotietojen-kasittelyssa</guid>
-<pubDate>Thu, 04 Jun 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>TSV: Hallinto-oikeudelta päätös Yliopiston Apteekille määrätystä seuraamusmaksusta – lakiuudistus julkisen sektorin seuraamusmaksuista lisäisi yhdenmukaisuutta</title>
-<link>https://tietosuoja.fi/-/hallinto-oikeudelta-paatos-yliopiston-apteekille-maaratysta-seuraamusmaksusta-lakiuudistus-julkisen-sektorin-seuraamusmaksuista-lisaisi-yhdenmukaisuutta</link>
-<guid isPermaLink="true">https://tietosuoja.fi/-/hallinto-oikeudelta-paatos-yliopiston-apteekille-maaratysta-seuraamusmaksusta-lakiuudistus-julkisen-sektorin-seuraamusmaksuista-lisaisi-yhdenmukaisuutta</guid>
-<pubDate>Tue, 02 Jun 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus - 22/2026</title>
-<link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-222026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
-<guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-222026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
-<pubDate>Fri, 29 May 2026 09:00:00 +0000</pubDate>
-<description>Viikkokatsauksessa kerromme Traficomin nimissä liikkeellä olleista huijausviesteistä ja kuinka uudistettu Hyöky-palvelu kannustaa vahvistamaan oman verkon turvallisuutta. EU:n kyberkestävyyssäädöksen voimaantulo tuo mukanaan uusia velvoitteita, joista kerrotaan tarkemmin 3.6. järjestettävässä infotilaisuudessa.</description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>TSV: Pohjoismaiden tietosuojaviranomaiset keskustelivat digisääntelyn riskilähtöisen täytäntöönpanon merkityksestä</title>
-<link>https://tietosuoja.fi/-/pohjoismaiden-tietosuojaviranomaiset-keskustelivat-digisaantelyn-riskilahtoisen-taytantoonpanon-merkityksesta</link>
-<guid isPermaLink="true">https://tietosuoja.fi/-/pohjoismaiden-tietosuojaviranomaiset-keskustelivat-digisaantelyn-riskilahtoisen-taytantoonpanon-merkityksesta</guid>
-<pubDate>Thu, 28 May 2026 09:00:00 +0000</pubDate>
+<title>Säädöskokoelma: 732/2026, Laki henkilötietojen käsittelystä Tullissa annetun lain muuttamisesta</title>
+<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/732</link>
+<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/732</guid>
+<pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>
 </item>

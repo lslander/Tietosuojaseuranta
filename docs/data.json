@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-21T05:24:59",
+  "generated": "2026-09-21T11:59:29",
   "window_days": 120,
   "sources": [
     {
@@ -19,19 +19,11 @@
       "error": ""
     },
     {
-      "id": "ho-helsinki",
-      "name": "Helsingin hovioikeus",
-      "court": "HelHO",
+      "id": "tuomioistuimet",
+      "name": "Tuomioistuinlaitos",
+      "court": "Tuomioistuimet",
       "ok": true,
-      "fetched": 0,
-      "error": ""
-    },
-    {
-      "id": "ho-turku",
-      "name": "Turun hovioikeus",
-      "court": "THO",
-      "ok": true,
-      "fetched": 0,
+      "fetched": 30,
       "error": ""
     },
     {
@@ -63,7 +55,7 @@
       "name": "Unionin tuomioistuin (EUT ja unionin yleinen tuomioistuin)",
       "court": "EUT",
       "ok": true,
-      "fetched": 405,
+      "fetched": 11,
       "error": ""
     },
     {
@@ -80,6 +72,30 @@
       "court": "EU-komissio",
       "ok": true,
       "fetched": 10,
+      "error": ""
+    },
+    {
+      "id": "ep",
+      "name": "Euroopan parlamentti, lehdistötiedotteet",
+      "court": "EP",
+      "ok": true,
+      "fetched": 0,
+      "error": ""
+    },
+    {
+      "id": "finlex-sk",
+      "name": "Finlex, säädöskokoelma",
+      "court": "Säädöskokoelma",
+      "ok": true,
+      "fetched": 30,
+      "error": ""
+    },
+    {
+      "id": "finlex-he",
+      "name": "Finlex, hallituksen esitykset",
+      "court": "HE",
+      "ok": true,
+      "fetched": 7,
       "error": ""
     },
     {
@@ -115,6 +131,14 @@
       "error": ""
     },
     {
+      "id": "vm",
+      "name": "Valtiovarainministeriö",
+      "court": "VM",
+      "ok": true,
+      "fetched": 20,
+      "error": ""
+    },
+    {
       "id": "tsv",
       "name": "Tietosuojavaltuutetun toimisto",
       "court": "TSV",
@@ -136,6 +160,22 @@
       "court": "EDPB",
       "ok": true,
       "fetched": 10,
+      "error": ""
+    },
+    {
+      "id": "edps",
+      "name": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "court": "EDPS",
+      "ok": true,
+      "fetched": 4,
+      "error": ""
+    },
+    {
+      "id": "uodo",
+      "name": "Puolan tietosuojaviranomainen (UODO)",
+      "court": "UODO",
+      "ok": true,
+      "fetched": 6,
       "error": ""
     },
     {
@@ -166,9 +206,9 @@
       "id": "uef",
       "name": "eRepo (Itä-Suomen yliopisto)",
       "court": "Julkaisu",
-      "ok": true,
-      "fetched": 19,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "error": "403 Client Error: Forbidden for url: https://erepo.uef.fi/server/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-07-08"
     },
     {
       "id": "jyx",
@@ -184,6 +224,70 @@
       "court": "Julkaisu",
       "ok": true,
       "fetched": 2,
+      "error": ""
+    },
+    {
+      "id": "osuva",
+      "name": "Osuva (Vaasan yliopisto)",
+      "court": "Julkaisu",
+      "ok": true,
+      "fetched": 16,
+      "error": ""
+    },
+    {
+      "id": "edilex",
+      "name": "Edilex, uutiset",
+      "court": "Edilex",
+      "ok": true,
+      "fetched": 77,
+      "error": ""
+    },
+    {
+      "id": "iapp",
+      "name": "IAPP",
+      "court": "IAPP",
+      "ok": true,
+      "fetched": 20,
+      "error": ""
+    },
+    {
+      "id": "asianajajat",
+      "name": "Suomen Asianajajaliitto",
+      "court": "Asianajajaliitto",
+      "ok": true,
+      "fetched": 10,
+      "error": ""
+    },
+    {
+      "id": "roschier",
+      "name": "Roschier",
+      "court": "Asianajotoimisto",
+      "ok": true,
+      "fetched": 10,
+      "error": ""
+    },
+    {
+      "id": "hannessnellman",
+      "name": "Hannes Snellman",
+      "court": "Asianajotoimisto",
+      "ok": true,
+      "fetched": 10,
+      "error": ""
+    },
+    {
+      "id": "castren",
+      "name": "Castrén & Snellman",
+      "court": "Asianajotoimisto",
+      "ok": true,
+      "fetched": 10,
+      "error": ""
+    },
+    {
+      "id": "krogerus",
+      "name": "Krogerus",
+      "court": "Asianajotoimisto",
+      "ok": true,
+      "fetched": 10,
       "error": ""
     },
     {
@@ -209,6 +313,14 @@
       "ok": true,
       "fetched": 11,
       "error": ""
+    },
+    {
+      "id": "intermin",
+      "name": "Sisäministeriö",
+      "court": "SM",
+      "ok": true,
+      "fetched": 23,
+      "error": ""
     }
   ],
   "items": [
@@ -231,20 +343,19 @@
       ]
     },
     {
-      "court": "EUT",
-      "source": "Unionin tuomioistuin (EUT ja unionin yleinen tuomioistuin)",
-      "title": "C-437/25 FT vastaan Nachalnik Oblasten otdel „Avtomobilna administratsia“ - Gabrovo (tuomio)",
-      "url": "https://eur-lex.europa.eu/legal-content/FI/TXT/?uri=CELEX:62025CJ0437",
-      "date": "2026-09-17",
-      "keywords": "Ennakkoratkaisupyyntö – Liikenne – Asetus (EU) N:o 165/2014 – 27 ja 41 artikla – Toiselle kuuluvan kuljettajakortin käyttäminen – Seuraamus – Kiinteämääräinen seuraamusmaksu – Yksilöinnin mahdottomuus – Suhteellisuusperiaate",
-      "summary": "ECLI:EU:C:2026:777",
-      "score": 45,
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "Notes from the IAPP Canada: Stop using privacy as an excuse, treat it as an enabler",
+      "url": "https://iapp.org/news/a/notes-from-the-iapp-canada-stop-using-privacy-as-an-excuse-treat-it-as-an-enabler",
+      "date": "2026-09-18",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
       "topics": [
         "Tietosuoja"
       ],
       "tags": [
-        "tärkeä",
-        "seuraamusmaksu"
+        "privacy"
       ]
     },
     {
@@ -265,6 +376,52 @@
       ]
     },
     {
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "SEAMK: Tekoäly haastaa korkeakoulut pohtimaan akateemista rehellisyyttä uudella tavalla",
+      "url": "https://www.edilex.fi/uutiset/102971",
+      "date": "2026-09-17",
+      "keywords": "",
+      "summary": "",
+      "score": 35,
+      "topics": [
+        "Tekoäly"
+      ],
+      "tags": [
+        "tärkeä",
+        "tekoäly"
+      ]
+    },
+    {
+      "court": "VM",
+      "source": "Valtiovarainministeriö",
+      "title": "Valtiovarainministerit keskustelevat innovaatioista rahoitussektorilla ja tekoälystä",
+      "url": "https://vm.fi/-/valtiovarainministerit-keskustelevat-innovaatioista-rahoitussektorilla-ja-tekoalysta",
+      "date": "2026-09-17",
+      "keywords": "",
+      "summary": "",
+      "score": 25,
+      "topics": [
+        "Tekoäly"
+      ],
+      "tags": [
+        "tärkeä",
+        "tekoäly"
+      ]
+    },
+    {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "TechDispatch on secure multi-party computation",
+      "url": "https://www.edps.europa.eu/data-protection/our-work/publications/techdispatch/2026-09-17-techdispatch-12026-secure-multi-party-computation_en",
+      "date": "2026-09-17",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [],
+      "tags": []
+    },
+    {
       "court": "EUT",
       "source": "Unionin tuomioistuimen lehdistötiedotteet",
       "title": "130/2026 : 17 September 2026 - Opinion of the Advocate General to the Court of Justice Dean Spielmann in Case C-317/25",
@@ -278,6 +435,88 @@
       ],
       "tags": [
         "personal data"
+      ]
+    },
+    {
+      "court": "Asianajotoimisto",
+      "source": "Roschier",
+      "title": "Nordic Data Center Forum explored the opportunities and challenges shaping the next phase of AI infrastructure growth",
+      "url": "https://www.roschier.com/newsroom/nordic-data-center-forum-explored-the-opportunities-and-challenges-shaping-the-next-phase-of-ai-infrastructure-growth",
+      "date": "2026-09-17",
+      "keywords": "",
+      "summary": "Artificial intelligence is accelerating demand for digital infrastructure at an unprecedented pace, placing data centers at the center of discussions around investment, energy, financing and competitiveness. Recently, Roschier hosted the inaugural Nordic Data Center Forum in Stockholm, bringing together investors, developers, financiers, energy companies and other market participants from across t",
+      "score": 13,
+      "topics": [
+        "Tekoäly"
+      ],
+      "tags": [
+        "artificial intelligence"
+      ]
+    },
+    {
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "Notes from the Asia-Pacific region: AI, privacy and cyber enforcement in Greater China, Hong Kong",
+      "url": "https://iapp.org/news/a/notes-from-the-asia-pacific-region-ai-privacy-and-cyber-enforcement-in-greater-china-hong-kong",
+      "date": "2026-09-16",
+      "keywords": "",
+      "summary": "",
+      "score": 16,
+      "topics": [
+        "Tietosuoja",
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "privacy",
+        "cyber"
+      ]
+    },
+    {
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "Truyo launches new warranty program for privacy compliance, AI governance platforms",
+      "url": "https://iapp.org/news/a/truyo-launches-new-warranty-program-for-privacy-compliance-ai-governance-platforms",
+      "date": "2026-09-15",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "privacy"
+      ]
+    },
+    {
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "How a UK ruling shapes DSAR compliance",
+      "url": "https://iapp.org/news/a/how-a-uk-ruling-shapes-dsar-compliance",
+      "date": "2026-09-14",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Datasääntely"
+      ],
+      "tags": [
+        "DSA"
+      ]
+    },
+    {
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "When 'agentic AI' meets data protection law: A fundamental mismatch?",
+      "url": "https://iapp.org/news/a/when-agentic-ai-meets-data-protection-law-a-fundamental-mismatch",
+      "date": "2026-09-14",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "data protection"
       ]
     },
     {
@@ -310,6 +549,103 @@
       ]
     },
     {
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "Notes from the IAPP Canada: The tongue-tied truth about privacy",
+      "url": "https://iapp.org/news/a/notes-from-the-iapp-canada-the-tongue-tied-truth-about-privacy",
+      "date": "2026-09-11",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "privacy"
+      ]
+    },
+    {
+      "court": "EUT",
+      "source": "Unionin tuomioistuin (EUT ja unionin yleinen tuomioistuin)",
+      "title": "C-669/24 Bundesverband der Verbraucherzentralen und Verbraucherverbände - Verbraucherzentrale Bundesverband e.V. vastaa (tuomio)",
+      "url": "https://eur-lex.europa.eu/legal-content/FI/TXT/?uri=CELEX:62024CJ0669",
+      "date": "2026-09-10",
+      "keywords": "Ennakkoratkaisupyyntö – Jäsenvaltioiden lainsäädännön lähentäminen – Televiestintäala – Direktiivi (EU) 2018/1972 – Eurooppalainen sähköisen viestinnän säännöstö – Sopimus sähköisestä viestintäpalvelusta – Palveluntarjoajan oikeus muuttaa sopimusta yksipuolisesti – 105 artiklan 4 kohdan ensimmäinen alakohta – Loppukäyttäjien irtisanomisoikeus",
+      "summary": "ECLI:EU:C:2026:736",
+      "score": 36,
+      "topics": [
+        "Sähköinen viestintä"
+      ],
+      "tags": [
+        "sähköisen viestinnän",
+        "televiestint"
+      ]
+    },
+    {
+      "court": "Säädöskokoelma",
+      "source": "Finlex, säädöskokoelma",
+      "title": "833/2026, Laki henkilötietojen käsittelystä Rajavartiolaitoksessa annetun lain 50 §:n muuttamisesta",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/833",
+      "date": "2026-09-10",
+      "keywords": "",
+      "summary": "",
+      "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "henkilötiet"
+      ]
+    },
+    {
+      "court": "Säädöskokoelma",
+      "source": "Finlex, säädöskokoelma",
+      "title": "831/2026, Laki henkilötietojen käsittelystä Tullissa annetun lain 35 §:n muuttamisesta",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/831",
+      "date": "2026-09-10",
+      "keywords": "",
+      "summary": "",
+      "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "henkilötiet"
+      ]
+    },
+    {
+      "court": "Säädöskokoelma",
+      "source": "Finlex, säädöskokoelma",
+      "title": "830/2026, Laki henkilötietojen käsittelystä poliisitoimessa annetun lain 41 §:n muuttamisesta",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/830",
+      "date": "2026-09-10",
+      "keywords": "",
+      "summary": "",
+      "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "henkilötiet"
+      ]
+    },
+    {
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "Autonomous cyberattacks fuel US Congress' AI focus through 2026 midterms and beyond",
+      "url": "https://iapp.org/news/a/autonomous-cyberattacks-fuel-us-congress-ai-focus-through-2026-midterms-and-beyond",
+      "date": "2026-09-10",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "cyber"
+      ]
+    },
+    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Elokuun Kybersää 2026",
@@ -338,6 +674,72 @@
       "tags": []
     },
     {
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "Delaware enacts HB 380: Key updates to the Delaware Personal Data Privacy Act",
+      "url": "https://iapp.org/news/a/delaware-enacts-hb-380-key-updates-to-the-delaware-personal-data-privacy-act",
+      "date": "2026-09-09",
+      "keywords": "",
+      "summary": "",
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data",
+        "privacy"
+      ]
+    },
+    {
+      "court": "Säädöskokoelma",
+      "source": "Finlex, säädöskokoelma",
+      "title": "791/2026, Laki henkilötietojen käsittelystä Rikosseuraamuslaitoksessa annetun lain muuttamisesta",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/791",
+      "date": "2026-09-08",
+      "keywords": "",
+      "summary": "",
+      "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "henkilötiet"
+      ]
+    },
+    {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "The MPs – Waldemar Buda and Michał Woś – were reprimanded for their lack of cooperation with the President of the Personal Data Protection Office 08.09.2026",
+      "url": "https://uodo.gov.pl/en/553/2263",
+      "date": "2026-09-08",
+      "keywords": "",
+      "summary": "",
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data",
+        "data protection"
+      ]
+    },
+    {
+      "court": "Säädöskokoelma",
+      "source": "Finlex, säädöskokoelma",
+      "title": "785/2026, Laki kyberturvallisuuslain 26 §:n ja liitteen I muuttamisesta",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/785",
+      "date": "2026-09-07",
+      "keywords": "",
+      "summary": "",
+      "score": 33,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "kyberturvallisuus"
+      ]
+    },
+    {
       "court": "EU-komissio",
       "source": "Komissio, digitaalinen strategia",
       "title": "Apply AI Summit",
@@ -351,6 +753,23 @@
       ],
       "tags": [
         "artificial intelligence"
+      ]
+    },
+    {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "\"Personal Data Protection Office on tour across Poland\" – three active days in Kluczbork, Opole and Wrocław are behind us 07.09.2026",
+      "url": "https://uodo.gov.pl/en/553/2264",
+      "date": "2026-09-07",
+      "keywords": "",
+      "summary": "",
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data",
+        "data protection"
       ]
     },
     {
@@ -388,6 +807,25 @@
       ]
     },
     {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "FROM THE AI ACT TO NATIONAL REGULATIONS – The Personal Data Protection Office webinar 04.09.2026",
+      "url": "https://uodo.gov.pl/en/553/2266",
+      "date": "2026-09-04",
+      "keywords": "",
+      "summary": "",
+      "score": 19,
+      "topics": [
+        "Tietosuoja",
+        "Tekoäly"
+      ],
+      "tags": [
+        "AI Act",
+        "personal data",
+        "data protection"
+      ]
+    },
+    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Kyberturvallisuuskeskuksen viikkokatsaus - 36/2026",
@@ -416,6 +854,76 @@
         "Tietosuoja"
       ],
       "tags": [
+        "data protection"
+      ]
+    },
+    {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "Artificial Intelligence and the Law. The Personal Data Protection Office invites you to the third Open Expert Lecture 03.09.2026",
+      "url": "https://uodo.gov.pl/en/553/2262",
+      "date": "2026-09-03",
+      "keywords": "",
+      "summary": "",
+      "score": 19,
+      "topics": [
+        "Tietosuoja",
+        "Tekoäly"
+      ],
+      "tags": [
+        "personal data",
+        "data protection",
+        "artificial intelligence"
+      ]
+    },
+    {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "Warsaw Voivodeship Administrative Court upholds the position of the President of the Personal Data Protection Office concerning the reprimand issued to an MP 03.09.2026",
+      "url": "https://uodo.gov.pl/en/553/2261",
+      "date": "2026-09-03",
+      "keywords": "",
+      "summary": "",
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data",
+        "data protection"
+      ]
+    },
+    {
+      "court": "Julkaisu",
+      "source": "Osuva (Vaasan yliopisto)",
+      "title": "Navigating the use of AI in the public sector : The complex world of AI ethics and regulation in Finnish municipalities",
+      "url": "https://osuva.uwasa.fi/handle/11111/21234",
+      "date": "2026-09-02",
+      "keywords": "artificial intelligence, regulation (control), legislation, good governance, public administration, public sector, municipalities, ethics, fi=Julkisen toiminnan johtaminen|en=Public Policy and Management|, fi=Hallintotieteiden maisteriohjelma|en=Master&apos;s Programme in Administrative Sciences|",
+      "summary": "This thesis examines the implications of the European Union’s Artificial Intelligence Act (EU AI Act) for Finnish municipalities. The use of artificial intelligence in municipalities has increased rapidly, but municipalities continue to face challenges related to the ethical governance of AI and the practical implementation of regulation. In addition, uncertainties surrounding the regulation may h",
+      "score": 16,
+      "topics": [
+        "Tekoäly"
+      ],
+      "tags": [
+        "AI Act",
+        "artificial intelligence"
+      ]
+    },
+    {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "Report on the activities of the President of the Personal Data Protection Office in 2025 01.09.2026",
+      "url": "https://uodo.gov.pl/en/553/2259",
+      "date": "2026-09-01",
+      "keywords": "",
+      "summary": "",
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data",
         "data protection"
       ]
     },
@@ -565,6 +1073,23 @@
       ]
     },
     {
+      "court": "SM",
+      "source": "Sisäministeriö",
+      "title": "Tyrmäystippoja vastaan tekoälyn ja pikatestien voimin",
+      "url": "https://intermin.fi/-/tyrmaystippoja-vastaan-tekoalyn-ja-pikatestien-voimin",
+      "date": "2026-08-21",
+      "keywords": "",
+      "summary": "",
+      "score": 25,
+      "topics": [
+        "Tekoäly"
+      ],
+      "tags": [
+        "tärkeä",
+        "tekoäly"
+      ]
+    },
+    {
       "court": "EDPB",
       "source": "Euroopan tietosuojaneuvosto (EDPB)",
       "title": "Data breach: the CNIL fined MOBIUS SOLUTIONS LTD €1 million",
@@ -629,6 +1154,39 @@
       ]
     },
     {
+      "court": "SM",
+      "source": "Sisäministeriö",
+      "title": "Lakiesitys henkilötietojen käsittelystä pelastustoimessa lausuntokierrokselle",
+      "url": "https://intermin.fi/-/lakiesitys-henkilotietojen-kasittelysta-pelastustoimessa-lausuntokierrokselle",
+      "date": "2026-08-21",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "henkilötiet"
+      ]
+    },
+    {
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "Tekoälyn käytöstä on nyt kerrottava aiempaa avoimemmin – Traficom julkaisi ohjeet uusiin velvoitteisiin Avoin",
+      "url": "https://www.edilex.fi/uutiset/102637",
+      "date": "2026-08-20",
+      "keywords": "",
+      "summary": "",
+      "score": 35,
+      "topics": [
+        "Tekoäly"
+      ],
+      "tags": [
+        "tärkeä",
+        "tekoäly"
+      ]
+    },
+    {
       "court": "MAO",
       "source": "Markkinaoikeus",
       "title": "MAO:387/2026",
@@ -642,6 +1200,22 @@
       ],
       "tags": [
         "liikesalaisuu"
+      ]
+    },
+    {
+      "court": "Julkaisu",
+      "source": "Osuva (Vaasan yliopisto)",
+      "title": "Who Is Really Playing in the Sandbox?",
+      "url": "https://osuva.uwasa.fi/handle/11111/21197",
+      "date": "2026-08-19",
+      "keywords": "Regulatory sandboxes, AI regulatory sandboxes, EU AI Act, regulation of AI, soft-law, AI regulatory challenges, regulation of new technologies, company’s perspective to AI regulation, testing regulatory regime, fi=Talousoikeus|en=Business Law|",
+      "summary": "This paper examines the conflicting objectives within the European Union’s AI regulatory sandboxes established under the AI Act. Although these sandboxes are intended to promote both innovation and legal certainty, they must balance the needs of two very different stakeholders, regulators and companies. The purpose of the paper was to analyse these conflicting goals and propose step-by-step proced",
+      "score": 13,
+      "topics": [
+        "Tekoäly"
+      ],
+      "tags": [
+        "AI Act"
       ]
     },
     {
@@ -711,6 +1285,18 @@
       ]
     },
     {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "EDPS publishes Opinion on proposal to modernise Eurojust",
+      "url": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions/2026-08-11-edps-opinion-192026-regulation-establishment-eurojust-and-repealing-regulation-eu-20181727_en",
+      "date": "2026-08-14",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [],
+      "tags": []
+    },
+    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 33/2026",
@@ -725,6 +1311,18 @@
       "tags": [
         "kyberturvallisuus"
       ]
+    },
+    {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "EDPS publishes Opinion on Europol proposals",
+      "url": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions/2026-08-11-edps-opinion-182026-regulation-europol-repealing-regulation-eu-2016794_en",
+      "date": "2026-08-13",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [],
+      "tags": []
     },
     {
       "court": "Kyberturvallisuuskeskus",
@@ -975,6 +1573,103 @@
       ]
     },
     {
+      "court": "Säädöskokoelma",
+      "source": "Finlex, säädöskokoelma",
+      "title": "736/2026, Laki henkilötietojen käsittelystä maahanmuuttohallinnossa annetun lain 13 §:n muuttamisesta",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/736",
+      "date": "2026-07-14",
+      "keywords": "",
+      "summary": "",
+      "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "henkilötiet"
+      ]
+    },
+    {
+      "court": "Säädöskokoelma",
+      "source": "Finlex, säädöskokoelma",
+      "title": "735/2026, Laki henkilötietojen käsittelystä Puolustusvoimissa annetun lain 29 §:n muuttamisesta",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/735",
+      "date": "2026-07-14",
+      "keywords": "",
+      "summary": "",
+      "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "henkilötiet"
+      ]
+    },
+    {
+      "court": "Säädöskokoelma",
+      "source": "Finlex, säädöskokoelma",
+      "title": "732/2026, Laki henkilötietojen käsittelystä Tullissa annetun lain muuttamisesta",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/732",
+      "date": "2026-07-14",
+      "keywords": "",
+      "summary": "",
+      "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "henkilötiet"
+      ]
+    },
+    {
+      "court": "Säädöskokoelma",
+      "source": "Finlex, säädöskokoelma",
+      "title": "729/2026, Laki henkilötietojen käsittelystä Rajavartiolaitoksessa annetun lain muuttamisesta",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/729",
+      "date": "2026-07-14",
+      "keywords": "",
+      "summary": "",
+      "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "henkilötiet"
+      ]
+    },
+    {
+      "court": "Säädöskokoelma",
+      "source": "Finlex, säädöskokoelma",
+      "title": "728/2026, Laki henkilötietojen käsittelystä poliisitoimessa annetun lain muuttamisesta",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/728",
+      "date": "2026-07-14",
+      "keywords": "",
+      "summary": "",
+      "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "henkilötiet"
+      ]
+    },
+    {
+      "court": "KKO",
+      "source": "Tuomioistuinlaitos",
+      "title": "Korkein oikeus hylkäsi valituslupahakemuksen Vastaamon tietomurtoa ja sitä seuranneita kiristysrikoksia koskeneessa asiassa",
+      "url": "https://www.korkeinoikeus.fi/ajankohtaiset/korkein-oikeus-hylkasi-valituslupahakemuksen-vastaamon-tietomurtoa-ja-sita-seuranneita-kiristysrikoksia-koskeneessa-asiassa/",
+      "date": "2026-07-13",
+      "keywords": "",
+      "summary": "",
+      "score": 35,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "tärkeä",
+        "tietomurto"
+      ]
+    },
+    {
       "court": "ENISA",
       "source": "ENISA, uutiset",
       "title": "Where do SMEs stand in preparing for the Cyber Resilience Act?",
@@ -1039,6 +1734,38 @@
       ]
     },
     {
+      "court": "Julkaisu",
+      "source": "Osuva (Vaasan yliopisto)",
+      "title": "Typology of transparency as best practice: evidence from facial recognition technologies in Australia",
+      "url": "https://osuva.uwasa.fi/handle/11111/21102",
+      "date": "2026-07-09",
+      "keywords": "facial recognition technologies, best practice, transparency, technology governance, industry self-regulation, public deliberation, fi=Kansainvälinen liiketoiminta|en=International Business|",
+      "summary": "Facial recognition technologies (FRTs) are commonly used in Australia in an under-regulated environment. Only two regulatory mechanisms currently direct FRT use – industry self-regulation and Australia’s privacy laws. Currently, best practices for FRT development and adoption are a key governance mechanism, including the recent guide to FRT privacy risks evaluation published by the Office of the A",
+      "score": 13,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "privacy"
+      ]
+    },
+    {
+      "court": "Säädöskokoelma",
+      "source": "Finlex, säädöskokoelma",
+      "title": "675/2026, Valtioneuvoston asetus henkilötietojen käsittelystä Puolustusvoimissa annetun lain muuttamisesta annetun lain voimaantulosta",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/675",
+      "date": "2026-07-07",
+      "keywords": "",
+      "summary": "",
+      "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "henkilötiet"
+      ]
+    },
+    {
       "court": "ENISA",
       "source": "ENISA, julkaisut",
       "title": "ENISA’s view on Cybersecurity in the Frontier AI Era",
@@ -1055,19 +1782,36 @@
       ]
     },
     {
-      "court": "KKO",
-      "source": "Korkein oikeus",
-      "title": "KKO:2026:50",
-      "url": "https://www.korkeinoikeus.fi/ennakkopaatokset/ennakkopaatokset-vuosittain/kko202650/",
-      "date": "2026-06-30",
-      "keywords": "Oikeudenkäynnin julkisuus  – Tietopyyntö, Tietosuoja",
+      "court": "Säädöskokoelma",
+      "source": "Finlex, säädöskokoelma",
+      "title": "581/2026, Laki henkilötietojen käsittelystä Puolustusvoimissa annetun lain muuttamisesta",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/581",
+      "date": "2026-06-29",
+      "keywords": "",
       "summary": "",
       "score": 33,
       "topics": [
         "Tietosuoja"
       ],
       "tags": [
-        "tietosuoja"
+        "henkilötiet"
+      ]
+    },
+    {
+      "court": "Tuomioistuimet",
+      "source": "Tuomioistuinlaitos",
+      "title": "Vakuutusoikeus on 17.6.2026 antanut päätöksiä Vastaamon tietomurtoon liittyvien törkeiden kiristysten yritysten johdosta rikosvahinkolain nojalla suoritettavista kärsimyskorvauksista.",
+      "url": "https://www.vakuutusoikeus.fi/ajankohtaiset/vakuutusoikeus-on-17-6-2026-antanut-paatoksia-vastaamon-tietomurtoon-liittyvien-torkean-kiristyksen-yritysten-johdosta-rikosvahinkolain-nojalla-suoritettavien-karsimyskorvausten-maarista-vakuutusoike/",
+      "date": "2026-06-26",
+      "keywords": "",
+      "summary": "",
+      "score": 35,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "tärkeä",
+        "tietomurto"
       ]
     },
     {
@@ -1081,6 +1825,22 @@
       "score": 33,
       "topics": [],
       "tags": []
+    },
+    {
+      "court": "Säädöskokoelma",
+      "source": "Finlex, säädöskokoelma",
+      "title": "554/2026, Laki henkilötietojen käsittelystä maahanmuuttohallinnossa annetun lain 1 §:n muuttamisesta",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/554",
+      "date": "2026-06-23",
+      "keywords": "",
+      "summary": "",
+      "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "henkilötiet"
+      ]
     },
     {
       "court": "Kyberturvallisuuskeskus",
@@ -1099,6 +1859,55 @@
         "kyberturvallisuus",
         "kyberhyökkäy",
         "tietomurto"
+      ]
+    },
+    {
+      "court": "Säädöskokoelma",
+      "source": "Finlex, säädöskokoelma",
+      "title": "527/2026, Laki sähköisen viestinnän palveluista annetun lain 321 §:n muuttamisesta",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/527",
+      "date": "2026-06-18",
+      "keywords": "",
+      "summary": "",
+      "score": 33,
+      "topics": [
+        "Sähköinen viestintä"
+      ],
+      "tags": [
+        "sähköisen viestinnän"
+      ]
+    },
+    {
+      "court": "SM",
+      "source": "Sisäministeriö",
+      "title": "Tekoäly toiminnan peilinä – mahdollisuus viranomaistyön siilojen murtamiseen",
+      "url": "https://intermin.fi/-/tekoaly-toiminnan-peilina-mahdollisuus-viranomaistyon-siilojen-murtamiseen-",
+      "date": "2026-06-18",
+      "keywords": "",
+      "summary": "",
+      "score": 25,
+      "topics": [
+        "Tekoäly"
+      ],
+      "tags": [
+        "tärkeä",
+        "tekoäly"
+      ]
+    },
+    {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "Shaping data protection priorities: EDPS and DPOs join forces in Brussels",
+      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/shaping-data-protection-priorities-edps-and-dpos-join-forces-brussels",
+      "date": "2026-06-18",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "data protection"
       ]
     },
     {
@@ -1153,6 +1962,70 @@
         "tärkeä",
         "tietosuoja",
         "tietoturvaloukkaus"
+      ]
+    },
+    {
+      "court": "Säädöskokoelma",
+      "source": "Finlex, säädöskokoelma",
+      "title": "497/2026, Laki henkilötietojen käsittelystä Tullissa annetun lain muuttamisesta",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/497",
+      "date": "2026-06-11",
+      "keywords": "",
+      "summary": "",
+      "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "henkilötiet"
+      ]
+    },
+    {
+      "court": "Säädöskokoelma",
+      "source": "Finlex, säädöskokoelma",
+      "title": "484/2026, Laki  henkilötietojen käsittelystä Rajavartiolaitoksessa annetun lain muuttamisesta",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/484",
+      "date": "2026-06-11",
+      "keywords": "",
+      "summary": "",
+      "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "henkilötiet"
+      ]
+    },
+    {
+      "court": "Säädöskokoelma",
+      "source": "Finlex, säädöskokoelma",
+      "title": "483/2026, Laki  henkilötietojen käsittelystä poliisitoimessa annetun lain muuttamisesta",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/483",
+      "date": "2026-06-11",
+      "keywords": "",
+      "summary": "",
+      "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "henkilötiet"
+      ]
+    },
+    {
+      "court": "Säädöskokoelma",
+      "source": "Finlex, säädöskokoelma",
+      "title": "482/2026, Laki  henkilötietojen käsittelystä maahanmuuttohallinnossa annetun lain muuttamisesta",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/482",
+      "date": "2026-06-11",
+      "keywords": "",
+      "summary": "",
+      "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "henkilötiet"
       ]
     },
     {

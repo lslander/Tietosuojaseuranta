@@ -4,7 +4,15 @@
 <link>https://lslander.github.io/Tietosuojaseuranta/</link>
 <description>Tietosuoja, teknologia ja datasääntely</description>
 <language>fi</language>
-<lastBuildDate>Mon, 21 Sep 2026 12:32:01 +0000</lastBuildDate>
+<lastBuildDate>Tue, 22 Sep 2026 05:24:12 +0000</lastBuildDate>
+<item>
+<title>VN: Vetoomus kaikkein kehittyneimpien tekoälymallien hallinnan puolesta</title>
+<link>https://valtioneuvosto.fi/-/vetoomus-kaikkein-kehittyneimpien-tekoalymallien-hallinnan-puolesta</link>
+<guid isPermaLink="true">https://valtioneuvosto.fi/-/vetoomus-kaikkein-kehittyneimpien-tekoalymallien-hallinnan-puolesta</guid>
+<pubDate>Mon, 21 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tekoäly</category>
+</item>
 <item>
 <title>EDPB: EDPB harmonises fining methodology and adopts final DSA-GDPR guidelines</title>
 <link>https://www.edpb.europa.eu/news/edpb-harmonises-fining-methodology-and-adopts-final-dsa-gdpr-guidelines_en</link>
@@ -45,13 +53,6 @@
 <pubDate>Thu, 17 Sep 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tekoäly</category>
-</item>
-<item>
-<title>EDPS: TechDispatch on secure multi-party computation</title>
-<link>https://www.edps.europa.eu/data-protection/our-work/publications/techdispatch/2026-09-17-techdispatch-12026-secure-multi-party-computation_en</link>
-<guid isPermaLink="true">https://www.edps.europa.eu/data-protection/our-work/publications/techdispatch/2026-09-17-techdispatch-12026-secure-multi-party-computation_en</guid>
-<pubDate>Thu, 17 Sep 2026 09:00:00 +0000</pubDate>
-<description></description>
 </item>
 <item>
 <title>EUT: 130/2026 : 17 September 2026 - Opinion of the Advocate General to the Court of Justice Dean Spielmann in Case C-317/25</title>
@@ -471,13 +472,6 @@
 <category>Tietosuoja</category>
 </item>
 <item>
-<title>EDPS: EDPS publishes Opinion on proposal to modernise Eurojust</title>
-<link>https://www.edps.europa.eu/data-protection/our-work/publications/opinions/2026-08-11-edps-opinion-192026-regulation-establishment-eurojust-and-repealing-regulation-eu-20181727_en</link>
-<guid isPermaLink="true">https://www.edps.europa.eu/data-protection/our-work/publications/opinions/2026-08-11-edps-opinion-192026-regulation-establishment-eurojust-and-repealing-regulation-eu-20181727_en</guid>
-<pubDate>Fri, 14 Aug 2026 09:00:00 +0000</pubDate>
-<description></description>
-</item>
-<item>
 <title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 33/2026</title>
 <link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-332026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
 <guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-332026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
@@ -485,13 +479,6 @@
 <description>Tällä viikolla kerromme tietomurroista, joissa verkkosivupalvelimet on valjastettu jakamaan haittaohjelmia verkkosivujen selaajille. Yksinkertaiset varotoimet auttavat suojautumaan haittaohjelman uhkaa vastaan. Kehotamme myös valppauteen pikaviestinpalvelun uusia ominaisuuksia käyttäessä.
 Lisäksi tällä viikolla julkaistu heinäkuun Kybersää osoittaa sateisen syksyn merkkejä.</description>
 <category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>EDPS: EDPS publishes Opinion on Europol proposals</title>
-<link>https://www.edps.europa.eu/data-protection/our-work/publications/opinions/2026-08-11-edps-opinion-182026-regulation-europol-repealing-regulation-eu-2016794_en</link>
-<guid isPermaLink="true">https://www.edps.europa.eu/data-protection/our-work/publications/opinions/2026-08-11-edps-opinion-182026-regulation-europol-repealing-regulation-eu-2016794_en</guid>
-<pubDate>Thu, 13 Aug 2026 09:00:00 +0000</pubDate>
-<description></description>
 </item>
 <item>
 <title>Kyberturvallisuuskeskus: Heinäkuun Kybersää 2026</title>
@@ -645,5 +632,21 @@ Lisäksi tällä viikolla julkaistu heinäkuun Kybersää osoittaa sateisen syks
 <pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>
+</item>
+<item>
+<title>KKO: Korkein oikeus hylkäsi valituslupahakemuksen Vastaamon tietomurtoa ja sitä seuranneita kiristysrikoksia koskeneessa asiassa</title>
+<link>https://www.korkeinoikeus.fi/ajankohtaiset/korkein-oikeus-hylkasi-valituslupahakemuksen-vastaamon-tietomurtoa-ja-sita-seuranneita-kiristysrikoksia-koskeneessa-asiassa/</link>
+<guid isPermaLink="true">https://www.korkeinoikeus.fi/ajankohtaiset/korkein-oikeus-hylkasi-valituslupahakemuksen-vastaamon-tietomurtoa-ja-sita-seuranneita-kiristysrikoksia-koskeneessa-asiassa/</guid>
+<pubDate>Mon, 13 Jul 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Kyberturvallisuus</category>
+</item>
+<item>
+<title>ENISA: Where do SMEs stand in preparing for the Cyber Resilience Act?</title>
+<link>https://www.enisa.europa.eu/news/where-do-smes-stand-in-preparing-for-the-cyber-resilience-act</link>
+<guid isPermaLink="true">https://www.enisa.europa.eu/news/where-do-smes-stand-in-preparing-for-the-cyber-resilience-act</guid>
+<pubDate>Mon, 13 Jul 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Kyberturvallisuus</category>
 </item>
 </channel></rss>

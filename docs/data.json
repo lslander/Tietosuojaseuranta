@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-21T12:32:01",
+  "generated": "2026-09-22T05:24:12",
   "window_days": 120,
   "sources": [
     {
@@ -71,7 +71,7 @@
       "name": "Unionin tuomioistuin (EUT ja unionin yleinen tuomioistuin)",
       "court": "EUT",
       "ok": true,
-      "fetched": 11,
+      "fetched": 12,
       "error": ""
     },
     {
@@ -119,7 +119,7 @@
       "name": "Valtioneuvosto",
       "court": "VN",
       "ok": true,
-      "fetched": 11,
+      "fetched": 12,
       "error": ""
     },
     {
@@ -182,9 +182,9 @@
       "id": "edps",
       "name": "Euroopan tietosuojavaltuutettu (EDPS)",
       "court": "EDPS",
-      "ok": true,
-      "fetched": 4,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "error": "403 Client Error: Forbidden for url: https://www.edps.europa.eu/_en"
     },
     {
       "id": "uodo",
@@ -232,7 +232,7 @@
       "court": "Julkaisu",
       "ok": false,
       "fetched": 0,
-      "error": "403 Client Error: Forbidden for url: https://jyx.jyu.fi/dspace-oai//request?verb=ListRecords&resumptionToken=oai_dc%2F2026-07-08T00%3A00%3A00Z%2F%2F%2F100"
+      "error": "403 Client Error: Forbidden for url: https://jyx.jyu.fi/dspace-oai//request?verb=ListRecords&resumptionToken=oai_dc%2F2026-07-09T00%3A00%3A00Z%2F%2F%2F100"
     },
     {
       "id": "doria",
@@ -255,7 +255,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 78,
+      "fetched": 73,
       "error": ""
     },
     {
@@ -308,6 +308,23 @@
     }
   ],
   "items": [
+    {
+      "court": "VN",
+      "source": "Valtioneuvosto",
+      "title": "Vetoomus kaikkein kehittyneimpien tekoälymallien hallinnan puolesta",
+      "url": "https://valtioneuvosto.fi/-/vetoomus-kaikkein-kehittyneimpien-tekoalymallien-hallinnan-puolesta",
+      "date": "2026-09-21",
+      "keywords": "",
+      "summary": "",
+      "score": 35,
+      "topics": [
+        "Tekoäly"
+      ],
+      "tags": [
+        "tärkeä",
+        "tekoäly"
+      ]
+    },
     {
       "court": "EDPB",
       "source": "Euroopan tietosuojaneuvosto (EDPB)",
@@ -393,18 +410,6 @@
         "tärkeä",
         "tekoäly"
       ]
-    },
-    {
-      "court": "EDPS",
-      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
-      "title": "TechDispatch on secure multi-party computation",
-      "url": "https://www.edps.europa.eu/data-protection/our-work/publications/techdispatch/2026-09-17-techdispatch-12026-secure-multi-party-computation_en",
-      "date": "2026-09-17",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [],
-      "tags": []
     },
     {
       "court": "EUT",
@@ -1254,18 +1259,6 @@
       ]
     },
     {
-      "court": "EDPS",
-      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
-      "title": "EDPS publishes Opinion on proposal to modernise Eurojust",
-      "url": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions/2026-08-11-edps-opinion-192026-regulation-establishment-eurojust-and-repealing-regulation-eu-20181727_en",
-      "date": "2026-08-14",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [],
-      "tags": []
-    },
-    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 33/2026",
@@ -1280,18 +1273,6 @@
       "tags": [
         "kyberturvallisuus"
       ]
-    },
-    {
-      "court": "EDPS",
-      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
-      "title": "EDPS publishes Opinion on Europol proposals",
-      "url": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions/2026-08-11-edps-opinion-182026-regulation-europol-repealing-regulation-eu-2016794_en",
-      "date": "2026-08-13",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [],
-      "tags": []
     },
     {
       "court": "Kyberturvallisuuskeskus",
@@ -1849,22 +1830,6 @@
       "tags": [
         "tärkeä",
         "tekoäly"
-      ]
-    },
-    {
-      "court": "EDPS",
-      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
-      "title": "Shaping data protection priorities: EDPS and DPOs join forces in Brussels",
-      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/shaping-data-protection-priorities-edps-and-dpos-join-forces-brussels",
-      "date": "2026-06-18",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "data protection"
       ]
     },
     {

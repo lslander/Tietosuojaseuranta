@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-22T05:24:12",
+  "generated": "2026-09-23T05:24:29",
   "window_days": 120,
   "sources": [
     {
@@ -31,7 +31,7 @@
       "name": "Hallinto-oikeuksien ratkaisut",
       "court": "Hallinto-oikeus",
       "ok": true,
-      "fetched": 100,
+      "fetched": 0,
       "error": ""
     },
     {
@@ -39,7 +39,7 @@
       "name": "Hovioikeuksien ratkaisut",
       "court": "Hovioikeus",
       "ok": true,
-      "fetched": 96,
+      "fetched": 0,
       "error": ""
     },
     {
@@ -182,9 +182,9 @@
       "id": "edps",
       "name": "Euroopan tietosuojavaltuutettu (EDPS)",
       "court": "EDPS",
-      "ok": false,
-      "fetched": 0,
-      "error": "403 Client Error: Forbidden for url: https://www.edps.europa.eu/_en"
+      "ok": true,
+      "fetched": 4,
+      "error": ""
     },
     {
       "id": "uodo",
@@ -215,16 +215,16 @@
       "name": "UTUPub (Turun yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 6,
+      "fetched": 5,
       "error": ""
     },
     {
       "id": "uef",
       "name": "eRepo (Itä-Suomen yliopisto)",
       "court": "Julkaisu",
-      "ok": true,
-      "fetched": 19,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "error": "403 Client Error: Forbidden for url: https://erepo.uef.fi/server/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-07-10"
     },
     {
       "id": "jyx",
@@ -232,7 +232,7 @@
       "court": "Julkaisu",
       "ok": false,
       "fetched": 0,
-      "error": "403 Client Error: Forbidden for url: https://jyx.jyu.fi/dspace-oai//request?verb=ListRecords&resumptionToken=oai_dc%2F2026-07-09T00%3A00%3A00Z%2F%2F%2F100"
+      "error": "403 Client Error: Forbidden for url: https://jyx.jyu.fi/dspace-oai//request?verb=ListRecords&resumptionToken=oai_dc%2F2026-07-10T00%3A00%3A00Z%2F%2F%2F100"
     },
     {
       "id": "doria",
@@ -247,7 +247,7 @@
       "name": "Osuva (Vaasan yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 16,
+      "fetched": 15,
       "error": ""
     },
     {
@@ -279,7 +279,7 @@
       "name": "Kyberturvallisuuskeskus",
       "court": "Kyberturvallisuuskeskus",
       "ok": true,
-      "fetched": 434,
+      "fetched": 432,
       "error": ""
     },
     {
@@ -287,7 +287,7 @@
       "name": "ENISA, uutiset",
       "court": "ENISA",
       "ok": true,
-      "fetched": 12,
+      "fetched": 13,
       "error": ""
     },
     {
@@ -309,11 +309,48 @@
   ],
   "items": [
     {
-      "court": "VN",
-      "source": "Valtioneuvosto",
-      "title": "Vetoomus kaikkein kehittyneimpien tekoälymallien hallinnan puolesta",
-      "url": "https://valtioneuvosto.fi/-/vetoomus-kaikkein-kehittyneimpien-tekoalymallien-hallinnan-puolesta",
-      "date": "2026-09-21",
+      "court": "TSV",
+      "source": "Tietosuojavaltuutetun toimisto",
+      "title": "Tietosuojavaltuutettu antoi uuden päätöksen koulujen sähköistä opetusalustaa koskevassa asiassa",
+      "url": "https://tietosuoja.fi/-/tietosuojavaltuutettu-antoi-uuden-paatoksen-koulujen-sahkoista-opetusalustaa-koskevassa-asiassa",
+      "date": "2026-09-22",
+      "keywords": "",
+      "summary": "",
+      "score": 48,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tärkeä",
+        "tietosuoja",
+        "tietosuojavaltuutet"
+      ]
+    },
+    {
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "Tietosuojavaltuutettu antoi uuden päätöksen koulujen sähköistä opetusalustaa koskevassa asiassa Tietosuojavaltuutettu on arvioinut uudelleen henkilötietojen käsittelyä sähköisellä opetusalustalla Espo",
+      "url": "https://www.edilex.fi/uutiset/103050",
+      "date": "2026-09-22",
+      "keywords": "",
+      "summary": "",
+      "score": 41,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tärkeä",
+        "tietosuoja",
+        "henkilötiet",
+        "tietosuojavaltuutet"
+      ]
+    },
+    {
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "Tekniikan tohtori Antti Roine: Pelkkä tekoälyn ennakkotestaus ei riitä Avoin Presidentti Alexander Stubbin ja Norjan pääministerin Jonas Gahr Støren aloite kehittyneimpien tekoälymallien pakollisesta ",
+      "url": "https://www.edilex.fi/uutiset/103043",
+      "date": "2026-09-22",
       "keywords": "",
       "summary": "",
       "score": 35,
@@ -323,6 +360,34 @@
       "tags": [
         "tärkeä",
         "tekoäly"
+      ]
+    },
+    {
+      "court": "EDPB",
+      "source": "Euroopan tietosuojaneuvosto (EDPB)",
+      "title": "The Spanish DPA fined Securitas Direct 100 000 EUR for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
+      "url": "https://www.edpb.europa.eu/news/the-spanish-dpa-fined-securitas-direct-100-000-eur-for-making-the-exercise-of-data-subject_en",
+      "date": "2026-09-22",
+      "keywords": "",
+      "summary": "ikerinar Tue, 22/09/2026 - 13:21",
+      "score": 23,
+      "topics": [],
+      "tags": []
+    },
+    {
+      "court": "ENISA",
+      "source": "ENISA, uutiset",
+      "title": "Exploring the evolution of the cyber threat landscape: How dependencies weaken our digital resilience",
+      "url": "https://www.enisa.europa.eu/news/exploring-the-evolution-of-the-cyber-threat-landscape-how-dependencies-weaken-our-digital-resilience",
+      "date": "2026-09-22",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "cyber"
       ]
     },
     {
@@ -378,23 +443,6 @@
       ]
     },
     {
-      "court": "VN",
-      "source": "Valtioneuvosto",
-      "title": "Tutkimus- ja innovaationeuvosto kävi läpi kansallisten TKI-valintojen tilannetta ja kutsuu asiantuntijapaneelin arvioimaan tekoälyn vaikutuksia",
-      "url": "https://valtioneuvosto.fi/-/tutkimus-ja-innovaationeuvosto-kavi-lapi-kansallisten-tki-valintojen-tilannetta-ja-kutsuu-asiantuntijapaneelin-arvioimaan-tekoalyn-vaikutuksia",
-      "date": "2026-09-17",
-      "keywords": "",
-      "summary": "",
-      "score": 35,
-      "topics": [
-        "Tekoäly"
-      ],
-      "tags": [
-        "tärkeä",
-        "tekoäly"
-      ]
-    },
-    {
       "court": "VM",
       "source": "Valtiovarainministeriö",
       "title": "Valtiovarainministerit keskustelevat innovaatioista rahoitussektorilla ja tekoälystä",
@@ -410,6 +458,18 @@
         "tärkeä",
         "tekoäly"
       ]
+    },
+    {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "TechDispatch on secure multi-party computation",
+      "url": "https://www.edps.europa.eu/data-protection/our-work/publications/techdispatch/2026-09-17-techdispatch-12026-secure-multi-party-computation_en",
+      "date": "2026-09-17",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [],
+      "tags": []
     },
     {
       "court": "EUT",
@@ -648,23 +708,6 @@
       "tags": []
     },
     {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "Delaware enacts HB 380: Key updates to the Delaware Personal Data Privacy Act",
-      "url": "https://iapp.org/news/a/delaware-enacts-hb-380-key-updates-to-the-delaware-personal-data-privacy-act",
-      "date": "2026-09-09",
-      "keywords": "",
-      "summary": "",
-      "score": 16,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data",
-        "privacy"
-      ]
-    },
-    {
       "court": "Säädöskokoelma",
       "source": "Finlex, säädöskokoelma",
       "title": "791/2026, Laki henkilötietojen käsittelystä Rikosseuraamuslaitoksessa annetun lain muuttamisesta",
@@ -711,22 +754,6 @@
       ],
       "tags": [
         "kyberturvallisuus"
-      ]
-    },
-    {
-      "court": "Hovioikeus",
-      "source": "Hovioikeuksien ratkaisut",
-      "title": "HelHO:2026:8",
-      "url": "https://www.tuomioistuimet.fi/ratkaisut/helho20268/",
-      "date": "2026-09-07",
-      "keywords": "Oikeudenkäynnin julkisuus – Tietopyyntö, Tietosuoja, Väliintulo",
-      "summary": "",
-      "score": 23,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tietosuoja"
       ]
     },
     {
@@ -1259,6 +1286,18 @@
       ]
     },
     {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "EDPS publishes Opinion on proposal to modernise Eurojust",
+      "url": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions/2026-08-11-edps-opinion-192026-regulation-establishment-eurojust-and-repealing-regulation-eu-20181727_en",
+      "date": "2026-08-14",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [],
+      "tags": []
+    },
+    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 33/2026",
@@ -1273,6 +1312,18 @@
       "tags": [
         "kyberturvallisuus"
       ]
+    },
+    {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "EDPS publishes Opinion on Europol proposals",
+      "url": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions/2026-08-11-edps-opinion-182026-regulation-europol-repealing-regulation-eu-2016794_en",
+      "date": "2026-08-13",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [],
+      "tags": []
     },
     {
       "court": "Kyberturvallisuuskeskus",
@@ -1672,22 +1723,6 @@
       ]
     },
     {
-      "court": "Julkaisu",
-      "source": "Osuva (Vaasan yliopisto)",
-      "title": "Typology of transparency as best practice: evidence from facial recognition technologies in Australia",
-      "url": "https://osuva.uwasa.fi/handle/11111/21102",
-      "date": "2026-07-09",
-      "keywords": "facial recognition technologies, best practice, transparency, technology governance, industry self-regulation, public deliberation, fi=Kansainvälinen liiketoiminta|en=International Business|",
-      "summary": "Facial recognition technologies (FRTs) are commonly used in Australia in an under-regulated environment. Only two regulatory mechanisms currently direct FRT use – industry self-regulation and Australia’s privacy laws. Currently, best practices for FRT development and adoption are a key governance mechanism, including the recent guide to FRT privacy risks evaluation published by the Office of the A",
-      "score": 13,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "privacy"
-      ]
-    },
-    {
       "court": "Säädöskokoelma",
       "source": "Finlex, säädöskokoelma",
       "title": "675/2026, Valtioneuvoston asetus henkilötietojen käsittelystä Puolustusvoimissa annetun lain muuttamisesta annetun lain voimaantulosta",
@@ -1830,6 +1865,22 @@
       "tags": [
         "tärkeä",
         "tekoäly"
+      ]
+    },
+    {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "Shaping data protection priorities: EDPS and DPOs join forces in Brussels",
+      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/shaping-data-protection-priorities-edps-and-dpos-join-forces-brussels",
+      "date": "2026-06-18",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "data protection"
       ]
     },
     {

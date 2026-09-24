@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-23T05:24:29",
+  "generated": "2026-09-24T05:24:31",
   "window_days": 120,
   "sources": [
     {
@@ -199,7 +199,7 @@
       "name": "Helda (Helsingin yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 43,
+      "fetched": 42,
       "error": ""
     },
     {
@@ -222,9 +222,9 @@
       "id": "uef",
       "name": "eRepo (Itä-Suomen yliopisto)",
       "court": "Julkaisu",
-      "ok": false,
-      "fetched": 0,
-      "error": "403 Client Error: Forbidden for url: https://erepo.uef.fi/server/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-07-10"
+      "ok": true,
+      "fetched": 18,
+      "error": ""
     },
     {
       "id": "jyx",
@@ -232,7 +232,7 @@
       "court": "Julkaisu",
       "ok": false,
       "fetched": 0,
-      "error": "403 Client Error: Forbidden for url: https://jyx.jyu.fi/dspace-oai//request?verb=ListRecords&resumptionToken=oai_dc%2F2026-07-10T00%3A00%3A00Z%2F%2F%2F100"
+      "error": "403 Client Error: Forbidden for url: https://jyx.jyu.fi/dspace-oai//request?verb=ListRecords&resumptionToken=oai_dc%2F2026-07-11T00%3A00%3A00Z%2F%2F%2F100"
     },
     {
       "id": "doria",
@@ -255,7 +255,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 73,
+      "fetched": 72,
       "error": ""
     },
     {
@@ -311,6 +311,56 @@
     {
       "court": "TSV",
       "source": "Tietosuojavaltuutetun toimisto",
+      "title": "Euroopan tietosuojaneuvosto yhdenmukaistaa seuraamusmaksujen määräämisen arviointia EU:ssa",
+      "url": "https://tietosuoja.fi/-/euroopan-tietosuojaneuvosto-yhdenmukaistaa-seuraamusmaksujen-maaraamisen-arviointia-eu-ssa",
+      "date": "2026-09-23",
+      "keywords": "",
+      "summary": "",
+      "score": 48,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tärkeä",
+        "tietosuoja",
+        "seuraamusmaksu"
+      ]
+    },
+    {
+      "court": "EDPB",
+      "source": "Euroopan tietosuojaneuvosto (EDPB)",
+      "title": "The Irish Data Protection Commission fines Google 403 000 000 EUR following Inquiry into Google’s processing of location data",
+      "url": "https://www.edpb.europa.eu/news/the-irish-data-protection-commission-fines-google-403-000-000-eur-following-inquiry_en",
+      "date": "2026-09-23",
+      "keywords": "",
+      "summary": "ikerinar Wed, 23/09/2026 - 10:35",
+      "score": 23,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "data protection"
+      ]
+    },
+    {
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "Italy's AI framework: Operationalizing the EU AI Act",
+      "url": "https://iapp.org/news/a/italys-ai-framework-operationalizing-the-eu-ai-act",
+      "date": "2026-09-23",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Tekoäly"
+      ],
+      "tags": [
+        "AI Act"
+      ]
+    },
+    {
+      "court": "TSV",
+      "source": "Tietosuojavaltuutetun toimisto",
       "title": "Tietosuojavaltuutettu antoi uuden päätöksen koulujen sähköistä opetusalustaa koskevassa asiassa",
       "url": "https://tietosuoja.fi/-/tietosuojavaltuutettu-antoi-uuden-paatoksen-koulujen-sahkoista-opetusalustaa-koskevassa-asiassa",
       "date": "2026-09-22",
@@ -329,26 +379,25 @@
     {
       "court": "Edilex",
       "source": "Edilex, uutiset",
-      "title": "Tietosuojavaltuutettu antoi uuden päätöksen koulujen sähköistä opetusalustaa koskevassa asiassa Tietosuojavaltuutettu on arvioinut uudelleen henkilötietojen käsittelyä sähköisellä opetusalustalla Espo",
+      "title": "Tietosuojavaltuutettu antoi uuden päätöksen koulujen sähköistä opetusalustaa koskevassa asiassa",
       "url": "https://www.edilex.fi/uutiset/103050",
       "date": "2026-09-22",
       "keywords": "",
       "summary": "",
-      "score": 41,
+      "score": 38,
       "topics": [
         "Tietosuoja"
       ],
       "tags": [
         "tärkeä",
         "tietosuoja",
-        "henkilötiet",
         "tietosuojavaltuutet"
       ]
     },
     {
       "court": "Edilex",
       "source": "Edilex, uutiset",
-      "title": "Tekniikan tohtori Antti Roine: Pelkkä tekoälyn ennakkotestaus ei riitä Avoin Presidentti Alexander Stubbin ja Norjan pääministerin Jonas Gahr Støren aloite kehittyneimpien tekoälymallien pakollisesta ",
+      "title": "Tekniikan tohtori Antti Roine: Pelkkä tekoälyn ennakkotestaus ei riitä Avoin",
       "url": "https://www.edilex.fi/uutiset/103043",
       "date": "2026-09-22",
       "keywords": "",
@@ -429,6 +478,22 @@
     {
       "court": "IAPP",
       "source": "IAPP",
+      "title": "EU AI Act literacy changes may complicate, more than simplify, compliance",
+      "url": "https://iapp.org/news/a/eu-ai-act-literacy-changes-may-complicate-more-than-simplify-compliance",
+      "date": "2026-09-18",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Tekoäly"
+      ],
+      "tags": [
+        "AI Act"
+      ]
+    },
+    {
+      "court": "IAPP",
+      "source": "IAPP",
       "title": "Notes from the IAPP Canada: Stop using privacy as an excuse, treat it as an enabler",
       "url": "https://iapp.org/news/a/notes-from-the-iapp-canada-stop-using-privacy-as-an-excuse-treat-it-as-an-enabler",
       "date": "2026-09-18",
@@ -488,6 +553,35 @@
       ]
     },
     {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "Tripartite agreement for the benefit of Gdynia’s residents 17.09.2026",
+      "url": "https://uodo.gov.pl/en/553/2270",
+      "date": "2026-09-17",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [],
+      "tags": []
+    },
+    {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "Additional inspections by the Personal Data Protection Office at organisations in the healthcare sector 16.09.2026",
+      "url": "https://uodo.gov.pl/en/553/2272",
+      "date": "2026-09-16",
+      "keywords": "",
+      "summary": "",
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data",
+        "data protection"
+      ]
+    },
+    {
       "court": "IAPP",
       "source": "IAPP",
       "title": "Notes from the Asia-Pacific region: AI, privacy and cyber enforcement in Greater China, Hong Kong",
@@ -506,6 +600,23 @@
       ]
     },
     {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "Supreme Administrative Court agrees with the position of the President of the Personal Data Protection Office concerning individuals conducting business activities 15.09.2026",
+      "url": "https://uodo.gov.pl/en/553/2268",
+      "date": "2026-09-15",
+      "keywords": "",
+      "summary": "",
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data",
+        "data protection"
+      ]
+    },
+    {
       "court": "IAPP",
       "source": "IAPP",
       "title": "Truyo launches new warranty program for privacy compliance, AI governance platforms",
@@ -519,6 +630,23 @@
       ],
       "tags": [
         "privacy"
+      ]
+    },
+    {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "The Personal Data Protection Office and the Social Insurance Institution invite you to a seminar in Legnica 14.09.2026",
+      "url": "https://uodo.gov.pl/en/553/2269",
+      "date": "2026-09-14",
+      "keywords": "",
+      "summary": "",
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data",
+        "data protection"
       ]
     },
     {
@@ -664,22 +792,6 @@
       ]
     },
     {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "Autonomous cyberattacks fuel US Congress' AI focus through 2026 midterms and beyond",
-      "url": "https://iapp.org/news/a/autonomous-cyberattacks-fuel-us-congress-ai-focus-through-2026-midterms-and-beyond",
-      "date": "2026-09-10",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "cyber"
-      ]
-    },
-    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Elokuun Kybersää 2026",
@@ -726,8 +838,8 @@
     {
       "court": "UODO",
       "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "The MPs – Waldemar Buda and Michał Woś – were reprimanded for their lack of cooperation with the President of the Personal Data Protection Office 08.09.2026",
-      "url": "https://uodo.gov.pl/en/553/2263",
+      "title": "Personal Data Protection Office experts on data protection in psychological and educational counselling centres 08.09.2026",
+      "url": "https://uodo.gov.pl/en/553/2267",
       "date": "2026-09-08",
       "keywords": "",
       "summary": "",
@@ -737,6 +849,22 @@
       ],
       "tags": [
         "personal data",
+        "data protection"
+      ]
+    },
+    {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "The PL SA and the Centre for Information Technology on data protection and new technologies in public administration 08.09.2026",
+      "url": "https://uodo.gov.pl/en/553/2271",
+      "date": "2026-09-08",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
         "data protection"
       ]
     },
@@ -770,23 +898,6 @@
       ],
       "tags": [
         "artificial intelligence"
-      ]
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "\"Personal Data Protection Office on tour across Poland\" – three active days in Kluczbork, Opole and Wrocław are behind us 07.09.2026",
-      "url": "https://uodo.gov.pl/en/553/2264",
-      "date": "2026-09-07",
-      "keywords": "",
-      "summary": "",
-      "score": 16,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data",
-        "data protection"
       ]
     },
     {
@@ -824,25 +935,6 @@
       ]
     },
     {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "FROM THE AI ACT TO NATIONAL REGULATIONS – The Personal Data Protection Office webinar 04.09.2026",
-      "url": "https://uodo.gov.pl/en/553/2266",
-      "date": "2026-09-04",
-      "keywords": "",
-      "summary": "",
-      "score": 19,
-      "topics": [
-        "Tietosuoja",
-        "Tekoäly"
-      ],
-      "tags": [
-        "AI Act",
-        "personal data",
-        "data protection"
-      ]
-    },
-    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Kyberturvallisuuskeskuksen viikkokatsaus - 36/2026",
@@ -875,42 +967,6 @@
       ]
     },
     {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "Artificial Intelligence and the Law. The Personal Data Protection Office invites you to the third Open Expert Lecture 03.09.2026",
-      "url": "https://uodo.gov.pl/en/553/2262",
-      "date": "2026-09-03",
-      "keywords": "",
-      "summary": "",
-      "score": 19,
-      "topics": [
-        "Tietosuoja",
-        "Tekoäly"
-      ],
-      "tags": [
-        "personal data",
-        "data protection",
-        "artificial intelligence"
-      ]
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "Warsaw Voivodeship Administrative Court upholds the position of the President of the Personal Data Protection Office concerning the reprimand issued to an MP 03.09.2026",
-      "url": "https://uodo.gov.pl/en/553/2261",
-      "date": "2026-09-03",
-      "keywords": "",
-      "summary": "",
-      "score": 16,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data",
-        "data protection"
-      ]
-    },
-    {
       "court": "Julkaisu",
       "source": "Osuva (Vaasan yliopisto)",
       "title": "Navigating the use of AI in the public sector : The complex world of AI ethics and regulation in Finnish municipalities",
@@ -925,23 +981,6 @@
       "tags": [
         "AI Act",
         "artificial intelligence"
-      ]
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "Report on the activities of the President of the Personal Data Protection Office in 2025 01.09.2026",
-      "url": "https://uodo.gov.pl/en/553/2259",
-      "date": "2026-09-01",
-      "keywords": "",
-      "summary": "",
-      "score": 16,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data",
-        "data protection"
       ]
     },
     {
@@ -1184,23 +1223,6 @@
       ],
       "tags": [
         "henkilötiet"
-      ]
-    },
-    {
-      "court": "Edilex",
-      "source": "Edilex, uutiset",
-      "title": "Tekoälyn käytöstä on nyt kerrottava aiempaa avoimemmin – Traficom julkaisi ohjeet uusiin velvoitteisiin Avoin",
-      "url": "https://www.edilex.fi/uutiset/102637",
-      "date": "2026-08-20",
-      "keywords": "",
-      "summary": "",
-      "score": 35,
-      "topics": [
-        "Tekoäly"
-      ],
-      "tags": [
-        "tärkeä",
-        "tekoäly"
       ]
     },
     {

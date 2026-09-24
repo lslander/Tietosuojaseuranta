@@ -4,7 +4,31 @@
 <link>https://lslander.github.io/Tietosuojaseuranta/</link>
 <description>Tietosuoja, teknologia ja datasääntely</description>
 <language>fi</language>
-<lastBuildDate>Wed, 23 Sep 2026 05:24:29 +0000</lastBuildDate>
+<lastBuildDate>Thu, 24 Sep 2026 05:24:31 +0000</lastBuildDate>
+<item>
+<title>TSV: Euroopan tietosuojaneuvosto yhdenmukaistaa seuraamusmaksujen määräämisen arviointia EU:ssa</title>
+<link>https://tietosuoja.fi/-/euroopan-tietosuojaneuvosto-yhdenmukaistaa-seuraamusmaksujen-maaraamisen-arviointia-eu-ssa</link>
+<guid isPermaLink="true">https://tietosuoja.fi/-/euroopan-tietosuojaneuvosto-yhdenmukaistaa-seuraamusmaksujen-maaraamisen-arviointia-eu-ssa</guid>
+<pubDate>Wed, 23 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>EDPB: The Irish Data Protection Commission fines Google 403 000 000 EUR following Inquiry into Google’s processing of location data</title>
+<link>https://www.edpb.europa.eu/news/the-irish-data-protection-commission-fines-google-403-000-000-eur-following-inquiry_en</link>
+<guid isPermaLink="true">https://www.edpb.europa.eu/news/the-irish-data-protection-commission-fines-google-403-000-000-eur-following-inquiry_en</guid>
+<pubDate>Wed, 23 Sep 2026 09:00:00 +0000</pubDate>
+<description>ikerinar Wed, 23/09/2026 - 10:35</description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>IAPP: Italy&#x27;s AI framework: Operationalizing the EU AI Act</title>
+<link>https://iapp.org/news/a/italys-ai-framework-operationalizing-the-eu-ai-act</link>
+<guid isPermaLink="true">https://iapp.org/news/a/italys-ai-framework-operationalizing-the-eu-ai-act</guid>
+<pubDate>Wed, 23 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tekoäly</category>
+</item>
 <item>
 <title>TSV: Tietosuojavaltuutettu antoi uuden päätöksen koulujen sähköistä opetusalustaa koskevassa asiassa</title>
 <link>https://tietosuoja.fi/-/tietosuojavaltuutettu-antoi-uuden-paatoksen-koulujen-sahkoista-opetusalustaa-koskevassa-asiassa</link>
@@ -14,7 +38,7 @@
 <category>Tietosuoja</category>
 </item>
 <item>
-<title>Edilex: Tietosuojavaltuutettu antoi uuden päätöksen koulujen sähköistä opetusalustaa koskevassa asiassa Tietosuojavaltuutettu on arvioinut uudelleen henkilötietojen käsittelyä sähköisellä opetusalustalla Espo</title>
+<title>Edilex: Tietosuojavaltuutettu antoi uuden päätöksen koulujen sähköistä opetusalustaa koskevassa asiassa</title>
 <link>https://www.edilex.fi/uutiset/103050</link>
 <guid isPermaLink="true">https://www.edilex.fi/uutiset/103050</guid>
 <pubDate>Tue, 22 Sep 2026 09:00:00 +0000</pubDate>
@@ -22,7 +46,7 @@
 <category>Tietosuoja</category>
 </item>
 <item>
-<title>Edilex: Tekniikan tohtori Antti Roine: Pelkkä tekoälyn ennakkotestaus ei riitä Avoin Presidentti Alexander Stubbin ja Norjan pääministerin Jonas Gahr Støren aloite kehittyneimpien tekoälymallien pakollisesta </title>
+<title>Edilex: Tekniikan tohtori Antti Roine: Pelkkä tekoälyn ennakkotestaus ei riitä Avoin</title>
 <link>https://www.edilex.fi/uutiset/103043</link>
 <guid isPermaLink="true">https://www.edilex.fi/uutiset/103043</guid>
 <pubDate>Tue, 22 Sep 2026 09:00:00 +0000</pubDate>
@@ -62,6 +86,14 @@
 <category>Kyberturvallisuus</category>
 </item>
 <item>
+<title>IAPP: EU AI Act literacy changes may complicate, more than simplify, compliance</title>
+<link>https://iapp.org/news/a/eu-ai-act-literacy-changes-may-complicate-more-than-simplify-compliance</link>
+<guid isPermaLink="true">https://iapp.org/news/a/eu-ai-act-literacy-changes-may-complicate-more-than-simplify-compliance</guid>
+<pubDate>Fri, 18 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tekoäly</category>
+</item>
+<item>
 <title>IAPP: Notes from the IAPP Canada: Stop using privacy as an excuse, treat it as an enabler</title>
 <link>https://iapp.org/news/a/notes-from-the-iapp-canada-stop-using-privacy-as-an-excuse-treat-it-as-an-enabler</link>
 <guid isPermaLink="true">https://iapp.org/news/a/notes-from-the-iapp-canada-stop-using-privacy-as-an-excuse-treat-it-as-an-enabler</guid>
@@ -93,6 +125,21 @@
 <category>Tietosuoja</category>
 </item>
 <item>
+<title>UODO: Tripartite agreement for the benefit of Gdynia’s residents 17.09.2026</title>
+<link>https://uodo.gov.pl/en/553/2270</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2270</guid>
+<pubDate>Thu, 17 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+</item>
+<item>
+<title>UODO: Additional inspections by the Personal Data Protection Office at organisations in the healthcare sector 16.09.2026</title>
+<link>https://uodo.gov.pl/en/553/2272</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2272</guid>
+<pubDate>Wed, 16 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
 <title>IAPP: Notes from the Asia-Pacific region: AI, privacy and cyber enforcement in Greater China, Hong Kong</title>
 <link>https://iapp.org/news/a/notes-from-the-asia-pacific-region-ai-privacy-and-cyber-enforcement-in-greater-china-hong-kong</link>
 <guid isPermaLink="true">https://iapp.org/news/a/notes-from-the-asia-pacific-region-ai-privacy-and-cyber-enforcement-in-greater-china-hong-kong</guid>
@@ -102,10 +149,26 @@
 <category>Kyberturvallisuus</category>
 </item>
 <item>
+<title>UODO: Supreme Administrative Court agrees with the position of the President of the Personal Data Protection Office concerning individuals conducting business activities 15.09.2026</title>
+<link>https://uodo.gov.pl/en/553/2268</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2268</guid>
+<pubDate>Tue, 15 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
 <title>IAPP: Truyo launches new warranty program for privacy compliance, AI governance platforms</title>
 <link>https://iapp.org/news/a/truyo-launches-new-warranty-program-for-privacy-compliance-ai-governance-platforms</link>
 <guid isPermaLink="true">https://iapp.org/news/a/truyo-launches-new-warranty-program-for-privacy-compliance-ai-governance-platforms</guid>
 <pubDate>Tue, 15 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>UODO: The Personal Data Protection Office and the Social Insurance Institution invite you to a seminar in Legnica 14.09.2026</title>
+<link>https://uodo.gov.pl/en/553/2269</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2269</guid>
+<pubDate>Mon, 14 Sep 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>
 </item>
@@ -181,14 +244,6 @@
 <category>Tietosuoja</category>
 </item>
 <item>
-<title>IAPP: Autonomous cyberattacks fuel US Congress&#x27; AI focus through 2026 midterms and beyond</title>
-<link>https://iapp.org/news/a/autonomous-cyberattacks-fuel-us-congress-ai-focus-through-2026-midterms-and-beyond</link>
-<guid isPermaLink="true">https://iapp.org/news/a/autonomous-cyberattacks-fuel-us-congress-ai-focus-through-2026-midterms-and-beyond</guid>
-<pubDate>Thu, 10 Sep 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
 <title>Kyberturvallisuuskeskus: Elokuun Kybersää 2026</title>
 <link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/elokuun-kybersaa-2026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
 <guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/elokuun-kybersaa-2026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
@@ -212,9 +267,17 @@
 <category>Tietosuoja</category>
 </item>
 <item>
-<title>UODO: The MPs – Waldemar Buda and Michał Woś – were reprimanded for their lack of cooperation with the President of the Personal Data Protection Office 08.09.2026</title>
-<link>https://uodo.gov.pl/en/553/2263</link>
-<guid isPermaLink="true">https://uodo.gov.pl/en/553/2263</guid>
+<title>UODO: Personal Data Protection Office experts on data protection in psychological and educational counselling centres 08.09.2026</title>
+<link>https://uodo.gov.pl/en/553/2267</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2267</guid>
+<pubDate>Tue, 08 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>UODO: The PL SA and the Centre for Information Technology on data protection and new technologies in public administration 08.09.2026</title>
+<link>https://uodo.gov.pl/en/553/2271</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2271</guid>
 <pubDate>Tue, 08 Sep 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>
@@ -236,14 +299,6 @@
 <category>Tekoäly</category>
 </item>
 <item>
-<title>UODO: &quot;Personal Data Protection Office on tour across Poland&quot; – three active days in Kluczbork, Opole and Wrocław are behind us 07.09.2026</title>
-<link>https://uodo.gov.pl/en/553/2264</link>
-<guid isPermaLink="true">https://uodo.gov.pl/en/553/2264</guid>
-<pubDate>Mon, 07 Sep 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
 <title>TSV: Tietosuojavaltuutettu selvittää Kotkamiehen sosiaalisen median videoiden laillisuutta</title>
 <link>https://tietosuoja.fi/-/tietosuojavaltuutettu-selvittaa-kotkamiehen-sosiaalisen-median-videoiden-laillisuutta</link>
 <guid isPermaLink="true">https://tietosuoja.fi/-/tietosuojavaltuutettu-selvittaa-kotkamiehen-sosiaalisen-median-videoiden-laillisuutta</guid>
@@ -258,15 +313,6 @@
 <pubDate>Fri, 04 Sep 2026 09:00:00 +0000</pubDate>
 <description>liikesalaisuus – asianosaisjulkisuuden rajoittaminen oikeushenkilössä</description>
 <category>Julkisuus ja salassapito</category>
-</item>
-<item>
-<title>UODO: FROM THE AI ACT TO NATIONAL REGULATIONS – The Personal Data Protection Office webinar 04.09.2026</title>
-<link>https://uodo.gov.pl/en/553/2266</link>
-<guid isPermaLink="true">https://uodo.gov.pl/en/553/2266</guid>
-<pubDate>Fri, 04 Sep 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-<category>Tekoäly</category>
 </item>
 <item>
 <title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus - 36/2026</title>
@@ -285,37 +331,12 @@
 <category>Tietosuoja</category>
 </item>
 <item>
-<title>UODO: Artificial Intelligence and the Law. The Personal Data Protection Office invites you to the third Open Expert Lecture 03.09.2026</title>
-<link>https://uodo.gov.pl/en/553/2262</link>
-<guid isPermaLink="true">https://uodo.gov.pl/en/553/2262</guid>
-<pubDate>Thu, 03 Sep 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-<category>Tekoäly</category>
-</item>
-<item>
-<title>UODO: Warsaw Voivodeship Administrative Court upholds the position of the President of the Personal Data Protection Office concerning the reprimand issued to an MP 03.09.2026</title>
-<link>https://uodo.gov.pl/en/553/2261</link>
-<guid isPermaLink="true">https://uodo.gov.pl/en/553/2261</guid>
-<pubDate>Thu, 03 Sep 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
 <title>Julkaisu: Navigating the use of AI in the public sector : The complex world of AI ethics and regulation in Finnish municipalities</title>
 <link>https://osuva.uwasa.fi/handle/11111/21234</link>
 <guid isPermaLink="true">https://osuva.uwasa.fi/handle/11111/21234</guid>
 <pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate>
 <description>artificial intelligence, regulation (control), legislation, good governance, public administration, public sector, municipalities, ethics, fi=Julkisen toiminnan johtaminen|en=Public Policy and Management|, fi=Hallintotieteiden maisteriohjelma|en=Master&amp;apos;s Programme in Administrative Sciences|</description>
 <category>Tekoäly</category>
-</item>
-<item>
-<title>UODO: Report on the activities of the President of the Personal Data Protection Office in 2025 01.09.2026</title>
-<link>https://uodo.gov.pl/en/553/2259</link>
-<guid isPermaLink="true">https://uodo.gov.pl/en/553/2259</guid>
-<pubDate>Tue, 01 Sep 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
 </item>
 <item>
 <title>EU-komissio: Commission designates ChatGPT, Reddit, Roblox under Digital Services Act</title>
@@ -436,14 +457,6 @@
 <pubDate>Fri, 21 Aug 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>
-</item>
-<item>
-<title>Edilex: Tekoälyn käytöstä on nyt kerrottava aiempaa avoimemmin – Traficom julkaisi ohjeet uusiin velvoitteisiin Avoin</title>
-<link>https://www.edilex.fi/uutiset/102637</link>
-<guid isPermaLink="true">https://www.edilex.fi/uutiset/102637</guid>
-<pubDate>Thu, 20 Aug 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tekoäly</category>
 </item>
 <item>
 <title>MAO: MAO:387/2026</title>
@@ -625,22 +638,6 @@ Lisäksi tällä viikolla julkaistu heinäkuun Kybersää osoittaa sateisen syks
 <title>Säädöskokoelma: 736/2026, Laki henkilötietojen käsittelystä maahanmuuttohallinnossa annetun lain 13 §:n muuttamisesta</title>
 <link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/736</link>
 <guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/736</guid>
-<pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>Säädöskokoelma: 735/2026, Laki henkilötietojen käsittelystä Puolustusvoimissa annetun lain 29 §:n muuttamisesta</title>
-<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/735</link>
-<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/735</guid>
-<pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>Säädöskokoelma: 732/2026, Laki henkilötietojen käsittelystä Tullissa annetun lain muuttamisesta</title>
-<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/732</link>
-<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/732</guid>
 <pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>

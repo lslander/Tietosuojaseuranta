@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-25T05:24:49",
+  "generated": "2026-09-28T05:27:14",
   "window_days": 120,
   "sources": [
     {
@@ -182,9 +182,9 @@
       "id": "edps",
       "name": "Euroopan tietosuojavaltuutettu (EDPS)",
       "court": "EDPS",
-      "ok": false,
-      "fetched": 0,
-      "error": "403 Client Error: Forbidden for url: https://www.edps.europa.eu/_en"
+      "ok": true,
+      "fetched": 4,
+      "error": ""
     },
     {
       "id": "uodo",
@@ -223,7 +223,7 @@
       "name": "eRepo (Itä-Suomen yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 18,
+      "fetched": 19,
       "error": ""
     },
     {
@@ -232,15 +232,15 @@
       "court": "Julkaisu",
       "ok": false,
       "fetched": 0,
-      "error": "403 Client Error: Forbidden for url: https://jyx.jyu.fi/dspace-oai//request?verb=ListRecords&resumptionToken=oai_dc%2F2026-07-12T00%3A00%3A00Z%2F%2F%2F100"
+      "error": "403 Client Error: Forbidden for url: https://jyx.jyu.fi/dspace-oai//request?verb=ListRecords&resumptionToken=oai_dc%2F2026-07-15T00%3A00%3A00Z%2F%2F%2F100"
     },
     {
       "id": "doria",
       "name": "Doria (mm. Åbo Akademi)",
       "court": "Julkaisu",
-      "ok": true,
-      "fetched": 2,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "error": "526 Server Error: <none> for url: https://www.doria.fi/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-07-15"
     },
     {
       "id": "osuva",
@@ -255,7 +255,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 71,
+      "fetched": 78,
       "error": ""
     },
     {
@@ -279,7 +279,7 @@
       "name": "Kyberturvallisuuskeskus",
       "court": "Kyberturvallisuuskeskus",
       "ok": true,
-      "fetched": 432,
+      "fetched": 431,
       "error": ""
     },
     {
@@ -287,7 +287,7 @@
       "name": "ENISA, uutiset",
       "court": "ENISA",
       "ok": true,
-      "fetched": 13,
+      "fetched": 11,
       "error": ""
     },
     {
@@ -295,7 +295,7 @@
       "name": "ENISA, julkaisut",
       "court": "ENISA",
       "ok": true,
-      "fetched": 11,
+      "fetched": 10,
       "error": ""
     },
     {
@@ -308,6 +308,92 @@
     }
   ],
   "items": [
+    {
+      "court": "VN",
+      "source": "Valtioneuvosto",
+      "title": "Tekoäly ensimmäistä kertaa hyökkäyksen kohteena Kansallisessa kyberharjoituksessa",
+      "url": "https://valtioneuvosto.fi/-/1410829/tekoaly-ensimmaista-kertaa-hyokkayksen-kohteena-kansallisessa-kyberharjoituksessa",
+      "date": "2026-09-28",
+      "keywords": "",
+      "summary": "",
+      "score": 35,
+      "topics": [
+        "Tekoäly",
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "tärkeä",
+        "tekoäly"
+      ]
+    },
+    {
+      "court": "LVM",
+      "source": "Liikenne- ja viestintäministeriö",
+      "title": "Tekoäly ensimmäistä kertaa hyökkäyksen kohteena Kansallisessa kyberharjoituksessa",
+      "url": "https://www.lvm.fi/-/tekoaly-ensimmaista-kertaa-hyokkayksen-kohteena-kansallisessa-kyberharjoituksessa",
+      "date": "2026-09-28",
+      "keywords": "",
+      "summary": "",
+      "score": 35,
+      "topics": [
+        "Tekoäly",
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "tärkeä",
+        "tekoäly"
+      ]
+    },
+    {
+      "court": "VM",
+      "source": "Valtiovarainministeriö",
+      "title": "Julkinen sektori valmistautuu tekoälyn laajamittaiseen hyödyntämiseen",
+      "url": "https://vm.fi/-/julkinen-sektori-valmistautuu-tekoalyn-laajamittaiseen-hyodyntamiseen",
+      "date": "2026-09-25",
+      "keywords": "",
+      "summary": "",
+      "score": 25,
+      "topics": [
+        "Tekoäly"
+      ],
+      "tags": [
+        "tärkeä",
+        "tekoäly"
+      ]
+    },
+    {
+      "court": "Kyberturvallisuuskeskus",
+      "source": "Kyberturvallisuuskeskus",
+      "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 39/2026",
+      "url": "https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-392026?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
+      "date": "2026-09-25",
+      "keywords": "",
+      "summary": "Tällä viikolla kerromme pankkien torjumista huijausyrityksistä ja muistutamme miten suojautua yhä kehittyvämmiltä petoksilta. Lisäksi käsittelemme organisaatioiden kyberturvallisuuden perusasioita, kuten päivitysten merkitystä ja lokitietojen keräämistä, sekä esittelemme uuden uhkamallinnuksen materiaalipaketin. Lopuksi tutustumme ajankohtaisiin huijauksiin ja haavoittuvuustiedotteisiin.",
+      "score": 16,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "kyberturvallisuus",
+        "haavoittuvuus"
+      ]
+    },
+    {
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "Notes from the IAPP Canada: The value of privacy oversight before launch",
+      "url": "https://iapp.org/news/a/notes-from-canada-the-value-of-privacy-oversight-before-launch",
+      "date": "2026-09-25",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "privacy"
+      ]
+    },
     {
       "court": "Edilex",
       "source": "Edilex, uutiset",
@@ -446,41 +532,6 @@
       ]
     },
     {
-      "court": "Edilex",
-      "source": "Edilex, uutiset",
-      "title": "Tietosuojavaltuutettu antoi uuden päätöksen koulujen sähköistä opetusalustaa koskevassa asiassa",
-      "url": "https://www.edilex.fi/uutiset/103050",
-      "date": "2026-09-22",
-      "keywords": "",
-      "summary": "",
-      "score": 38,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tärkeä",
-        "tietosuoja",
-        "tietosuojavaltuutet"
-      ]
-    },
-    {
-      "court": "Edilex",
-      "source": "Edilex, uutiset",
-      "title": "Tekniikan tohtori Antti Roine: Pelkkä tekoälyn ennakkotestaus ei riitä Avoin",
-      "url": "https://www.edilex.fi/uutiset/103043",
-      "date": "2026-09-22",
-      "keywords": "",
-      "summary": "",
-      "score": 35,
-      "topics": [
-        "Tekoäly"
-      ],
-      "tags": [
-        "tärkeä",
-        "tekoäly"
-      ]
-    },
-    {
       "court": "EDPB",
       "source": "Euroopan tietosuojaneuvosto (EDPB)",
       "title": "The Spanish DPA fined Securitas Direct 100 000 EUR for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
@@ -594,6 +645,18 @@
       ]
     },
     {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "TechDispatch on secure multi-party computation",
+      "url": "https://www.edps.europa.eu/data-protection/our-work/publications/techdispatch/2026-09-17-techdispatch-12026-secure-multi-party-computation_en",
+      "date": "2026-09-17",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [],
+      "tags": []
+    },
+    {
       "court": "EUT",
       "source": "Unionin tuomioistuimen lehdistötiedotteet",
       "title": "130/2026 : 17 September 2026 - Opinion of the Advocate General to the Court of Justice Dean Spielmann in Case C-317/25",
@@ -671,22 +734,6 @@
       "tags": [
         "personal data",
         "data protection"
-      ]
-    },
-    {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "Truyo launches new warranty program for privacy compliance, AI governance platforms",
-      "url": "https://iapp.org/news/a/truyo-launches-new-warranty-program-for-privacy-compliance-ai-governance-platforms",
-      "date": "2026-09-15",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "privacy"
       ]
     },
     {
@@ -1349,6 +1396,18 @@
       ]
     },
     {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "EDPS publishes Opinion on proposal to modernise Eurojust",
+      "url": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions/2026-08-11-edps-opinion-192026-regulation-establishment-eurojust-and-repealing-regulation-eu-20181727_en",
+      "date": "2026-08-14",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [],
+      "tags": []
+    },
+    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 33/2026",
@@ -1363,6 +1422,18 @@
       "tags": [
         "kyberturvallisuus"
       ]
+    },
+    {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "EDPS publishes Opinion on Europol proposals",
+      "url": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions/2026-08-11-edps-opinion-182026-regulation-europol-repealing-regulation-eu-2016794_en",
+      "date": "2026-08-13",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [],
+      "tags": []
     },
     {
       "court": "Kyberturvallisuuskeskus",
@@ -1907,6 +1978,22 @@
       ]
     },
     {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "Shaping data protection priorities: EDPS and DPOs join forces in Brussels",
+      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/shaping-data-protection-priorities-edps-and-dpos-join-forces-brussels",
+      "date": "2026-06-18",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "data protection"
+      ]
+    },
+    {
       "court": "TSV",
       "source": "Tietosuojavaltuutetun toimisto",
       "title": "Korkein hallinto-oikeus piti voimassa Verkkokauppa.comille määrätyn seuraamusmaksun tietosuojarikkomuksista",
@@ -2091,39 +2178,6 @@
       "tags": [
         "tärkeä",
         "seuraamusmaksu"
-      ]
-    },
-    {
-      "court": "Kyberturvallisuuskeskus",
-      "source": "Kyberturvallisuuskeskus",
-      "title": "Kyberturvallisuuskeskuksen viikkokatsaus - 22/2026",
-      "url": "https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-222026?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
-      "date": "2026-05-29",
-      "keywords": "",
-      "summary": "Viikkokatsauksessa kerromme Traficomin nimissä liikkeellä olleista huijausviesteistä ja kuinka uudistettu Hyöky-palvelu kannustaa vahvistamaan oman verkon turvallisuutta. EU:n kyberkestävyyssäädöksen voimaantulo tuo mukanaan uusia velvoitteita, joista kerrotaan tarkemmin 3.6. järjestettävässä infotilaisuudessa.",
-      "score": 16,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "kyberturvallisuus",
-        "kyberkestävyy"
-      ]
-    },
-    {
-      "court": "TSV",
-      "source": "Tietosuojavaltuutetun toimisto",
-      "title": "Pohjoismaiden tietosuojaviranomaiset keskustelivat digisääntelyn riskilähtöisen täytäntöönpanon merkityksestä",
-      "url": "https://tietosuoja.fi/-/pohjoismaiden-tietosuojaviranomaiset-keskustelivat-digisaantelyn-riskilahtoisen-taytantoonpanon-merkityksesta",
-      "date": "2026-05-28",
-      "keywords": "",
-      "summary": "",
-      "score": 33,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tietosuoja"
       ]
     }
   ]

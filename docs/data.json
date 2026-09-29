@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-28T05:27:14",
+  "generated": "2026-09-29T05:26:35",
   "window_days": 120,
   "sources": [
     {
@@ -71,7 +71,7 @@
       "name": "Unionin tuomioistuin (EUT ja unionin yleinen tuomioistuin)",
       "court": "EUT",
       "ok": true,
-      "fetched": 11,
+      "fetched": 10,
       "error": ""
     },
     {
@@ -182,9 +182,9 @@
       "id": "edps",
       "name": "Euroopan tietosuojavaltuutettu (EDPS)",
       "court": "EDPS",
-      "ok": true,
-      "fetched": 4,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "error": "403 Client Error: Forbidden for url: https://www.edps.europa.eu/_en"
     },
     {
       "id": "uodo",
@@ -232,15 +232,15 @@
       "court": "Julkaisu",
       "ok": false,
       "fetched": 0,
-      "error": "403 Client Error: Forbidden for url: https://jyx.jyu.fi/dspace-oai//request?verb=ListRecords&resumptionToken=oai_dc%2F2026-07-15T00%3A00%3A00Z%2F%2F%2F100"
+      "error": "403 Client Error: Forbidden for url: https://jyx.jyu.fi/dspace-oai//request?verb=ListRecords&resumptionToken=oai_dc%2F2026-07-16T00%3A00%3A00Z%2F%2F%2F100"
     },
     {
       "id": "doria",
       "name": "Doria (mm. Åbo Akademi)",
       "court": "Julkaisu",
-      "ok": false,
-      "fetched": 0,
-      "error": "526 Server Error: <none> for url: https://www.doria.fi/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-07-15"
+      "ok": true,
+      "fetched": 2,
+      "error": ""
     },
     {
       "id": "osuva",
@@ -255,7 +255,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 78,
+      "fetched": 77,
       "error": ""
     },
     {
@@ -309,10 +309,10 @@
   ],
   "items": [
     {
-      "court": "VN",
-      "source": "Valtioneuvosto",
+      "court": "LVM",
+      "source": "Liikenne- ja viestintäministeriö",
       "title": "Tekoäly ensimmäistä kertaa hyökkäyksen kohteena Kansallisessa kyberharjoituksessa",
-      "url": "https://valtioneuvosto.fi/-/1410829/tekoaly-ensimmaista-kertaa-hyokkayksen-kohteena-kansallisessa-kyberharjoituksessa",
+      "url": "https://www.lvm.fi/-/tekoaly-ensimmaista-kertaa-hyokkayksen-kohteena-kansallisessa-kyberharjoituksessa",
       "date": "2026-09-28",
       "keywords": "",
       "summary": "",
@@ -327,17 +327,16 @@
       ]
     },
     {
-      "court": "LVM",
-      "source": "Liikenne- ja viestintäministeriö",
-      "title": "Tekoäly ensimmäistä kertaa hyökkäyksen kohteena Kansallisessa kyberharjoituksessa",
-      "url": "https://www.lvm.fi/-/tekoaly-ensimmaista-kertaa-hyokkayksen-kohteena-kansallisessa-kyberharjoituksessa",
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "Apulaisoikeusasiamies selvittää tekoälyn käyttöä viranomaistehtävissä",
+      "url": "https://www.edilex.fi/uutiset/103121",
       "date": "2026-09-28",
       "keywords": "",
       "summary": "",
       "score": 35,
       "topics": [
-        "Tekoäly",
-        "Kyberturvallisuus"
+        "Tekoäly"
       ],
       "tags": [
         "tärkeä",
@@ -392,24 +391,6 @@
       ],
       "tags": [
         "privacy"
-      ]
-    },
-    {
-      "court": "Edilex",
-      "source": "Edilex, uutiset",
-      "title": "Euroopan tietosuojaneuvosto yhdenmukaistaa seuraamusmaksujen määräämisen arviointia EU:ssa – ohjeluonnoksesta voi antaa palautetta 13.11.2026 saakka",
-      "url": "https://www.edilex.fi/uutiset/103073",
-      "date": "2026-09-24",
-      "keywords": "",
-      "summary": "",
-      "score": 38,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tärkeä",
-        "tietosuoja",
-        "seuraamusmaksu"
       ]
     },
     {
@@ -643,18 +624,6 @@
         "tärkeä",
         "tekoäly"
       ]
-    },
-    {
-      "court": "EDPS",
-      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
-      "title": "TechDispatch on secure multi-party computation",
-      "url": "https://www.edps.europa.eu/data-protection/our-work/publications/techdispatch/2026-09-17-techdispatch-12026-secure-multi-party-computation_en",
-      "date": "2026-09-17",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [],
-      "tags": []
     },
     {
       "court": "EUT",
@@ -1314,22 +1283,6 @@
       ]
     },
     {
-      "court": "MAO",
-      "source": "Markkinaoikeus",
-      "title": "MAO:387/2026",
-      "url": "https://www.markkinaoikeus.fi/ratkaisut/ratkaisujen-arkisto/mao387-2026/",
-      "date": "2026-08-20",
-      "keywords": "liikesalaisuus – väliaikainen kielto",
-      "summary": "",
-      "score": 23,
-      "topics": [
-        "Julkisuus ja salassapito"
-      ],
-      "tags": [
-        "liikesalaisuu"
-      ]
-    },
-    {
       "court": "Julkaisu",
       "source": "Osuva (Vaasan yliopisto)",
       "title": "Who Is Really Playing in the Sandbox?",
@@ -1396,18 +1349,6 @@
       ]
     },
     {
-      "court": "EDPS",
-      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
-      "title": "EDPS publishes Opinion on proposal to modernise Eurojust",
-      "url": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions/2026-08-11-edps-opinion-192026-regulation-establishment-eurojust-and-repealing-regulation-eu-20181727_en",
-      "date": "2026-08-14",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [],
-      "tags": []
-    },
-    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 33/2026",
@@ -1422,18 +1363,6 @@
       "tags": [
         "kyberturvallisuus"
       ]
-    },
-    {
-      "court": "EDPS",
-      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
-      "title": "EDPS publishes Opinion on Europol proposals",
-      "url": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions/2026-08-11-edps-opinion-182026-regulation-europol-repealing-regulation-eu-2016794_en",
-      "date": "2026-08-13",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [],
-      "tags": []
     },
     {
       "court": "Kyberturvallisuuskeskus",
@@ -1975,22 +1904,6 @@
       "tags": [
         "tärkeä",
         "tekoäly"
-      ]
-    },
-    {
-      "court": "EDPS",
-      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
-      "title": "Shaping data protection priorities: EDPS and DPOs join forces in Brussels",
-      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/shaping-data-protection-priorities-edps-and-dpos-join-forces-brussels",
-      "date": "2026-06-18",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "data protection"
       ]
     },
     {

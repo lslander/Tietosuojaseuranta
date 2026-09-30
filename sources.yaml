@@ -38,15 +38,15 @@ keywords:
     - biometri
     - evästeet
     - verkkojäljit
-    # --- sähköinen viestintä ---
-    - sähköisen viestinnän
-    - sähköinen viestintä
-    - televiestint
+    # Viestintäsalaisuus on perusoikeus eikä telemarkkinasääntelyä, joten se
+    # jää tietosuojalohkoon vaikka muu sähköisen viestinnän termistö poistui.
     - viestintäsalaisuu
-    - verkkotunnus
-    - teletoiminta
-    # --- tekoäly ja datasääntely ---
-    - tekoäly
+    # --- datasääntely ---
+    # Pelkkä sana "tekoäly" on poistettu tarkoituksella. Se osui jokaiseen
+    # ministeriön ja viraston tiedotteeseen, jossa mainittiin chatbotti tai
+    # kyberharjoitus, ja boost-listalla ollessaan se nosti ne vielä
+    # "tärkeä"-luokkaan. Tilalle jäivät vain sääntelyyn viittaavat ilmaukset,
+    # joten tekoälyasetusta koskevat jutut tulevat edelleen mukaan.
     - "2024/1689"
     - AI Act
     - tekoälyasetus
@@ -73,16 +73,9 @@ keywords:
     - huijausviesti
     - palvelunestohyökkäys
     - kiristyshaittaohjelma
-    # --- muut ---
-    - liikesalaisuu
-    - julkisuuslaki
-    - asiakirjajulkisuus
-    - valvonta työpaikalla
     # --- englanti ---
     - personal data
     - data protection
-    - artificial intelligence
-    - electronic communications
     - privacy
     - cyber
     - data governance
@@ -91,7 +84,6 @@ keywords:
     - hallinnollinen seuraamusmaksu
     - seuraamusmaksu
     - "2016/679"
-    - tekoäly
     - "2024/1689"
     - tietoturvaloukkaus
     - tietomurto
@@ -133,16 +125,13 @@ topics:
     - verkkojäljit
     - vaikutustenarviointi
     - yksityiselämän suoja
+    # Viestintäsalaisuus on perusoikeus, joten se kuuluu tietosuojaluokkaan.
+    # Muu sähköisen viestinnän termistö poistui omana luokkanaan, koska se
+    # nosti esiin telemarkkinointia ja kuluttajasopimuksia.
+    - viestintäsalaisuu
     - personal data
     - data protection
     - privacy
-  Tekoäly:
-    - tekoäly
-    - tekoälyasetus
-    - ai act
-    - "2024/1689"
-    - artificial intelligence
-    - automaattinen päätöksenteko
   Kyberturvallisuus:
     - kyber
     - cyber
@@ -166,19 +155,12 @@ topics:
     - dma
     - alustasääntely
     - data governance
-  Sähköinen viestintä:
-    - sähköisen viestinnän
-    - sähköinen viestintä
-    - televiestint
-    - viestintäsalaisuu
-    - verkkotunnus
-    - teletoiminta
-    - electronic communications
-  Julkisuus ja salassapito:
-    - julkisuuslaki
-    - asiakirjajulkisuus
-    - liikesalaisuu
-    - valvonta työpaikalla
+    # Tekoäly ei ole enää oma luokkansa, koska pelkkä sana osui jokaiseen
+    # chatbottitiedotteeseen. Tekoälyasetus on sääntelyä, joten sen
+    # tunnisteet ovat täällä ja AI Act -jutut saavat edelleen aihetunnisteen.
+    - tekoälyasetus
+    - ai act
+    - "2024/1689"
   Digitaalinen identiteetti:
     - eidas
     - digitaalinen identiteetti
@@ -187,19 +169,31 @@ sources:
   # ===================================================================
   # Luku 1 ja 2: KKO ja KHO
   # ===================================================================
-  - id: kko
-    name: "Korkein oikeus"
-    type: wp_rss
+  # Kaikki oikeusasteet luetaan tuomioistuimet.fi:n ratkaisusivuilta
+  # (https://www.tuomioistuimet.fi/tuomioistuinten-ratkaisut/) eikä enää
+  # kunkin tuomioistuimen omasta WordPress-syötteestä. Syy on asiasanat:
+  # ratkaisukortilla on tuomioistuimen itsensä antama luettelo, esimerkiksi
+  # "Tietosuoja – Asiakirjajulkisuus – Asiakastietolaki", ja se osuu
+  # avainsanasuodatukseen selvästi tarkemmin kuin RSS-syötteen pelkkä
+  # otsikko. Linkit osoittavat samaan URL-osoitteeseen kuin vanhat syötteet,
+  # joten mikään ei tule mukaan kahteen kertaan.
+  #
+  # Sivuilta puuttuu käräjäoikeus tarkoituksella: tuomioistuimet.fi ei
+  # julkaise käräjäoikeuksien ratkaisuja tällä listalla lainkaan. Nämä
+  # seitsemän ovat siis kaikki oikeusasteet paitsi käräjäoikeus.
+  - id: kko-ratkaisut
+    name: "Korkeimman oikeuden ennakkopäätökset"
+    type: court_rulings
     court: "KKO"
     weight: 3
-    url: "https://korkeinoikeus.fi/feed/rss-feed?post_type=ratkaisu"
+    url: "https://www.tuomioistuimet.fi/tuomioistuinten-ratkaisut/korkeimman-oikeuden-ennakkopaatokset/"
 
-  - id: kho
-    name: "Korkein hallinto-oikeus"
-    type: wp_rss
+  - id: kho-ratkaisut
+    name: "Korkeimman hallinto-oikeuden ennakkopäätökset"
+    type: court_rulings
     court: "KHO"
     weight: 3
-    url: "https://www.kho.fi/feed/rss-feed?post_type=ratkaisut"
+    url: "https://www.tuomioistuimet.fi/tuomioistuinten-ratkaisut/korkeimman-hallinto-oikeuden-ennakkopaatokset/"
 
   # ===================================================================
   # Luku 3 ja 4: hovioikeudet ja erityistuomioistuimet
@@ -240,13 +234,7 @@ sources:
       - match: ["käräjäoikeu"]
         label: "Käräjäoikeus"
 
-  # Tuomioistuimet.fi:n omat ratkaisulistat, eri sivu kuin yllä oleva
-  # ajankohtaissyöte. Näillä sivuilla on oikeita ratkaisuselosteita
-  # tiedotteiden sijaan, ja jokaisella kortilla on tuomioistuimen itsensä
-  # antama, tarkka asiasanaluettelo (esim. "Tietosuoja – Asiakirjajulkisuus
-  # – Asiakastietolaki"), joka toimii keywords-kenttänä ja tekee
-  # avainsanasuodatuksesta osuvampaa kuin ajankohtaissyötteellä. Sivu listaa
-  # ratkaisuja kaikista aihepiireistä, ei vain tietosuojasta.
+  # Alemmat oikeusasteet ja erityistuomioistuimet samalta ratkaisusivustolta.
   - id: hao-ratkaisut
     name: "Hallinto-oikeuksien ratkaisut"
     type: court_rulings
@@ -261,26 +249,26 @@ sources:
     weight: 2
     url: "https://www.tuomioistuimet.fi/tuomioistuinten-ratkaisut/hovioikeuksien-ratkaisut/"
 
-  - id: mao
-    name: "Markkinaoikeus"
-    type: wp_rss
+  - id: mao-ratkaisut
+    name: "Markkinaoikeuden ratkaisut"
+    type: court_rulings
     court: "MAO"
     weight: 2
-    url: "https://www.markkinaoikeus.fi/feed/rss-feed?post_type=ratkaisu"
+    url: "https://www.tuomioistuimet.fi/tuomioistuinten-ratkaisut/markkinaoikeuden-ratkaisut/"
 
-  - id: tt
-    name: "Työtuomioistuin"
-    type: wp_rss
+  - id: tt-ratkaisut
+    name: "Työtuomioistuimen ratkaisut"
+    type: court_rulings
     court: "TT"
     weight: 1
-    url: "https://www.tyotuomioistuin.fi/feed/rss-feed?post_type=ratkaisu"
+    url: "https://www.tuomioistuimet.fi/tuomioistuinten-ratkaisut/tyotuomioistuimen-ratkaisut/"
 
-  - id: vako
-    name: "Vakuutusoikeus"
-    type: wp_rss
+  - id: vako-ratkaisut
+    name: "Vakuutusoikeuden ratkaisut"
+    type: court_rulings
     court: "VakO"
     weight: 1
-    url: "https://www.vakuutusoikeus.fi/feed/rss-feed?post_type=ratkaisu"
+    url: "https://www.tuomioistuimet.fi/tuomioistuinten-ratkaisut/vakuutusoikeuden-ratkaisut/"
 
   # ===================================================================
   # Luku 5: EU-tuomioistuin ja EU:n säädösvalmistelu
@@ -323,15 +311,15 @@ sources:
       - biometri
       - evästeet
       - verkkojäljit
-      - sähköisen viestinnän
-      - sähköinen viestintä
-      - televiestint
+      # Sähköisen viestinnän yleiset termit on poistettu. Ne päästivät läpi
+      # esimerkiksi asian C-669/24, joka koski teleoperaattorin
+      # kuluttajasopimuksen muutosta eikä henkilötietoja lainkaan. Pelkkä
+      # "tekoäly" on poistettu samasta syystä, mutta tekoälyasetuksen
+      # tunnisteet ovat jäljellä.
       - viestintäsalaisuu
-      - verkkotunnus
-      - teletoiminta
-      - tekoäly
       - "2024/1689"
       - ai act
+      - tekoälyasetus
       - data act
       - datasäädös
       - datan hallinnointi
@@ -350,8 +338,6 @@ sources:
       - tietomurto
       - personal data
       - data protection
-      - artificial intelligence
-      - electronic communications
       - privacy
       - cyber
       - data governance
@@ -451,15 +437,10 @@ sources:
     url: "https://oikeusministerio.fi/ajankohtaista"
     link_pattern: "oikeusministerio\\.fi/-/"
 
-  - id: lvm
-    name: "Liikenne- ja viestintäministeriö"
-    type: html_list
-    court: "LVM"
-    weight: 2
-    optional: true
-    url: "https://www.lvm.fi/tiedotteet"
-    link_pattern: "lvm\\.fi/-/"
-
+  # Liikenne- ja viestintäministeriö poistettiin seurannasta, koska sen
+  # tiedotteet käsittelevät liikennepolitiikkaa ja teletoimintaa eivätkä
+  # tietosuojaa. Viestintäsääntelyn tietosuojapuoli tulee Traficomilta ja
+  # tietosuojavaltuutetun toimistolta.
   - id: tem
     name: "Työ- ja elinkeinoministeriö"
     type: plain_rss
@@ -468,16 +449,9 @@ sources:
     optional: true
     url: "https://tem.fi/etusivu/-/asset_publisher/PuQeVCwBv2KT/rss"
 
-  # Valtiovarainministeriö vastaa julkisen hallinnon tiedonhallinnasta ja
-  # digitalisaatiosta, eli tiedonhallintalaista ja digitaalisesta
-  # henkilöllisyystodistuksesta.
-  - id: vm
-    name: "Valtiovarainministeriö"
-    type: plain_rss
-    court: "VM"
-    weight: 1
-    optional: true
-    url: "https://vm.fi/ajankohtaista/-/asset_publisher/RhzFRyKj5aHx/rss"
+  # Valtiovarainministeriö poistettiin seurannasta. Sen syöte on valtaosin
+  # budjetti- ja verotiedotteita, ja tiedonhallintalain muutokset tulevat
+  # joka tapauksessa Finlexin säädöskokoelmasta ja HE-osastosta.
 
   # ===================================================================
   # Luku 7: tietosuojaviranomaiset
@@ -595,6 +569,30 @@ sources:
       - regulation
       - GDPR
       - tietosuoja
+
+  # Helsingin yliopiston oikeustieteellisen tiedekunnan oma kokoelma omana
+  # lähteenään, jotta tiedekunnan julkaisut eivät jää yllä olevan laajan
+  # haun sattuman varaan. Kokoelman verkko-osoitteessa näkyvä UUID
+  # 59639589-499c-4e56-8090-1c6a6a2daa8f ei ole sama asia kuin OAI:n
+  # setSpec, vaan se pitää kääntää kokoelman handlen kautta: REST-rajapinta
+  # /server/api/core/collections/<uuid> antaa handlen 10138/18071, ja siitä
+  # setSpec muodostuu muotoon col_10138_18071.
+  #
+  # Tässä ei ole require_any-rajausta, koska koko kokoelma on jo
+  # oikeustieteellinen ja yleinen must_any-suodatus hoitaa aiherajauksen.
+  # Lookback on pidempi kuin muilla, koska väitöskirjoja ja artikkeleita
+  # ilmestyy harvakseltaan.
+  - id: helda-oikeustiede
+    name: "Helda, oikeustieteellinen tiedekunta"
+    type: oai_pmh
+    court: "Julkaisu"
+    weight: 1
+    optional: true
+    url: "https://helda.helsinki.fi/server/oai/request"
+    oai_set: "col_10138_18071"
+    lookback_days: 120
+    max_pages: 5
+    type_contains: *julkaisutyypit
 
   - id: lauda
     name: "Lauda (Lapin yliopisto)"
@@ -749,14 +747,7 @@ sources:
     url: "https://www.enisa.europa.eu/publications"
     link_pattern: "enisa\\.europa\\.eu/publications/"
 
-  # Sisäministeriö vastaa kansallisesta kyberturvallisuusstrategiasta ja
-  # sen alaisuudessa valmistellaan poliisin tiedonsaantia koskevat
-  # lainsäädäntöhankkeet.
-  - id: intermin
-    name: "Sisäministeriö"
-    type: html_list
-    court: "SM"
-    weight: 1
-    optional: true
-    url: "https://intermin.fi/ajankohtaista"
-    link_pattern: "intermin\\.fi/-/"
+  # Sisäministeriö poistettiin seurannasta. Sen tiedotteet koskevat
+  # pääosin maahanmuuttoa, pelastustointa ja poliisin toimivaltuuksia,
+  # eivät tietosuojaa. Kyberturvallisuuspuoli tulee Kybertuvallisuuskeskuk-
+  # selta, Traficomilta ja ENISA:lta.

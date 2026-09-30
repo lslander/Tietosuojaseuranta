@@ -475,11 +475,26 @@ def _clean_card_text(text: str) -> str:
 # eikä require_any-asetusta: pelkkä yleinen must_any-suodatus riittää.
 def fetch_court_rulings(source: dict) -> list[Item]:
     soup = BeautifulSoup(_get(source).text, "html.parser")
-    card_selector = source.get("card_selector", "div.content-lift")
+    # Valitsimessa ei lue elementin nimeä, koska tuomioistuimet.fi vaihtoi
+    # korttien kehyksen div:stä li:ksi ja div.content-lift lakkasi täsmäämästä
+    # ilman virhettä. Pelkkä luokka kestää senkin, jos kehys vaihtuu vielä.
+    card_selector = source.get("card_selector", ".content-lift")
+
+    # Nollatulos on aina virhe eikä tyhjä ratkaisulista. Ratkaisusivuilla on
+    # jatkuvasti 15-100 korttia, joten tyhjä tulos tarkoittaa käytännössä
+    # sitä, että sivun rakenne on muuttunut. Ilman tätä tarkistusta lähde
+    # näkyi raportissa vihreänä ja onnistuneena, vaikka kaksi oikeusastetta
+    # oli kadonnut feedistä kokonaan. Nyt lähde muuttuu punaiseksi heti.
+    cards = soup.select(card_selector)
+    if not cards:
+        raise RuntimeError(
+            f"valitsin {card_selector!r} ei löytänyt yhtään korttia, "
+            "sivun rakenne on todennäköisesti muuttunut"
+        )
 
     seen: set[str] = set()
     items: list[Item] = []
-    for card in soup.select(card_selector):
+    for card in cards:
         a = card.find("a", href=True)
         if a is None:
             continue

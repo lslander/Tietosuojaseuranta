@@ -1,7 +1,7 @@
 # Oikeustapausseuranta
 
 Henkilökohtainen uutisvirta tietosuojaa, teknologiaa ja datasääntelyä koskevista
-ratkaisuista. Python-skripti hakee aineiston 40 lähteestä, suodattaa sen
+ratkaisuista. Python-skripti hakee aineiston 36 lähteestä, suodattaa sen
 avainsanoilla ja kirjoittaa staattisen verkkosivun. GitHub Actions ajaa haun
 arkisin aamulla ja GitHub Pages julkaisee sivun.
 
@@ -27,13 +27,27 @@ katetuksi automaattisesti:
 
 | Aihe | Lähteet |
 |---|---|
-| Kansallinen oikeuskäytäntö | KKO, KHO, markkinaoikeus, vakuutusoikeus, työtuomioistuin, tuomioistuinlaitoksen yhteinen ajankohtaissyöte (kaikki oikeusasteet tiedotteina), hallinto-oikeuksien ratkaisulista, hovioikeuksien ratkaisulista |
+| Kansallinen oikeuskäytäntö | tuomioistuimet.fi:n ratkaisulistat seitsemästä oikeusasteesta: KKO, KHO, hovioikeudet, hallinto-oikeudet, markkinaoikeus, työtuomioistuin, vakuutusoikeus. Lisäksi tuomioistuinlaitoksen yhteinen ajankohtaissyöte, joka tuo myös käräjäoikeuksien tiedotteet. |
 | EU | unionin tuomioistuin (SPARQL), curia-tiedotteet, komission digitaalinen strategia, Euroopan parlamentti |
-| Säädösvalmistelu | Finlexin säädöskokoelma, Finlexin hallituksen esitykset, valtioneuvosto, oikeusministeriö, LVM, TEM, VM |
+| Säädösvalmistelu | Finlexin säädöskokoelma, Finlexin hallituksen esitykset, valtioneuvosto, oikeusministeriö, TEM |
 | Valvontaviranomaiset | tietosuojavaltuutettu, Traficom, EDPB, EDPS, Puolan UODO |
-| Oikeudelliset julkaisut | Helda, Lauda, UTUPub, UEF eRepo, JYX, Doria, Osuva |
+| Oikeudelliset julkaisut | Helda (koko arkisto ja oikeustieteellisen tiedekunnan kokoelma erikseen), Lauda, UTUPub, UEF eRepo, JYX, Doria, Osuva |
 | Muut uutiset ja blogit | Edilex, IAPP, Asianajajaliitto |
-| Kyberturvallisuus | Kyberturvallisuuskeskus, ENISA (uutiset ja julkaisut), sisäministeriö |
+| Kyberturvallisuus | Kyberturvallisuuskeskus, ENISA (uutiset ja julkaisut) |
+
+Kansallinen oikeuskäytäntö luetaan tuomioistuimet.fi:n ratkaisusivuilta eikä
+kunkin tuomioistuimen omasta RSS-syötteestä. Syy on asiasanat: ratkaisukortilla
+on tuomioistuimen itsensä antama luettelo, esimerkiksi "Tietosuoja –
+Asiakirjajulkisuus – Asiakastietolaki", ja se osuu avainsanasuodatukseen
+tarkemmin kuin pelkkä otsikko. Käräjäoikeuksien ratkaisuja tuomioistuimet.fi ei
+julkaise tällä listalla lainkaan, joten ne tulevat vain tiedotteina
+ajankohtaissyötteestä.
+
+Valtiovarainministeriö, liikenne- ja viestintäministeriö sekä sisäministeriö
+poistettiin lähteistä, koska niiden tiedotteet käsittelivät pääosin budjettia,
+liikennepolitiikkaa ja maahanmuuttoa. Tiedonhallintalain ja sähköisen
+viestinnän lain muutokset tulevat joka tapauksessa Finlexin säädöskokoelmasta
+ja HE-osastosta.
 
 Asianajotoimistojen omat julkaisut (Roschier, Hannes Snellman, Castrén &
 Snellman, Krogerus) on poistettu lähteistä tietoisesti, sivu keskittyy
@@ -70,7 +84,7 @@ pip install -r requirements.txt
 
 python main.py --dry-run          # näyttää osumat, ei kirjoita tiedostoja
 python main.py                    # kirjoittaa docs-kansion
-python main.py --only kko,kho     # vain valitut lähteet
+python main.py --only kko-ratkaisut,kho-ratkaisut   # vain valitut lähteet
 python main.py -v                 # enemmän lokia
 ```
 
@@ -111,7 +125,17 @@ Näiden lisäksi on kolme lähdekohtaista asetusta, jotka toimivat eri tasolla:
 `sources.yaml` sisältää `topics`-lohkon, joka on aiheluokan nimi ja lista
 termejä. Juttu saa kaikki ne luokat, joiden termeistä vähintään yksi osuu.
 Sama juttu voi kuulua useaan luokkaan, koska tietosuojavaltuutetun ratkaisu
-kasvojentunnistuksesta on sekä tietosuojaa että tekoälyä.
+kasvojentunnistuksesta on sekä tietosuojaa että datasääntelyä.
+
+Luokkia on neljä: Tietosuoja, Kyberturvallisuus, Datasääntely ja
+Digitaalinen identiteetti. Aiemmat luokat Tekoäly, Sähköinen viestintä sekä
+Julkisuus ja salassapito poistettiin, koska ne toivat feediin juttuja, jotka
+eivät liity tietosuojaan. Pelkkä sana "tekoäly" osui jokaiseen
+chatbottitiedotteeseen, sähköisen viestinnän termit päästivät läpi
+teleoperaattorien kuluttajasopimusriitoja ja julkisuusluokka toi
+liikesalaisuutta koskevia prosessiratkaisuja. Tekoälyasetuksen tunnisteet
+(`ai act`, `tekoälyasetus`, `2024/1689`) siirrettiin Datasääntelyyn, joten
+AI Actia koskevat jutut tulevat edelleen mukaan.
 
 Luokat näkyvät sivulla omana nappirivinään lähdenappien yläpuolella ja
 RSS-syötteessä `<category>`-elementteinä. Sivulla lähde- ja aihesuodatus
@@ -255,14 +279,19 @@ merkittävimmät ratkaisut uutisina.
   oikeusasteen juttu on kyseessä (myös taivutusmuodoissa, ja KHO erotellaan
   tavallisesta hallinto-oikeudesta) ja näyttää sen sivun oikeusaste-
   suodattimessa omana nappinaan yleisnimen "Tuomioistuimet" sijaan.
-  Hallinto-oikeuksilla ja hovioikeuksilla sen sijaan on oma lähteensä
-  (`hao-ratkaisut`, `hovi-ratkaisut`), joka lukee suoraan tuomioistuimet.fi:n
-  omat ratkaisulistat. Näillä on oikeat ratkaisuselosteet ja tuomioistuimen
-  itsensä antama asiasanaluettelo (esim. "Tietosuoja – Asiakirjajulkisuus"),
-  joka on huomattavasti tarkempi kuin ajankohtaissyötteen otsikko ja tekee
-  avainsanasuodatuksesta osuvampaa. Sivu näyttää satoja ratkaisuja
-  kaikista aihepiireistä, joten näillä lähteillä ei ole omaa
-  `require_any`-listaa, vaan ne luottavat yleiseen `must_any`-suodatukseen.
+  Kaikilla muilla oikeusasteilla on oma ratkaisulähteensä, joka lukee
+  suoraan tuomioistuimet.fi:n ratkaisusivut: `kko-ratkaisut`,
+  `kho-ratkaisut`, `hovi-ratkaisut`, `hao-ratkaisut`, `mao-ratkaisut`,
+  `tt-ratkaisut` ja `vako-ratkaisut`. Näillä on oikeat ratkaisuselosteet ja
+  tuomioistuimen itsensä antama asiasanaluettelo (esim. "Tietosuoja –
+  Asiakirjajulkisuus"), joka on tarkempi kuin ajankohtaissyötteen otsikko.
+  Sivut näyttävät satoja ratkaisuja kaikista aihepiireistä, joten näillä
+  lähteillä ei ole omaa `require_any`-listaa, vaan ne luottavat yleiseen
+  `must_any`-suodatukseen. Jos jokin näistä palauttaa nolla korttia, hakija
+  nostaa virheen ja lähde näkyy paneelissa punaisena. Syy on kokemus:
+  tuomioistuimet.fi vaihtoi korttien kehyksen `div`:stä `li`:ksi, valitsin
+  lakkasi täsmäämästä ja kaksi oikeusastetta katosi feedistä kahdeksi
+  viikoksi ilman yhtään varoitusta.
 - Unionin tuomioistuimen SPARQL-haku hakee kaikki tuomiot aihealueesta
   riippumatta, joten pelkkä yleinen avainsana ("seuraamusmaksu") saattoi
   päästää läpi tietosuojaan liittymättömiä ratkaisuja (esim. liikennealan

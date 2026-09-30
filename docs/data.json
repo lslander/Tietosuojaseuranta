@@ -1,21 +1,21 @@
 {
-  "generated": "2026-09-30T12:30:30",
+  "generated": "2026-09-30T13:08:38",
   "window_days": 120,
   "sources": [
     {
-      "id": "kko",
-      "name": "Korkein oikeus",
+      "id": "kko-ratkaisut",
+      "name": "Korkeimman oikeuden ennakkopäätökset",
       "court": "KKO",
       "ok": true,
-      "fetched": 16,
+      "fetched": 15,
       "error": ""
     },
     {
-      "id": "kho",
-      "name": "Korkein hallinto-oikeus",
+      "id": "kho-ratkaisut",
+      "name": "Korkeimman hallinto-oikeuden ennakkopäätökset",
       "court": "KHO",
       "ok": true,
-      "fetched": 15,
+      "fetched": 30,
       "error": ""
     },
     {
@@ -31,7 +31,7 @@
       "name": "Hallinto-oikeuksien ratkaisut",
       "court": "Hallinto-oikeus",
       "ok": true,
-      "fetched": 0,
+      "fetched": 100,
       "error": ""
     },
     {
@@ -39,28 +39,28 @@
       "name": "Hovioikeuksien ratkaisut",
       "court": "Hovioikeus",
       "ok": true,
-      "fetched": 0,
+      "fetched": 96,
       "error": ""
     },
     {
-      "id": "mao",
-      "name": "Markkinaoikeus",
+      "id": "mao-ratkaisut",
+      "name": "Markkinaoikeuden ratkaisut",
       "court": "MAO",
-      "ok": true,
-      "fetched": 14,
-      "error": ""
-    },
-    {
-      "id": "tt",
-      "name": "Työtuomioistuin",
-      "court": "TT",
       "ok": true,
       "fetched": 30,
       "error": ""
     },
     {
-      "id": "vako",
-      "name": "Vakuutusoikeus",
+      "id": "tt-ratkaisut",
+      "name": "Työtuomioistuimen ratkaisut",
+      "court": "TT",
+      "ok": true,
+      "fetched": 15,
+      "error": ""
+    },
+    {
+      "id": "vako-ratkaisut",
+      "name": "Vakuutusoikeuden ratkaisut",
       "court": "VakO",
       "ok": true,
       "fetched": 15,
@@ -71,7 +71,7 @@
       "name": "Unionin tuomioistuin (EUT ja unionin yleinen tuomioistuin)",
       "court": "EUT",
       "ok": true,
-      "fetched": 10,
+      "fetched": 9,
       "error": ""
     },
     {
@@ -131,25 +131,9 @@
       "error": ""
     },
     {
-      "id": "lvm",
-      "name": "Liikenne- ja viestintäministeriö",
-      "court": "LVM",
-      "ok": true,
-      "fetched": 20,
-      "error": ""
-    },
-    {
       "id": "tem",
       "name": "Työ- ja elinkeinoministeriö",
       "court": "TEM",
-      "ok": true,
-      "fetched": 20,
-      "error": ""
-    },
-    {
-      "id": "vm",
-      "name": "Valtiovarainministeriö",
-      "court": "VM",
       "ok": true,
       "fetched": 20,
       "error": ""
@@ -200,6 +184,14 @@
       "court": "Julkaisu",
       "ok": true,
       "fetched": 41,
+      "error": ""
+    },
+    {
+      "id": "helda-oikeustiede",
+      "name": "Helda, oikeustieteellinen tiedekunta",
+      "court": "Julkaisu",
+      "ok": true,
+      "fetched": 5,
       "error": ""
     },
     {
@@ -255,7 +247,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 81,
+      "fetched": 82,
       "error": ""
     },
     {
@@ -297,14 +289,6 @@
       "ok": true,
       "fetched": 10,
       "error": ""
-    },
-    {
-      "id": "intermin",
-      "name": "Sisäministeriö",
-      "court": "SM",
-      "ok": true,
-      "fetched": 23,
-      "error": ""
     }
   ],
   "items": [
@@ -341,75 +325,6 @@
       ]
     },
     {
-      "court": "LVM",
-      "source": "Liikenne- ja viestintäministeriö",
-      "title": "Tekoäly ensimmäistä kertaa hyökkäyksen kohteena Kansallisessa kyberharjoituksessa",
-      "url": "https://www.lvm.fi/-/tekoaly-ensimmaista-kertaa-hyokkayksen-kohteena-kansallisessa-kyberharjoituksessa",
-      "date": "2026-09-28",
-      "keywords": "",
-      "summary": "",
-      "score": 35,
-      "topics": [
-        "Tekoäly",
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "tärkeä",
-        "tekoäly"
-      ]
-    },
-    {
-      "court": "Traficom",
-      "source": "Traficom",
-      "title": "Traficom valitsi Front AI Oy:n generatiivista tekoälyä käyttävän puhe- ja tekstibotin kehityskumppaniksi",
-      "url": "https://www.traficom.fi/fi/uutiset/traficom-valitsi-front-ai-oyn-generatiivista-tekoalya-kayttavan-puhe-ja-tekstibotin-kehityskumppaniksi",
-      "date": "2026-09-28",
-      "keywords": "",
-      "summary": "",
-      "score": 35,
-      "topics": [
-        "Tekoäly"
-      ],
-      "tags": [
-        "tärkeä",
-        "tekoäly"
-      ]
-    },
-    {
-      "court": "Edilex",
-      "source": "Edilex, uutiset",
-      "title": "Apulaisoikeusasiamies selvittää tekoälyn käyttöä viranomaistehtävissä Eduskunnan apulaisoikeusasiamies Susanna Lindroos-Hovinheimo on ottanut omasta aloitteestaan tutkittavaksi tekoälyn käytön kunnall",
-      "url": "https://www.edilex.fi/uutiset/103121",
-      "date": "2026-09-28",
-      "keywords": "",
-      "summary": "",
-      "score": 35,
-      "topics": [
-        "Tekoäly"
-      ],
-      "tags": [
-        "tärkeä",
-        "tekoäly"
-      ]
-    },
-    {
-      "court": "VM",
-      "source": "Valtiovarainministeriö",
-      "title": "Julkinen sektori valmistautuu tekoälyn laajamittaiseen hyödyntämiseen",
-      "url": "https://vm.fi/-/julkinen-sektori-valmistautuu-tekoalyn-laajamittaiseen-hyodyntamiseen",
-      "date": "2026-09-25",
-      "keywords": "",
-      "summary": "",
-      "score": 25,
-      "topics": [
-        "Tekoäly"
-      ],
-      "tags": [
-        "tärkeä",
-        "tekoäly"
-      ]
-    },
-    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 39/2026",
@@ -440,23 +355,6 @@
       ],
       "tags": [
         "privacy"
-      ]
-    },
-    {
-      "court": "Asianajajaliitto",
-      "source": "Suomen Asianajajaliitto",
-      "title": "Lausunto tekijänoikeusasioiden neuvottelukunnan loppuraportista Tekoäly ja tekijänoikeus: Vastuullinen tekoälyn kehittäminen ja käyttö",
-      "url": "https://asianajajat.fi/2026/09/24/lausunto-tekijanoikeusasioiden-neuvottelukunnan-loppuraportista-tekoaly-ja-tekijanoikeus-vastuullinen-tekoalyn-kehittaminen-ja-kaytto/",
-      "date": "2026-09-24",
-      "keywords": "",
-      "summary": "Artikkeli  julkaistiin ensimmäisen kerran Suomen Asianajajat .",
-      "score": 25,
-      "topics": [
-        "Tekoäly"
-      ],
-      "tags": [
-        "tärkeä",
-        "tekoäly"
       ]
     },
     {
@@ -537,7 +435,7 @@
       "summary": "",
       "score": 13,
       "topics": [
-        "Tekoäly"
+        "Datasääntely"
       ],
       "tags": [
         "AI Act"
@@ -635,7 +533,7 @@
       "summary": "",
       "score": 13,
       "topics": [
-        "Tekoäly"
+        "Datasääntely"
       ],
       "tags": [
         "AI Act"
@@ -655,23 +553,6 @@
       ],
       "tags": [
         "privacy"
-      ]
-    },
-    {
-      "court": "VM",
-      "source": "Valtiovarainministeriö",
-      "title": "Valtiovarainministerit keskustelevat innovaatioista rahoitussektorilla ja tekoälystä",
-      "url": "https://vm.fi/-/valtiovarainministerit-keskustelevat-innovaatioista-rahoitussektorilla-ja-tekoalysta",
-      "date": "2026-09-17",
-      "keywords": "",
-      "summary": "",
-      "score": 25,
-      "topics": [
-        "Tekoäly"
-      ],
-      "tags": [
-        "tärkeä",
-        "tekoäly"
       ]
     },
     {
@@ -829,23 +710,6 @@
       ]
     },
     {
-      "court": "EUT",
-      "source": "Unionin tuomioistuin (EUT ja unionin yleinen tuomioistuin)",
-      "title": "C-669/24 Bundesverband der Verbraucherzentralen und Verbraucherverbände - Verbraucherzentrale Bundesverband e.V. vastaa (tuomio)",
-      "url": "https://eur-lex.europa.eu/legal-content/FI/TXT/?uri=CELEX:62024CJ0669",
-      "date": "2026-09-10",
-      "keywords": "Ennakkoratkaisupyyntö – Jäsenvaltioiden lainsäädännön lähentäminen – Televiestintäala – Direktiivi (EU) 2018/1972 – Eurooppalainen sähköisen viestinnän säännöstö – Sopimus sähköisestä viestintäpalvelusta – Palveluntarjoajan oikeus muuttaa sopimusta yksipuolisesti – 105 artiklan 4 kohdan ensimmäinen alakohta – Loppukäyttäjien irtisanomisoikeus",
-      "summary": "ECLI:EU:C:2026:736",
-      "score": 36,
-      "topics": [
-        "Sähköinen viestintä"
-      ],
-      "tags": [
-        "sähköisen viestinnän",
-        "televiestint"
-      ]
-    },
-    {
       "court": "Säädöskokoelma",
       "source": "Finlex, säädöskokoelma",
       "title": "833/2026, Laki henkilötietojen käsittelystä Rajavartiolaitoksessa annetun lain 50 §:n muuttamisesta",
@@ -987,19 +851,19 @@
       ]
     },
     {
-      "court": "EU-komissio",
-      "source": "Komissio, digitaalinen strategia",
-      "title": "Apply AI Summit",
-      "url": "https://digital-strategy.ec.europa.eu/en/events/apply-ai-summit",
+      "court": "Hovioikeus",
+      "source": "Hovioikeuksien ratkaisut",
+      "title": "HelHO:2026:8",
+      "url": "https://www.tuomioistuimet.fi/ratkaisut/helho20268/",
       "date": "2026-09-07",
-      "keywords": "",
-      "summary": "Anonymous (not verified) Mon, 09/07/2026 - 15:58 17 November 2026 The EGG (Brussels) The  will gather high-level stakeholders – from industrial representatives, policymakers and startups – to accelerate AI implementation in strategic industries. Main link https://digital-strategy.ec.europa.eu/en/policies/apply-ai-summit Register until 13 November Related topics Events Artificial intelligence",
+      "keywords": "Oikeudenkäynnin julkisuus – Tietopyyntö, Tietosuoja, Väliintulo",
+      "summary": "",
       "score": 23,
       "topics": [
-        "Tekoäly"
+        "Tietosuoja"
       ],
       "tags": [
-        "artificial intelligence"
+        "tietosuoja"
       ]
     },
     {
@@ -1021,22 +885,6 @@
       ]
     },
     {
-      "court": "MAO",
-      "source": "Markkinaoikeus",
-      "title": "MAO:418/2026",
-      "url": "https://www.markkinaoikeus.fi/ratkaisut/ratkaisujen-arkisto/mao418-2026/",
-      "date": "2026-09-04",
-      "keywords": "liikesalaisuus – asianosaisjulkisuuden rajoittaminen oikeushenkilössä",
-      "summary": "",
-      "score": 23,
-      "topics": [
-        "Julkisuus ja salassapito"
-      ],
-      "tags": [
-        "liikesalaisuu"
-      ]
-    },
-    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Kyberturvallisuuskeskuksen viikkokatsaus - 36/2026",
@@ -1050,6 +898,24 @@
       ],
       "tags": [
         "kyberturvallisuus"
+      ]
+    },
+    {
+      "court": "EUT",
+      "source": "Unionin tuomioistuin (EUT ja unionin yleinen tuomioistuin)",
+      "title": "C-798/24 A ym. (tuomio)",
+      "url": "https://eur-lex.europa.eu/legal-content/FI/TXT/?uri=CELEX:62024CJ0798",
+      "date": "2026-09-03",
+      "keywords": "Ennakkoratkaisupyyntö – Luonnollisten henkilöiden suojelu henkilötietojen käsittelyssä – Asetus (EU) 2016/679 – 5 artikla – Henkilötietojen käsittelyä koskevat periaatteet – 6 artikla – Käsittelyn lainmukaisuus – Yhtiöoikeus – Direktiivi (EU) 2017/1132 – 14 artikla – Yhtiöiden toimesta julkistettavat asiakirjat ja tiedot – Yhtiön hallintoon, johtoon tai valvontaan osallistuvien henkilöiden käsite – Osakeyhtiöiden osakkeenomistajien henkilötietojen saattaminen yleisön saataville – Vähemmistöosakkaat",
+      "summary": "ECLI:EU:C:2026:679",
+      "score": 48,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tärkeä",
+        "henkilötiet",
+        "2016/679"
       ]
     },
     {
@@ -1076,13 +942,12 @@
       "date": "2026-09-02",
       "keywords": "artificial intelligence, regulation (control), legislation, good governance, public administration, public sector, municipalities, ethics, fi=Julkisen toiminnan johtaminen|en=Public Policy and Management|, fi=Hallintotieteiden maisteriohjelma|en=Master&apos;s Programme in Administrative Sciences|",
       "summary": "This thesis examines the implications of the European Union’s Artificial Intelligence Act (EU AI Act) for Finnish municipalities. The use of artificial intelligence in municipalities has increased rapidly, but municipalities continue to face challenges related to the ethical governance of AI and the practical implementation of regulation. In addition, uncertainties surrounding the regulation may h",
-      "score": 16,
+      "score": 13,
       "topics": [
-        "Tekoäly"
+        "Datasääntely"
       ],
       "tags": [
-        "AI Act",
-        "artificial intelligence"
+        "AI Act"
       ]
     },
     {
@@ -1099,22 +964,6 @@
       ],
       "tags": [
         "DSA"
-      ]
-    },
-    {
-      "court": "LVM",
-      "source": "Liikenne- ja viestintäministeriö",
-      "title": "Kyberturvallisuuslaki kokonaisuutena onnistunut – Haasteena valvonnan resurssien puute",
-      "url": "https://www.lvm.fi/-/kyberturvallisuuslaki-kokonaisuutena-onnistunut-haasteena-valvonnan-resurssien-puute",
-      "date": "2026-08-31",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "kyberturvallisuus"
       ]
     },
     {
@@ -1145,14 +994,11 @@
       "date": "2026-08-28",
       "keywords": "",
       "summary": "Tämän viikon viikkokatsauksessa esiin nousseita aiheita ovat muun muassa WordPress-sivustojen murrot, joissa haavoittuvuuksia hyödynnetään haitallisen sisällön levittämiseen. Lisäksi katsauksessa käsitellään Signal-tukena esiintyvää tietojenkalastelua, tekoälyn käyttöön liittyviä uusia avoimuusvelvoitteita sekä kyberkestävyyssäädöksen mukaisia ilmoitusvelvoitteita.",
-      "score": 34,
+      "score": 19,
       "topics": [
-        "Tekoäly",
         "Kyberturvallisuus"
       ],
       "tags": [
-        "tärkeä",
-        "tekoäly",
         "kyberturvallisuus",
         "kyberkestävyy",
         "tietojenkalastelu"
@@ -1160,40 +1006,36 @@
     },
     {
       "court": "KHO",
-      "source": "Korkein hallinto-oikeus",
+      "source": "Korkeimman hallinto-oikeuden ennakkopäätökset",
       "title": "KHO:2026:65",
       "url": "https://www.kho.fi/paatokset/kho202665/",
       "date": "2026-08-27",
       "keywords": "Tietosuoja – Sähköisen viestinnän palvelu – Evästeet – Käyttäjän suostumus – Suostumuksen pyytäminen – Kaksitasoinen suostumushallintamekanismi – Suostumuksen vapaaehtoisuus",
       "summary": "",
-      "score": 39,
+      "score": 36,
       "topics": [
-        "Tietosuoja",
-        "Sähköinen viestintä"
+        "Tietosuoja"
       ],
       "tags": [
         "tietosuoja",
-        "evästeet",
-        "sähköisen viestinnän"
+        "evästeet"
       ]
     },
     {
       "court": "KHO",
-      "source": "Korkein hallinto-oikeus",
+      "source": "Korkeimman hallinto-oikeuden ennakkopäätökset",
       "title": "KHO:2026:64",
       "url": "https://www.kho.fi/paatokset/kho202664/",
       "date": "2026-08-27",
       "keywords": "Tietosuoja – Sähköisen viestinnän palvelu – Evästeet – Käyttäjän suostumus – Uutissisällön personointi – Verkkokutsut – Sananvapaus – Medianvapaus",
       "summary": "",
-      "score": 39,
+      "score": 36,
       "topics": [
-        "Tietosuoja",
-        "Sähköinen viestintä"
+        "Tietosuoja"
       ],
       "tags": [
         "tietosuoja",
-        "evästeet",
-        "sähköisen viestinnän"
+        "evästeet"
       ]
     },
     {
@@ -1228,23 +1070,6 @@
       ],
       "tags": [
         "kyberkestävyy"
-      ]
-    },
-    {
-      "court": "SM",
-      "source": "Sisäministeriö",
-      "title": "Tyrmäystippoja vastaan tekoälyn ja pikatestien voimin",
-      "url": "https://intermin.fi/-/tyrmaystippoja-vastaan-tekoalyn-ja-pikatestien-voimin",
-      "date": "2026-08-21",
-      "keywords": "",
-      "summary": "",
-      "score": 25,
-      "topics": [
-        "Tekoäly"
-      ],
-      "tags": [
-        "tärkeä",
-        "tekoäly"
       ]
     },
     {
@@ -1312,22 +1137,6 @@
       ]
     },
     {
-      "court": "SM",
-      "source": "Sisäministeriö",
-      "title": "Lakiesitys henkilötietojen käsittelystä pelastustoimessa lausuntokierrokselle",
-      "url": "https://intermin.fi/-/lakiesitys-henkilotietojen-kasittelysta-pelastustoimessa-lausuntokierrokselle",
-      "date": "2026-08-21",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "henkilötiet"
-      ]
-    },
-    {
       "court": "Julkaisu",
       "source": "Osuva (Vaasan yliopisto)",
       "title": "Who Is Really Playing in the Sandbox?",
@@ -1337,7 +1146,7 @@
       "summary": "This paper examines the conflicting objectives within the European Union’s AI regulatory sandboxes established under the AI Act. Although these sandboxes are intended to promote both innovation and legal certainty, they must balance the needs of two very different stakeholders, regulators and companies. The purpose of the paper was to analyse these conflicting goals and propose step-by-step proced",
       "score": 13,
       "topics": [
-        "Tekoäly"
+        "Datasääntely"
       ],
       "tags": [
         "AI Act"
@@ -1497,14 +1306,12 @@
       "date": "2026-07-31",
       "keywords": "",
       "summary": "Julkisuudessa on viime aikoina keskusteltu tapauksista, joissa tekoälyjärjestelmät ovat turvallisuustesteissä toteuttaneet toimia, jotka muistuttavat tietomurtoja tai luvattomia tunkeutumisyrityksiä. Tapaukset ovat herättäneet kysymyksiä siitä, kuinka itsenäisesti tekoäly kykenee toimimaan ja millaisia riskejä sen käyttöön liittyy kyberturvallisuuden näkökulmasta.",
-      "score": 40,
+      "score": 25,
       "topics": [
-        "Tekoäly",
         "Kyberturvallisuus"
       ],
       "tags": [
         "tärkeä",
-        "tekoäly",
         "tietomurto"
       ]
     },
@@ -1516,30 +1323,12 @@
       "date": "2026-07-31",
       "keywords": "",
       "summary": "Anonymous (not verified) Fri, 07/31/2026 - 09:00 From 2 August 2026, the European Commission’s AI Office, together with national authorities, will begin enforcing the Artificial Intelligence (AI) Act. On the same date, new transparency rules will start to apply, requiring certain AI systems to tell users when they are interacting with AI and when content has been generated or altered by it. Under ",
-      "score": 26,
+      "score": 23,
       "topics": [
-        "Tekoäly"
+        "Datasääntely"
       ],
       "tags": [
-        "AI Act",
-        "artificial intelligence"
-      ]
-    },
-    {
-      "court": "Julkaisu",
-      "source": "UTUPub (Turun yliopisto)",
-      "title": "Riski, kasvu ja valta: Diskurssianalyysi tekoälyn kehystämisestä",
-      "url": "https://www.utupub.fi/handle/11111/62756",
-      "date": "2026-07-30",
-      "keywords": "tekoäly, yleinen tekoäly, tekoälydiskurssi, kehystys, diskurssianalyysi, diskurssi-historiallinen lähestymistapa, tekoälyn sääntely, teknologinen kehitys, suuret kielimallit, käyttötehokkuus",
-      "summary": "Tekoäly on noussut keskeiseksi julkisen keskustelun aiheeksi erityisesti vaikutusvaltaisten henkilöiden ja instituutioiden keskuudessa. Keskustelu painottuu usein teknologian sijaan tulkintoihin tekoälyn riskeistä, hyödyistä ja yhteiskunnallisesta merkityksestä. Näillä tulkinnoilla on vaikutusta päätöksentekoon, investointeihin ja sääntelyyn. Tutkielman tavoitteena on tarkastella, miten eri toimij",
-      "score": 25,
-      "topics": [
-        "Tekoäly"
-      ],
-      "tags": [
-        "tärkeä",
-        "tekoäly"
+        "AI Act"
       ]
     },
     {
@@ -1834,6 +1623,40 @@
       ]
     },
     {
+      "court": "Julkaisu",
+      "source": "Helda, oikeustieteellinen tiedekunta",
+      "title": "Safeguarding vulnerable data subjects in the digital age : The evolving controllers’ responsibilities under European Union data protection law",
+      "url": "http://hdl.handle.net/10138/635542",
+      "date": "2026-07-02",
+      "keywords": "law, Doctoral Programme in Law, Oikeustieteen tohtoriohjelma, Doktorandprogrammet i juridik, 513 Oikeustiede, 513 Juridik, 513 Law",
+      "summary": "This doctoral dissertation examines how European Union (EU) data protection law should interpret, calibrate, and operationalise the responsibilities of data controllers when personal data processing affects individuals in vulnerable positions in the digital age. Contemporary data-processing environments—shaped by artificial intelligence, automated decision-making, platform governance, and data-int",
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data",
+        "data protection"
+      ]
+    },
+    {
+      "court": "MAO",
+      "source": "Markkinaoikeuden ratkaisut",
+      "title": "MAO:334/2026",
+      "url": "https://www.markkinaoikeus.fi/ratkaisut/ratkaisujen-arkisto/mao334-2026/",
+      "date": "2026-06-30",
+      "keywords": "julkinen hankinta – seuraamusmaksun määrääminen",
+      "summary": "",
+      "score": 35,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tärkeä",
+        "seuraamusmaksu"
+      ]
+    },
+    {
       "court": "Säädöskokoelma",
       "source": "Finlex, säädöskokoelma",
       "title": "581/2026, Laki henkilötietojen käsittelystä Puolustusvoimissa annetun lain muuttamisesta",
@@ -1894,39 +1717,6 @@
         "kyberturvallisuus",
         "kyberhyökkäy",
         "tietomurto"
-      ]
-    },
-    {
-      "court": "Säädöskokoelma",
-      "source": "Finlex, säädöskokoelma",
-      "title": "527/2026, Laki sähköisen viestinnän palveluista annetun lain 321 §:n muuttamisesta",
-      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/527",
-      "date": "2026-06-18",
-      "keywords": "",
-      "summary": "",
-      "score": 33,
-      "topics": [
-        "Sähköinen viestintä"
-      ],
-      "tags": [
-        "sähköisen viestinnän"
-      ]
-    },
-    {
-      "court": "SM",
-      "source": "Sisäministeriö",
-      "title": "Tekoäly toiminnan peilinä – mahdollisuus viranomaistyön siilojen murtamiseen",
-      "url": "https://intermin.fi/-/tekoaly-toiminnan-peilina-mahdollisuus-viranomaistyon-siilojen-murtamiseen-",
-      "date": "2026-06-18",
-      "keywords": "",
-      "summary": "",
-      "score": 25,
-      "topics": [
-        "Tekoäly"
-      ],
-      "tags": [
-        "tärkeä",
-        "tekoäly"
       ]
     },
     {

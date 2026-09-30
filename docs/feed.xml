@@ -4,7 +4,15 @@
 <link>https://lslander.github.io/Tietosuojaseuranta/</link>
 <description>Tietosuoja, teknologia ja datasääntely</description>
 <language>fi</language>
-<lastBuildDate>Wed, 30 Sep 2026 05:27:44 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 12:30:30 +0000</lastBuildDate>
+<item>
+<title>ENISA: Cybersecurity Month @ work: Employees&#x27; skills under the looking glass</title>
+<link>https://www.enisa.europa.eu/news/cybersecurity-month-work-employees-skills-under-the-looking-glass</link>
+<guid isPermaLink="true">https://www.enisa.europa.eu/news/cybersecurity-month-work-employees-skills-under-the-looking-glass</guid>
+<pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Kyberturvallisuus</category>
+</item>
 <item>
 <title>IAPP: Inside the EU KIDS Act: A &#x27;specification&#x27; of the DSA that goes much further</title>
 <link>https://iapp.org/news/a/inside-the-eu-kids-act-a-specification-of-the-dsa-that-goes-much-further</link>
@@ -23,7 +31,15 @@
 <category>Kyberturvallisuus</category>
 </item>
 <item>
-<title>Edilex: Apulaisoikeusasiamies selvittää tekoälyn käyttöä viranomaistehtävissä</title>
+<title>Traficom: Traficom valitsi Front AI Oy:n generatiivista tekoälyä käyttävän puhe- ja tekstibotin kehityskumppaniksi</title>
+<link>https://www.traficom.fi/fi/uutiset/traficom-valitsi-front-ai-oyn-generatiivista-tekoalya-kayttavan-puhe-ja-tekstibotin-kehityskumppaniksi</link>
+<guid isPermaLink="true">https://www.traficom.fi/fi/uutiset/traficom-valitsi-front-ai-oyn-generatiivista-tekoalya-kayttavan-puhe-ja-tekstibotin-kehityskumppaniksi</guid>
+<pubDate>Mon, 28 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tekoäly</category>
+</item>
+<item>
+<title>Edilex: Apulaisoikeusasiamies selvittää tekoälyn käyttöä viranomaistehtävissä Eduskunnan apulaisoikeusasiamies Susanna Lindroos-Hovinheimo on ottanut omasta aloitteestaan tutkittavaksi tekoälyn käytön kunnall</title>
 <link>https://www.edilex.fi/uutiset/103121</link>
 <guid isPermaLink="true">https://www.edilex.fi/uutiset/103121</guid>
 <pubDate>Mon, 28 Sep 2026 09:00:00 +0000</pubDate>
@@ -627,22 +643,6 @@ Lisäksi tällä viikolla julkaistu heinäkuun Kybersää osoittaa sateisen syks
 <guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/haavoittuvuuskilpailussa-nopeus-ratkaisee?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
 <pubDate>Fri, 24 Jul 2026 09:00:00 +0000</pubDate>
 <description>Kyberturvallisuuden vanhan sanonnan mukaan kello alkaa tikittää silloin, kun haavoittuvuus löydetään. Nykyisessä uhkaympäristössä sekä teknologisen kehityksen myötä sekuntiviisari lähtee liikkeelle jo paljon aikaisemmin. Ensimmäiset sekunnit kuluvat siitä hetkestä lähtien, kun haavoittuvuus syntyy. Oli haavoittuvuuden syynä sitten ohjelmistovirhe, epäonnistunut päivitys tai jokin muu syy. Kun haav</description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>TSV: Euroopan tietosuojaneuvosto keskusteli eri alojen viranomaisten välisestä tiedonjaosta ja valvonnan tehostamisesta</title>
-<link>https://tietosuoja.fi/-/euroopan-tietosuojaneuvosto-keskusteli-eri-alojen-viranomaisten-valisesta-tiedonjaosta-ja-valvonnan-tehostamisesta</link>
-<guid isPermaLink="true">https://tietosuoja.fi/-/euroopan-tietosuojaneuvosto-keskusteli-eri-alojen-viranomaisten-valisesta-tiedonjaosta-ja-valvonnan-tehostamisesta</guid>
-<pubDate>Mon, 20 Jul 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>Kyberturvallisuuskeskus: Heikosti suojatut verkkolaitteet avaavat väylän kyberhyökkäyksille</title>
-<link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/heikosti-suojatut-verkkolaitteet-avaavat-vaylan-kyberhyokkayksille?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
-<guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/heikosti-suojatut-verkkolaitteet-avaavat-vaylan-kyberhyokkayksille?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
-<pubDate>Wed, 15 Jul 2026 09:00:00 +0000</pubDate>
-<description>Viime vuosien aikana lukuisat kotimaiset organisaatiot ovat joutuneet tietomurron kohteeksi haavoittuvan tai heikosti suojatun verkkolaitteen- tai palvelun vuoksi. Verkkolaitteiden suojaamiseen ja valvontaan on tärkeää kohdentaa riittävästi resursseja. Organisaatioiden tulee varautua ja harjoitella mahdollisten poikkeamatilanteiden varalta.</description>
 <category>Kyberturvallisuus</category>
 </item>
 </channel></rss>

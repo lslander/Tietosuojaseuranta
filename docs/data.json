@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-30T05:27:44",
+  "generated": "2026-09-30T12:30:30",
   "window_days": 120,
   "sources": [
     {
@@ -7,7 +7,7 @@
       "name": "Korkein oikeus",
       "court": "KKO",
       "ok": true,
-      "fetched": 15,
+      "fetched": 16,
       "error": ""
     },
     {
@@ -103,7 +103,7 @@
       "name": "Finlex, säädöskokoelma",
       "court": "Säädöskokoelma",
       "ok": true,
-      "fetched": 29,
+      "fetched": 30,
       "error": ""
     },
     {
@@ -255,7 +255,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 77,
+      "fetched": 81,
       "error": ""
     },
     {
@@ -287,7 +287,7 @@
       "name": "ENISA, uutiset",
       "court": "ENISA",
       "ok": true,
-      "fetched": 4,
+      "fetched": 11,
       "error": ""
     },
     {
@@ -295,7 +295,7 @@
       "name": "ENISA, julkaisut",
       "court": "ENISA",
       "ok": true,
-      "fetched": 2,
+      "fetched": 10,
       "error": ""
     },
     {
@@ -308,6 +308,22 @@
     }
   ],
   "items": [
+    {
+      "court": "ENISA",
+      "source": "ENISA, uutiset",
+      "title": "Cybersecurity Month @ work: Employees' skills under the looking glass",
+      "url": "https://www.enisa.europa.eu/news/cybersecurity-month-work-employees-skills-under-the-looking-glass",
+      "date": "2026-09-30",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "cyber"
+      ]
+    },
     {
       "court": "IAPP",
       "source": "IAPP",
@@ -343,9 +359,26 @@
       ]
     },
     {
+      "court": "Traficom",
+      "source": "Traficom",
+      "title": "Traficom valitsi Front AI Oy:n generatiivista tekoälyä käyttävän puhe- ja tekstibotin kehityskumppaniksi",
+      "url": "https://www.traficom.fi/fi/uutiset/traficom-valitsi-front-ai-oyn-generatiivista-tekoalya-kayttavan-puhe-ja-tekstibotin-kehityskumppaniksi",
+      "date": "2026-09-28",
+      "keywords": "",
+      "summary": "",
+      "score": 35,
+      "topics": [
+        "Tekoäly"
+      ],
+      "tags": [
+        "tärkeä",
+        "tekoäly"
+      ]
+    },
+    {
       "court": "Edilex",
       "source": "Edilex, uutiset",
-      "title": "Apulaisoikeusasiamies selvittää tekoälyn käyttöä viranomaistehtävissä",
+      "title": "Apulaisoikeusasiamies selvittää tekoälyn käyttöä viranomaistehtävissä Eduskunnan apulaisoikeusasiamies Susanna Lindroos-Hovinheimo on ottanut omasta aloitteestaan tutkittavaksi tekoälyn käytön kunnall",
       "url": "https://www.edilex.fi/uutiset/103121",
       "date": "2026-09-28",
       "keywords": "",
@@ -1577,6 +1610,22 @@
       ]
     },
     {
+      "court": "ENISA",
+      "source": "ENISA, julkaisut",
+      "title": "Procurement guidelines for the cybersecurity of hospitals and healthcare providers",
+      "url": "https://www.enisa.europa.eu/publications/procurement-guidelines-for-the-cybersecurity-of-hospitals-and-healthcare-providers",
+      "date": "2026-07-22",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "cyber"
+      ]
+    },
+    {
       "court": "TSV",
       "source": "Tietosuojavaltuutetun toimisto",
       "title": "Euroopan tietosuojaneuvosto keskusteli eri alojen viranomaisten välisestä tiedonjaosta ja valvonnan tehostamisesta",
@@ -1689,20 +1738,51 @@
       ]
     },
     {
-      "court": "KKO",
-      "source": "Tuomioistuinlaitos",
-      "title": "Korkein oikeus hylkäsi valituslupahakemuksen Vastaamon tietomurtoa ja sitä seuranneita kiristysrikoksia koskeneessa asiassa",
-      "url": "https://www.korkeinoikeus.fi/ajankohtaiset/korkein-oikeus-hylkasi-valituslupahakemuksen-vastaamon-tietomurtoa-ja-sita-seuranneita-kiristysrikoksia-koskeneessa-asiassa/",
+      "court": "ENISA",
+      "source": "ENISA, uutiset",
+      "title": "Where do SMEs stand in preparing for the Cyber Resilience Act?",
+      "url": "https://www.enisa.europa.eu/news/where-do-smes-stand-in-preparing-for-the-cyber-resilience-act",
       "date": "2026-07-13",
       "keywords": "",
       "summary": "",
-      "score": 35,
+      "score": 13,
       "topics": [
         "Kyberturvallisuus"
       ],
       "tags": [
-        "tärkeä",
-        "tietomurto"
+        "cyber"
+      ]
+    },
+    {
+      "court": "ENISA",
+      "source": "ENISA, julkaisut",
+      "title": "SME Cyber Resilience Maturity Assessment Model",
+      "url": "https://www.enisa.europa.eu/publications/sme-cyber-resilience-maturity-assessment-model",
+      "date": "2026-07-13",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "cyber"
+      ]
+    },
+    {
+      "court": "ENISA",
+      "source": "ENISA, uutiset",
+      "title": "Team Europe wins 1st ever International Cybersecurity Challenge for women",
+      "url": "https://www.enisa.europa.eu/news/team-europe-wins-1st-ever-international-cybersecurity-challenge-for-women",
+      "date": "2026-07-10",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "cyber"
       ]
     },
     {
@@ -1735,6 +1815,22 @@
       ],
       "tags": [
         "henkilötiet"
+      ]
+    },
+    {
+      "court": "ENISA",
+      "source": "ENISA, julkaisut",
+      "title": "ENISA’s view on Cybersecurity in the Frontier AI Era",
+      "url": "https://www.enisa.europa.eu/publications/enisas-view-on-cybersecurity-in-the-frontier-ai-era",
+      "date": "2026-07-07",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "cyber"
       ]
     },
     {

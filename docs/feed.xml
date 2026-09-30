@@ -4,7 +4,15 @@
 <link>https://lslander.github.io/Tietosuojaseuranta/</link>
 <description>Tietosuoja, teknologia ja datasääntely</description>
 <language>fi</language>
-<lastBuildDate>Tue, 29 Sep 2026 05:26:35 +0000</lastBuildDate>
+<lastBuildDate>Wed, 30 Sep 2026 05:27:44 +0000</lastBuildDate>
+<item>
+<title>IAPP: Inside the EU KIDS Act: A &#x27;specification&#x27; of the DSA that goes much further</title>
+<link>https://iapp.org/news/a/inside-the-eu-kids-act-a-specification-of-the-dsa-that-goes-much-further</link>
+<guid isPermaLink="true">https://iapp.org/news/a/inside-the-eu-kids-act-a-specification-of-the-dsa-that-goes-much-further</guid>
+<pubDate>Tue, 29 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Datasääntely</category>
+</item>
 <item>
 <title>LVM: Tekoäly ensimmäistä kertaa hyökkäyksen kohteena Kansallisessa kyberharjoituksessa</title>
 <link>https://www.lvm.fi/-/tekoaly-ensimmaista-kertaa-hyokkayksen-kohteena-kansallisessa-kyberharjoituksessa</link>
@@ -160,6 +168,13 @@
 <category>Tekoäly</category>
 </item>
 <item>
+<title>EDPS: TechDispatch on secure multi-party computation</title>
+<link>https://www.edps.europa.eu/data-protection/our-work/publications/techdispatch/2026-09-17-techdispatch-12026-secure-multi-party-computation_en</link>
+<guid isPermaLink="true">https://www.edps.europa.eu/data-protection/our-work/publications/techdispatch/2026-09-17-techdispatch-12026-secure-multi-party-computation_en</guid>
+<pubDate>Thu, 17 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+</item>
+<item>
 <title>EUT: 130/2026 : 17 September 2026 - Opinion of the Advocate General to the Court of Justice Dean Spielmann in Case C-317/25</title>
 <link>https://curia.europa.eu/site/jcms/p1_1000087611</link>
 <guid isPermaLink="true">https://curia.europa.eu/site/jcms/p1_1000087611</guid>
@@ -214,14 +229,6 @@
 <pubDate>Mon, 14 Sep 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Datasääntely</category>
-</item>
-<item>
-<title>IAPP: When &#x27;agentic AI&#x27; meets data protection law: A fundamental mismatch?</title>
-<link>https://iapp.org/news/a/when-agentic-ai-meets-data-protection-law-a-fundamental-mismatch</link>
-<guid isPermaLink="true">https://iapp.org/news/a/when-agentic-ai-meets-data-protection-law-a-fundamental-mismatch</guid>
-<pubDate>Mon, 14 Sep 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
 </item>
 <item>
 <title>EDPB: Failure to respect the rights of individuals: The CNIL fined EXTIA 300 000 EUR</title>
@@ -518,6 +525,13 @@
 <category>Tietosuoja</category>
 </item>
 <item>
+<title>EDPS: EDPS publishes Opinion on proposal to modernise Eurojust</title>
+<link>https://www.edps.europa.eu/data-protection/our-work/publications/opinions/2026-08-11-edps-opinion-192026-regulation-establishment-eurojust-and-repealing-regulation-eu-20181727_en</link>
+<guid isPermaLink="true">https://www.edps.europa.eu/data-protection/our-work/publications/opinions/2026-08-11-edps-opinion-192026-regulation-establishment-eurojust-and-repealing-regulation-eu-20181727_en</guid>
+<pubDate>Fri, 14 Aug 2026 09:00:00 +0000</pubDate>
+<description></description>
+</item>
+<item>
 <title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 33/2026</title>
 <link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-332026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
 <guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-332026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
@@ -616,14 +630,6 @@ Lisäksi tällä viikolla julkaistu heinäkuun Kybersää osoittaa sateisen syks
 <category>Kyberturvallisuus</category>
 </item>
 <item>
-<title>ENISA: Procurement guidelines for the cybersecurity of hospitals and healthcare providers</title>
-<link>https://www.enisa.europa.eu/publications/procurement-guidelines-for-the-cybersecurity-of-hospitals-and-healthcare-providers</link>
-<guid isPermaLink="true">https://www.enisa.europa.eu/publications/procurement-guidelines-for-the-cybersecurity-of-hospitals-and-healthcare-providers</guid>
-<pubDate>Wed, 22 Jul 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
 <title>TSV: Euroopan tietosuojaneuvosto keskusteli eri alojen viranomaisten välisestä tiedonjaosta ja valvonnan tehostamisesta</title>
 <link>https://tietosuoja.fi/-/euroopan-tietosuojaneuvosto-keskusteli-eri-alojen-viranomaisten-valisesta-tiedonjaosta-ja-valvonnan-tehostamisesta</link>
 <guid isPermaLink="true">https://tietosuoja.fi/-/euroopan-tietosuojaneuvosto-keskusteli-eri-alojen-viranomaisten-valisesta-tiedonjaosta-ja-valvonnan-tehostamisesta</guid>
@@ -638,13 +644,5 @@ Lisäksi tällä viikolla julkaistu heinäkuun Kybersää osoittaa sateisen syks
 <pubDate>Wed, 15 Jul 2026 09:00:00 +0000</pubDate>
 <description>Viime vuosien aikana lukuisat kotimaiset organisaatiot ovat joutuneet tietomurron kohteeksi haavoittuvan tai heikosti suojatun verkkolaitteen- tai palvelun vuoksi. Verkkolaitteiden suojaamiseen ja valvontaan on tärkeää kohdentaa riittävästi resursseja. Organisaatioiden tulee varautua ja harjoitella mahdollisten poikkeamatilanteiden varalta.</description>
 <category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>Säädöskokoelma: 736/2026, Laki henkilötietojen käsittelystä maahanmuuttohallinnossa annetun lain 13 §:n muuttamisesta</title>
-<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/736</link>
-<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/736</guid>
-<pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
 </item>
 </channel></rss>

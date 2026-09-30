@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-29T05:26:35",
+  "generated": "2026-09-30T05:27:44",
   "window_days": 120,
   "sources": [
     {
@@ -47,7 +47,7 @@
       "name": "Markkinaoikeus",
       "court": "MAO",
       "ok": true,
-      "fetched": 15,
+      "fetched": 14,
       "error": ""
     },
     {
@@ -63,7 +63,7 @@
       "name": "Vakuutusoikeus",
       "court": "VakO",
       "ok": true,
-      "fetched": 14,
+      "fetched": 15,
       "error": ""
     },
     {
@@ -103,7 +103,7 @@
       "name": "Finlex, säädöskokoelma",
       "court": "Säädöskokoelma",
       "ok": true,
-      "fetched": 30,
+      "fetched": 29,
       "error": ""
     },
     {
@@ -111,7 +111,7 @@
       "name": "Finlex, hallituksen esitykset",
       "court": "HE",
       "ok": true,
-      "fetched": 7,
+      "fetched": 8,
       "error": ""
     },
     {
@@ -182,9 +182,9 @@
       "id": "edps",
       "name": "Euroopan tietosuojavaltuutettu (EDPS)",
       "court": "EDPS",
-      "ok": false,
-      "fetched": 0,
-      "error": "403 Client Error: Forbidden for url: https://www.edps.europa.eu/_en"
+      "ok": true,
+      "fetched": 3,
+      "error": ""
     },
     {
       "id": "uodo",
@@ -199,7 +199,7 @@
       "name": "Helda (Helsingin yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 42,
+      "fetched": 41,
       "error": ""
     },
     {
@@ -223,7 +223,7 @@
       "name": "eRepo (Itä-Suomen yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 19,
+      "fetched": 21,
       "error": ""
     },
     {
@@ -232,7 +232,7 @@
       "court": "Julkaisu",
       "ok": false,
       "fetched": 0,
-      "error": "403 Client Error: Forbidden for url: https://jyx.jyu.fi/dspace-oai//request?verb=ListRecords&resumptionToken=oai_dc%2F2026-07-16T00%3A00%3A00Z%2F%2F%2F100"
+      "error": "403 Client Error: Forbidden for url: https://jyx.jyu.fi/dspace-oai//request?verb=ListRecords&resumptionToken=oai_dc%2F2026-07-17T00%3A00%3A00Z%2F%2F%2F100"
     },
     {
       "id": "doria",
@@ -247,7 +247,7 @@
       "name": "Osuva (Vaasan yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 15,
+      "fetched": 16,
       "error": ""
     },
     {
@@ -287,7 +287,7 @@
       "name": "ENISA, uutiset",
       "court": "ENISA",
       "ok": true,
-      "fetched": 11,
+      "fetched": 4,
       "error": ""
     },
     {
@@ -295,7 +295,7 @@
       "name": "ENISA, julkaisut",
       "court": "ENISA",
       "ok": true,
-      "fetched": 10,
+      "fetched": 2,
       "error": ""
     },
     {
@@ -308,6 +308,22 @@
     }
   ],
   "items": [
+    {
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "Inside the EU KIDS Act: A 'specification' of the DSA that goes much further",
+      "url": "https://iapp.org/news/a/inside-the-eu-kids-act-a-specification-of-the-dsa-that-goes-much-further",
+      "date": "2026-09-29",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Datasääntely"
+      ],
+      "tags": [
+        "DSA"
+      ]
+    },
     {
       "court": "LVM",
       "source": "Liikenne- ja viestintäministeriö",
@@ -626,6 +642,18 @@
       ]
     },
     {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "TechDispatch on secure multi-party computation",
+      "url": "https://www.edps.europa.eu/data-protection/our-work/publications/techdispatch/2026-09-17-techdispatch-12026-secure-multi-party-computation_en",
+      "date": "2026-09-17",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [],
+      "tags": []
+    },
+    {
       "court": "EUT",
       "source": "Unionin tuomioistuimen lehdistötiedotteet",
       "title": "130/2026 : 17 September 2026 - Opinion of the Advocate General to the Court of Justice Dean Spielmann in Case C-317/25",
@@ -736,22 +764,6 @@
       ],
       "tags": [
         "DSA"
-      ]
-    },
-    {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "When 'agentic AI' meets data protection law: A fundamental mismatch?",
-      "url": "https://iapp.org/news/a/when-agentic-ai-meets-data-protection-law-a-fundamental-mismatch",
-      "date": "2026-09-14",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "data protection"
       ]
     },
     {
@@ -1349,6 +1361,18 @@
       ]
     },
     {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "EDPS publishes Opinion on proposal to modernise Eurojust",
+      "url": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions/2026-08-11-edps-opinion-192026-regulation-establishment-eurojust-and-repealing-regulation-eu-20181727_en",
+      "date": "2026-08-14",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [],
+      "tags": []
+    },
+    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 33/2026",
@@ -1553,22 +1577,6 @@
       ]
     },
     {
-      "court": "ENISA",
-      "source": "ENISA, julkaisut",
-      "title": "Procurement guidelines for the cybersecurity of hospitals and healthcare providers",
-      "url": "https://www.enisa.europa.eu/publications/procurement-guidelines-for-the-cybersecurity-of-hospitals-and-healthcare-providers",
-      "date": "2026-07-22",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "cyber"
-      ]
-    },
-    {
       "court": "TSV",
       "source": "Tietosuojavaltuutetun toimisto",
       "title": "Euroopan tietosuojaneuvosto keskusteli eri alojen viranomaisten välisestä tiedonjaosta ja valvonnan tehostamisesta",
@@ -1698,54 +1706,6 @@
       ]
     },
     {
-      "court": "ENISA",
-      "source": "ENISA, uutiset",
-      "title": "Where do SMEs stand in preparing for the Cyber Resilience Act?",
-      "url": "https://www.enisa.europa.eu/news/where-do-smes-stand-in-preparing-for-the-cyber-resilience-act",
-      "date": "2026-07-13",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "cyber"
-      ]
-    },
-    {
-      "court": "ENISA",
-      "source": "ENISA, julkaisut",
-      "title": "SME Cyber Resilience Maturity Assessment Model",
-      "url": "https://www.enisa.europa.eu/publications/sme-cyber-resilience-maturity-assessment-model",
-      "date": "2026-07-13",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "cyber"
-      ]
-    },
-    {
-      "court": "ENISA",
-      "source": "ENISA, uutiset",
-      "title": "Team Europe wins 1st ever International Cybersecurity Challenge for women",
-      "url": "https://www.enisa.europa.eu/news/team-europe-wins-1st-ever-international-cybersecurity-challenge-for-women",
-      "date": "2026-07-10",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "cyber"
-      ]
-    },
-    {
       "court": "TSV",
       "source": "Tietosuojavaltuutetun toimisto",
       "title": "Euroopan tietosuojaneuvosto julkaisi ohjeet anonymisoinnista ja tiedonharavoinnista",
@@ -1778,22 +1738,6 @@
       ]
     },
     {
-      "court": "ENISA",
-      "source": "ENISA, julkaisut",
-      "title": "ENISA’s view on Cybersecurity in the Frontier AI Era",
-      "url": "https://www.enisa.europa.eu/publications/enisas-view-on-cybersecurity-in-the-frontier-ai-era",
-      "date": "2026-07-07",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "cyber"
-      ]
-    },
-    {
       "court": "Säädöskokoelma",
       "source": "Finlex, säädöskokoelma",
       "title": "581/2026, Laki henkilötietojen käsittelystä Puolustusvoimissa annetun lain muuttamisesta",
@@ -1807,23 +1751,6 @@
       ],
       "tags": [
         "henkilötiet"
-      ]
-    },
-    {
-      "court": "Tuomioistuimet",
-      "source": "Tuomioistuinlaitos",
-      "title": "Vakuutusoikeus on 17.6.2026 antanut päätöksiä Vastaamon tietomurtoon liittyvien törkeiden kiristysten yritysten johdosta rikosvahinkolain nojalla suoritettavista kärsimyskorvauksista.",
-      "url": "https://www.vakuutusoikeus.fi/ajankohtaiset/vakuutusoikeus-on-17-6-2026-antanut-paatoksia-vastaamon-tietomurtoon-liittyvien-torkean-kiristyksen-yritysten-johdosta-rikosvahinkolain-nojalla-suoritettavien-karsimyskorvausten-maarista-vakuutusoike/",
-      "date": "2026-06-26",
-      "keywords": "",
-      "summary": "",
-      "score": 35,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "tärkeä",
-        "tietomurto"
       ]
     },
     {
@@ -1904,6 +1831,22 @@
       "tags": [
         "tärkeä",
         "tekoäly"
+      ]
+    },
+    {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "Shaping data protection priorities: EDPS and DPOs join forces in Brussels",
+      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/shaping-data-protection-priorities-edps-and-dpos-join-forces-brussels",
+      "date": "2026-06-18",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "data protection"
       ]
     },
     {
@@ -2022,22 +1965,6 @@
       ],
       "tags": [
         "henkilötiet"
-      ]
-    },
-    {
-      "court": "ENISA",
-      "source": "ENISA, uutiset",
-      "title": "Cyber Europe 2026: All eyes on the EU’s collective response and resilience",
-      "url": "https://www.enisa.europa.eu/news/cyber-europe-2026-all-eyes-on-the-eus-collective-response-and-resilience",
-      "date": "2026-06-11",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "cyber"
       ]
     },
     {

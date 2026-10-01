@@ -4,7 +4,7 @@
 <link>https://lslander.github.io/Tietosuojaseuranta/</link>
 <description>Tietosuoja, teknologia ja datasääntely</description>
 <language>fi</language>
-<lastBuildDate>Wed, 30 Sep 2026 13:08:38 +0000</lastBuildDate>
+<lastBuildDate>Thu, 01 Oct 2026 05:27:34 +0000</lastBuildDate>
 <item>
 <title>ENISA: Cybersecurity Month @ work: Employees&#x27; skills under the looking glass</title>
 <link>https://www.enisa.europa.eu/news/cybersecurity-month-work-employees-skills-under-the-looking-glass</link>
@@ -188,14 +188,6 @@
 <pubDate>Mon, 14 Sep 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>
-</item>
-<item>
-<title>IAPP: How a UK ruling shapes DSAR compliance</title>
-<link>https://iapp.org/news/a/how-a-uk-ruling-shapes-dsar-compliance</link>
-<guid isPermaLink="true">https://iapp.org/news/a/how-a-uk-ruling-shapes-dsar-compliance</guid>
-<pubDate>Mon, 14 Sep 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Datasääntely</category>
 </item>
 <item>
 <title>EDPB: Failure to respect the rights of individuals: The CNIL fined EXTIA 300 000 EUR</title>
@@ -639,5 +631,13 @@ Lisäksi tällä viikolla julkaistu heinäkuun Kybersää osoittaa sateisen syks
 <pubDate>Fri, 10 Jul 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Kyberturvallisuus</category>
+</item>
+<item>
+<title>TSV: Euroopan tietosuojaneuvosto julkaisi ohjeet anonymisoinnista ja tiedonharavoinnista</title>
+<link>https://tietosuoja.fi/-/euroopan-tietosuojaneuvosto-julkaisi-ohjeet-anonymisoinnista-ja-tiedonharavoinnista</link>
+<guid isPermaLink="true">https://tietosuoja.fi/-/euroopan-tietosuojaneuvosto-julkaisi-ohjeet-anonymisoinnista-ja-tiedonharavoinnista</guid>
+<pubDate>Thu, 09 Jul 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
 </item>
 </channel></rss>

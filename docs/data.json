@@ -1,5 +1,5 @@
 {
-  "generated": "2026-09-30T13:08:38",
+  "generated": "2026-10-01T05:27:34",
   "window_days": 120,
   "sources": [
     {
@@ -103,7 +103,7 @@
       "name": "Finlex, säädöskokoelma",
       "court": "Säädöskokoelma",
       "ok": true,
-      "fetched": 30,
+      "fetched": 29,
       "error": ""
     },
     {
@@ -207,7 +207,7 @@
       "name": "UTUPub (Turun yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 5,
+      "fetched": 4,
       "error": ""
     },
     {
@@ -215,7 +215,7 @@
       "name": "eRepo (Itä-Suomen yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 21,
+      "fetched": 20,
       "error": ""
     },
     {
@@ -224,7 +224,7 @@
       "court": "Julkaisu",
       "ok": false,
       "fetched": 0,
-      "error": "403 Client Error: Forbidden for url: https://jyx.jyu.fi/dspace-oai//request?verb=ListRecords&resumptionToken=oai_dc%2F2026-07-17T00%3A00%3A00Z%2F%2F%2F100"
+      "error": "403 Client Error: Forbidden for url: https://jyx.jyu.fi/dspace-oai//request?verb=ListRecords&resumptionToken=oai_dc%2F2026-07-18T00%3A00%3A00Z%2F%2F%2F100"
     },
     {
       "id": "doria",
@@ -247,7 +247,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 82,
+      "fetched": 79,
       "error": ""
     },
     {
@@ -271,7 +271,7 @@
       "name": "Kyberturvallisuuskeskus",
       "court": "Kyberturvallisuuskeskus",
       "ok": true,
-      "fetched": 431,
+      "fetched": 430,
       "error": ""
     },
     {
@@ -662,22 +662,6 @@
       "tags": [
         "personal data",
         "data protection"
-      ]
-    },
-    {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "How a UK ruling shapes DSAR compliance",
-      "url": "https://iapp.org/news/a/how-a-uk-ruling-shapes-dsar-compliance",
-      "date": "2026-09-14",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Datasääntely"
-      ],
-      "tags": [
-        "DSA"
       ]
     },
     {
@@ -1886,23 +1870,6 @@
         "tärkeä",
         "tietosuoja",
         "henkilötiet",
-        "seuraamusmaksu"
-      ]
-    },
-    {
-      "court": "TSV",
-      "source": "Tietosuojavaltuutetun toimisto",
-      "title": "Hallinto-oikeudelta päätös Yliopiston Apteekille määrätystä seuraamusmaksusta – lakiuudistus julkisen sektorin seuraamusmaksuista lisäisi yhdenmukaisuutta",
-      "url": "https://tietosuoja.fi/-/hallinto-oikeudelta-paatos-yliopiston-apteekille-maaratysta-seuraamusmaksusta-lakiuudistus-julkisen-sektorin-seuraamusmaksuista-lisaisi-yhdenmukaisuutta",
-      "date": "2026-06-02",
-      "keywords": "",
-      "summary": "",
-      "score": 45,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tärkeä",
         "seuraamusmaksu"
       ]
     }

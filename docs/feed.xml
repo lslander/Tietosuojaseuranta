@@ -4,7 +4,39 @@
 <link>https://lslander.github.io/Tietosuojaseuranta/</link>
 <description>Tietosuoja, teknologia ja datasääntely</description>
 <language>fi</language>
-<lastBuildDate>Thu, 01 Oct 2026 05:27:34 +0000</lastBuildDate>
+<lastBuildDate>Fri, 02 Oct 2026 05:26:58 +0000</lastBuildDate>
+<item>
+<title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 40/2026</title>
+<link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-402026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
+<guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-402026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
+<pubDate>Fri, 02 Oct 2026 09:00:00 +0000</pubDate>
+<description>Kyberturvallisuuskeskus julkaisi vakavan varoituksen tietomurroista, johon hyödynnetään haavoittuvia verkon reunalaitteita. Ohjelmistohaavoittuvuudet ja niiden hyväksikäytöt ovat olleet keskeisiä turvallisuusteemoja jo pitkään. Muistutamme myös nopean päivittämisen sekä murtojälkien selvittämisen tärkeydestä. Lisäksi kerromme kuulumisia eri kyberharjoituksista.</description>
+<category>Kyberturvallisuus</category>
+</item>
+<item>
+<title>Traficom: Lokakuu on Euroopan kyberturvallisuuskuukausi – vahvista arjen tietoturvataitojasi!</title>
+<link>https://www.traficom.fi/fi/uutiset/lokakuu-euroopan-kyberturvallisuuskuukausi-vahvista-arjen-tietoturvataitojasi</link>
+<guid isPermaLink="true">https://www.traficom.fi/fi/uutiset/lokakuu-euroopan-kyberturvallisuuskuukausi-vahvista-arjen-tietoturvataitojasi</guid>
+<pubDate>Thu, 01 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Kyberturvallisuus</category>
+</item>
+<item>
+<title>EUT: 139/2026 : 1 October 2026 - Opinion of the Advocate General at the Court Laila Medina in Case C-12/25</title>
+<link>https://curia.europa.eu/site/jcms/p1_1000088284</link>
+<guid isPermaLink="true">https://curia.europa.eu/site/jcms/p1_1000088284</guid>
+<pubDate>Thu, 01 Oct 2026 09:00:00 +0000</pubDate>
+<description>Bisdom Gent Approximation of laws Advocate General Medina: the right to erasure under the GDPR may, in principle, apply to personal data contained in baptismal registers</description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>Kyberturvallisuuskeskus: Citrix NetScaler -haavoittuvuuksia hyväksikäytetty Suomessa</title>
+<link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/citrix-netscaler-haavoittuvuuksia-hyvaksikaytetty-suomessa?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
+<guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/citrix-netscaler-haavoittuvuuksia-hyvaksikaytetty-suomessa?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
+<pubDate>Thu, 01 Oct 2026 09:00:00 +0000</pubDate>
+<description>Kyberturvallisuuskeskus on julkaissut varoituksen Citrix NetScaler ADC- ja Gateway-tuotteiden useista kriittisistä haavoittuvuuksista, joiden aktiivista hyväksikäyttöä on havaittu myös Suomessa. Haavoittuvuudet voivat mahdollistaa esimerkiksi etäkoodin suorittamisen ilman tunnistautumista, palvelunestohyökkäykset sekä muun haitallisen toiminnan järjestelmissä. Organisaatioita suositellaan päivittä</description>
+<category>Kyberturvallisuus</category>
+</item>
 <item>
 <title>ENISA: Cybersecurity Month @ work: Employees&#x27; skills under the looking glass</title>
 <link>https://www.enisa.europa.eu/news/cybersecurity-month-work-employees-skills-under-the-looking-glass</link>
@@ -157,21 +189,20 @@
 <description></description>
 </item>
 <item>
+<title>UODO: Data protection rules are not a burden, but an opportunity 17.09.2026</title>
+<link>https://uodo.gov.pl/en/553/2273</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2273</guid>
+<pubDate>Thu, 17 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
 <title>UODO: Additional inspections by the Personal Data Protection Office at organisations in the healthcare sector 16.09.2026</title>
 <link>https://uodo.gov.pl/en/553/2272</link>
 <guid isPermaLink="true">https://uodo.gov.pl/en/553/2272</guid>
 <pubDate>Wed, 16 Sep 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>
-</item>
-<item>
-<title>IAPP: Notes from the Asia-Pacific region: AI, privacy and cyber enforcement in Greater China, Hong Kong</title>
-<link>https://iapp.org/news/a/notes-from-the-asia-pacific-region-ai-privacy-and-cyber-enforcement-in-greater-china-hong-kong</link>
-<guid isPermaLink="true">https://iapp.org/news/a/notes-from-the-asia-pacific-region-ai-privacy-and-cyber-enforcement-in-greater-china-hong-kong</guid>
-<pubDate>Wed, 16 Sep 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-<category>Kyberturvallisuus</category>
 </item>
 <item>
 <title>UODO: Supreme Administrative Court agrees with the position of the President of the Personal Data Protection Office concerning individuals conducting business activities 15.09.2026</title>
@@ -247,14 +278,6 @@
 <title>Säädöskokoelma: 791/2026, Laki henkilötietojen käsittelystä Rikosseuraamuslaitoksessa annetun lain muuttamisesta</title>
 <link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/791</link>
 <guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/791</guid>
-<pubDate>Tue, 08 Sep 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>UODO: Personal Data Protection Office experts on data protection in psychological and educational counselling centres 08.09.2026</title>
-<link>https://uodo.gov.pl/en/553/2267</link>
-<guid isPermaLink="true">https://uodo.gov.pl/en/553/2267</guid>
 <pubDate>Tue, 08 Sep 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>
@@ -609,35 +632,11 @@ Lisäksi tällä viikolla julkaistu heinäkuun Kybersää osoittaa sateisen syks
 <category>Tietosuoja</category>
 </item>
 <item>
-<title>ENISA: Where do SMEs stand in preparing for the Cyber Resilience Act?</title>
-<link>https://www.enisa.europa.eu/news/where-do-smes-stand-in-preparing-for-the-cyber-resilience-act</link>
-<guid isPermaLink="true">https://www.enisa.europa.eu/news/where-do-smes-stand-in-preparing-for-the-cyber-resilience-act</guid>
+<title>KKO: Korkein oikeus hylkäsi valituslupahakemuksen Vastaamon tietomurtoa ja sitä seuranneita kiristysrikoksia koskeneessa asiassa</title>
+<link>https://www.korkeinoikeus.fi/ajankohtaiset/korkein-oikeus-hylkasi-valituslupahakemuksen-vastaamon-tietomurtoa-ja-sita-seuranneita-kiristysrikoksia-koskeneessa-asiassa/</link>
+<guid isPermaLink="true">https://www.korkeinoikeus.fi/ajankohtaiset/korkein-oikeus-hylkasi-valituslupahakemuksen-vastaamon-tietomurtoa-ja-sita-seuranneita-kiristysrikoksia-koskeneessa-asiassa/</guid>
 <pubDate>Mon, 13 Jul 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>ENISA: SME Cyber Resilience Maturity Assessment Model</title>
-<link>https://www.enisa.europa.eu/publications/sme-cyber-resilience-maturity-assessment-model</link>
-<guid isPermaLink="true">https://www.enisa.europa.eu/publications/sme-cyber-resilience-maturity-assessment-model</guid>
-<pubDate>Mon, 13 Jul 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>ENISA: Team Europe wins 1st ever International Cybersecurity Challenge for women</title>
-<link>https://www.enisa.europa.eu/news/team-europe-wins-1st-ever-international-cybersecurity-challenge-for-women</link>
-<guid isPermaLink="true">https://www.enisa.europa.eu/news/team-europe-wins-1st-ever-international-cybersecurity-challenge-for-women</guid>
-<pubDate>Fri, 10 Jul 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>TSV: Euroopan tietosuojaneuvosto julkaisi ohjeet anonymisoinnista ja tiedonharavoinnista</title>
-<link>https://tietosuoja.fi/-/euroopan-tietosuojaneuvosto-julkaisi-ohjeet-anonymisoinnista-ja-tiedonharavoinnista</link>
-<guid isPermaLink="true">https://tietosuoja.fi/-/euroopan-tietosuojaneuvosto-julkaisi-ohjeet-anonymisoinnista-ja-tiedonharavoinnista</guid>
-<pubDate>Thu, 09 Jul 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
 </item>
 </channel></rss>

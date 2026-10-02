@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-01T05:27:34",
+  "generated": "2026-10-02T05:26:58",
   "window_days": 120,
   "sources": [
     {
@@ -224,7 +224,7 @@
       "court": "Julkaisu",
       "ok": false,
       "fetched": 0,
-      "error": "403 Client Error: Forbidden for url: https://jyx.jyu.fi/dspace-oai//request?verb=ListRecords&resumptionToken=oai_dc%2F2026-07-18T00%3A00%3A00Z%2F%2F%2F100"
+      "error": "403 Client Error: Forbidden for url: https://jyx.jyu.fi/dspace-oai//request?verb=ListRecords&resumptionToken=oai_dc%2F2026-07-19T00%3A00%3A00Z%2F%2F%2F100"
     },
     {
       "id": "doria",
@@ -247,7 +247,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 79,
+      "fetched": 81,
       "error": ""
     },
     {
@@ -271,7 +271,7 @@
       "name": "Kyberturvallisuuskeskus",
       "court": "Kyberturvallisuuskeskus",
       "ok": true,
-      "fetched": 430,
+      "fetched": 428,
       "error": ""
     },
     {
@@ -292,6 +292,71 @@
     }
   ],
   "items": [
+    {
+      "court": "Kyberturvallisuuskeskus",
+      "source": "Kyberturvallisuuskeskus",
+      "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 40/2026",
+      "url": "https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-402026?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
+      "date": "2026-10-02",
+      "keywords": "",
+      "summary": "Kyberturvallisuuskeskus julkaisi vakavan varoituksen tietomurroista, johon hyödynnetään haavoittuvia verkon reunalaitteita. Ohjelmistohaavoittuvuudet ja niiden hyväksikäytöt ovat olleet keskeisiä turvallisuusteemoja jo pitkään. Muistutamme myös nopean päivittämisen sekä murtojälkien selvittämisen tärkeydestä. Lisäksi kerromme kuulumisia eri kyberharjoituksista.",
+      "score": 13,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "kyberturvallisuus"
+      ]
+    },
+    {
+      "court": "Traficom",
+      "source": "Traficom",
+      "title": "Lokakuu on Euroopan kyberturvallisuuskuukausi – vahvista arjen tietoturvataitojasi!",
+      "url": "https://www.traficom.fi/fi/uutiset/lokakuu-euroopan-kyberturvallisuuskuukausi-vahvista-arjen-tietoturvataitojasi",
+      "date": "2026-10-01",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "kyberturvallisuus"
+      ]
+    },
+    {
+      "court": "EUT",
+      "source": "Unionin tuomioistuimen lehdistötiedotteet",
+      "title": "139/2026 : 1 October 2026 - Opinion of the Advocate General at the Court Laila Medina in Case C-12/25",
+      "url": "https://curia.europa.eu/site/jcms/p1_1000088284",
+      "date": "2026-10-01",
+      "keywords": "",
+      "summary": "Bisdom Gent Approximation of laws Advocate General Medina: the right to erasure under the GDPR may, in principle, apply to personal data contained in baptismal registers",
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "GDPR",
+        "personal data"
+      ]
+    },
+    {
+      "court": "Kyberturvallisuuskeskus",
+      "source": "Kyberturvallisuuskeskus",
+      "title": "Citrix NetScaler -haavoittuvuuksia hyväksikäytetty Suomessa",
+      "url": "https://www.kyberturvallisuuskeskus.fi/fi/uutiset/citrix-netscaler-haavoittuvuuksia-hyvaksikaytetty-suomessa?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
+      "date": "2026-10-01",
+      "keywords": "",
+      "summary": "Kyberturvallisuuskeskus on julkaissut varoituksen Citrix NetScaler ADC- ja Gateway-tuotteiden useista kriittisistä haavoittuvuuksista, joiden aktiivista hyväksikäyttöä on havaittu myös Suomessa. Haavoittuvuudet voivat mahdollistaa esimerkiksi etäkoodin suorittamisen ilman tunnistautumista, palvelunestohyökkäykset sekä muun haitallisen toiminnan järjestelmissä. Organisaatioita suositellaan päivittä",
+      "score": 13,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "kyberturvallisuus"
+      ]
+    },
     {
       "court": "ENISA",
       "source": "ENISA, uutiset",
@@ -598,6 +663,22 @@
     {
       "court": "UODO",
       "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "Data protection rules are not a burden, but an opportunity 17.09.2026",
+      "url": "https://uodo.gov.pl/en/553/2273",
+      "date": "2026-09-17",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "data protection"
+      ]
+    },
+    {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
       "title": "Additional inspections by the Personal Data Protection Office at organisations in the healthcare sector 16.09.2026",
       "url": "https://uodo.gov.pl/en/553/2272",
       "date": "2026-09-16",
@@ -610,24 +691,6 @@
       "tags": [
         "personal data",
         "data protection"
-      ]
-    },
-    {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "Notes from the Asia-Pacific region: AI, privacy and cyber enforcement in Greater China, Hong Kong",
-      "url": "https://iapp.org/news/a/notes-from-the-asia-pacific-region-ai-privacy-and-cyber-enforcement-in-greater-china-hong-kong",
-      "date": "2026-09-16",
-      "keywords": "",
-      "summary": "",
-      "score": 16,
-      "topics": [
-        "Tietosuoja",
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "privacy",
-        "cyber"
       ]
     },
     {
@@ -783,23 +846,6 @@
       ],
       "tags": [
         "henkilötiet"
-      ]
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "Personal Data Protection Office experts on data protection in psychological and educational counselling centres 08.09.2026",
-      "url": "https://uodo.gov.pl/en/553/2267",
-      "date": "2026-09-08",
-      "keywords": "",
-      "summary": "",
-      "score": 16,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data",
-        "data protection"
       ]
     },
     {
@@ -1511,6 +1557,23 @@
       ]
     },
     {
+      "court": "KKO",
+      "source": "Tuomioistuinlaitos",
+      "title": "Korkein oikeus hylkäsi valituslupahakemuksen Vastaamon tietomurtoa ja sitä seuranneita kiristysrikoksia koskeneessa asiassa",
+      "url": "https://www.korkeinoikeus.fi/ajankohtaiset/korkein-oikeus-hylkasi-valituslupahakemuksen-vastaamon-tietomurtoa-ja-sita-seuranneita-kiristysrikoksia-koskeneessa-asiassa/",
+      "date": "2026-07-13",
+      "keywords": "",
+      "summary": "",
+      "score": 35,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "tärkeä",
+        "tietomurto"
+      ]
+    },
+    {
       "court": "ENISA",
       "source": "ENISA, uutiset",
       "title": "Where do SMEs stand in preparing for the Cyber Resilience Act?",
@@ -1643,7 +1706,7 @@
     {
       "court": "Säädöskokoelma",
       "source": "Finlex, säädöskokoelma",
-      "title": "581/2026, Laki henkilötietojen käsittelystä Puolustusvoimissa annetun lain muuttamisesta",
+      "title": "581/2026, Laki henkilötietojen käsittelystä Puolustusvoimissa annetun lain muut",
       "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/581",
       "date": "2026-06-29",
       "keywords": "",

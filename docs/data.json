@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-02T05:26:58",
+  "generated": "2026-10-05T05:31:13",
   "window_days": 120,
   "sources": [
     {
@@ -111,7 +111,7 @@
       "name": "Finlex, hallituksen esitykset",
       "court": "HE",
       "ok": true,
-      "fetched": 8,
+      "fetched": 7,
       "error": ""
     },
     {
@@ -183,7 +183,7 @@
       "name": "Helda (Helsingin yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 41,
+      "fetched": 43,
       "error": ""
     },
     {
@@ -215,7 +215,7 @@
       "name": "eRepo (Itä-Suomen yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 20,
+      "fetched": 19,
       "error": ""
     },
     {
@@ -224,7 +224,7 @@
       "court": "Julkaisu",
       "ok": false,
       "fetched": 0,
-      "error": "403 Client Error: Forbidden for url: https://jyx.jyu.fi/dspace-oai//request?verb=ListRecords&resumptionToken=oai_dc%2F2026-07-19T00%3A00%3A00Z%2F%2F%2F100"
+      "error": "403 Client Error: Forbidden for url: https://jyx.jyu.fi/dspace-oai//request?verb=ListRecords&resumptionToken=oai_dc%2F2026-07-22T00%3A00%3A00Z%2F%2F%2F100"
     },
     {
       "id": "doria",
@@ -247,7 +247,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 81,
+      "fetched": 80,
       "error": ""
     },
     {
@@ -293,6 +293,56 @@
   ],
   "items": [
     {
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "Helinä Tiura-Virran väitös 6.10.2026: Poliisiviranomaisen oikeudet saada ja antaa henkilötietoja rikosasioissa viranomaisten välisessä toiminnassa HTM Helinä Tiura-Virran hallinto-oikeuden alaan kuulu",
+      "url": "https://www.edilex.fi/uutiset/102579",
+      "date": "2026-10-05",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "henkilötiet"
+      ]
+    },
+    {
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "Kyberturvallisuuskeskukselta vakava varoitus: Citrix NetScaler ADC- ja Gateway-tuotteissa kriittisiä haavoittuvuuksia, useita tietomurtoja Suomessa – lue myös Kyberturvallisuuskeskuksen viikkokatsaus ",
+      "url": "https://www.edilex.fi/uutiset/103221",
+      "date": "2026-10-02",
+      "keywords": "",
+      "summary": "",
+      "score": 38,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "tärkeä",
+        "kyberturvallisuus",
+        "tietomurto"
+      ]
+    },
+    {
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "OpenAI faces California DOJ subpoena amid growing cybersecurity incident notices",
+      "url": "https://iapp.org/news/a/openai-faces-california-doj-subpoena-amid-growing-cybersecurity-incident-notices",
+      "date": "2026-10-02",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "cyber"
+      ]
+    },
+    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 40/2026",
@@ -301,22 +351,6 @@
       "keywords": "",
       "summary": "Kyberturvallisuuskeskus julkaisi vakavan varoituksen tietomurroista, johon hyödynnetään haavoittuvia verkon reunalaitteita. Ohjelmistohaavoittuvuudet ja niiden hyväksikäytöt ovat olleet keskeisiä turvallisuusteemoja jo pitkään. Muistutamme myös nopean päivittämisen sekä murtojälkien selvittämisen tärkeydestä. Lisäksi kerromme kuulumisia eri kyberharjoituksista.",
       "score": 13,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "kyberturvallisuus"
-      ]
-    },
-    {
-      "court": "Traficom",
-      "source": "Traficom",
-      "title": "Lokakuu on Euroopan kyberturvallisuuskuukausi – vahvista arjen tietoturvataitojasi!",
-      "url": "https://www.traficom.fi/fi/uutiset/lokakuu-euroopan-kyberturvallisuuskuukausi-vahvista-arjen-tietoturvataitojasi",
-      "date": "2026-10-01",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
       "topics": [
         "Kyberturvallisuus"
       ],
@@ -537,6 +571,23 @@
       "tags": []
     },
     {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "The President of the Personal Data Protection Office asks the President of the Republic of Poland to support solutions protecting Internet users 22.09.2026",
+      "url": "https://uodo.gov.pl/en/553/2275",
+      "date": "2026-09-22",
+      "keywords": "",
+      "summary": "",
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data",
+        "data protection"
+      ]
+    },
+    {
       "court": "ENISA",
       "source": "ENISA, uutiset",
       "title": "Exploring the evolution of the cyber threat landscape: How dependencies weaken our digital resilience",
@@ -571,6 +622,24 @@
       ]
     },
     {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "The President of the Personal Data Protection Office on the protection of patients' data at the conference \"GDPR in Healthcare\" 18.09.2026",
+      "url": "https://uodo.gov.pl/en/553/2274",
+      "date": "2026-09-18",
+      "keywords": "",
+      "summary": "",
+      "score": 19,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "GDPR",
+        "personal data",
+        "data protection"
+      ]
+    },
+    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 38/2026",
@@ -602,22 +671,6 @@
       ],
       "tags": [
         "AI Act"
-      ]
-    },
-    {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "Notes from the IAPP Canada: Stop using privacy as an excuse, treat it as an enabler",
-      "url": "https://iapp.org/news/a/notes-from-the-iapp-canada-stop-using-privacy-as-an-excuse-treat-it-as-an-enabler",
-      "date": "2026-09-18",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "privacy"
       ]
     },
     {
@@ -699,23 +752,6 @@
       "title": "Supreme Administrative Court agrees with the position of the President of the Personal Data Protection Office concerning individuals conducting business activities 15.09.2026",
       "url": "https://uodo.gov.pl/en/553/2268",
       "date": "2026-09-15",
-      "keywords": "",
-      "summary": "",
-      "score": 16,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data",
-        "data protection"
-      ]
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "The Personal Data Protection Office and the Social Insurance Institution invite you to a seminar in Legnica 14.09.2026",
-      "url": "https://uodo.gov.pl/en/553/2269",
-      "date": "2026-09-14",
       "keywords": "",
       "summary": "",
       "score": 16,
@@ -846,22 +882,6 @@
       ],
       "tags": [
         "henkilötiet"
-      ]
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "The PL SA and the Centre for Information Technology on data protection and new technologies in public administration 08.09.2026",
-      "url": "https://uodo.gov.pl/en/553/2271",
-      "date": "2026-09-08",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "data protection"
       ]
     },
     {
@@ -1687,23 +1707,6 @@
       ]
     },
     {
-      "court": "MAO",
-      "source": "Markkinaoikeuden ratkaisut",
-      "title": "MAO:334/2026",
-      "url": "https://www.markkinaoikeus.fi/ratkaisut/ratkaisujen-arkisto/mao334-2026/",
-      "date": "2026-06-30",
-      "keywords": "julkinen hankinta – seuraamusmaksun määrääminen",
-      "summary": "",
-      "score": 35,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tärkeä",
-        "seuraamusmaksu"
-      ]
-    },
-    {
       "court": "Säädöskokoelma",
       "source": "Finlex, säädöskokoelma",
       "title": "581/2026, Laki henkilötietojen käsittelystä Puolustusvoimissa annetun lain muut",
@@ -1898,42 +1901,6 @@
       ],
       "tags": [
         "henkilötiet"
-      ]
-    },
-    {
-      "court": "Kyberturvallisuuskeskus",
-      "source": "Kyberturvallisuuskeskus",
-      "title": "Kyberturvallisuuskeskuksen viikkokatsaus - 23/2026",
-      "url": "https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-232026?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
-      "date": "2026-06-05",
-      "keywords": "",
-      "summary": "Tällä viikolla kerromme pienestä kesän kybermuistilistasta, jonka avulla voit parantaa tietoturvaa helpoilla toimenpiteillä. Kerromme myös uuden kyberkestävyyslain voimaantulosta sekä esittelemme keväällä järjestettyä valtionhallinnon kyberharjoitusta. Lopuksi tutustumme ajankohtaisiin huijauksiin. Viikkokatsaus jää kesätauolle 19.6.–6.8.2026 väliseksi ajaksi.",
-      "score": 16,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "kyberturvallisuus",
-        "kyberkestävyy"
-      ]
-    },
-    {
-      "court": "TSV",
-      "source": "Tietosuojavaltuutetun toimisto",
-      "title": "Norjan tietosuojaviranomainen: Gigantin emoyhtiölle 1,85 miljoonan euron seuraamusmaksu tietosuojarikkomuksista klubijäsenten henkilötietojen käsittelyssä",
-      "url": "https://tietosuoja.fi/-/norjan-tietosuojaviranomainen-gigantin-emoyhtiolle-1-85-miljoonan-euron-seuraamusmaksu-tietosuojarikkomuksista-klubijasenten-henkilotietojen-kasittelyssa",
-      "date": "2026-06-04",
-      "keywords": "",
-      "summary": "",
-      "score": 51,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tärkeä",
-        "tietosuoja",
-        "henkilötiet",
-        "seuraamusmaksu"
       ]
     }
   ]

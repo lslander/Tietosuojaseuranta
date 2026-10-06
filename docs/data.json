@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-05T05:31:13",
+  "generated": "2026-10-06T05:28:24",
   "window_days": 120,
   "sources": [
     {
@@ -39,7 +39,7 @@
       "name": "Hovioikeuksien ratkaisut",
       "court": "Hovioikeus",
       "ok": true,
-      "fetched": 96,
+      "fetched": 97,
       "error": ""
     },
     {
@@ -167,7 +167,7 @@
       "name": "Euroopan tietosuojavaltuutettu (EDPS)",
       "court": "EDPS",
       "ok": true,
-      "fetched": 3,
+      "fetched": 4,
       "error": ""
     },
     {
@@ -183,7 +183,7 @@
       "name": "Helda (Helsingin yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 43,
+      "fetched": 45,
       "error": ""
     },
     {
@@ -222,9 +222,9 @@
       "id": "jyx",
       "name": "JYX (Jyväskylän yliopisto)",
       "court": "Julkaisu",
-      "ok": false,
-      "fetched": 0,
-      "error": "403 Client Error: Forbidden for url: https://jyx.jyu.fi/dspace-oai//request?verb=ListRecords&resumptionToken=oai_dc%2F2026-07-22T00%3A00%3A00Z%2F%2F%2F100"
+      "ok": true,
+      "fetched": 10,
+      "error": ""
     },
     {
       "id": "doria",
@@ -239,7 +239,7 @@
       "name": "Osuva (Vaasan yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 16,
+      "fetched": 17,
       "error": ""
     },
     {
@@ -247,7 +247,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 80,
+      "fetched": 77,
       "error": ""
     },
     {
@@ -293,9 +293,39 @@
   ],
   "items": [
     {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "Read the blogpost by Wojciech Wiewiórowski.",
+      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
+      "date": "2026-10-06",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [],
+      "tags": [
+        "pvm arvioitu"
+      ]
+    },
+    {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "A safeguard and a vulnerability: the human factor in automated decision-making and cybersecurity",
+      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity",
+      "date": "2026-10-05",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "cyber"
+      ]
+    },
+    {
       "court": "Edilex",
       "source": "Edilex, uutiset",
-      "title": "Helinä Tiura-Virran väitös 6.10.2026: Poliisiviranomaisen oikeudet saada ja antaa henkilötietoja rikosasioissa viranomaisten välisessä toiminnassa HTM Helinä Tiura-Virran hallinto-oikeuden alaan kuulu",
+      "title": "Helinä Tiura-Virran väitös 6.10.2026: Poliisiviranomaisen oikeudet saada ja antaa henkilötietoja rikosasioissa viranomaisten välisessä toiminnassa",
       "url": "https://www.edilex.fi/uutiset/102579",
       "date": "2026-10-05",
       "keywords": "",
@@ -306,6 +336,22 @@
       ],
       "tags": [
         "henkilötiet"
+      ]
+    },
+    {
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "Thought for the week: AI agents raise new cybersecurity and liability questions",
+      "url": "https://iapp.org/news/a/thought-for-the-week-ai-agents-raise-new-cybersecurity-and-liability-questions",
+      "date": "2026-10-05",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "cyber"
       ]
     },
     {
@@ -323,6 +369,23 @@
       "tags": [
         "tärkeä",
         "kyberturvallisuus",
+        "tietomurto"
+      ]
+    },
+    {
+      "court": "Traficom",
+      "source": "Traficom",
+      "title": "Vakava varoitus Citrix NetScaler -haavoittuvuuksia on käytetty tietomurtoihin Suomessa",
+      "url": "https://www.traficom.fi/fi/uutiset/vakava-varoitus-citrix-netscaler-haavoittuvuuksia-kaytetty-tietomurtoihin-suomessa",
+      "date": "2026-10-02",
+      "keywords": "",
+      "summary": "",
+      "score": 35,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "tärkeä",
         "tietomurto"
       ]
     },
@@ -511,7 +574,7 @@
     {
       "court": "EDPB",
       "source": "Euroopan tietosuojaneuvosto (EDPB)",
-      "title": "The Irish Data Protection Commission fines Google 403 000 000 EUR following Inquiry into Google’s processing of location data",
+      "title": "The Irish Data Protection Commission fines Google EUR 403 000 000 following Inquiry into Google’s processing of location data",
       "url": "https://www.edpb.europa.eu/news/the-irish-data-protection-commission-fines-google-403-000-000-eur-following-inquiry_en",
       "date": "2026-09-23",
       "keywords": "",
@@ -561,8 +624,8 @@
     {
       "court": "EDPB",
       "source": "Euroopan tietosuojaneuvosto (EDPB)",
-      "title": "The Spanish DPA fined Securitas Direct 100 000 EUR for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
-      "url": "https://www.edpb.europa.eu/news/the-spanish-dpa-fined-securitas-direct-100-000-eur-for-making-the-exercise-of-data-subject_en",
+      "title": "The Spanish DPA fined Securitas Direct EUR 100 000 for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
+      "url": "https://www.edpb.europa.eu/news/the-spanish-dpa-fined-securitas-direct-eur-100-000-for-making-the-exercise-of-data-subject_en",
       "date": "2026-09-22",
       "keywords": "",
       "summary": "ikerinar Tue, 22/09/2026 - 13:21",
@@ -658,22 +721,6 @@
       ]
     },
     {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "EU AI Act literacy changes may complicate, more than simplify, compliance",
-      "url": "https://iapp.org/news/a/eu-ai-act-literacy-changes-may-complicate-more-than-simplify-compliance",
-      "date": "2026-09-18",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Datasääntely"
-      ],
-      "tags": [
-        "AI Act"
-      ]
-    },
-    {
       "court": "EDPS",
       "source": "Euroopan tietosuojavaltuutettu (EDPS)",
       "title": "TechDispatch on secure multi-party computation",
@@ -766,8 +813,8 @@
     {
       "court": "EDPB",
       "source": "Euroopan tietosuojaneuvosto (EDPB)",
-      "title": "Failure to respect the rights of individuals: The CNIL fined EXTIA 300 000 EUR",
-      "url": "https://www.edpb.europa.eu/news/failure-to-respect-the-rights-of-individuals-the-cnil-fined-extia-300-000-eur_en",
+      "title": "Failure to respect the rights of individuals: The CNIL fined EXTIA EUR 300 000",
+      "url": "https://www.edpb.europa.eu/news/failure-to-respect-the-rights-of-individuals-the-cnil-fined-extia-eur-300-000_en",
       "date": "2026-09-11",
       "keywords": "",
       "summary": "ikerinar Fri, 11/09/2026 - 09:24",
@@ -859,8 +906,8 @@
     {
       "court": "EDPB",
       "source": "Euroopan tietosuojaneuvosto (EDPB)",
-      "title": "Health data breach: the CNIL fined Hôpital Privé de la Loire 500 000 EUR",
-      "url": "https://www.edpb.europa.eu/news/health-data-breach-the-cnil-fined-hopital-prive-de-la-loire-500-000-eur_en",
+      "title": "Health data breach: the CNIL fined Hôpital Privé de la Loire EUR 500 000",
+      "url": "https://www.edpb.europa.eu/news/health-data-breach-the-cnil-fined-hopital-prive-de-la-loire-eur-500-000_en",
       "date": "2026-09-09",
       "keywords": "",
       "summary": "ikerinar Wed, 09/09/2026 - 11:58",
@@ -1149,8 +1196,8 @@
     {
       "court": "EDPB",
       "source": "Euroopan tietosuojaneuvosto (EDPB)",
-      "title": "Data breach: FREE MOBILE and FREE fined €42 million",
-      "url": "https://www.edpb.europa.eu/news/data-breach-free-mobile-and-free-fined-eur42-million_en",
+      "title": "Data breach: FREE MOBILE and FREE fined EUR 42 000 000",
+      "url": "https://www.edpb.europa.eu/news/data-breach-free-mobile-and-free-fined-eur-42-000-000_en",
       "date": "2026-08-21",
       "keywords": "",
       "summary": "ipayotfr Fri, 21/08/2026 - 10:42",
@@ -1161,8 +1208,8 @@
     {
       "court": "EDPB",
       "source": "Euroopan tietosuojaneuvosto (EDPB)",
-      "title": "Data breach: France Travail fined €5 million",
-      "url": "https://www.edpb.europa.eu/news/data-breach-france-travail-fined-eur5-million_en",
+      "title": "Data breach: France Travail fined EUR 5 000 000",
+      "url": "https://www.edpb.europa.eu/news/data-breach-france-travail-fined-eur-5-000-000_en",
       "date": "2026-08-21",
       "keywords": "",
       "summary": "ipayotfr Fri, 21/08/2026 - 10:25",
@@ -1216,6 +1263,22 @@
       ],
       "tags": [
         "DSA"
+      ]
+    },
+    {
+      "court": "Julkaisu",
+      "source": "JYX (Jyväskylän yliopisto)",
+      "title": "How in-store QR codes shape the in-store customer experience",
+      "url": "http://urn.fi/URN:NBN:fi:jyu-202608186595",
+      "date": "2026-08-18",
+      "keywords": "QR codes, In-store customer experience, In-store technologies, Omnichannel, Participatory dimension, Fashion retail, Value Creation for Cyber-Physical Systems and Services, Digitaalinen liiketoiminta ja talous (painoala), Tietojärjestelmätiede, Hyvinvoinnin tutkimuksen yhteisö, Kestävä liiketoiminta",
+      "summary": "Retailers are introducing new technologies into brick-and-mortar (B&amp;M) stores to enhance the in-store customer experience (ISCX). In fashion retail, quick response (QR) codes provide customers with online content and are becoming more prevalent due to emerging global recommendations and European Union (EU) regulations. However, an in-depth understanding of how QR codes shape the ISCX and its f",
+      "score": 13,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "cyber"
       ]
     },
     {
@@ -1577,23 +1640,6 @@
       ]
     },
     {
-      "court": "KKO",
-      "source": "Tuomioistuinlaitos",
-      "title": "Korkein oikeus hylkäsi valituslupahakemuksen Vastaamon tietomurtoa ja sitä seuranneita kiristysrikoksia koskeneessa asiassa",
-      "url": "https://www.korkeinoikeus.fi/ajankohtaiset/korkein-oikeus-hylkasi-valituslupahakemuksen-vastaamon-tietomurtoa-ja-sita-seuranneita-kiristysrikoksia-koskeneessa-asiassa/",
-      "date": "2026-07-13",
-      "keywords": "",
-      "summary": "",
-      "score": 35,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "tärkeä",
-        "tietomurto"
-      ]
-    },
-    {
       "court": "ENISA",
       "source": "ENISA, uutiset",
       "title": "Where do SMEs stand in preparing for the Cyber Resilience Act?",
@@ -1767,22 +1813,6 @@
         "kyberturvallisuus",
         "kyberhyökkäy",
         "tietomurto"
-      ]
-    },
-    {
-      "court": "EDPS",
-      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
-      "title": "Shaping data protection priorities: EDPS and DPOs join forces in Brussels",
-      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/shaping-data-protection-priorities-edps-and-dpos-join-forces-brussels",
-      "date": "2026-06-18",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "data protection"
       ]
     },
     {

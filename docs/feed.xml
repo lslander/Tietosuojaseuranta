@@ -4,9 +4,24 @@
 <link>https://lslander.github.io/Tietosuojaseuranta/</link>
 <description>Tietosuoja, teknologia ja datasääntely</description>
 <language>fi</language>
-<lastBuildDate>Mon, 05 Oct 2026 05:31:13 +0000</lastBuildDate>
+<lastBuildDate>Tue, 06 Oct 2026 05:28:24 +0000</lastBuildDate>
 <item>
-<title>Edilex: Helinä Tiura-Virran väitös 6.10.2026: Poliisiviranomaisen oikeudet saada ja antaa henkilötietoja rikosasioissa viranomaisten välisessä toiminnassa HTM Helinä Tiura-Virran hallinto-oikeuden alaan kuulu</title>
+<title>EDPS: Read the blogpost by Wojciech Wiewiórowski.</title>
+<link>https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</link>
+<guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</guid>
+<pubDate>Tue, 06 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+</item>
+<item>
+<title>EDPS: A safeguard and a vulnerability: the human factor in automated decision-making and cybersecurity</title>
+<link>https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity</link>
+<guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity</guid>
+<pubDate>Mon, 05 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Kyberturvallisuus</category>
+</item>
+<item>
+<title>Edilex: Helinä Tiura-Virran väitös 6.10.2026: Poliisiviranomaisen oikeudet saada ja antaa henkilötietoja rikosasioissa viranomaisten välisessä toiminnassa</title>
 <link>https://www.edilex.fi/uutiset/102579</link>
 <guid isPermaLink="true">https://www.edilex.fi/uutiset/102579</guid>
 <pubDate>Mon, 05 Oct 2026 09:00:00 +0000</pubDate>
@@ -14,9 +29,25 @@
 <category>Tietosuoja</category>
 </item>
 <item>
+<title>IAPP: Thought for the week: AI agents raise new cybersecurity and liability questions</title>
+<link>https://iapp.org/news/a/thought-for-the-week-ai-agents-raise-new-cybersecurity-and-liability-questions</link>
+<guid isPermaLink="true">https://iapp.org/news/a/thought-for-the-week-ai-agents-raise-new-cybersecurity-and-liability-questions</guid>
+<pubDate>Mon, 05 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Kyberturvallisuus</category>
+</item>
+<item>
 <title>Edilex: Kyberturvallisuuskeskukselta vakava varoitus: Citrix NetScaler ADC- ja Gateway-tuotteissa kriittisiä haavoittuvuuksia, useita tietomurtoja Suomessa – lue myös Kyberturvallisuuskeskuksen viikkokatsaus </title>
 <link>https://www.edilex.fi/uutiset/103221</link>
 <guid isPermaLink="true">https://www.edilex.fi/uutiset/103221</guid>
+<pubDate>Fri, 02 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Kyberturvallisuus</category>
+</item>
+<item>
+<title>Traficom: Vakava varoitus Citrix NetScaler -haavoittuvuuksia on käytetty tietomurtoihin Suomessa</title>
+<link>https://www.traficom.fi/fi/uutiset/vakava-varoitus-citrix-netscaler-haavoittuvuuksia-kaytetty-tietomurtoihin-suomessa</link>
+<guid isPermaLink="true">https://www.traficom.fi/fi/uutiset/vakava-varoitus-citrix-netscaler-haavoittuvuuksia-kaytetty-tietomurtoihin-suomessa</guid>
 <pubDate>Fri, 02 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Kyberturvallisuus</category>
@@ -111,7 +142,7 @@
 <category>Tietosuoja</category>
 </item>
 <item>
-<title>EDPB: The Irish Data Protection Commission fines Google 403 000 000 EUR following Inquiry into Google’s processing of location data</title>
+<title>EDPB: The Irish Data Protection Commission fines Google EUR 403 000 000 following Inquiry into Google’s processing of location data</title>
 <link>https://www.edpb.europa.eu/news/the-irish-data-protection-commission-fines-google-403-000-000-eur-following-inquiry_en</link>
 <guid isPermaLink="true">https://www.edpb.europa.eu/news/the-irish-data-protection-commission-fines-google-403-000-000-eur-following-inquiry_en</guid>
 <pubDate>Wed, 23 Sep 2026 09:00:00 +0000</pubDate>
@@ -135,9 +166,9 @@
 <category>Tietosuoja</category>
 </item>
 <item>
-<title>EDPB: The Spanish DPA fined Securitas Direct 100 000 EUR for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number</title>
-<link>https://www.edpb.europa.eu/news/the-spanish-dpa-fined-securitas-direct-100-000-eur-for-making-the-exercise-of-data-subject_en</link>
-<guid isPermaLink="true">https://www.edpb.europa.eu/news/the-spanish-dpa-fined-securitas-direct-100-000-eur-for-making-the-exercise-of-data-subject_en</guid>
+<title>EDPB: The Spanish DPA fined Securitas Direct EUR 100 000 for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number</title>
+<link>https://www.edpb.europa.eu/news/the-spanish-dpa-fined-securitas-direct-eur-100-000-for-making-the-exercise-of-data-subject_en</link>
+<guid isPermaLink="true">https://www.edpb.europa.eu/news/the-spanish-dpa-fined-securitas-direct-eur-100-000-for-making-the-exercise-of-data-subject_en</guid>
 <pubDate>Tue, 22 Sep 2026 09:00:00 +0000</pubDate>
 <description>ikerinar Tue, 22/09/2026 - 13:21</description>
 </item>
@@ -181,14 +212,6 @@
 <pubDate>Fri, 18 Sep 2026 09:00:00 +0000</pubDate>
 <description>Tällä viikolla kerromme toimitusjohtajahuijauksista sekä toivotamme teidät tervetulleiksi GovCyber Finland 2026 -seminaariin. Lisäksi käsittelemme ClickFix-haittaohjelmailmiötä sekä Digi- ja väestötietoviraston vuoden 2026 Digiturvabarometria. Lopuksi tutustumme ajankohtaisiin huijauksiin ja viikolla julkaistuihin haavoittuvuustiedotteisiin.</description>
 <category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>IAPP: EU AI Act literacy changes may complicate, more than simplify, compliance</title>
-<link>https://iapp.org/news/a/eu-ai-act-literacy-changes-may-complicate-more-than-simplify-compliance</link>
-<guid isPermaLink="true">https://iapp.org/news/a/eu-ai-act-literacy-changes-may-complicate-more-than-simplify-compliance</guid>
-<pubDate>Fri, 18 Sep 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Datasääntely</category>
 </item>
 <item>
 <title>EDPS: TechDispatch on secure multi-party computation</title>
@@ -237,9 +260,9 @@
 <category>Tietosuoja</category>
 </item>
 <item>
-<title>EDPB: Failure to respect the rights of individuals: The CNIL fined EXTIA 300 000 EUR</title>
-<link>https://www.edpb.europa.eu/news/failure-to-respect-the-rights-of-individuals-the-cnil-fined-extia-300-000-eur_en</link>
-<guid isPermaLink="true">https://www.edpb.europa.eu/news/failure-to-respect-the-rights-of-individuals-the-cnil-fined-extia-300-000-eur_en</guid>
+<title>EDPB: Failure to respect the rights of individuals: The CNIL fined EXTIA EUR 300 000</title>
+<link>https://www.edpb.europa.eu/news/failure-to-respect-the-rights-of-individuals-the-cnil-fined-extia-eur-300-000_en</link>
+<guid isPermaLink="true">https://www.edpb.europa.eu/news/failure-to-respect-the-rights-of-individuals-the-cnil-fined-extia-eur-300-000_en</guid>
 <pubDate>Fri, 11 Sep 2026 09:00:00 +0000</pubDate>
 <description>ikerinar Fri, 11/09/2026 - 09:24</description>
 </item>
@@ -284,9 +307,9 @@
 <category>Kyberturvallisuus</category>
 </item>
 <item>
-<title>EDPB: Health data breach: the CNIL fined Hôpital Privé de la Loire 500 000 EUR</title>
-<link>https://www.edpb.europa.eu/news/health-data-breach-the-cnil-fined-hopital-prive-de-la-loire-500-000-eur_en</link>
-<guid isPermaLink="true">https://www.edpb.europa.eu/news/health-data-breach-the-cnil-fined-hopital-prive-de-la-loire-500-000-eur_en</guid>
+<title>EDPB: Health data breach: the CNIL fined Hôpital Privé de la Loire EUR 500 000</title>
+<link>https://www.edpb.europa.eu/news/health-data-breach-the-cnil-fined-hopital-prive-de-la-loire-eur-500-000_en</link>
+<guid isPermaLink="true">https://www.edpb.europa.eu/news/health-data-breach-the-cnil-fined-hopital-prive-de-la-loire-eur-500-000_en</guid>
 <pubDate>Wed, 09 Sep 2026 09:00:00 +0000</pubDate>
 <description>ikerinar Wed, 09/09/2026 - 11:58</description>
 </item>
@@ -426,16 +449,16 @@
 <description>ipayotfr Fri, 21/08/2026 - 10:47</description>
 </item>
 <item>
-<title>EDPB: Data breach: FREE MOBILE and FREE fined €42 million</title>
-<link>https://www.edpb.europa.eu/news/data-breach-free-mobile-and-free-fined-eur42-million_en</link>
-<guid isPermaLink="true">https://www.edpb.europa.eu/news/data-breach-free-mobile-and-free-fined-eur42-million_en</guid>
+<title>EDPB: Data breach: FREE MOBILE and FREE fined EUR 42 000 000</title>
+<link>https://www.edpb.europa.eu/news/data-breach-free-mobile-and-free-fined-eur-42-000-000_en</link>
+<guid isPermaLink="true">https://www.edpb.europa.eu/news/data-breach-free-mobile-and-free-fined-eur-42-000-000_en</guid>
 <pubDate>Fri, 21 Aug 2026 09:00:00 +0000</pubDate>
 <description>ipayotfr Fri, 21/08/2026 - 10:42</description>
 </item>
 <item>
-<title>EDPB: Data breach: France Travail fined €5 million</title>
-<link>https://www.edpb.europa.eu/news/data-breach-france-travail-fined-eur5-million_en</link>
-<guid isPermaLink="true">https://www.edpb.europa.eu/news/data-breach-france-travail-fined-eur5-million_en</guid>
+<title>EDPB: Data breach: France Travail fined EUR 5 000 000</title>
+<link>https://www.edpb.europa.eu/news/data-breach-france-travail-fined-eur-5-000-000_en</link>
+<guid isPermaLink="true">https://www.edpb.europa.eu/news/data-breach-france-travail-fined-eur-5-000-000_en</guid>
 <pubDate>Fri, 21 Aug 2026 09:00:00 +0000</pubDate>
 <description>ipayotfr Fri, 21/08/2026 - 10:25</description>
 </item>
@@ -462,6 +485,14 @@
 <pubDate>Tue, 18 Aug 2026 09:00:00 +0000</pubDate>
 <description>Anonymous (not verified) Tue, 08/18/2026 - 11:13 Opening: 17 August 2026 Closing: 23 September 2026 The study will explore users&#x27; interactions with features mandated by the Digital Services Act (DSA) on selected online marketplaces designated as Very Large Online Marketplaces (VLOMs). The study should cover user interaction with mechanisms under Article 16 (notice and action), Article 30(7) (trade</description>
 <category>Datasääntely</category>
+</item>
+<item>
+<title>Julkaisu: How in-store QR codes shape the in-store customer experience</title>
+<link>http://urn.fi/URN:NBN:fi:jyu-202608186595</link>
+<guid isPermaLink="true">http://urn.fi/URN:NBN:fi:jyu-202608186595</guid>
+<pubDate>Tue, 18 Aug 2026 09:00:00 +0000</pubDate>
+<description>QR codes, In-store customer experience, In-store technologies, Omnichannel, Participatory dimension, Fashion retail, Value Creation for Cyber-Physical Systems and Services, Digitaalinen liiketoiminta ja talous (painoala), Tietojärjestelmätiede, Hyvinvoinnin tutkimuksen yhteisö, Kestävä liiketoiminta</description>
+<category>Kyberturvallisuus</category>
 </item>
 <item>
 <title>TSV: Apulaistietosuojavaltuutettu: Tietoa urheilijan lievästä dopingrikkomuksesta ei olisi pitänyt julkaista, kun toimintakielto oli jo päättynyt</title>
@@ -603,38 +634,6 @@ Lisäksi tällä viikolla julkaistu heinäkuun Kybersää osoittaa sateisen syks
 <title>Säädöskokoelma: 736/2026, Laki henkilötietojen käsittelystä maahanmuuttohallinnossa annetun lain 13 §:n muuttamisesta</title>
 <link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/736</link>
 <guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/736</guid>
-<pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>Säädöskokoelma: 735/2026, Laki henkilötietojen käsittelystä Puolustusvoimissa annetun lain 29 §:n muuttamisesta</title>
-<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/735</link>
-<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/735</guid>
-<pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>Säädöskokoelma: 732/2026, Laki henkilötietojen käsittelystä Tullissa annetun lain muuttamisesta</title>
-<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/732</link>
-<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/732</guid>
-<pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>Säädöskokoelma: 729/2026, Laki henkilötietojen käsittelystä Rajavartiolaitoksessa annetun lain muuttamisesta</title>
-<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/729</link>
-<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/729</guid>
-<pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>Säädöskokoelma: 728/2026, Laki henkilötietojen käsittelystä poliisitoimessa annetun lain muuttamisesta</title>
-<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/728</link>
-<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/728</guid>
 <pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>

@@ -34,7 +34,20 @@ keywords:
     - profilointi
     - automaattinen päätöksenteko
     - vaikutustenarviointi
-    - seuraamusmaksu
+    # Pelkkä sana "seuraamusmaksu" on poistettu must_any-listalta tarkoituksella
+    # (2026-10-07, löytyi Edilex-syötteestä). Sana on yleinen hallinnollisen
+    # sanktion termi eikä tietosuojaspesifi: se päästi läpi mm. uutisen
+    # laittomasti maassa oleskelevan työllistämisestä määrätystä
+    # seuraamusmaksusta (ulkomaalaislaki) ja markkinaoikeuden ratkaisun
+    # MAO:334/2026, joka koski julkista hankintaa, ei tietosuojaa. Aidot
+    # tietosuojan seuraamusmaksu-uutiset (TSV, EDPB, KHO, ulkomaiset DPA:t)
+    # sisältävät käytännössä aina myös jonkin muun tämän listan termin kuten
+    # "tietosuoja" tai "henkilötiet", joten niitä tämä poisto ei karsi pois.
+    # Tietosuojavaltuutetun oma syöte (tsv, always_include: true) ohittaa
+    # must_any-suodatuksen kokonaan, joten senkään jutut eivät katoa.
+    # Sana on yhä mukana boost- ja topics-listoilla, joissa se ei toimi
+    # portinvartijana vaan lisää painotusta/luokittelua jutuille jotka ovat jo
+    # läpäisseet must_any:n jotain muuta kautta.
     - biometri
     - evästeet
     - verkkojäljit

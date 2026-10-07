@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-06T05:28:24",
+  "generated": "2026-10-07T05:29:22",
   "window_days": 120,
   "sources": [
     {
@@ -183,7 +183,7 @@
       "name": "Helda (Helsingin yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 45,
+      "fetched": 52,
       "error": ""
     },
     {
@@ -207,7 +207,7 @@
       "name": "UTUPub (Turun yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 4,
+      "fetched": 3,
       "error": ""
     },
     {
@@ -215,7 +215,7 @@
       "name": "eRepo (Itä-Suomen yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 19,
+      "fetched": 20,
       "error": ""
     },
     {
@@ -247,7 +247,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 77,
+      "fetched": 76,
       "error": ""
     },
     {
@@ -297,13 +297,30 @@
       "source": "Euroopan tietosuojavaltuutettu (EDPS)",
       "title": "Read the blogpost by Wojciech Wiewiórowski.",
       "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
-      "date": "2026-10-06",
+      "date": "2026-10-07",
       "keywords": "",
       "summary": "",
       "score": 23,
       "topics": [],
       "tags": [
         "pvm arvioitu"
+      ]
+    },
+    {
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "Laittomasti maassa oleskelevia työllistäneille työnantajille määrätty seuraamusmaksuja Maahanmuuttovirasto voi määrätä seuraamusmaksun työnantajalle, joka työllistää laittomasti maassa oleskelevan kol",
+      "url": "https://www.edilex.fi/uutiset/103257",
+      "date": "2026-10-06",
+      "keywords": "",
+      "summary": "",
+      "score": 35,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tärkeä",
+        "seuraamusmaksu"
       ]
     },
     {
@@ -352,41 +369,6 @@
       ],
       "tags": [
         "cyber"
-      ]
-    },
-    {
-      "court": "Edilex",
-      "source": "Edilex, uutiset",
-      "title": "Kyberturvallisuuskeskukselta vakava varoitus: Citrix NetScaler ADC- ja Gateway-tuotteissa kriittisiä haavoittuvuuksia, useita tietomurtoja Suomessa – lue myös Kyberturvallisuuskeskuksen viikkokatsaus ",
-      "url": "https://www.edilex.fi/uutiset/103221",
-      "date": "2026-10-02",
-      "keywords": "",
-      "summary": "",
-      "score": 38,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "tärkeä",
-        "kyberturvallisuus",
-        "tietomurto"
-      ]
-    },
-    {
-      "court": "Traficom",
-      "source": "Traficom",
-      "title": "Vakava varoitus Citrix NetScaler -haavoittuvuuksia on käytetty tietomurtoihin Suomessa",
-      "url": "https://www.traficom.fi/fi/uutiset/vakava-varoitus-citrix-netscaler-haavoittuvuuksia-kaytetty-tietomurtoihin-suomessa",
-      "date": "2026-10-02",
-      "keywords": "",
-      "summary": "",
-      "score": 35,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "tärkeä",
-        "tietomurto"
       ]
     },
     {
@@ -473,6 +455,22 @@
     {
       "court": "IAPP",
       "source": "IAPP",
+      "title": "The rising significance of data protection in shaping Africa's digital future",
+      "url": "https://iapp.org/news/a/the-rising-significance-of-data-protection-in-shaping-africas-digital-future",
+      "date": "2026-09-29",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "data protection"
+      ]
+    },
+    {
+      "court": "IAPP",
+      "source": "IAPP",
       "title": "Inside the EU KIDS Act: A 'specification' of the DSA that goes much further",
       "url": "https://iapp.org/news/a/inside-the-eu-kids-act-a-specification-of-the-dsa-that-goes-much-further",
       "date": "2026-09-29",
@@ -504,6 +502,22 @@
       ]
     },
     {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "The 2026 GDPR Summer Leadership Academy Has Come to an End 25.09.2026",
+      "url": "https://uodo.gov.pl/en/553/2276",
+      "date": "2026-09-25",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "GDPR"
+      ]
+    },
+    {
       "court": "IAPP",
       "source": "IAPP",
       "title": "Notes from the IAPP Canada: The value of privacy oversight before launch",
@@ -517,24 +531,6 @@
       ],
       "tags": [
         "privacy"
-      ]
-    },
-    {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "Notes from the Asia-Pacific region: Medicare breach shows convergence of AI governance, cybersecurity and privacy",
-      "url": "https://iapp.org/news/a/notes-from-the-asia-pacific-region-medicare-breach-shows-convergence-of-ai-governance-cybersecurity-and-privacy",
-      "date": "2026-09-24",
-      "keywords": "",
-      "summary": "",
-      "score": 16,
-      "topics": [
-        "Tietosuoja",
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "privacy",
-        "cyber"
       ]
     },
     {
@@ -585,22 +581,6 @@
       ],
       "tags": [
         "data protection"
-      ]
-    },
-    {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "Italy's AI framework: Operationalizing the EU AI Act",
-      "url": "https://iapp.org/news/a/italys-ai-framework-operationalizing-the-eu-ai-act",
-      "date": "2026-09-23",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Datasääntely"
-      ],
-      "tags": [
-        "AI Act"
       ]
     },
     {
@@ -782,23 +762,6 @@
       "title": "Additional inspections by the Personal Data Protection Office at organisations in the healthcare sector 16.09.2026",
       "url": "https://uodo.gov.pl/en/553/2272",
       "date": "2026-09-16",
-      "keywords": "",
-      "summary": "",
-      "score": 16,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data",
-        "data protection"
-      ]
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "Supreme Administrative Court agrees with the position of the President of the Personal Data Protection Office concerning individuals conducting business activities 15.09.2026",
-      "url": "https://uodo.gov.pl/en/553/2268",
-      "date": "2026-09-15",
       "keywords": "",
       "summary": "",
       "score": 16,
@@ -1395,23 +1358,6 @@
       ]
     },
     {
-      "court": "Julkaisu",
-      "source": "UTUPub (Turun yliopisto)",
-      "title": "A comprehensive analysis of the NIS2 implementation in international companies in Finland through the ISO/IEC 27001 framework",
-      "url": "https://www.utupub.fi/handle/11111/62879",
-      "date": "2026-08-04",
-      "keywords": "NIS2 Directive, ISO/IEC 27001, information security management systems (ISMS), cybersecurity regulation, compliance implementation, information security, risk management",
-      "summary": "This MSc thesis investigates how international companies operating in Finland can implement the EU’s NIS2 Directive using the ISO/IEC 27001:2022 framework as their primary compliance instrument. Through a systematic, control-by-control mapping between NIS2 provisions-particularly risk management (Article 21), incident reporting (Article 23), and supply chain security (Article 21(2)(d))-and the 93 ",
-      "score": 16,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "NIS2",
-        "cyber"
-      ]
-    },
-    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Mitä tekoälyn tekemiksi kutsutut tietomurrot oikeastaan kertovat?",
@@ -1493,6 +1439,22 @@
       "tags": [
         "tietosuoja",
         "GDPR"
+      ]
+    },
+    {
+      "court": "Julkaisu",
+      "source": "Helda (Helsingin yliopisto)",
+      "title": "Copyright, data protection and Copyright trolls – the enforcement of copyright in the context of illegal file-sharing on peer-to-peer networks",
+      "url": "http://hdl.handle.net/10138/341662",
+      "date": "2026-07-24",
+      "keywords": "Upphovsrättstroll, dataskydd, fildelningsnätverk, grundläggande rättigheter, proportionalitetsprincipen, Kauppaoikeus, Commercial Law, Handelsrätt, Oikeustieteen maisterin koulutusohjelma, Master&apos;s Programme in Law, Magisterprogrammet i rättsvetenskap",
+      "summary": "När verk som åtnjuter upphovsrättsligt skydd delas på fildelningsnätverk utan rättsinnehavarens samtycke måste rättsinnehavaren verkställa rättigheten för att ha möjlighet att kräva kompensation av den som nyttjat verket. Rätten kan verkställas genom att begära åtkomst till nätverksanvändarnas personuppgifter. Entiteten som verkställer upphovsrätt är i de flesta fall inte den",
+      "score": 13,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "data protection"
       ]
     },
     {

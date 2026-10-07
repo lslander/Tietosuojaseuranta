@@ -4,13 +4,21 @@
 <link>https://lslander.github.io/Tietosuojaseuranta/</link>
 <description>Tietosuoja, teknologia ja datasääntely</description>
 <language>fi</language>
-<lastBuildDate>Tue, 06 Oct 2026 05:28:24 +0000</lastBuildDate>
+<lastBuildDate>Wed, 07 Oct 2026 05:29:22 +0000</lastBuildDate>
 <item>
 <title>EDPS: Read the blogpost by Wojciech Wiewiórowski.</title>
 <link>https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</link>
 <guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</guid>
+<pubDate>Wed, 07 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+</item>
+<item>
+<title>Edilex: Laittomasti maassa oleskelevia työllistäneille työnantajille määrätty seuraamusmaksuja Maahanmuuttovirasto voi määrätä seuraamusmaksun työnantajalle, joka työllistää laittomasti maassa oleskelevan kol</title>
+<link>https://www.edilex.fi/uutiset/103257</link>
+<guid isPermaLink="true">https://www.edilex.fi/uutiset/103257</guid>
 <pubDate>Tue, 06 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
+<category>Tietosuoja</category>
 </item>
 <item>
 <title>EDPS: A safeguard and a vulnerability: the human factor in automated decision-making and cybersecurity</title>
@@ -33,22 +41,6 @@
 <link>https://iapp.org/news/a/thought-for-the-week-ai-agents-raise-new-cybersecurity-and-liability-questions</link>
 <guid isPermaLink="true">https://iapp.org/news/a/thought-for-the-week-ai-agents-raise-new-cybersecurity-and-liability-questions</guid>
 <pubDate>Mon, 05 Oct 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>Edilex: Kyberturvallisuuskeskukselta vakava varoitus: Citrix NetScaler ADC- ja Gateway-tuotteissa kriittisiä haavoittuvuuksia, useita tietomurtoja Suomessa – lue myös Kyberturvallisuuskeskuksen viikkokatsaus </title>
-<link>https://www.edilex.fi/uutiset/103221</link>
-<guid isPermaLink="true">https://www.edilex.fi/uutiset/103221</guid>
-<pubDate>Fri, 02 Oct 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>Traficom: Vakava varoitus Citrix NetScaler -haavoittuvuuksia on käytetty tietomurtoihin Suomessa</title>
-<link>https://www.traficom.fi/fi/uutiset/vakava-varoitus-citrix-netscaler-haavoittuvuuksia-kaytetty-tietomurtoihin-suomessa</link>
-<guid isPermaLink="true">https://www.traficom.fi/fi/uutiset/vakava-varoitus-citrix-netscaler-haavoittuvuuksia-kaytetty-tietomurtoihin-suomessa</guid>
-<pubDate>Fri, 02 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Kyberturvallisuus</category>
 </item>
@@ -93,6 +85,14 @@
 <category>Kyberturvallisuus</category>
 </item>
 <item>
+<title>IAPP: The rising significance of data protection in shaping Africa&#x27;s digital future</title>
+<link>https://iapp.org/news/a/the-rising-significance-of-data-protection-in-shaping-africas-digital-future</link>
+<guid isPermaLink="true">https://iapp.org/news/a/the-rising-significance-of-data-protection-in-shaping-africas-digital-future</guid>
+<pubDate>Tue, 29 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
 <title>IAPP: Inside the EU KIDS Act: A &#x27;specification&#x27; of the DSA that goes much further</title>
 <link>https://iapp.org/news/a/inside-the-eu-kids-act-a-specification-of-the-dsa-that-goes-much-further</link>
 <guid isPermaLink="true">https://iapp.org/news/a/inside-the-eu-kids-act-a-specification-of-the-dsa-that-goes-much-further</guid>
@@ -109,21 +109,20 @@
 <category>Kyberturvallisuus</category>
 </item>
 <item>
+<title>UODO: The 2026 GDPR Summer Leadership Academy Has Come to an End 25.09.2026</title>
+<link>https://uodo.gov.pl/en/553/2276</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2276</guid>
+<pubDate>Fri, 25 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
 <title>IAPP: Notes from the IAPP Canada: The value of privacy oversight before launch</title>
 <link>https://iapp.org/news/a/notes-from-canada-the-value-of-privacy-oversight-before-launch</link>
 <guid isPermaLink="true">https://iapp.org/news/a/notes-from-canada-the-value-of-privacy-oversight-before-launch</guid>
 <pubDate>Fri, 25 Sep 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>
-</item>
-<item>
-<title>IAPP: Notes from the Asia-Pacific region: Medicare breach shows convergence of AI governance, cybersecurity and privacy</title>
-<link>https://iapp.org/news/a/notes-from-the-asia-pacific-region-medicare-breach-shows-convergence-of-ai-governance-cybersecurity-and-privacy</link>
-<guid isPermaLink="true">https://iapp.org/news/a/notes-from-the-asia-pacific-region-medicare-breach-shows-convergence-of-ai-governance-cybersecurity-and-privacy</guid>
-<pubDate>Thu, 24 Sep 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-<category>Kyberturvallisuus</category>
 </item>
 <item>
 <title>IAPP: Global AI cybersecurity concerns face new twist following Australia Medicare portal breach</title>
@@ -148,14 +147,6 @@
 <pubDate>Wed, 23 Sep 2026 09:00:00 +0000</pubDate>
 <description>ikerinar Wed, 23/09/2026 - 10:35</description>
 <category>Tietosuoja</category>
-</item>
-<item>
-<title>IAPP: Italy&#x27;s AI framework: Operationalizing the EU AI Act</title>
-<link>https://iapp.org/news/a/italys-ai-framework-operationalizing-the-eu-ai-act</link>
-<guid isPermaLink="true">https://iapp.org/news/a/italys-ai-framework-operationalizing-the-eu-ai-act</guid>
-<pubDate>Wed, 23 Sep 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Datasääntely</category>
 </item>
 <item>
 <title>TSV: Tietosuojavaltuutettu antoi uuden päätöksen koulujen sähköistä opetusalustaa koskevassa asiassa</title>
@@ -248,14 +239,6 @@
 <link>https://uodo.gov.pl/en/553/2272</link>
 <guid isPermaLink="true">https://uodo.gov.pl/en/553/2272</guid>
 <pubDate>Wed, 16 Sep 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>UODO: Supreme Administrative Court agrees with the position of the President of the Personal Data Protection Office concerning individuals conducting business activities 15.09.2026</title>
-<link>https://uodo.gov.pl/en/553/2268</link>
-<guid isPermaLink="true">https://uodo.gov.pl/en/553/2268</guid>
-<pubDate>Tue, 15 Sep 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>
 </item>
@@ -551,14 +534,6 @@ Lisäksi tällä viikolla julkaistu heinäkuun Kybersää osoittaa sateisen syks
 <category>Kyberturvallisuus</category>
 </item>
 <item>
-<title>Julkaisu: A comprehensive analysis of the NIS2 implementation in international companies in Finland through the ISO/IEC 27001 framework</title>
-<link>https://www.utupub.fi/handle/11111/62879</link>
-<guid isPermaLink="true">https://www.utupub.fi/handle/11111/62879</guid>
-<pubDate>Tue, 04 Aug 2026 09:00:00 +0000</pubDate>
-<description>NIS2 Directive, ISO/IEC 27001, information security management systems (ISMS), cybersecurity regulation, compliance implementation, information security, risk management</description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
 <title>Kyberturvallisuuskeskus: Mitä tekoälyn tekemiksi kutsutut tietomurrot oikeastaan kertovat?</title>
 <link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/mita-tekoalyn-tekemiksi-kutsutut-tietomurrot-oikeastaan-kertovat?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
 <guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/mita-tekoalyn-tekemiksi-kutsutut-tietomurrot-oikeastaan-kertovat?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
@@ -599,6 +574,14 @@ Lisäksi tällä viikolla julkaistu heinäkuun Kybersää osoittaa sateisen syks
 <category>Tietosuoja</category>
 </item>
 <item>
+<title>Julkaisu: Copyright, data protection and Copyright trolls – the enforcement of copyright in the context of illegal file-sharing on peer-to-peer networks</title>
+<link>http://hdl.handle.net/10138/341662</link>
+<guid isPermaLink="true">http://hdl.handle.net/10138/341662</guid>
+<pubDate>Fri, 24 Jul 2026 09:00:00 +0000</pubDate>
+<description>Upphovsrättstroll, dataskydd, fildelningsnätverk, grundläggande rättigheter, proportionalitetsprincipen, Kauppaoikeus, Commercial Law, Handelsrätt, Oikeustieteen maisterin koulutusohjelma, Master&amp;apos;s Programme in Law, Magisterprogrammet i rättsvetenskap</description>
+<category>Tietosuoja</category>
+</item>
+<item>
 <title>Kyberturvallisuuskeskus: Haavoittuvuuskilpailussa nopeus ratkaisee</title>
 <link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/haavoittuvuuskilpailussa-nopeus-ratkaisee?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
 <guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/haavoittuvuuskilpailussa-nopeus-ratkaisee?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
@@ -634,6 +617,22 @@ Lisäksi tällä viikolla julkaistu heinäkuun Kybersää osoittaa sateisen syks
 <title>Säädöskokoelma: 736/2026, Laki henkilötietojen käsittelystä maahanmuuttohallinnossa annetun lain 13 §:n muuttamisesta</title>
 <link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/736</link>
 <guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/736</guid>
+<pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>Säädöskokoelma: 735/2026, Laki henkilötietojen käsittelystä Puolustusvoimissa annetun lain 29 §:n muuttamisesta</title>
+<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/735</link>
+<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/735</guid>
+<pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>Säädöskokoelma: 732/2026, Laki henkilötietojen käsittelystä Tullissa annetun lain muuttamisesta</title>
+<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/732</link>
+<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/732</guid>
 <pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>

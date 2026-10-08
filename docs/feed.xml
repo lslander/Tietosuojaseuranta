@@ -4,12 +4,12 @@
 <link>https://lslander.github.io/Tietosuojaseuranta/</link>
 <description>Tietosuoja, teknologia ja datasääntely</description>
 <language>fi</language>
-<lastBuildDate>Wed, 07 Oct 2026 06:11:25 +0000</lastBuildDate>
+<lastBuildDate>Thu, 08 Oct 2026 05:29:07 +0000</lastBuildDate>
 <item>
 <title>EDPS: Read the blogpost by Wojciech Wiewiórowski.</title>
 <link>https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</link>
 <guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</guid>
-<pubDate>Wed, 07 Oct 2026 09:00:00 +0000</pubDate>
+<pubDate>Thu, 08 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
 </item>
 <item>
@@ -19,14 +19,6 @@
 <pubDate>Mon, 05 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>Edilex: Helinä Tiura-Virran väitös 6.10.2026: Poliisiviranomaisen oikeudet saada ja antaa henkilötietoja rikosasioissa viranomaisten välisessä toiminnassa</title>
-<link>https://www.edilex.fi/uutiset/102579</link>
-<guid isPermaLink="true">https://www.edilex.fi/uutiset/102579</guid>
-<pubDate>Mon, 05 Oct 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
 </item>
 <item>
 <title>IAPP: Thought for the week: AI agents raise new cybersecurity and liability questions</title>
@@ -117,14 +109,6 @@
 <category>Tietosuoja</category>
 </item>
 <item>
-<title>IAPP: Global AI cybersecurity concerns face new twist following Australia Medicare portal breach</title>
-<link>https://iapp.org/news/a/global-ai-cybersecurity-concerns-face-new-twist-following-australia-medicare-portal-breach</link>
-<guid isPermaLink="true">https://iapp.org/news/a/global-ai-cybersecurity-concerns-face-new-twist-following-australia-medicare-portal-breach</guid>
-<pubDate>Thu, 24 Sep 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
 <title>TSV: Euroopan tietosuojaneuvosto yhdenmukaistaa seuraamusmaksujen määräämisen arviointia EU:ssa</title>
 <link>https://tietosuoja.fi/-/euroopan-tietosuojaneuvosto-yhdenmukaistaa-seuraamusmaksujen-maaraamisen-arviointia-eu-ssa</link>
 <guid isPermaLink="true">https://tietosuoja.fi/-/euroopan-tietosuojaneuvosto-yhdenmukaistaa-seuraamusmaksujen-maaraamisen-arviointia-eu-ssa</guid>
@@ -202,14 +186,6 @@
 <guid isPermaLink="true">https://www.edps.europa.eu/data-protection/our-work/publications/techdispatch/2026-09-17-techdispatch-12026-secure-multi-party-computation_en</guid>
 <pubDate>Thu, 17 Sep 2026 09:00:00 +0000</pubDate>
 <description></description>
-</item>
-<item>
-<title>EUT: 130/2026 : 17 September 2026 - Opinion of the Advocate General to the Court of Justice Dean Spielmann in Case C-317/25</title>
-<link>https://curia.europa.eu/site/jcms/p1_1000087611</link>
-<guid isPermaLink="true">https://curia.europa.eu/site/jcms/p1_1000087611</guid>
-<pubDate>Thu, 17 Sep 2026 09:00:00 +0000</pubDate>
-<description>Groupe Canal + Approximation of laws Advocate General Spielmann: the consent given to an undertaking for ‘its partners’ to use personal data for the purposes of direct marketing is valid only if the identity of those partners is known</description>
-<category>Tietosuoja</category>
 </item>
 <item>
 <title>UODO: Tripartite agreement for the benefit of Gdynia’s residents 17.09.2026</title>
@@ -534,14 +510,6 @@ Lisäksi tällä viikolla julkaistu heinäkuun Kybersää osoittaa sateisen syks
 <category>Kyberturvallisuus</category>
 </item>
 <item>
-<title>EU-komissio: Commission starts enforcing AI Act rules and new transparency requirements on 2 August</title>
-<link>https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august</link>
-<guid isPermaLink="true">https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august</guid>
-<pubDate>Fri, 31 Jul 2026 09:00:00 +0000</pubDate>
-<description>Anonymous (not verified) Fri, 07/31/2026 - 09:00 From 2 August 2026, the European Commission’s AI Office, together with national authorities, will begin enforcing the Artificial Intelligence (AI) Act. On the same date, new transparency rules will start to apply, requiring certain AI systems to tell users when they are interacting with AI and when content has been generated or altered by it. Under </description>
-<category>Datasääntely</category>
-</item>
-<item>
 <title>Julkaisu: Interoperability and Recent Competitive Developments in Digital Markets : Examining Interoperability Under the Digital Markets Act Regarding Regulatory Flexibility, Efficiency, and Legal Certainty Compared to the Article</title>
 <link>https://www.utupub.fi/handle/11111/62755</link>
 <guid isPermaLink="true">https://www.utupub.fi/handle/11111/62755</guid>
@@ -556,22 +524,6 @@ Lisäksi tällä viikolla julkaistu heinäkuun Kybersää osoittaa sateisen syks
 <pubDate>Wed, 29 Jul 2026 09:00:00 +0000</pubDate>
 <description>Euroopan komissio on julkaissut uuden soveltamisohjeen kyberkestävyyssäädöksen (Cyber Resilience Act, CRA) toimeenpanon tueksi. Ohjeistus on suunnattu erityisesti valmistajille, ohjelmistokehittäjille sekä muille yrityksille, jotka saattavat markkinoille digitaalisia tuotteita. Ohjeistus tarjoaa yrityksille konkreettisia neuvoja siihen, miten ne voivat valmistautua tuleviin kyberturvallisuusvaatim</description>
 <category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>Julkaisu: Do SMEs have equal opportunity for GDPR compliance? : Accessibility and Effectiveness of the Standard Contractual Clauses in International Data Transfers in a Post-Schrems II Legal Landscape</title>
-<link>http://hdl.handle.net/10138/569898</link>
-<guid isPermaLink="true">http://hdl.handle.net/10138/569898</guid>
-<pubDate>Fri, 24 Jul 2026 09:00:00 +0000</pubDate>
-<description>Tietosuoja-asetus, mallisopimuslausekkeet, Schrems II, pk-yritykset, Viestintä- ja informaatio-oikeus, Information- and Communications Law, Informations- och kommunikationsrätt, Oikeustieteen maisterin koulutusohjelma Helsinki, Master&amp;apos;s Programme in Law Helsinki, Magisterprogrammet i rättsveten</description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>Julkaisu: Copyright, data protection and Copyright trolls – the enforcement of copyright in the context of illegal file-sharing on peer-to-peer networks</title>
-<link>http://hdl.handle.net/10138/341662</link>
-<guid isPermaLink="true">http://hdl.handle.net/10138/341662</guid>
-<pubDate>Fri, 24 Jul 2026 09:00:00 +0000</pubDate>
-<description>Upphovsrättstroll, dataskydd, fildelningsnätverk, grundläggande rättigheter, proportionalitetsprincipen, Kauppaoikeus, Commercial Law, Handelsrätt, Oikeustieteen maisterin koulutusohjelma, Master&amp;apos;s Programme in Law, Magisterprogrammet i rättsvetenskap</description>
-<category>Tietosuoja</category>
 </item>
 <item>
 <title>Kyberturvallisuuskeskus: Haavoittuvuuskilpailussa nopeus ratkaisee</title>
@@ -634,6 +586,54 @@ Lisäksi tällä viikolla julkaistu heinäkuun Kybersää osoittaa sateisen syks
 <link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/729</link>
 <guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/729</guid>
 <pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>Säädöskokoelma: 728/2026, Laki henkilötietojen käsittelystä poliisitoimessa annetun lain muuttamisesta</title>
+<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/728</link>
+<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/728</guid>
+<pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>ENISA: Where do SMEs stand in preparing for the Cyber Resilience Act?</title>
+<link>https://www.enisa.europa.eu/news/where-do-smes-stand-in-preparing-for-the-cyber-resilience-act</link>
+<guid isPermaLink="true">https://www.enisa.europa.eu/news/where-do-smes-stand-in-preparing-for-the-cyber-resilience-act</guid>
+<pubDate>Mon, 13 Jul 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Kyberturvallisuus</category>
+</item>
+<item>
+<title>ENISA: SME Cyber Resilience Maturity Assessment Model</title>
+<link>https://www.enisa.europa.eu/publications/sme-cyber-resilience-maturity-assessment-model</link>
+<guid isPermaLink="true">https://www.enisa.europa.eu/publications/sme-cyber-resilience-maturity-assessment-model</guid>
+<pubDate>Mon, 13 Jul 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Kyberturvallisuus</category>
+</item>
+<item>
+<title>ENISA: Team Europe wins 1st ever International Cybersecurity Challenge for women</title>
+<link>https://www.enisa.europa.eu/news/team-europe-wins-1st-ever-international-cybersecurity-challenge-for-women</link>
+<guid isPermaLink="true">https://www.enisa.europa.eu/news/team-europe-wins-1st-ever-international-cybersecurity-challenge-for-women</guid>
+<pubDate>Fri, 10 Jul 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Kyberturvallisuus</category>
+</item>
+<item>
+<title>TSV: Euroopan tietosuojaneuvosto julkaisi ohjeet anonymisoinnista ja tiedonharavoinnista</title>
+<link>https://tietosuoja.fi/-/euroopan-tietosuojaneuvosto-julkaisi-ohjeet-anonymisoinnista-ja-tiedonharavoinnista</link>
+<guid isPermaLink="true">https://tietosuoja.fi/-/euroopan-tietosuojaneuvosto-julkaisi-ohjeet-anonymisoinnista-ja-tiedonharavoinnista</guid>
+<pubDate>Thu, 09 Jul 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>Säädöskokoelma: 675/2026, Valtioneuvoston asetus henkilötietojen käsittelystä Puolustusvoimissa annetun lain muuttamisesta annetun lain voimaantulosta</title>
+<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/675</link>
+<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/675</guid>
+<pubDate>Tue, 07 Jul 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>
 </item>

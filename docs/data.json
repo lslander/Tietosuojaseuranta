@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-07T06:11:25",
+  "generated": "2026-10-08T05:29:07",
   "window_days": 120,
   "sources": [
     {
@@ -183,7 +183,7 @@
       "name": "Helda (Helsingin yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 52,
+      "fetched": 15,
       "error": ""
     },
     {
@@ -191,7 +191,7 @@
       "name": "Helda, oikeustieteellinen tiedekunta",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 5,
+      "fetched": 6,
       "error": ""
     },
     {
@@ -223,7 +223,7 @@
       "name": "JYX (Jyväskylän yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 10,
+      "fetched": 9,
       "error": ""
     },
     {
@@ -247,7 +247,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 76,
+      "fetched": 78,
       "error": ""
     },
     {
@@ -297,7 +297,7 @@
       "source": "Euroopan tietosuojavaltuutettu (EDPS)",
       "title": "Read the blogpost by Wojciech Wiewiórowski.",
       "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "keywords": "",
       "summary": "",
       "score": 23,
@@ -320,22 +320,6 @@
       ],
       "tags": [
         "cyber"
-      ]
-    },
-    {
-      "court": "Edilex",
-      "source": "Edilex, uutiset",
-      "title": "Helinä Tiura-Virran väitös 6.10.2026: Poliisiviranomaisen oikeudet saada ja antaa henkilötietoja rikosasioissa viranomaisten välisessä toiminnassa",
-      "url": "https://www.edilex.fi/uutiset/102579",
-      "date": "2026-10-05",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "henkilötiet"
       ]
     },
     {
@@ -517,22 +501,6 @@
       ]
     },
     {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "Global AI cybersecurity concerns face new twist following Australia Medicare portal breach",
-      "url": "https://iapp.org/news/a/global-ai-cybersecurity-concerns-face-new-twist-following-australia-medicare-portal-breach",
-      "date": "2026-09-24",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "cyber"
-      ]
-    },
-    {
       "court": "TSV",
       "source": "Tietosuojavaltuutetun toimisto",
       "title": "Euroopan tietosuojaneuvosto yhdenmukaistaa seuraamusmaksujen määräämisen arviointia EU:ssa",
@@ -693,22 +661,6 @@
       "score": 23,
       "topics": [],
       "tags": []
-    },
-    {
-      "court": "EUT",
-      "source": "Unionin tuomioistuimen lehdistötiedotteet",
-      "title": "130/2026 : 17 September 2026 - Opinion of the Advocate General to the Court of Justice Dean Spielmann in Case C-317/25",
-      "url": "https://curia.europa.eu/site/jcms/p1_1000087611",
-      "date": "2026-09-17",
-      "keywords": "",
-      "summary": "Groupe Canal + Approximation of laws Advocate General Spielmann: the consent given to an undertaking for ‘its partners’ to use personal data for the purposes of direct marketing is valid only if the identity of those partners is known",
-      "score": 13,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data"
-      ]
     },
     {
       "court": "UODO",
@@ -1357,22 +1309,6 @@
       ]
     },
     {
-      "court": "EU-komissio",
-      "source": "Komissio, digitaalinen strategia",
-      "title": "Commission starts enforcing AI Act rules and new transparency requirements on 2 August",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-starts-enforcing-ai-act-rules-and-new-transparency-requirements-2-august",
-      "date": "2026-07-31",
-      "keywords": "",
-      "summary": "Anonymous (not verified) Fri, 07/31/2026 - 09:00 From 2 August 2026, the European Commission’s AI Office, together with national authorities, will begin enforcing the Artificial Intelligence (AI) Act. On the same date, new transparency rules will start to apply, requiring certain AI systems to tell users when they are interacting with AI and when content has been generated or altered by it. Under ",
-      "score": 23,
-      "topics": [
-        "Datasääntely"
-      ],
-      "tags": [
-        "AI Act"
-      ]
-    },
-    {
       "court": "Julkaisu",
       "source": "UTUPub (Turun yliopisto)",
       "title": "Interoperability and Recent Competitive Developments in Digital Markets : Examining Interoperability Under the Digital Markets Act Regarding Regulatory Flexibility, Efficiency, and Legal Certainty Compared to the Article",
@@ -1404,39 +1340,6 @@
         "kyberturvallisuus",
         "kyberkestävyy",
         "cyber"
-      ]
-    },
-    {
-      "court": "Julkaisu",
-      "source": "Helda (Helsingin yliopisto)",
-      "title": "Do SMEs have equal opportunity for GDPR compliance? : Accessibility and Effectiveness of the Standard Contractual Clauses in International Data Transfers in a Post-Schrems II Legal Landscape",
-      "url": "http://hdl.handle.net/10138/569898",
-      "date": "2026-07-24",
-      "keywords": "Tietosuoja-asetus, mallisopimuslausekkeet, Schrems II, pk-yritykset, Viestintä- ja informaatio-oikeus, Information- and Communications Law, Informations- och kommunikationsrätt, Oikeustieteen maisterin koulutusohjelma Helsinki, Master&apos;s Programme in Law Helsinki, Magisterprogrammet i rättsveten",
-      "summary": "Tutkielmassa käsitellään Schrems II-oikeustapauksen jäljiltä tapahtuneita muutoksia tietosuoja-asetuksen mukaisissa yleisissä mallisopimuslausekkeissa ja arvioidaan mikäli ne asettavat eri kokoiset yritykset eriarvoiseen asemaan nykymuodossaan.\r\n\r\nEnsin, tutkielmassa määritellään tarvittavat taustakäsitteet ja tiivistetään oleelliset oikeustapaukset (Schrems I ja Schrems II) taustoittamaan tutkitt",
-      "score": 16,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tietosuoja",
-        "GDPR"
-      ]
-    },
-    {
-      "court": "Julkaisu",
-      "source": "Helda (Helsingin yliopisto)",
-      "title": "Copyright, data protection and Copyright trolls – the enforcement of copyright in the context of illegal file-sharing on peer-to-peer networks",
-      "url": "http://hdl.handle.net/10138/341662",
-      "date": "2026-07-24",
-      "keywords": "Upphovsrättstroll, dataskydd, fildelningsnätverk, grundläggande rättigheter, proportionalitetsprincipen, Kauppaoikeus, Commercial Law, Handelsrätt, Oikeustieteen maisterin koulutusohjelma, Master&apos;s Programme in Law, Magisterprogrammet i rättsvetenskap",
-      "summary": "När verk som åtnjuter upphovsrättsligt skydd delas på fildelningsnätverk utan rättsinnehavarens samtycke måste rättsinnehavaren verkställa rättigheten för att ha möjlighet att kräva kompensation av den som nyttjat verket. Rätten kan verkställas genom att begära åtkomst till nätverksanvändarnas personuppgifter. Entiteten som verkställer upphovsrätt är i de flesta fall inte den",
-      "score": 13,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "data protection"
       ]
     },
     {

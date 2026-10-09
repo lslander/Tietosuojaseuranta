@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-08T05:29:07",
+  "generated": "2026-10-09T05:29:36",
   "window_days": 120,
   "sources": [
     {
@@ -71,7 +71,7 @@
       "name": "Unionin tuomioistuin (EUT ja unionin yleinen tuomioistuin)",
       "court": "EUT",
       "ok": true,
-      "fetched": 9,
+      "fetched": 6,
       "error": ""
     },
     {
@@ -183,7 +183,7 @@
       "name": "Helda (Helsingin yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 15,
+      "fetched": 14,
       "error": ""
     },
     {
@@ -191,7 +191,7 @@
       "name": "Helda, oikeustieteellinen tiedekunta",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 6,
+      "fetched": 21,
       "error": ""
     },
     {
@@ -214,9 +214,9 @@
       "id": "uef",
       "name": "eRepo (Itä-Suomen yliopisto)",
       "court": "Julkaisu",
-      "ok": true,
-      "fetched": 20,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "error": "403 Client Error: Forbidden for url: https://erepo.uef.fi/server/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-07-26"
     },
     {
       "id": "jyx",
@@ -239,7 +239,7 @@
       "name": "Osuva (Vaasan yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 17,
+      "fetched": 19,
       "error": ""
     },
     {
@@ -247,7 +247,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 78,
+      "fetched": 80,
       "error": ""
     },
     {
@@ -271,7 +271,7 @@
       "name": "Kyberturvallisuuskeskus",
       "court": "Kyberturvallisuuskeskus",
       "ok": true,
-      "fetched": 428,
+      "fetched": 429,
       "error": ""
     },
     {
@@ -297,13 +297,99 @@
       "source": "Euroopan tietosuojavaltuutettu (EDPS)",
       "title": "Read the blogpost by Wojciech Wiewiórowski.",
       "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
-      "date": "2026-10-08",
+      "date": "2026-10-09",
       "keywords": "",
       "summary": "",
       "score": 23,
       "topics": [],
       "tags": [
         "pvm arvioitu"
+      ]
+    },
+    {
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "Tietosuojavaltuutetun toimisto: Mindemo Oy:lle seuraamusmaksu verkkosivuevästeiden tietosuojapuutteista",
+      "url": "https://www.edilex.fi/uutiset/103296",
+      "date": "2026-10-08",
+      "keywords": "",
+      "summary": "",
+      "score": 50,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tärkeä",
+        "tietosuoja",
+        "tietosuojavaltuutet"
+      ]
+    },
+    {
+      "court": "EDPB",
+      "source": "Euroopan tietosuojaneuvosto (EDPB)",
+      "title": "Swedish DPA fines Miljödata i Karlskrona approximately EUR 160 000 for insufficient technical and organisational measures to ensure information security",
+      "url": "https://www.edpb.europa.eu/news/swedish-dpa-fines-miljodata-i-karlskrona-approximately-eur-160-000-for-insufficient-technical_en",
+      "date": "2026-10-08",
+      "keywords": "",
+      "summary": "ikerinar Thu, 08/10/2026 - 17:22",
+      "score": 23,
+      "topics": [],
+      "tags": []
+    },
+    {
+      "court": "EDPB",
+      "source": "Euroopan tietosuojaneuvosto (EDPB)",
+      "title": "Hellenic DPA decision on a data breach involving E.E.T.A.A. S.A. as processor for the Ministry of Social Cohesion and Family Affairs",
+      "url": "https://www.edpb.europa.eu/news/hellenic-dpa-decision-on-a-data-breach-involving-eetaa-sa-as-processor-for-the-ministry-of_en",
+      "date": "2026-10-08",
+      "keywords": "",
+      "summary": "ikerinar Thu, 08/10/2026 - 16:36",
+      "score": 23,
+      "topics": [],
+      "tags": []
+    },
+    {
+      "court": "EDPB",
+      "source": "Euroopan tietosuojaneuvosto (EDPB)",
+      "title": "Dutch DPA fines Uber EUR 824 990 000 for unlawful automated decision-making and insufficient information on profiling",
+      "url": "https://www.edpb.europa.eu/news/dutch-dpa-fines-uber-eur-824-990-000-for-unlawful-automated-decision-making-and-insufficient_en",
+      "date": "2026-10-08",
+      "keywords": "",
+      "summary": "ikerinar Thu, 08/10/2026 - 15:03",
+      "score": 23,
+      "topics": [],
+      "tags": []
+    },
+    {
+      "court": "EUT",
+      "source": "Unionin tuomioistuimen lehdistötiedotteet",
+      "title": "145/2026 : 8 October 2026 - Opinion of the Advocate General at the Court Laila Medina in Case C-222/25",
+      "url": "https://curia.europa.eu/site/jcms/p1_1000088509",
+      "date": "2026-10-08",
+      "keywords": "",
+      "summary": "Rahapesu Andmebüroo Approximation of laws Advocate General Medina: The Law Enforcement Directive  applies to the processing of personal data by the Financial Intelligence Units (FIUs) in the exercise of their mission to prevent, detect and combat money laundering and terrorist financing",
+      "score": 13,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data"
+      ]
+    },
+    {
+      "court": "Kyberturvallisuuskeskus",
+      "source": "Kyberturvallisuuskeskus",
+      "title": "Atlassian-tuotteissa kriittinen hyväksikäytetty tiedostojenlukuhaavoittuvuus",
+      "url": "https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet/haavoittuvuus-2026-33?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
+      "date": "2026-10-08",
+      "keywords": "",
+      "summary": "Atlanssian-tuotteissa on kriittinen hyväksikäytetty haavoittuvuus, jonka avulla hyökkääjä voi lukea Atlassian-sovelluksen hakemistossa sijaitsevia tiedostoja ilman tunnistautumista.",
+      "score": 13,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "haavoittuvuus"
       ]
     },
     {
@@ -482,22 +568,6 @@
       ],
       "tags": [
         "GDPR"
-      ]
-    },
-    {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "Notes from the IAPP Canada: The value of privacy oversight before launch",
-      "url": "https://iapp.org/news/a/notes-from-canada-the-value-of-privacy-oversight-before-launch",
-      "date": "2026-09-25",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "privacy"
       ]
     },
     {
@@ -1079,42 +1149,6 @@
       "tags": []
     },
     {
-      "court": "EDPB",
-      "source": "Euroopan tietosuojaneuvosto (EDPB)",
-      "title": "Data breach: the CNIL fined NEXPUBLICA FRANCE €1.7 million",
-      "url": "https://www.edpb.europa.eu/news/data-breach-the-cnil-fined-nexpublica-france-eur17-million_en",
-      "date": "2026-08-21",
-      "keywords": "",
-      "summary": "ipayotfr Fri, 21/08/2026 - 10:47",
-      "score": 23,
-      "topics": [],
-      "tags": []
-    },
-    {
-      "court": "EDPB",
-      "source": "Euroopan tietosuojaneuvosto (EDPB)",
-      "title": "Data breach: FREE MOBILE and FREE fined EUR 42 000 000",
-      "url": "https://www.edpb.europa.eu/news/data-breach-free-mobile-and-free-fined-eur-42-000-000_en",
-      "date": "2026-08-21",
-      "keywords": "",
-      "summary": "ipayotfr Fri, 21/08/2026 - 10:42",
-      "score": 23,
-      "topics": [],
-      "tags": []
-    },
-    {
-      "court": "EDPB",
-      "source": "Euroopan tietosuojaneuvosto (EDPB)",
-      "title": "Data breach: France Travail fined EUR 5 000 000",
-      "url": "https://www.edpb.europa.eu/news/data-breach-france-travail-fined-eur-5-000-000_en",
-      "date": "2026-08-21",
-      "keywords": "",
-      "summary": "ipayotfr Fri, 21/08/2026 - 10:25",
-      "score": 23,
-      "topics": [],
-      "tags": []
-    },
-    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 34/2026",
@@ -1602,7 +1636,7 @@
     {
       "court": "Säädöskokoelma",
       "source": "Finlex, säädöskokoelma",
-      "title": "581/2026, Laki henkilötietojen käsittelystä Puolustusvoimissa annetun lain muut",
+      "title": "581/2026, Laki henkilötietojen käsittelystä Puolustusvoimissa annetun lain muuttamisesta",
       "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/581",
       "date": "2026-06-29",
       "keywords": "",

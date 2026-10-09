@@ -4,13 +4,58 @@
 <link>https://lslander.github.io/Tietosuojaseuranta/</link>
 <description>Tietosuoja, teknologia ja datasääntely</description>
 <language>fi</language>
-<lastBuildDate>Thu, 08 Oct 2026 05:29:07 +0000</lastBuildDate>
+<lastBuildDate>Fri, 09 Oct 2026 05:29:36 +0000</lastBuildDate>
 <item>
 <title>EDPS: Read the blogpost by Wojciech Wiewiórowski.</title>
 <link>https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</link>
 <guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</guid>
+<pubDate>Fri, 09 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+</item>
+<item>
+<title>Edilex: Tietosuojavaltuutetun toimisto: Mindemo Oy:lle seuraamusmaksu verkkosivuevästeiden tietosuojapuutteista</title>
+<link>https://www.edilex.fi/uutiset/103296</link>
+<guid isPermaLink="true">https://www.edilex.fi/uutiset/103296</guid>
 <pubDate>Thu, 08 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>EDPB: Swedish DPA fines Miljödata i Karlskrona approximately EUR 160 000 for insufficient technical and organisational measures to ensure information security</title>
+<link>https://www.edpb.europa.eu/news/swedish-dpa-fines-miljodata-i-karlskrona-approximately-eur-160-000-for-insufficient-technical_en</link>
+<guid isPermaLink="true">https://www.edpb.europa.eu/news/swedish-dpa-fines-miljodata-i-karlskrona-approximately-eur-160-000-for-insufficient-technical_en</guid>
+<pubDate>Thu, 08 Oct 2026 09:00:00 +0000</pubDate>
+<description>ikerinar Thu, 08/10/2026 - 17:22</description>
+</item>
+<item>
+<title>EDPB: Hellenic DPA decision on a data breach involving E.E.T.A.A. S.A. as processor for the Ministry of Social Cohesion and Family Affairs</title>
+<link>https://www.edpb.europa.eu/news/hellenic-dpa-decision-on-a-data-breach-involving-eetaa-sa-as-processor-for-the-ministry-of_en</link>
+<guid isPermaLink="true">https://www.edpb.europa.eu/news/hellenic-dpa-decision-on-a-data-breach-involving-eetaa-sa-as-processor-for-the-ministry-of_en</guid>
+<pubDate>Thu, 08 Oct 2026 09:00:00 +0000</pubDate>
+<description>ikerinar Thu, 08/10/2026 - 16:36</description>
+</item>
+<item>
+<title>EDPB: Dutch DPA fines Uber EUR 824 990 000 for unlawful automated decision-making and insufficient information on profiling</title>
+<link>https://www.edpb.europa.eu/news/dutch-dpa-fines-uber-eur-824-990-000-for-unlawful-automated-decision-making-and-insufficient_en</link>
+<guid isPermaLink="true">https://www.edpb.europa.eu/news/dutch-dpa-fines-uber-eur-824-990-000-for-unlawful-automated-decision-making-and-insufficient_en</guid>
+<pubDate>Thu, 08 Oct 2026 09:00:00 +0000</pubDate>
+<description>ikerinar Thu, 08/10/2026 - 15:03</description>
+</item>
+<item>
+<title>EUT: 145/2026 : 8 October 2026 - Opinion of the Advocate General at the Court Laila Medina in Case C-222/25</title>
+<link>https://curia.europa.eu/site/jcms/p1_1000088509</link>
+<guid isPermaLink="true">https://curia.europa.eu/site/jcms/p1_1000088509</guid>
+<pubDate>Thu, 08 Oct 2026 09:00:00 +0000</pubDate>
+<description>Rahapesu Andmebüroo Approximation of laws Advocate General Medina: The Law Enforcement Directive  applies to the processing of personal data by the Financial Intelligence Units (FIUs) in the exercise of their mission to prevent, detect and combat money laundering and terrorist financing</description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>Kyberturvallisuuskeskus: Atlassian-tuotteissa kriittinen hyväksikäytetty tiedostojenlukuhaavoittuvuus</title>
+<link>https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet/haavoittuvuus-2026-33?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
+<guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet/haavoittuvuus-2026-33?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
+<pubDate>Thu, 08 Oct 2026 09:00:00 +0000</pubDate>
+<description>Atlanssian-tuotteissa on kriittinen hyväksikäytetty haavoittuvuus, jonka avulla hyökkääjä voi lukea Atlassian-sovelluksen hakemistossa sijaitsevia tiedostoja ilman tunnistautumista.</description>
+<category>Kyberturvallisuus</category>
 </item>
 <item>
 <title>EDPS: A safeguard and a vulnerability: the human factor in automated decision-making and cybersecurity</title>
@@ -96,14 +141,6 @@
 <title>UODO: The 2026 GDPR Summer Leadership Academy Has Come to an End 25.09.2026</title>
 <link>https://uodo.gov.pl/en/553/2276</link>
 <guid isPermaLink="true">https://uodo.gov.pl/en/553/2276</guid>
-<pubDate>Fri, 25 Sep 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>IAPP: Notes from the IAPP Canada: The value of privacy oversight before launch</title>
-<link>https://iapp.org/news/a/notes-from-canada-the-value-of-privacy-oversight-before-launch</link>
-<guid isPermaLink="true">https://iapp.org/news/a/notes-from-canada-the-value-of-privacy-oversight-before-launch</guid>
 <pubDate>Fri, 25 Sep 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>
@@ -393,27 +430,6 @@
 <description>ipayotfr Fri, 21/08/2026 - 10:54</description>
 </item>
 <item>
-<title>EDPB: Data breach: the CNIL fined NEXPUBLICA FRANCE €1.7 million</title>
-<link>https://www.edpb.europa.eu/news/data-breach-the-cnil-fined-nexpublica-france-eur17-million_en</link>
-<guid isPermaLink="true">https://www.edpb.europa.eu/news/data-breach-the-cnil-fined-nexpublica-france-eur17-million_en</guid>
-<pubDate>Fri, 21 Aug 2026 09:00:00 +0000</pubDate>
-<description>ipayotfr Fri, 21/08/2026 - 10:47</description>
-</item>
-<item>
-<title>EDPB: Data breach: FREE MOBILE and FREE fined EUR 42 000 000</title>
-<link>https://www.edpb.europa.eu/news/data-breach-free-mobile-and-free-fined-eur-42-000-000_en</link>
-<guid isPermaLink="true">https://www.edpb.europa.eu/news/data-breach-free-mobile-and-free-fined-eur-42-000-000_en</guid>
-<pubDate>Fri, 21 Aug 2026 09:00:00 +0000</pubDate>
-<description>ipayotfr Fri, 21/08/2026 - 10:42</description>
-</item>
-<item>
-<title>EDPB: Data breach: France Travail fined EUR 5 000 000</title>
-<link>https://www.edpb.europa.eu/news/data-breach-france-travail-fined-eur-5-000-000_en</link>
-<guid isPermaLink="true">https://www.edpb.europa.eu/news/data-breach-france-travail-fined-eur-5-000-000_en</guid>
-<pubDate>Fri, 21 Aug 2026 09:00:00 +0000</pubDate>
-<description>ipayotfr Fri, 21/08/2026 - 10:25</description>
-</item>
-<item>
 <title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 34/2026</title>
 <link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-342026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
 <guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-342026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
@@ -620,21 +636,5 @@ Lisäksi tällä viikolla julkaistu heinäkuun Kybersää osoittaa sateisen syks
 <pubDate>Fri, 10 Jul 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>TSV: Euroopan tietosuojaneuvosto julkaisi ohjeet anonymisoinnista ja tiedonharavoinnista</title>
-<link>https://tietosuoja.fi/-/euroopan-tietosuojaneuvosto-julkaisi-ohjeet-anonymisoinnista-ja-tiedonharavoinnista</link>
-<guid isPermaLink="true">https://tietosuoja.fi/-/euroopan-tietosuojaneuvosto-julkaisi-ohjeet-anonymisoinnista-ja-tiedonharavoinnista</guid>
-<pubDate>Thu, 09 Jul 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>Säädöskokoelma: 675/2026, Valtioneuvoston asetus henkilötietojen käsittelystä Puolustusvoimissa annetun lain muuttamisesta annetun lain voimaantulosta</title>
-<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/675</link>
-<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/675</guid>
-<pubDate>Tue, 07 Jul 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
 </item>
 </channel></rss>

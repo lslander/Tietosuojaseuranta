@@ -4,18 +4,78 @@
 <link>https://lslander.github.io/Tietosuojaseuranta/</link>
 <description>Tietosuoja, teknologia ja datasääntely</description>
 <language>fi</language>
-<lastBuildDate>Fri, 09 Oct 2026 05:29:36 +0000</lastBuildDate>
+<lastBuildDate>Mon, 12 Oct 2026 05:33:40 +0000</lastBuildDate>
 <item>
 <title>EDPS: Read the blogpost by Wojciech Wiewiórowski.</title>
 <link>https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</link>
 <guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</guid>
-<pubDate>Fri, 09 Oct 2026 09:00:00 +0000</pubDate>
+<pubDate>Mon, 12 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
 </item>
 <item>
-<title>Edilex: Tietosuojavaltuutetun toimisto: Mindemo Oy:lle seuraamusmaksu verkkosivuevästeiden tietosuojapuutteista</title>
-<link>https://www.edilex.fi/uutiset/103296</link>
-<guid isPermaLink="true">https://www.edilex.fi/uutiset/103296</guid>
+<title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 41/2026</title>
+<link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-412026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
+<guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-412026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
+<pubDate>Fri, 09 Oct 2026 09:00:00 +0000</pubDate>
+<description>Jatkuvasti lisääntyneet vakavat haavoittuvuudet ovat lisänneet tietomurtojen riskiä tänä vuonna merkittävästi. Sekä verkon reunalaitteisiin että yleisesti käytettyihin palveluihin kohdistuu tällä hetkellä runsaasti huomiota sekä hyökkääjien että puolustajien puolelta. Uudet korjaavat päivitykset on nyt syytä asentaa välittömästi sen sijaan, että odotetaan kuukausittaista huoltosykliä.</description>
+<category>Kyberturvallisuus</category>
+</item>
+<item>
+<title>EDPB: Italian DPA fines security company EUR 39 000 for violations concerning employees’ data</title>
+<link>https://www.edpb.europa.eu/news/italian-dpa-fines-security-company-eur-39-000-for-violations-concerning-employees-data_en</link>
+<guid isPermaLink="true">https://www.edpb.europa.eu/news/italian-dpa-fines-security-company-eur-39-000-for-violations-concerning-employees-data_en</guid>
+<pubDate>Fri, 09 Oct 2026 09:00:00 +0000</pubDate>
+<description>ikerinar Fri, 09/10/2026 - 10:25</description>
+</item>
+<item>
+<title>EDPB: Italian DPA fines IQVIA EUR 7 000 000 for unlawful processing of patients’ health data</title>
+<link>https://www.edpb.europa.eu/news/italian-dpa-fines-iqvia-eur-7-000-000-for-unlawful-processing-of-patients-health-data_en</link>
+<guid isPermaLink="true">https://www.edpb.europa.eu/news/italian-dpa-fines-iqvia-eur-7-000-000-for-unlawful-processing-of-patients-health-data_en</guid>
+<pubDate>Fri, 09 Oct 2026 09:00:00 +0000</pubDate>
+<description>ikerinar Fri, 09/10/2026 - 10:02</description>
+</item>
+<item>
+<title>EDPB: Italian DPA fines BBVA EUR 5 508 000 for failing to respect a customer’s objection to direct marketing</title>
+<link>https://www.edpb.europa.eu/news/italian-dpa-fines-bbva-eur-5-508-000-for-failing-to-respect-a-customers-objection-to-direct_en</link>
+<guid isPermaLink="true">https://www.edpb.europa.eu/news/italian-dpa-fines-bbva-eur-5-508-000-for-failing-to-respect-a-customers-objection-to-direct_en</guid>
+<pubDate>Fri, 09 Oct 2026 09:00:00 +0000</pubDate>
+<description>ikerinar Fri, 09/10/2026 - 09:49</description>
+</item>
+<item>
+<title>EDPB: Italian DPA fines Emirates EUR 180 000 for infringements concerning passengers’ health data</title>
+<link>https://www.edpb.europa.eu/news/italian-dpa-fines-emirates-eur-180-000-for-infringements-concerning-passengers-health-data_en</link>
+<guid isPermaLink="true">https://www.edpb.europa.eu/news/italian-dpa-fines-emirates-eur-180-000-for-infringements-concerning-passengers-health-data_en</guid>
+<pubDate>Fri, 09 Oct 2026 09:00:00 +0000</pubDate>
+<description>ikerinar Fri, 09/10/2026 - 09:26</description>
+</item>
+<item>
+<title>Julkaisu: Ysityinen elinkeinonharjoittaja velkajärjestelyssä</title>
+<link>https://erepo.uef.fi/handle/123456789/39648</link>
+<guid isPermaLink="true">https://erepo.uef.fi/handle/123456789/39648</guid>
+<pubDate>Fri, 09 Oct 2026 09:00:00 +0000</pubDate>
+<description>velkajärjestely, maksukyvytön, maksuvara, rikos- ja prosessioikeus, criminal law and juridicial procedure, velkajärjestely, elinkeinonharjoittajat, velat, debt adjustment, persons carrying on a trade, liabilities, skuldsanering, näringsidkare, skulder</description>
+<category>Datasääntely</category>
+</item>
+<item>
+<title>IAPP: Notes from the IAPP Canada: OPC draft guidance moves vendor privacy due diligence upstream</title>
+<link>https://iapp.org/news/a/notes-from-the-iapp-canada-opc-draft-guidance-moves-vendor-privacy-due-diligence-upstream</link>
+<guid isPermaLink="true">https://iapp.org/news/a/notes-from-the-iapp-canada-opc-draft-guidance-moves-vendor-privacy-due-diligence-upstream</guid>
+<pubDate>Fri, 09 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>IAPP: Washington&#x27;s attorney general reflects on state&#x27;s privacy legislation and enforcement</title>
+<link>https://iapp.org/news/a/washingtons-attorney-general-reflects-on-states-privacy-legislation-and-enforcement</link>
+<guid isPermaLink="true">https://iapp.org/news/a/washingtons-attorney-general-reflects-on-states-privacy-legislation-and-enforcement</guid>
+<pubDate>Fri, 09 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>TSV: Mindemo Oy:lle seuraamusmaksu verkkosivuevästeiden tietosuojapuutteista</title>
+<link>https://tietosuoja.fi/-/mindemo-oy-lle-seuraamusmaksu-verkkosivuevasteiden-tietosuojapuutteista</link>
+<guid isPermaLink="true">https://tietosuoja.fi/-/mindemo-oy-lle-seuraamusmaksu-verkkosivuevasteiden-tietosuojapuutteista</guid>
 <pubDate>Thu, 08 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>
@@ -48,6 +108,14 @@
 <pubDate>Thu, 08 Oct 2026 09:00:00 +0000</pubDate>
 <description>Rahapesu Andmebüroo Approximation of laws Advocate General Medina: The Law Enforcement Directive  applies to the processing of personal data by the Financial Intelligence Units (FIUs) in the exercise of their mission to prevent, detect and combat money laundering and terrorist financing</description>
 <category>Tietosuoja</category>
+</item>
+<item>
+<title>IAPP: New OECD report examines neural data governance issues</title>
+<link>https://iapp.org/news/a/new-oecd-report-examines-neural-data-governance-issues</link>
+<guid isPermaLink="true">https://iapp.org/news/a/new-oecd-report-examines-neural-data-governance-issues</guid>
+<pubDate>Thu, 08 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Datasääntely</category>
 </item>
 <item>
 <title>Kyberturvallisuuskeskus: Atlassian-tuotteissa kriittinen hyväksikäytetty tiedostojenlukuhaavoittuvuus</title>
@@ -122,14 +190,6 @@
 <category>Tietosuoja</category>
 </item>
 <item>
-<title>IAPP: Inside the EU KIDS Act: A &#x27;specification&#x27; of the DSA that goes much further</title>
-<link>https://iapp.org/news/a/inside-the-eu-kids-act-a-specification-of-the-dsa-that-goes-much-further</link>
-<guid isPermaLink="true">https://iapp.org/news/a/inside-the-eu-kids-act-a-specification-of-the-dsa-that-goes-much-further</guid>
-<pubDate>Tue, 29 Sep 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Datasääntely</category>
-</item>
-<item>
 <title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 39/2026</title>
 <link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-392026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
 <guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-392026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
@@ -170,9 +230,9 @@
 <category>Tietosuoja</category>
 </item>
 <item>
-<title>EDPB: The Spanish DPA fined Securitas Direct EUR 100 000 for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number</title>
-<link>https://www.edpb.europa.eu/news/the-spanish-dpa-fined-securitas-direct-eur-100-000-for-making-the-exercise-of-data-subject_en</link>
-<guid isPermaLink="true">https://www.edpb.europa.eu/news/the-spanish-dpa-fined-securitas-direct-eur-100-000-for-making-the-exercise-of-data-subject_en</guid>
+<title>EDPB: The Spanish DPA fines Securitas Direct EUR 100 000 for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number</title>
+<link>https://www.edpb.europa.eu/news/the-spanish-dpa-fines-securitas-direct-eur-100-000-for-making-the-exercise-of-data-subject_en</link>
+<guid isPermaLink="true">https://www.edpb.europa.eu/news/the-spanish-dpa-fines-securitas-direct-eur-100-000-for-making-the-exercise-of-data-subject_en</guid>
 <pubDate>Tue, 22 Sep 2026 09:00:00 +0000</pubDate>
 <description>ikerinar Tue, 22/09/2026 - 13:21</description>
 </item>
@@ -248,13 +308,6 @@
 <category>Tietosuoja</category>
 </item>
 <item>
-<title>EDPB: Failure to respect the rights of individuals: The CNIL fined EXTIA EUR 300 000</title>
-<link>https://www.edpb.europa.eu/news/failure-to-respect-the-rights-of-individuals-the-cnil-fined-extia-eur-300-000_en</link>
-<guid isPermaLink="true">https://www.edpb.europa.eu/news/failure-to-respect-the-rights-of-individuals-the-cnil-fined-extia-eur-300-000_en</guid>
-<pubDate>Fri, 11 Sep 2026 09:00:00 +0000</pubDate>
-<description>ikerinar Fri, 11/09/2026 - 09:24</description>
-</item>
-<item>
 <title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 37/2026</title>
 <link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-372026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
 <guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-372026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
@@ -293,13 +346,6 @@
 <pubDate>Thu, 10 Sep 2026 09:00:00 +0000</pubDate>
 <description>Elokuun kybersää jatkui sateisena ja kesälomien jälkeen tapausmäärät kasvoivat. Tapauksissa nähtiin tietojenkalastelua ja verkkopalvelujen murtoja.</description>
 <category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>EDPB: Health data breach: the CNIL fined Hôpital Privé de la Loire EUR 500 000</title>
-<link>https://www.edpb.europa.eu/news/health-data-breach-the-cnil-fined-hopital-prive-de-la-loire-eur-500-000_en</link>
-<guid isPermaLink="true">https://www.edpb.europa.eu/news/health-data-breach-the-cnil-fined-hopital-prive-de-la-loire-eur-500-000_en</guid>
-<pubDate>Wed, 09 Sep 2026 09:00:00 +0000</pubDate>
-<description>ikerinar Wed, 09/09/2026 - 11:58</description>
 </item>
 <item>
 <title>Säädöskokoelma: 791/2026, Laki henkilötietojen käsittelystä Rikosseuraamuslaitoksessa annetun lain muuttamisesta</title>
@@ -350,37 +396,12 @@
 <category>Tietosuoja</category>
 </item>
 <item>
-<title>EDPB: Data Protection Commission announces Final Decision following Inquiry into the Health Service Executive (HSE)</title>
-<link>https://www.edpb.europa.eu/news/data-protection-commission-announces-final-decision-following-inquiry-into-the-health-service_en</link>
-<guid isPermaLink="true">https://www.edpb.europa.eu/news/data-protection-commission-announces-final-decision-following-inquiry-into-the-health-service_en</guid>
-<pubDate>Thu, 03 Sep 2026 09:00:00 +0000</pubDate>
-<description>ikerinar Thu, 03/09/2026 - 09:42</description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>Julkaisu: Navigating the use of AI in the public sector : The complex world of AI ethics and regulation in Finnish municipalities</title>
-<link>https://osuva.uwasa.fi/handle/11111/21234</link>
-<guid isPermaLink="true">https://osuva.uwasa.fi/handle/11111/21234</guid>
-<pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate>
-<description>artificial intelligence, regulation (control), legislation, good governance, public administration, public sector, municipalities, ethics, fi=Julkisen toiminnan johtaminen|en=Public Policy and Management|, fi=Hallintotieteiden maisteriohjelma|en=Master&amp;apos;s Programme in Administrative Sciences|</description>
-<category>Datasääntely</category>
-</item>
-<item>
 <title>EU-komissio: Commission designates ChatGPT, Reddit, Roblox under Digital Services Act</title>
 <link>https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act</link>
 <guid isPermaLink="true">https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act</guid>
 <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
 <description>Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Online Search Engine (VLOSE), as well as Reddit and Roblox as Very Large Online Platforms (VLOPs), under the Digital Services Act (DSA). These services declared that they reach at least 45 million average monthly users in the EU and thus meet the threshold for designation. Following the notificat</description>
 <category>Datasääntely</category>
-</item>
-<item>
-<title>Julkaisu: Age Assurance Systems on Online Platforms</title>
-<link>https://www.utupub.fi/handle/11111/63335</link>
-<guid isPermaLink="true">https://www.utupub.fi/handle/11111/63335</guid>
-<pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
-<description>age assurance, age verification, age estimation, online platform, data privacy, cybersecurity, iän varmennus, iän todentaminen, iän arviointi, verkkoalusta, tietosuoja, kyberturvallisuus</description>
-<category>Tietosuoja</category>
-<category>Kyberturvallisuus</category>
 </item>
 <item>
 <title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 35/2026</title>
@@ -423,27 +444,12 @@
 <category>Kyberturvallisuus</category>
 </item>
 <item>
-<title>EDPB: Data breach: the CNIL fined MOBIUS SOLUTIONS LTD €1 million</title>
-<link>https://www.edpb.europa.eu/news/data-breach-the-cnil-fined-mobius-solutions-ltd-eur1-million_en</link>
-<guid isPermaLink="true">https://www.edpb.europa.eu/news/data-breach-the-cnil-fined-mobius-solutions-ltd-eur1-million_en</guid>
-<pubDate>Fri, 21 Aug 2026 09:00:00 +0000</pubDate>
-<description>ipayotfr Fri, 21/08/2026 - 10:54</description>
-</item>
-<item>
 <title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 34/2026</title>
 <link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-342026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
 <guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-342026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
 <pubDate>Fri, 21 Aug 2026 09:00:00 +0000</pubDate>
 <description>Tämän viikon viikkokatsauksessa esiin nousseita aiheita ovat lisääntyneet palkanmaksuhuijaukset, joissa rikolliset pyrkivät ohjaamaan palkkoja omille tileilleen väärennetyillä sähköpostiviesteillä. Lisäksi käsitellään pelien käyttäjien tekemiin lisäsisältöihin piilotettuja haittaohjelmia sekä EU:n uusia menettelyjä sähköisten todisteiden hankkimiseksi rikostutkinnoissa.</description>
 <category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>Julkaisu: Who Is Really Playing in the Sandbox?</title>
-<link>https://osuva.uwasa.fi/handle/11111/21197</link>
-<guid isPermaLink="true">https://osuva.uwasa.fi/handle/11111/21197</guid>
-<pubDate>Wed, 19 Aug 2026 09:00:00 +0000</pubDate>
-<description>Regulatory sandboxes, AI regulatory sandboxes, EU AI Act, regulation of AI, soft-law, AI regulatory challenges, regulation of new technologies, company’s perspective to AI regulation, testing regulatory regime, fi=Talousoikeus|en=Business Law|</description>
-<category>Datasääntely</category>
 </item>
 <item>
 <title>EU-komissio: Call for tenders: Study on how online marketplace design influences user behaviour</title>
@@ -524,14 +530,6 @@ Lisäksi tällä viikolla julkaistu heinäkuun Kybersää osoittaa sateisen syks
 <pubDate>Fri, 31 Jul 2026 09:00:00 +0000</pubDate>
 <description>Julkisuudessa on viime aikoina keskusteltu tapauksista, joissa tekoälyjärjestelmät ovat turvallisuustesteissä toteuttaneet toimia, jotka muistuttavat tietomurtoja tai luvattomia tunkeutumisyrityksiä. Tapaukset ovat herättäneet kysymyksiä siitä, kuinka itsenäisesti tekoäly kykenee toimimaan ja millaisia riskejä sen käyttöön liittyy kyberturvallisuuden näkökulmasta.</description>
 <category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>Julkaisu: Interoperability and Recent Competitive Developments in Digital Markets : Examining Interoperability Under the Digital Markets Act Regarding Regulatory Flexibility, Efficiency, and Legal Certainty Compared to the Article</title>
-<link>https://www.utupub.fi/handle/11111/62755</link>
-<guid isPermaLink="true">https://www.utupub.fi/handle/11111/62755</guid>
-<pubDate>Thu, 30 Jul 2026 09:00:00 +0000</pubDate>
-<description>The Digital Markets Act, Article 102 TFEU, interoperability, regulatory flexibility, regulatory dialogue, efficiency, legal certainty, digital markets, digital single market, competition, digimarkkinasäädös, SEUT 102 artikla, yhteentoimivuus, sääntelyn joustavuus, sääntelyvuoropuhelu, regulatiivinen</description>
-<category>Datasääntely</category>
 </item>
 <item>
 <title>Kyberturvallisuuskeskus: Kyberkestävyyssäädöksen vaatimukset selkiytyvät - EU-komissio julkaisi uuden soveltamisohjeen</title>

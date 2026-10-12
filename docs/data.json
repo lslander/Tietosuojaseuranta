@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-09T05:29:36",
+  "generated": "2026-10-12T05:33:40",
   "window_days": 120,
   "sources": [
     {
@@ -103,7 +103,7 @@
       "name": "Finlex, säädöskokoelma",
       "court": "Säädöskokoelma",
       "ok": true,
-      "fetched": 29,
+      "fetched": 24,
       "error": ""
     },
     {
@@ -118,17 +118,17 @@
       "id": "vn",
       "name": "Valtioneuvosto",
       "court": "VN",
-      "ok": true,
-      "fetched": 12,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "error": "403 Client Error: Forbidden for url: https://valtioneuvosto.fi/ajankohtaista"
     },
     {
       "id": "om",
       "name": "Oikeusministeriö",
       "court": "OM",
-      "ok": true,
-      "fetched": 8,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "error": "403 Client Error: Forbidden for url: https://oikeusministerio.fi/ajankohtaista"
     },
     {
       "id": "tem",
@@ -183,7 +183,7 @@
       "name": "Helda (Helsingin yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 14,
+      "fetched": 15,
       "error": ""
     },
     {
@@ -206,49 +206,49 @@
       "id": "utupub",
       "name": "UTUPub (Turun yliopisto)",
       "court": "Julkaisu",
-      "ok": true,
-      "fetched": 3,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "error": "403 Client Error: Forbidden for url: https://www.utupub.fi/server/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-07-29"
     },
     {
       "id": "uef",
       "name": "eRepo (Itä-Suomen yliopisto)",
       "court": "Julkaisu",
-      "ok": false,
-      "fetched": 0,
-      "error": "403 Client Error: Forbidden for url: https://erepo.uef.fi/server/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-07-26"
+      "ok": true,
+      "fetched": 22,
+      "error": ""
     },
     {
       "id": "jyx",
       "name": "JYX (Jyväskylän yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 9,
+      "fetched": 10,
       "error": ""
     },
     {
       "id": "doria",
       "name": "Doria (mm. Åbo Akademi)",
       "court": "Julkaisu",
-      "ok": true,
-      "fetched": 2,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "error": "403 Client Error: Forbidden for url: https://www.doria.fi/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-07-29"
     },
     {
       "id": "osuva",
       "name": "Osuva (Vaasan yliopisto)",
       "court": "Julkaisu",
-      "ok": true,
-      "fetched": 19,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "error": "HTTPSConnectionPool(host='osuva.uwasa.fi', port=443): Max retries exceeded with url: /server/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-07-29 (Caused by ConnectTimeoutError(<HTTPSCon"
     },
     {
       "id": "edilex",
       "name": "Edilex, uutiset",
       "court": "Edilex",
-      "ok": true,
-      "fetched": 80,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "error": "HTTPSConnectionPool(host='www.edilex.fi', port=443): Max retries exceeded with url: /uutiset (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.edilex.fi', port=443) at 0x7fbebc0136e0>, 'Connec"
     },
     {
       "id": "iapp",
@@ -297,7 +297,7 @@
       "source": "Euroopan tietosuojavaltuutettu (EDPS)",
       "title": "Read the blogpost by Wojciech Wiewiórowski.",
       "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
-      "date": "2026-10-09",
+      "date": "2026-10-12",
       "keywords": "",
       "summary": "",
       "score": 23,
@@ -307,21 +307,134 @@
       ]
     },
     {
-      "court": "Edilex",
-      "source": "Edilex, uutiset",
-      "title": "Tietosuojavaltuutetun toimisto: Mindemo Oy:lle seuraamusmaksu verkkosivuevästeiden tietosuojapuutteista",
-      "url": "https://www.edilex.fi/uutiset/103296",
+      "court": "Kyberturvallisuuskeskus",
+      "source": "Kyberturvallisuuskeskus",
+      "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 41/2026",
+      "url": "https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-412026?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
+      "date": "2026-10-09",
+      "keywords": "",
+      "summary": "Jatkuvasti lisääntyneet vakavat haavoittuvuudet ovat lisänneet tietomurtojen riskiä tänä vuonna merkittävästi. Sekä verkon reunalaitteisiin että yleisesti käytettyihin palveluihin kohdistuu tällä hetkellä runsaasti huomiota sekä hyökkääjien että puolustajien puolelta. Uudet korjaavat päivitykset on nyt syytä asentaa välittömästi sen sijaan, että odotetaan kuukausittaista huoltosykliä.",
+      "score": 28,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "tärkeä",
+        "kyberturvallisuus",
+        "tietomurto"
+      ]
+    },
+    {
+      "court": "EDPB",
+      "source": "Euroopan tietosuojaneuvosto (EDPB)",
+      "title": "Italian DPA fines security company EUR 39 000 for violations concerning employees’ data",
+      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-security-company-eur-39-000-for-violations-concerning-employees-data_en",
+      "date": "2026-10-09",
+      "keywords": "",
+      "summary": "ikerinar Fri, 09/10/2026 - 10:25",
+      "score": 23,
+      "topics": [],
+      "tags": []
+    },
+    {
+      "court": "EDPB",
+      "source": "Euroopan tietosuojaneuvosto (EDPB)",
+      "title": "Italian DPA fines IQVIA EUR 7 000 000 for unlawful processing of patients’ health data",
+      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-iqvia-eur-7-000-000-for-unlawful-processing-of-patients-health-data_en",
+      "date": "2026-10-09",
+      "keywords": "",
+      "summary": "ikerinar Fri, 09/10/2026 - 10:02",
+      "score": 23,
+      "topics": [],
+      "tags": []
+    },
+    {
+      "court": "EDPB",
+      "source": "Euroopan tietosuojaneuvosto (EDPB)",
+      "title": "Italian DPA fines BBVA EUR 5 508 000 for failing to respect a customer’s objection to direct marketing",
+      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-bbva-eur-5-508-000-for-failing-to-respect-a-customers-objection-to-direct_en",
+      "date": "2026-10-09",
+      "keywords": "",
+      "summary": "ikerinar Fri, 09/10/2026 - 09:49",
+      "score": 23,
+      "topics": [],
+      "tags": []
+    },
+    {
+      "court": "EDPB",
+      "source": "Euroopan tietosuojaneuvosto (EDPB)",
+      "title": "Italian DPA fines Emirates EUR 180 000 for infringements concerning passengers’ health data",
+      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-emirates-eur-180-000-for-infringements-concerning-passengers-health-data_en",
+      "date": "2026-10-09",
+      "keywords": "",
+      "summary": "ikerinar Fri, 09/10/2026 - 09:26",
+      "score": 23,
+      "topics": [],
+      "tags": []
+    },
+    {
+      "court": "Julkaisu",
+      "source": "eRepo (Itä-Suomen yliopisto)",
+      "title": "Ysityinen elinkeinonharjoittaja velkajärjestelyssä",
+      "url": "https://erepo.uef.fi/handle/123456789/39648",
+      "date": "2026-10-09",
+      "keywords": "velkajärjestely, maksukyvytön, maksuvara, rikos- ja prosessioikeus, criminal law and juridicial procedure, velkajärjestely, elinkeinonharjoittajat, velat, debt adjustment, persons carrying on a trade, liabilities, skuldsanering, näringsidkare, skulder",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Datasääntely"
+      ],
+      "tags": [
+        "DSA"
+      ]
+    },
+    {
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "Notes from the IAPP Canada: OPC draft guidance moves vendor privacy due diligence upstream",
+      "url": "https://iapp.org/news/a/notes-from-the-iapp-canada-opc-draft-guidance-moves-vendor-privacy-due-diligence-upstream",
+      "date": "2026-10-09",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "privacy"
+      ]
+    },
+    {
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "Washington's attorney general reflects on state's privacy legislation and enforcement",
+      "url": "https://iapp.org/news/a/washingtons-attorney-general-reflects-on-states-privacy-legislation-and-enforcement",
+      "date": "2026-10-09",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "privacy"
+      ]
+    },
+    {
+      "court": "TSV",
+      "source": "Tietosuojavaltuutetun toimisto",
+      "title": "Mindemo Oy:lle seuraamusmaksu verkkosivuevästeiden tietosuojapuutteista",
+      "url": "https://tietosuoja.fi/-/mindemo-oy-lle-seuraamusmaksu-verkkosivuevasteiden-tietosuojapuutteista",
       "date": "2026-10-08",
       "keywords": "",
       "summary": "",
-      "score": 50,
+      "score": 45,
       "topics": [
         "Tietosuoja"
       ],
       "tags": [
         "tärkeä",
-        "tietosuoja",
-        "tietosuojavaltuutet"
+        "tietosuoja"
       ]
     },
     {
@@ -374,6 +487,22 @@
       ],
       "tags": [
         "personal data"
+      ]
+    },
+    {
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "New OECD report examines neural data governance issues",
+      "url": "https://iapp.org/news/a/new-oecd-report-examines-neural-data-governance-issues",
+      "date": "2026-10-08",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Datasääntely"
+      ],
+      "tags": [
+        "data governance"
       ]
     },
     {
@@ -522,22 +651,6 @@
       ]
     },
     {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "Inside the EU KIDS Act: A 'specification' of the DSA that goes much further",
-      "url": "https://iapp.org/news/a/inside-the-eu-kids-act-a-specification-of-the-dsa-that-goes-much-further",
-      "date": "2026-09-29",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Datasääntely"
-      ],
-      "tags": [
-        "DSA"
-      ]
-    },
-    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 39/2026",
@@ -624,8 +737,8 @@
     {
       "court": "EDPB",
       "source": "Euroopan tietosuojaneuvosto (EDPB)",
-      "title": "The Spanish DPA fined Securitas Direct EUR 100 000 for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
-      "url": "https://www.edpb.europa.eu/news/the-spanish-dpa-fined-securitas-direct-eur-100-000-for-making-the-exercise-of-data-subject_en",
+      "title": "The Spanish DPA fines Securitas Direct EUR 100 000 for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
+      "url": "https://www.edpb.europa.eu/news/the-spanish-dpa-fines-securitas-direct-eur-100-000-for-making-the-exercise-of-data-subject_en",
       "date": "2026-09-22",
       "keywords": "",
       "summary": "ikerinar Tue, 22/09/2026 - 13:21",
@@ -778,18 +891,6 @@
       ]
     },
     {
-      "court": "EDPB",
-      "source": "Euroopan tietosuojaneuvosto (EDPB)",
-      "title": "Failure to respect the rights of individuals: The CNIL fined EXTIA EUR 300 000",
-      "url": "https://www.edpb.europa.eu/news/failure-to-respect-the-rights-of-individuals-the-cnil-fined-extia-eur-300-000_en",
-      "date": "2026-09-11",
-      "keywords": "",
-      "summary": "ikerinar Fri, 11/09/2026 - 09:24",
-      "score": 23,
-      "topics": [],
-      "tags": []
-    },
-    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 37/2026",
@@ -869,18 +970,6 @@
       "tags": [
         "tietojenkalastelu"
       ]
-    },
-    {
-      "court": "EDPB",
-      "source": "Euroopan tietosuojaneuvosto (EDPB)",
-      "title": "Health data breach: the CNIL fined Hôpital Privé de la Loire EUR 500 000",
-      "url": "https://www.edpb.europa.eu/news/health-data-breach-the-cnil-fined-hopital-prive-de-la-loire-eur-500-000_en",
-      "date": "2026-09-09",
-      "keywords": "",
-      "summary": "ikerinar Wed, 09/09/2026 - 11:58",
-      "score": 23,
-      "topics": [],
-      "tags": []
     },
     {
       "court": "Säädöskokoelma",
@@ -983,38 +1072,6 @@
       ]
     },
     {
-      "court": "EDPB",
-      "source": "Euroopan tietosuojaneuvosto (EDPB)",
-      "title": "Data Protection Commission announces Final Decision following Inquiry into the Health Service Executive (HSE)",
-      "url": "https://www.edpb.europa.eu/news/data-protection-commission-announces-final-decision-following-inquiry-into-the-health-service_en",
-      "date": "2026-09-03",
-      "keywords": "",
-      "summary": "ikerinar Thu, 03/09/2026 - 09:42",
-      "score": 23,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "data protection"
-      ]
-    },
-    {
-      "court": "Julkaisu",
-      "source": "Osuva (Vaasan yliopisto)",
-      "title": "Navigating the use of AI in the public sector : The complex world of AI ethics and regulation in Finnish municipalities",
-      "url": "https://osuva.uwasa.fi/handle/11111/21234",
-      "date": "2026-09-02",
-      "keywords": "artificial intelligence, regulation (control), legislation, good governance, public administration, public sector, municipalities, ethics, fi=Julkisen toiminnan johtaminen|en=Public Policy and Management|, fi=Hallintotieteiden maisteriohjelma|en=Master&apos;s Programme in Administrative Sciences|",
-      "summary": "This thesis examines the implications of the European Union’s Artificial Intelligence Act (EU AI Act) for Finnish municipalities. The use of artificial intelligence in municipalities has increased rapidly, but municipalities continue to face challenges related to the ethical governance of AI and the practical implementation of regulation. In addition, uncertainties surrounding the regulation may h",
-      "score": 13,
-      "topics": [
-        "Datasääntely"
-      ],
-      "tags": [
-        "AI Act"
-      ]
-    },
-    {
       "court": "EU-komissio",
       "source": "Komissio, digitaalinen strategia",
       "title": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act",
@@ -1028,26 +1085,6 @@
       ],
       "tags": [
         "DSA"
-      ]
-    },
-    {
-      "court": "Julkaisu",
-      "source": "UTUPub (Turun yliopisto)",
-      "title": "Age Assurance Systems on Online Platforms",
-      "url": "https://www.utupub.fi/handle/11111/63335",
-      "date": "2026-08-31",
-      "keywords": "age assurance, age verification, age estimation, online platform, data privacy, cybersecurity, iän varmennus, iän todentaminen, iän arviointi, verkkoalusta, tietosuoja, kyberturvallisuus",
-      "summary": "Age assurance refers to methods used to verify or estimate a person’s age. As online platforms face increasing regulatory pressure to protect minors from harmful content, age assurance has become an important mechanism for managing access to age-restricted material. The effectiveness of age assurance depends on the accuracy of the technology, how users respond to requirements, and how data is mana",
-      "score": 22,
-      "topics": [
-        "Tietosuoja",
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "tietosuoja",
-        "kyberturvallisuus",
-        "privacy",
-        "cyber"
       ]
     },
     {
@@ -1137,18 +1174,6 @@
       ]
     },
     {
-      "court": "EDPB",
-      "source": "Euroopan tietosuojaneuvosto (EDPB)",
-      "title": "Data breach: the CNIL fined MOBIUS SOLUTIONS LTD €1 million",
-      "url": "https://www.edpb.europa.eu/news/data-breach-the-cnil-fined-mobius-solutions-ltd-eur1-million_en",
-      "date": "2026-08-21",
-      "keywords": "",
-      "summary": "ipayotfr Fri, 21/08/2026 - 10:54",
-      "score": 23,
-      "topics": [],
-      "tags": []
-    },
-    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 34/2026",
@@ -1162,22 +1187,6 @@
       ],
       "tags": [
         "kyberturvallisuus"
-      ]
-    },
-    {
-      "court": "Julkaisu",
-      "source": "Osuva (Vaasan yliopisto)",
-      "title": "Who Is Really Playing in the Sandbox?",
-      "url": "https://osuva.uwasa.fi/handle/11111/21197",
-      "date": "2026-08-19",
-      "keywords": "Regulatory sandboxes, AI regulatory sandboxes, EU AI Act, regulation of AI, soft-law, AI regulatory challenges, regulation of new technologies, company’s perspective to AI regulation, testing regulatory regime, fi=Talousoikeus|en=Business Law|",
-      "summary": "This paper examines the conflicting objectives within the European Union’s AI regulatory sandboxes established under the AI Act. Although these sandboxes are intended to promote both innovation and legal certainty, they must balance the needs of two very different stakeholders, regulators and companies. The purpose of the paper was to analyse these conflicting goals and propose step-by-step proced",
-      "score": 13,
-      "topics": [
-        "Datasääntely"
-      ],
-      "tags": [
-        "AI Act"
       ]
     },
     {
@@ -1340,22 +1349,6 @@
       "tags": [
         "tärkeä",
         "tietomurto"
-      ]
-    },
-    {
-      "court": "Julkaisu",
-      "source": "UTUPub (Turun yliopisto)",
-      "title": "Interoperability and Recent Competitive Developments in Digital Markets : Examining Interoperability Under the Digital Markets Act Regarding Regulatory Flexibility, Efficiency, and Legal Certainty Compared to the Article",
-      "url": "https://www.utupub.fi/handle/11111/62755",
-      "date": "2026-07-30",
-      "keywords": "The Digital Markets Act, Article 102 TFEU, interoperability, regulatory flexibility, regulatory dialogue, efficiency, legal certainty, digital markets, digital single market, competition, digimarkkinasäädös, SEUT 102 artikla, yhteentoimivuus, sääntelyn joustavuus, sääntelyvuoropuhelu, regulatiivinen",
-      "summary": "This jurisprudential thesis examines the influence of regulatory flexibility under Articles 6(4) and 6(7) of the Digital Markets Act on improving efficiency compared to the application of Article 102 of the Treaty on the Functioning of the European Union in enforcing interoperability. The research extends to assessing what are the consequences for legal certainty concerning the question above. The",
-      "score": 13,
-      "topics": [
-        "Datasääntely"
-      ],
-      "tags": [
-        "digimarkkinasäädös"
       ]
     },
     {
@@ -1694,123 +1687,6 @@
         "kyberturvallisuus",
         "kyberhyökkäy",
         "tietomurto"
-      ]
-    },
-    {
-      "court": "TSV",
-      "source": "Tietosuojavaltuutetun toimisto",
-      "title": "Korkein hallinto-oikeus piti voimassa Verkkokauppa.comille määrätyn seuraamusmaksun tietosuojarikkomuksista",
-      "url": "https://tietosuoja.fi/-/korkein-hallinto-oikeus-piti-voimassa-verkkokauppa.comille-maaratyn-seuraamusmaksun-tietosuojarikkomuksista",
-      "date": "2026-06-12",
-      "keywords": "",
-      "summary": "",
-      "score": 45,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tärkeä",
-        "tietosuoja"
-      ]
-    },
-    {
-      "court": "Kyberturvallisuuskeskus",
-      "source": "Kyberturvallisuuskeskus",
-      "title": "Kyberturvallisuuskeskuksen viikkokatsaus - 24/2026",
-      "url": "https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-242026?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
-      "date": "2026-06-12",
-      "keywords": "",
-      "summary": "Tällä viikolla kerromme vaarallisista puhelinhuijauksista Klarnan nimissä. Kerromme myös kesän aikana yleistyvistä toimitusjohtajahuijauksista sekä toivotamme halukkaat tervetulleeksi kansainväliseen Connect4Cyber verkostoitumistapahtumaan. Nostamme lisäksi toukokouun Kybersään julkaisun sekä toivotamme hyvää kesää, sillä Kyberturvallisuuskeskuksen viikkokatsaus jää kesätauolle. Lopuksi voit tutus",
-      "score": 16,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "kyberturvallisuus",
-        "cyber"
-      ]
-    },
-    {
-      "court": "TSV",
-      "source": "Tietosuojavaltuutetun toimisto",
-      "title": "Euroopan tietosuojaneuvoston mallipohja tietoturvaloukkausilmoituksille avoinna kommenteille",
-      "url": "https://tietosuoja.fi/-/euroopan-tietosuojaneuvoston-mallipohja-tietoturvaloukkausilmoituksille-avoinna-kommenteille",
-      "date": "2026-06-11",
-      "keywords": "",
-      "summary": "",
-      "score": 48,
-      "topics": [
-        "Tietosuoja",
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "tärkeä",
-        "tietosuoja",
-        "tietoturvaloukkaus"
-      ]
-    },
-    {
-      "court": "Säädöskokoelma",
-      "source": "Finlex, säädöskokoelma",
-      "title": "497/2026, Laki henkilötietojen käsittelystä Tullissa annetun lain muuttamisesta",
-      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/497",
-      "date": "2026-06-11",
-      "keywords": "",
-      "summary": "",
-      "score": 33,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "henkilötiet"
-      ]
-    },
-    {
-      "court": "Säädöskokoelma",
-      "source": "Finlex, säädöskokoelma",
-      "title": "484/2026, Laki  henkilötietojen käsittelystä Rajavartiolaitoksessa annetun lain muuttamisesta",
-      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/484",
-      "date": "2026-06-11",
-      "keywords": "",
-      "summary": "",
-      "score": 33,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "henkilötiet"
-      ]
-    },
-    {
-      "court": "Säädöskokoelma",
-      "source": "Finlex, säädöskokoelma",
-      "title": "483/2026, Laki  henkilötietojen käsittelystä poliisitoimessa annetun lain muuttamisesta",
-      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/483",
-      "date": "2026-06-11",
-      "keywords": "",
-      "summary": "",
-      "score": 33,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "henkilötiet"
-      ]
-    },
-    {
-      "court": "Säädöskokoelma",
-      "source": "Finlex, säädöskokoelma",
-      "title": "482/2026, Laki  henkilötietojen käsittelystä maahanmuuttohallinnossa annetun lain muuttamisesta",
-      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/482",
-      "date": "2026-06-11",
-      "keywords": "",
-      "summary": "",
-      "score": 33,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "henkilötiet"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-12T05:33:40",
+  "generated": "2026-10-13T05:34:14",
   "window_days": 120,
   "sources": [
     {
@@ -103,7 +103,7 @@
       "name": "Finlex, säädöskokoelma",
       "court": "Säädöskokoelma",
       "ok": true,
-      "fetched": 24,
+      "fetched": 25,
       "error": ""
     },
     {
@@ -206,9 +206,9 @@
       "id": "utupub",
       "name": "UTUPub (Turun yliopisto)",
       "court": "Julkaisu",
-      "ok": false,
-      "fetched": 0,
-      "error": "403 Client Error: Forbidden for url: https://www.utupub.fi/server/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-07-29"
+      "ok": true,
+      "fetched": 3,
+      "error": ""
     },
     {
       "id": "uef",
@@ -230,9 +230,9 @@
       "id": "doria",
       "name": "Doria (mm. Åbo Akademi)",
       "court": "Julkaisu",
-      "ok": false,
-      "fetched": 0,
-      "error": "403 Client Error: Forbidden for url: https://www.doria.fi/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-07-29"
+      "ok": true,
+      "fetched": 2,
+      "error": ""
     },
     {
       "id": "osuva",
@@ -240,15 +240,15 @@
       "court": "Julkaisu",
       "ok": false,
       "fetched": 0,
-      "error": "HTTPSConnectionPool(host='osuva.uwasa.fi', port=443): Max retries exceeded with url: /server/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-07-29 (Caused by ConnectTimeoutError(<HTTPSCon"
+      "error": "HTTPSConnectionPool(host='osuva.uwasa.fi', port=443): Max retries exceeded with url: /server/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-07-30 (Caused by ConnectTimeoutError(<HTTPSCon"
     },
     {
       "id": "edilex",
       "name": "Edilex, uutiset",
       "court": "Edilex",
-      "ok": false,
-      "fetched": 0,
-      "error": "HTTPSConnectionPool(host='www.edilex.fi', port=443): Max retries exceeded with url: /uutiset (Caused by ConnectTimeoutError(<HTTPSConnection(host='www.edilex.fi', port=443) at 0x7fbebc0136e0>, 'Connec"
+      "ok": true,
+      "fetched": 77,
+      "error": ""
     },
     {
       "id": "iapp",
@@ -293,17 +293,49 @@
   ],
   "items": [
     {
+      "court": "Säädöskokoelma",
+      "source": "Finlex, säädöskokoelma",
+      "title": "875/2026, Laki  henkilötietojen käsittelystä poliisitoimessa annetun lain eräiden säännösten kumoamisesta",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/875",
+      "date": "2026-10-13",
+      "keywords": "",
+      "summary": "",
+      "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "henkilötiet"
+      ]
+    },
+    {
       "court": "EDPS",
       "source": "Euroopan tietosuojavaltuutettu (EDPS)",
       "title": "Read the blogpost by Wojciech Wiewiórowski.",
       "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
-      "date": "2026-10-12",
+      "date": "2026-10-13",
       "keywords": "",
       "summary": "",
       "score": 23,
       "topics": [],
       "tags": [
         "pvm arvioitu"
+      ]
+    },
+    {
+      "court": "EDPB",
+      "source": "Euroopan tietosuojaneuvosto (EDPB)",
+      "title": "Italian DPA fines Wind Tre EUR 16 700 000 for unlawful telemarketing and data protection infringements",
+      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-wind-tre-eur-16-700-000-for-unlawful-telemarketing-and-data-protection_en",
+      "date": "2026-10-12",
+      "keywords": "",
+      "summary": "ikerinar Mon, 12/10/2026 - 13:26",
+      "score": 23,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "data protection"
       ]
     },
     {
@@ -418,6 +450,24 @@
       ],
       "tags": [
         "privacy"
+      ]
+    },
+    {
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "Tietosuojavaltuutetun toimisto: Mindemo Oy:lle seuraamusmaksu verkkosivuevästeiden tietosuojapuutteista",
+      "url": "https://www.edilex.fi/uutiset/103296",
+      "date": "2026-10-08",
+      "keywords": "",
+      "summary": "",
+      "score": 50,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tärkeä",
+        "tietosuoja",
+        "tietosuojavaltuutet"
       ]
     },
     {
@@ -717,6 +767,18 @@
       ]
     },
     {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "Quantum Technologies Working Group Begins Its Work 23.09.2026",
+      "url": "https://uodo.gov.pl/en/553/2279",
+      "date": "2026-09-23",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [],
+      "tags": []
+    },
+    {
       "court": "TSV",
       "source": "Tietosuojavaltuutetun toimisto",
       "title": "Tietosuojavaltuutettu antoi uuden päätöksen koulujen sähköistä opetusalustaa koskevassa asiassa",
@@ -733,18 +795,6 @@
         "tietosuoja",
         "tietosuojavaltuutet"
       ]
-    },
-    {
-      "court": "EDPB",
-      "source": "Euroopan tietosuojaneuvosto (EDPB)",
-      "title": "The Spanish DPA fines Securitas Direct EUR 100 000 for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number",
-      "url": "https://www.edpb.europa.eu/news/the-spanish-dpa-fines-securitas-direct-eur-100-000-for-making-the-exercise-of-data-subject_en",
-      "date": "2026-09-22",
-      "keywords": "",
-      "summary": "ikerinar Tue, 22/09/2026 - 13:21",
-      "score": 23,
-      "topics": [],
-      "tags": []
     },
     {
       "court": "UODO",
@@ -795,6 +845,25 @@
       "tags": [
         "GDPR",
         "DSA"
+      ]
+    },
+    {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "Personal Data Protection Office Discusses Cyber Resilience in the Science and Higher Education Sector at Conference in Rzeszów 21.09.2026",
+      "url": "https://uodo.gov.pl/en/553/2278",
+      "date": "2026-09-21",
+      "keywords": "",
+      "summary": "",
+      "score": 19,
+      "topics": [
+        "Tietosuoja",
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "personal data",
+        "data protection",
+        "cyber"
       ]
     },
     {
@@ -856,39 +925,6 @@
       "score": 13,
       "topics": [],
       "tags": []
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "Data protection rules are not a burden, but an opportunity 17.09.2026",
-      "url": "https://uodo.gov.pl/en/553/2273",
-      "date": "2026-09-17",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "data protection"
-      ]
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "Additional inspections by the Personal Data Protection Office at organisations in the healthcare sector 16.09.2026",
-      "url": "https://uodo.gov.pl/en/553/2272",
-      "date": "2026-09-16",
-      "keywords": "",
-      "summary": "",
-      "score": 16,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data",
-        "data protection"
-      ]
     },
     {
       "court": "Kyberturvallisuuskeskus",
@@ -1085,6 +1121,26 @@
       ],
       "tags": [
         "DSA"
+      ]
+    },
+    {
+      "court": "Julkaisu",
+      "source": "UTUPub (Turun yliopisto)",
+      "title": "Age Assurance Systems on Online Platforms",
+      "url": "https://www.utupub.fi/handle/11111/63335",
+      "date": "2026-08-31",
+      "keywords": "age assurance, age verification, age estimation, online platform, data privacy, cybersecurity, iän varmennus, iän todentaminen, iän arviointi, verkkoalusta, tietosuoja, kyberturvallisuus",
+      "summary": "Age assurance refers to methods used to verify or estimate a person’s age. As online platforms face increasing regulatory pressure to protect minors from harmful content, age assurance has become an important mechanism for managing access to age-restricted material. The effectiveness of age assurance depends on the accuracy of the technology, how users respond to requirements, and how data is mana",
+      "score": 22,
+      "topics": [
+        "Tietosuoja",
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "tietosuoja",
+        "kyberturvallisuus",
+        "privacy",
+        "cyber"
       ]
     },
     {
@@ -1349,6 +1405,22 @@
       "tags": [
         "tärkeä",
         "tietomurto"
+      ]
+    },
+    {
+      "court": "Julkaisu",
+      "source": "UTUPub (Turun yliopisto)",
+      "title": "Interoperability and Recent Competitive Developments in Digital Markets : Examining Interoperability Under the Digital Markets Act Regarding Regulatory Flexibility, Efficiency, and Legal Certainty Compared to the Article",
+      "url": "https://www.utupub.fi/handle/11111/62755",
+      "date": "2026-07-30",
+      "keywords": "The Digital Markets Act, Article 102 TFEU, interoperability, regulatory flexibility, regulatory dialogue, efficiency, legal certainty, digital markets, digital single market, competition, digimarkkinasäädös, SEUT 102 artikla, yhteentoimivuus, sääntelyn joustavuus, sääntelyvuoropuhelu, regulatiivinen",
+      "summary": "This jurisprudential thesis examines the influence of regulatory flexibility under Articles 6(4) and 6(7) of the Digital Markets Act on improving efficiency compared to the application of Article 102 of the Treaty on the Functioning of the European Union in enforcing interoperability. The research extends to assessing what are the consequences for legal certainty concerning the question above. The",
+      "score": 13,
+      "topics": [
+        "Datasääntely"
+      ],
+      "tags": [
+        "digimarkkinasäädös"
       ]
     },
     {
@@ -1653,22 +1725,6 @@
       "score": 33,
       "topics": [],
       "tags": []
-    },
-    {
-      "court": "Säädöskokoelma",
-      "source": "Finlex, säädöskokoelma",
-      "title": "554/2026, Laki henkilötietojen käsittelystä maahanmuuttohallinnossa annetun lain 1 §:n muuttamisesta",
-      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/554",
-      "date": "2026-06-23",
-      "keywords": "",
-      "summary": "",
-      "score": 33,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "henkilötiet"
-      ]
     },
     {
       "court": "Kyberturvallisuuskeskus",

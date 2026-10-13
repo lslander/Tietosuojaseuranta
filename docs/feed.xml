@@ -4,13 +4,29 @@
 <link>https://lslander.github.io/Tietosuojaseuranta/</link>
 <description>Tietosuoja, teknologia ja datasääntely</description>
 <language>fi</language>
-<lastBuildDate>Mon, 12 Oct 2026 05:33:40 +0000</lastBuildDate>
+<lastBuildDate>Tue, 13 Oct 2026 05:34:14 +0000</lastBuildDate>
+<item>
+<title>Säädöskokoelma: 875/2026, Laki  henkilötietojen käsittelystä poliisitoimessa annetun lain eräiden säännösten kumoamisesta</title>
+<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/875</link>
+<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/875</guid>
+<pubDate>Tue, 13 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
 <item>
 <title>EDPS: Read the blogpost by Wojciech Wiewiórowski.</title>
 <link>https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</link>
 <guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</guid>
-<pubDate>Mon, 12 Oct 2026 09:00:00 +0000</pubDate>
+<pubDate>Tue, 13 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
+</item>
+<item>
+<title>EDPB: Italian DPA fines Wind Tre EUR 16 700 000 for unlawful telemarketing and data protection infringements</title>
+<link>https://www.edpb.europa.eu/news/italian-dpa-fines-wind-tre-eur-16-700-000-for-unlawful-telemarketing-and-data-protection_en</link>
+<guid isPermaLink="true">https://www.edpb.europa.eu/news/italian-dpa-fines-wind-tre-eur-16-700-000-for-unlawful-telemarketing-and-data-protection_en</guid>
+<pubDate>Mon, 12 Oct 2026 09:00:00 +0000</pubDate>
+<description>ikerinar Mon, 12/10/2026 - 13:26</description>
+<category>Tietosuoja</category>
 </item>
 <item>
 <title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 41/2026</title>
@@ -69,6 +85,14 @@
 <link>https://iapp.org/news/a/washingtons-attorney-general-reflects-on-states-privacy-legislation-and-enforcement</link>
 <guid isPermaLink="true">https://iapp.org/news/a/washingtons-attorney-general-reflects-on-states-privacy-legislation-and-enforcement</guid>
 <pubDate>Fri, 09 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>Edilex: Tietosuojavaltuutetun toimisto: Mindemo Oy:lle seuraamusmaksu verkkosivuevästeiden tietosuojapuutteista</title>
+<link>https://www.edilex.fi/uutiset/103296</link>
+<guid isPermaLink="true">https://www.edilex.fi/uutiset/103296</guid>
+<pubDate>Thu, 08 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>
 </item>
@@ -222,19 +246,19 @@
 <category>Tietosuoja</category>
 </item>
 <item>
+<title>UODO: Quantum Technologies Working Group Begins Its Work 23.09.2026</title>
+<link>https://uodo.gov.pl/en/553/2279</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2279</guid>
+<pubDate>Wed, 23 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+</item>
+<item>
 <title>TSV: Tietosuojavaltuutettu antoi uuden päätöksen koulujen sähköistä opetusalustaa koskevassa asiassa</title>
 <link>https://tietosuoja.fi/-/tietosuojavaltuutettu-antoi-uuden-paatoksen-koulujen-sahkoista-opetusalustaa-koskevassa-asiassa</link>
 <guid isPermaLink="true">https://tietosuoja.fi/-/tietosuojavaltuutettu-antoi-uuden-paatoksen-koulujen-sahkoista-opetusalustaa-koskevassa-asiassa</guid>
 <pubDate>Tue, 22 Sep 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>
-</item>
-<item>
-<title>EDPB: The Spanish DPA fines Securitas Direct EUR 100 000 for making the exercise of data subject rights more difficult by directing individuals to a chargeable telephone number</title>
-<link>https://www.edpb.europa.eu/news/the-spanish-dpa-fines-securitas-direct-eur-100-000-for-making-the-exercise-of-data-subject_en</link>
-<guid isPermaLink="true">https://www.edpb.europa.eu/news/the-spanish-dpa-fines-securitas-direct-eur-100-000-for-making-the-exercise-of-data-subject_en</guid>
-<pubDate>Tue, 22 Sep 2026 09:00:00 +0000</pubDate>
-<description>ikerinar Tue, 22/09/2026 - 13:21</description>
 </item>
 <item>
 <title>UODO: The President of the Personal Data Protection Office asks the President of the Republic of Poland to support solutions protecting Internet users 22.09.2026</title>
@@ -260,6 +284,15 @@
 <description>ikerinar Mon, 21/09/2026 - 11:42</description>
 <category>Tietosuoja</category>
 <category>Datasääntely</category>
+</item>
+<item>
+<title>UODO: Personal Data Protection Office Discusses Cyber Resilience in the Science and Higher Education Sector at Conference in Rzeszów 21.09.2026</title>
+<link>https://uodo.gov.pl/en/553/2278</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2278</guid>
+<pubDate>Mon, 21 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+<category>Kyberturvallisuus</category>
 </item>
 <item>
 <title>UODO: The President of the Personal Data Protection Office on the protection of patients&#x27; data at the conference &quot;GDPR in Healthcare&quot; 18.09.2026</title>
@@ -290,22 +323,6 @@
 <guid isPermaLink="true">https://uodo.gov.pl/en/553/2270</guid>
 <pubDate>Thu, 17 Sep 2026 09:00:00 +0000</pubDate>
 <description></description>
-</item>
-<item>
-<title>UODO: Data protection rules are not a burden, but an opportunity 17.09.2026</title>
-<link>https://uodo.gov.pl/en/553/2273</link>
-<guid isPermaLink="true">https://uodo.gov.pl/en/553/2273</guid>
-<pubDate>Thu, 17 Sep 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>UODO: Additional inspections by the Personal Data Protection Office at organisations in the healthcare sector 16.09.2026</title>
-<link>https://uodo.gov.pl/en/553/2272</link>
-<guid isPermaLink="true">https://uodo.gov.pl/en/553/2272</guid>
-<pubDate>Wed, 16 Sep 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
 </item>
 <item>
 <title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 37/2026</title>
@@ -402,6 +419,15 @@
 <pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
 <description>Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Online Search Engine (VLOSE), as well as Reddit and Roblox as Very Large Online Platforms (VLOPs), under the Digital Services Act (DSA). These services declared that they reach at least 45 million average monthly users in the EU and thus meet the threshold for designation. Following the notificat</description>
 <category>Datasääntely</category>
+</item>
+<item>
+<title>Julkaisu: Age Assurance Systems on Online Platforms</title>
+<link>https://www.utupub.fi/handle/11111/63335</link>
+<guid isPermaLink="true">https://www.utupub.fi/handle/11111/63335</guid>
+<pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
+<description>age assurance, age verification, age estimation, online platform, data privacy, cybersecurity, iän varmennus, iän todentaminen, iän arviointi, verkkoalusta, tietosuoja, kyberturvallisuus</description>
+<category>Tietosuoja</category>
+<category>Kyberturvallisuus</category>
 </item>
 <item>
 <title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 35/2026</title>
@@ -532,6 +558,14 @@ Lisäksi tällä viikolla julkaistu heinäkuun Kybersää osoittaa sateisen syks
 <category>Kyberturvallisuus</category>
 </item>
 <item>
+<title>Julkaisu: Interoperability and Recent Competitive Developments in Digital Markets : Examining Interoperability Under the Digital Markets Act Regarding Regulatory Flexibility, Efficiency, and Legal Certainty Compared to the Article</title>
+<link>https://www.utupub.fi/handle/11111/62755</link>
+<guid isPermaLink="true">https://www.utupub.fi/handle/11111/62755</guid>
+<pubDate>Thu, 30 Jul 2026 09:00:00 +0000</pubDate>
+<description>The Digital Markets Act, Article 102 TFEU, interoperability, regulatory flexibility, regulatory dialogue, efficiency, legal certainty, digital markets, digital single market, competition, digimarkkinasäädös, SEUT 102 artikla, yhteentoimivuus, sääntelyn joustavuus, sääntelyvuoropuhelu, regulatiivinen</description>
+<category>Datasääntely</category>
+</item>
+<item>
 <title>Kyberturvallisuuskeskus: Kyberkestävyyssäädöksen vaatimukset selkiytyvät - EU-komissio julkaisi uuden soveltamisohjeen</title>
 <link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberkestavyyssaadoksen-vaatimukset-selkiytyvat-eu-komissio-julkaisi-uuden-soveltamisohjeen?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
 <guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberkestavyyssaadoksen-vaatimukset-selkiytyvat-eu-komissio-julkaisi-uuden-soveltamisohjeen?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
@@ -602,37 +636,5 @@ Lisäksi tällä viikolla julkaistu heinäkuun Kybersää osoittaa sateisen syks
 <pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>
-</item>
-<item>
-<title>Säädöskokoelma: 728/2026, Laki henkilötietojen käsittelystä poliisitoimessa annetun lain muuttamisesta</title>
-<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/728</link>
-<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/728</guid>
-<pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>ENISA: Where do SMEs stand in preparing for the Cyber Resilience Act?</title>
-<link>https://www.enisa.europa.eu/news/where-do-smes-stand-in-preparing-for-the-cyber-resilience-act</link>
-<guid isPermaLink="true">https://www.enisa.europa.eu/news/where-do-smes-stand-in-preparing-for-the-cyber-resilience-act</guid>
-<pubDate>Mon, 13 Jul 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>ENISA: SME Cyber Resilience Maturity Assessment Model</title>
-<link>https://www.enisa.europa.eu/publications/sme-cyber-resilience-maturity-assessment-model</link>
-<guid isPermaLink="true">https://www.enisa.europa.eu/publications/sme-cyber-resilience-maturity-assessment-model</guid>
-<pubDate>Mon, 13 Jul 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>ENISA: Team Europe wins 1st ever International Cybersecurity Challenge for women</title>
-<link>https://www.enisa.europa.eu/news/team-europe-wins-1st-ever-international-cybersecurity-challenge-for-women</link>
-<guid isPermaLink="true">https://www.enisa.europa.eu/news/team-europe-wins-1st-ever-international-cybersecurity-challenge-for-women</guid>
-<pubDate>Fri, 10 Jul 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Kyberturvallisuus</category>
 </item>
 </channel></rss>

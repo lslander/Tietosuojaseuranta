@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-13T05:34:14",
+  "generated": "2026-10-14T05:42:28",
   "window_days": 120,
   "sources": [
     {
@@ -103,7 +103,7 @@
       "name": "Finlex, säädöskokoelma",
       "court": "Säädöskokoelma",
       "ok": true,
-      "fetched": 25,
+      "fetched": 26,
       "error": ""
     },
     {
@@ -207,7 +207,7 @@
       "name": "UTUPub (Turun yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 3,
+      "fetched": 1,
       "error": ""
     },
     {
@@ -215,7 +215,7 @@
       "name": "eRepo (Itä-Suomen yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 22,
+      "fetched": 23,
       "error": ""
     },
     {
@@ -240,14 +240,14 @@
       "court": "Julkaisu",
       "ok": false,
       "fetched": 0,
-      "error": "HTTPSConnectionPool(host='osuva.uwasa.fi', port=443): Max retries exceeded with url: /server/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-07-30 (Caused by ConnectTimeoutError(<HTTPSCon"
+      "error": "HTTPSConnectionPool(host='osuva.uwasa.fi', port=443): Max retries exceeded with url: /server/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-07-31 (Caused by ConnectTimeoutError(<HTTPSCon"
     },
     {
       "id": "edilex",
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 77,
+      "fetched": 78,
       "error": ""
     },
     {
@@ -293,6 +293,72 @@
   ],
   "items": [
     {
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "Euroopan tietosuojaneuvosto julkaisi lausunnon älylasien tietosuojahaasteista Euroopan tietosuojaneuvosto on antanut lausuman älylaseihin liittyvistä tietosuojakysymyksistä. Lausumassa annetaan alusta",
+      "url": "https://www.edilex.fi/uutiset/103391",
+      "date": "2026-10-14",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tietosuoja"
+      ]
+    },
+    {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "Read the blogpost by Wojciech Wiewiórowski.",
+      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
+      "date": "2026-10-14",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [],
+      "tags": [
+        "pvm arvioitu"
+      ]
+    },
+    {
+      "court": "TSV",
+      "source": "Tietosuojavaltuutetun toimisto",
+      "title": "Plastic Surgery Center Helsingille seuraamusmaksu tietosuojavaltuutetun toimiston määräyksen noudattamatta jättämisestä",
+      "url": "https://tietosuoja.fi/-/plastic-surgery-center-helsingille-seuraamusmaksu-tietosuojavaltuutetun-toimiston-maarayksen-noudattamatta-jattamisesta",
+      "date": "2026-10-13",
+      "keywords": "",
+      "summary": "",
+      "score": 60,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tärkeä",
+        "tietosuoja",
+        "tietosuojavaltuutet"
+      ]
+    },
+    {
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "Plastic Surgery Center Helsingille seuraamusmaksu tietosuojavaltuutetun toimiston määräyksen noudattamatta jättämisestä",
+      "url": "https://www.edilex.fi/uutiset/103376",
+      "date": "2026-10-13",
+      "keywords": "",
+      "summary": "",
+      "score": 50,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tärkeä",
+        "tietosuoja",
+        "tietosuojavaltuutet"
+      ]
+    },
+    {
       "court": "Säädöskokoelma",
       "source": "Finlex, säädöskokoelma",
       "title": "875/2026, Laki  henkilötietojen käsittelystä poliisitoimessa annetun lain eräiden säännösten kumoamisesta",
@@ -309,17 +375,68 @@
       ]
     },
     {
-      "court": "EDPS",
-      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
-      "title": "Read the blogpost by Wojciech Wiewiórowski.",
-      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
+      "court": "TSV",
+      "source": "Tietosuojavaltuutetun toimisto",
+      "title": "Euroopan tietosuojaneuvosto julkaisi lausunnon älylasien tietosuojahaasteista",
+      "url": "https://tietosuoja.fi/-/euroopan-tietosuojaneuvosto-julkaisi-lausunnon-alylasien-tietosuojahaasteista",
       "date": "2026-10-13",
       "keywords": "",
       "summary": "",
-      "score": 23,
-      "topics": [],
+      "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
       "tags": [
-        "pvm arvioitu"
+        "tietosuoja"
+      ]
+    },
+    {
+      "court": "EDPB",
+      "source": "Euroopan tietosuojaneuvosto (EDPB)",
+      "title": "EDPB publishes statement on the data protection challenges of smart glasses",
+      "url": "https://www.edpb.europa.eu/news/edpb-publishes-statement-on-the-data-protection-challenges-of-smart-glasses_en",
+      "date": "2026-10-13",
+      "keywords": "",
+      "summary": "ikerinar Tue, 13/10/2026 - 14:13",
+      "score": 23,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "data protection"
+      ]
+    },
+    {
+      "court": "Julkaisu",
+      "source": "eRepo (Itä-Suomen yliopisto)",
+      "title": "Tapaustutkimus Google Workspace for Education -järjestelmän käytöstä osana perusopetusta",
+      "url": "https://erepo.uef.fi/handle/123456789/39685",
+      "date": "2026-10-13",
+      "keywords": "informaatio-oikeus, EU:n yleinen tietosuoja-asetus, henkilötietojen käsittely, sisäänrakennettu ja oletusarvoinen tietosuoja, tietosuojaperiaate, oppimisalusta, tieto- ja viestintäjärjestelmä, perusopetus, Euroopan unionin tuomioistuin, eurooppaoikeus, european law, tietosuoja, henkilötiedot, data p",
+      "summary": "",
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tietosuoja",
+        "henkilötiet"
+      ]
+    },
+    {
+      "court": "Kyberturvallisuuskeskus",
+      "source": "Kyberturvallisuuskeskus",
+      "title": "Ivanti Connect Secure -tuotteissa haavoittuvuutta käytetty hyväksi",
+      "url": "https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet/haavoittuvuus-2026-35?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
+      "date": "2026-10-13",
+      "keywords": "",
+      "summary": "Ivanti on julkaissut haavoittuvuuspäivityksen Ivanti Connect Secure -tuotteen haavoittuvuuteen CVE-2026-104935. Haavoittuvuutta  käytetään aktiivisesti hyväksi. Organisaatioiden tulee päivittää tuote viimeistään nyt ja tarkastaa, ettei hyväksikäyttöä ole tapahtunut.",
+      "score": 13,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "haavoittuvuus"
       ]
     },
     {
@@ -748,22 +865,6 @@
       "tags": [
         "tärkeä",
         "tietosuoja"
-      ]
-    },
-    {
-      "court": "EDPB",
-      "source": "Euroopan tietosuojaneuvosto (EDPB)",
-      "title": "The Irish Data Protection Commission fines Google EUR 403 000 000 following Inquiry into Google’s processing of location data",
-      "url": "https://www.edpb.europa.eu/news/the-irish-data-protection-commission-fines-google-403-000-000-eur-following-inquiry_en",
-      "date": "2026-09-23",
-      "keywords": "",
-      "summary": "ikerinar Wed, 23/09/2026 - 10:35",
-      "score": 23,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "data protection"
       ]
     },
     {
@@ -1408,22 +1509,6 @@
       ]
     },
     {
-      "court": "Julkaisu",
-      "source": "UTUPub (Turun yliopisto)",
-      "title": "Interoperability and Recent Competitive Developments in Digital Markets : Examining Interoperability Under the Digital Markets Act Regarding Regulatory Flexibility, Efficiency, and Legal Certainty Compared to the Article",
-      "url": "https://www.utupub.fi/handle/11111/62755",
-      "date": "2026-07-30",
-      "keywords": "The Digital Markets Act, Article 102 TFEU, interoperability, regulatory flexibility, regulatory dialogue, efficiency, legal certainty, digital markets, digital single market, competition, digimarkkinasäädös, SEUT 102 artikla, yhteentoimivuus, sääntelyn joustavuus, sääntelyvuoropuhelu, regulatiivinen",
-      "summary": "This jurisprudential thesis examines the influence of regulatory flexibility under Articles 6(4) and 6(7) of the Digital Markets Act on improving efficiency compared to the application of Article 102 of the Treaty on the Functioning of the European Union in enforcing interoperability. The research extends to assessing what are the consequences for legal certainty concerning the question above. The",
-      "score": 13,
-      "topics": [
-        "Datasääntely"
-      ],
-      "tags": [
-        "digimarkkinasäädös"
-      ]
-    },
-    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Kyberkestävyyssäädöksen vaatimukset selkiytyvät - EU-komissio julkaisi uuden soveltamisohjeen",
@@ -1586,6 +1671,23 @@
       ]
     },
     {
+      "court": "KKO",
+      "source": "Tuomioistuinlaitos",
+      "title": "Korkein oikeus hylkäsi valituslupahakemuksen Vastaamon tietomurtoa ja sitä seuranneita kiristysrikoksia koskeneessa asiassa",
+      "url": "https://www.korkeinoikeus.fi/ajankohtaiset/korkein-oikeus-hylkasi-valituslupahakemuksen-vastaamon-tietomurtoa-ja-sita-seuranneita-kiristysrikoksia-koskeneessa-asiassa/",
+      "date": "2026-07-13",
+      "keywords": "",
+      "summary": "",
+      "score": 35,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "tärkeä",
+        "tietomurto"
+      ]
+    },
+    {
       "court": "ENISA",
       "source": "ENISA, uutiset",
       "title": "Where do SMEs stand in preparing for the Cyber Resilience Act?",
@@ -1725,6 +1827,22 @@
       "score": 33,
       "topics": [],
       "tags": []
+    },
+    {
+      "court": "Säädöskokoelma",
+      "source": "Finlex, säädöskokoelma",
+      "title": "554/2026, Laki henkilötietojen käsittelystä maahanmuuttohallinnossa annetun lain 1 §:n muuttamisesta",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/554",
+      "date": "2026-06-23",
+      "keywords": "",
+      "summary": "",
+      "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "henkilötiet"
+      ]
     },
     {
       "court": "Kyberturvallisuuskeskus",

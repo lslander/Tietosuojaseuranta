@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-14T05:42:28",
+  "generated": "2026-10-15T05:42:41",
   "window_days": 120,
   "sources": [
     {
@@ -167,7 +167,7 @@
       "name": "Euroopan tietosuojavaltuutettu (EDPS)",
       "court": "EDPS",
       "ok": true,
-      "fetched": 4,
+      "fetched": 3,
       "error": ""
     },
     {
@@ -191,7 +191,7 @@
       "name": "Helda, oikeustieteellinen tiedekunta",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 21,
+      "fetched": 22,
       "error": ""
     },
     {
@@ -215,7 +215,7 @@
       "name": "eRepo (Itä-Suomen yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 23,
+      "fetched": 20,
       "error": ""
     },
     {
@@ -240,14 +240,14 @@
       "court": "Julkaisu",
       "ok": false,
       "fetched": 0,
-      "error": "HTTPSConnectionPool(host='osuva.uwasa.fi', port=443): Max retries exceeded with url: /server/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-07-31 (Caused by ConnectTimeoutError(<HTTPSCon"
+      "error": "HTTPSConnectionPool(host='osuva.uwasa.fi', port=443): Max retries exceeded with url: /server/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-08-01 (Caused by ConnectTimeoutError(<HTTPSCon"
     },
     {
       "id": "edilex",
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 78,
+      "fetched": 80,
       "error": ""
     },
     {
@@ -293,9 +293,23 @@
   ],
   "items": [
     {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "Read the blogpost by Wojciech Wiewiórowski.",
+      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
+      "date": "2026-10-15",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [],
+      "tags": [
+        "pvm arvioitu"
+      ]
+    },
+    {
       "court": "Edilex",
       "source": "Edilex, uutiset",
-      "title": "Euroopan tietosuojaneuvosto julkaisi lausunnon älylasien tietosuojahaasteista Euroopan tietosuojaneuvosto on antanut lausuman älylaseihin liittyvistä tietosuojakysymyksistä. Lausumassa annetaan alusta",
+      "title": "Euroopan tietosuojaneuvosto julkaisi lausunnon älylasien tietosuojahaasteista",
       "url": "https://www.edilex.fi/uutiset/103391",
       "date": "2026-10-14",
       "keywords": "",
@@ -309,17 +323,36 @@
       ]
     },
     {
-      "court": "EDPS",
-      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
-      "title": "Read the blogpost by Wojciech Wiewiórowski.",
-      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "When AI hallucinates facts about individuals: Personal data and accuracy under the GDPR",
+      "url": "https://iapp.org/news/a/when-ai-hallucinates-facts-about-individuals-personal-data-and-accuracy-under-the-gdpr",
       "date": "2026-10-14",
       "keywords": "",
       "summary": "",
-      "score": 23,
-      "topics": [],
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
       "tags": [
-        "pvm arvioitu"
+        "GDPR",
+        "personal data"
+      ]
+    },
+    {
+      "court": "Kyberturvallisuuskeskus",
+      "source": "Kyberturvallisuuskeskus",
+      "title": "Cisco Secure Email Gateway -tuotteessa kriittinen hyväksikäytetty haavoittuvuus",
+      "url": "https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuus-2026-36?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
+      "date": "2026-10-14",
+      "keywords": "",
+      "summary": "Cisco Secure Email Gatewayn -tuotteessa on kriittinen hyväksikäytetty haavoittuvuus, jonka avulla hyökkääjä voi suorittaa komentoja laitteen käyttöjärjestelmässä pääkäyttäjän oikeuksilla.",
+      "score": 13,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "haavoittuvuus"
       ]
     },
     {
@@ -426,7 +459,7 @@
     {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
-      "title": "Ivanti Connect Secure -tuotteissa haavoittuvuutta käytetty hyväksi",
+      "title": "Ivanti Connect Secure -tuotteissa hyväksikäytetty haavoittuvuus",
       "url": "https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet/haavoittuvuus-2026-35?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
       "date": "2026-10-13",
       "keywords": "",
@@ -659,6 +692,22 @@
     {
       "court": "IAPP",
       "source": "IAPP",
+      "title": "Don't count COPPA out: From privacy statute to safety tool",
+      "url": "https://iapp.org/news/a/dont-count-coppa-out-from-privacy-statute-to-safety-tool",
+      "date": "2026-10-08",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "privacy"
+      ]
+    },
+    {
+      "court": "IAPP",
+      "source": "IAPP",
       "title": "New OECD report examines neural data governance issues",
       "url": "https://iapp.org/news/a/new-oecd-report-examines-neural-data-governance-issues",
       "date": "2026-10-08",
@@ -802,6 +851,23 @@
       ]
     },
     {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "Chinese platform, Polish interest. After the data breach, the President of the Personal Data Protection Office intervenes with the Prosecutor General 29.09.2026",
+      "url": "https://uodo.gov.pl/en/553/2281",
+      "date": "2026-09-29",
+      "keywords": "",
+      "summary": "",
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data",
+        "data protection"
+      ]
+    },
+    {
       "court": "IAPP",
       "source": "IAPP",
       "title": "The rising significance of data protection in shaping Africa's digital future",
@@ -814,6 +880,39 @@
         "Tietosuoja"
       ],
       "tags": [
+        "data protection"
+      ]
+    },
+    {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "The President of the Republic of Poland signed the first of the laws implementing the DSA 28.09.2026",
+      "url": "https://uodo.gov.pl/en/553/2280",
+      "date": "2026-09-28",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Datasääntely"
+      ],
+      "tags": [
+        "DSA"
+      ]
+    },
+    {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "Millions of Poles affected. Following a mew medical data leak, the Personal Data Protection Office announces an inspection 25.09.2026",
+      "url": "https://uodo.gov.pl/en/553/2282",
+      "date": "2026-09-25",
+      "keywords": "",
+      "summary": "",
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data",
         "data protection"
       ]
     },
@@ -949,43 +1048,6 @@
       ]
     },
     {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "Personal Data Protection Office Discusses Cyber Resilience in the Science and Higher Education Sector at Conference in Rzeszów 21.09.2026",
-      "url": "https://uodo.gov.pl/en/553/2278",
-      "date": "2026-09-21",
-      "keywords": "",
-      "summary": "",
-      "score": 19,
-      "topics": [
-        "Tietosuoja",
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "personal data",
-        "data protection",
-        "cyber"
-      ]
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "The President of the Personal Data Protection Office on the protection of patients' data at the conference \"GDPR in Healthcare\" 18.09.2026",
-      "url": "https://uodo.gov.pl/en/553/2274",
-      "date": "2026-09-18",
-      "keywords": "",
-      "summary": "",
-      "score": 19,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "GDPR",
-        "personal data",
-        "data protection"
-      ]
-    },
-    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 38/2026",
@@ -1012,18 +1074,6 @@
       "keywords": "",
       "summary": "",
       "score": 23,
-      "topics": [],
-      "tags": []
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "Tripartite agreement for the benefit of Gdynia’s residents 17.09.2026",
-      "url": "https://uodo.gov.pl/en/553/2270",
-      "date": "2026-09-17",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
       "topics": [],
       "tags": []
     },
@@ -1411,18 +1461,6 @@
       "tags": [
         "tietosuoja"
       ]
-    },
-    {
-      "court": "EDPS",
-      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
-      "title": "EDPS publishes Opinion on proposal to modernise Eurojust",
-      "url": "https://www.edps.europa.eu/data-protection/our-work/publications/opinions/2026-08-11-edps-opinion-192026-regulation-establishment-eurojust-and-repealing-regulation-eu-20181727_en",
-      "date": "2026-08-14",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [],
-      "tags": []
     },
     {
       "court": "Kyberturvallisuuskeskus",

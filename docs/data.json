@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-15T05:42:41",
+  "generated": "2026-10-16T05:39:13",
   "window_days": 120,
   "sources": [
     {
@@ -111,7 +111,7 @@
       "name": "Finlex, hallituksen esitykset",
       "court": "HE",
       "ok": true,
-      "fetched": 7,
+      "fetched": 8,
       "error": ""
     },
     {
@@ -215,7 +215,7 @@
       "name": "eRepo (Itä-Suomen yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 20,
+      "fetched": 21,
       "error": ""
     },
     {
@@ -238,16 +238,16 @@
       "id": "osuva",
       "name": "Osuva (Vaasan yliopisto)",
       "court": "Julkaisu",
-      "ok": false,
-      "fetched": 0,
-      "error": "HTTPSConnectionPool(host='osuva.uwasa.fi', port=443): Max retries exceeded with url: /server/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-08-01 (Caused by ConnectTimeoutError(<HTTPSCon"
+      "ok": true,
+      "fetched": 19,
+      "error": ""
     },
     {
       "id": "edilex",
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 80,
+      "fetched": 78,
       "error": ""
     },
     {
@@ -297,7 +297,7 @@
       "source": "Euroopan tietosuojavaltuutettu (EDPS)",
       "title": "Read the blogpost by Wojciech Wiewiórowski.",
       "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
-      "date": "2026-10-15",
+      "date": "2026-10-16",
       "keywords": "",
       "summary": "",
       "score": 23,
@@ -603,24 +603,6 @@
       ]
     },
     {
-      "court": "Edilex",
-      "source": "Edilex, uutiset",
-      "title": "Tietosuojavaltuutetun toimisto: Mindemo Oy:lle seuraamusmaksu verkkosivuevästeiden tietosuojapuutteista",
-      "url": "https://www.edilex.fi/uutiset/103296",
-      "date": "2026-10-08",
-      "keywords": "",
-      "summary": "",
-      "score": 50,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tärkeä",
-        "tietosuoja",
-        "tietosuojavaltuutet"
-      ]
-    },
-    {
       "court": "TSV",
       "source": "Tietosuojavaltuutetun toimisto",
       "title": "Mindemo Oy:lle seuraamusmaksu verkkosivuevästeiden tietosuojapuutteista",
@@ -770,22 +752,6 @@
       ]
     },
     {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "OpenAI faces California DOJ subpoena amid growing cybersecurity incident notices",
-      "url": "https://iapp.org/news/a/openai-faces-california-doj-subpoena-amid-growing-cybersecurity-incident-notices",
-      "date": "2026-10-02",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "cyber"
-      ]
-    },
-    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 40/2026",
@@ -799,23 +765,6 @@
       ],
       "tags": [
         "kyberturvallisuus"
-      ]
-    },
-    {
-      "court": "EUT",
-      "source": "Unionin tuomioistuimen lehdistötiedotteet",
-      "title": "139/2026 : 1 October 2026 - Opinion of the Advocate General at the Court Laila Medina in Case C-12/25",
-      "url": "https://curia.europa.eu/site/jcms/p1_1000088284",
-      "date": "2026-10-01",
-      "keywords": "",
-      "summary": "Bisdom Gent Approximation of laws Advocate General Medina: the right to erasure under the GDPR may, in principle, apply to personal data contained in baptismal registers",
-      "score": 16,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "GDPR",
-        "personal data"
       ]
     },
     {
@@ -1259,6 +1208,22 @@
       ]
     },
     {
+      "court": "Julkaisu",
+      "source": "Osuva (Vaasan yliopisto)",
+      "title": "Navigating the use of AI in the public sector : The complex world of AI ethics and regulation in Finnish municipalities",
+      "url": "https://osuva.uwasa.fi/handle/11111/21234",
+      "date": "2026-09-02",
+      "keywords": "artificial intelligence, regulation (control), legislation, good governance, public administration, public sector, municipalities, ethics, fi=Julkisen toiminnan johtaminen|en=Public Policy and Management|, fi=Hallintotieteiden maisteriohjelma|en=Master&apos;s Programme in Administrative Sciences|",
+      "summary": "This thesis examines the implications of the European Union’s Artificial Intelligence Act (EU AI Act) for Finnish municipalities. The use of artificial intelligence in municipalities has increased rapidly, but municipalities continue to face challenges related to the ethical governance of AI and the practical implementation of regulation. In addition, uncertainties surrounding the regulation may h",
+      "score": 13,
+      "topics": [
+        "Datasääntely"
+      ],
+      "tags": [
+        "AI Act"
+      ]
+    },
+    {
       "court": "EU-komissio",
       "source": "Komissio, digitaalinen strategia",
       "title": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act",
@@ -1394,6 +1359,22 @@
       ],
       "tags": [
         "kyberturvallisuus"
+      ]
+    },
+    {
+      "court": "Julkaisu",
+      "source": "Osuva (Vaasan yliopisto)",
+      "title": "Who Is Really Playing in the Sandbox?",
+      "url": "https://osuva.uwasa.fi/handle/11111/21197",
+      "date": "2026-08-19",
+      "keywords": "Regulatory sandboxes, AI regulatory sandboxes, EU AI Act, regulation of AI, soft-law, AI regulatory challenges, regulation of new technologies, company’s perspective to AI regulation, testing regulatory regime, fi=Talousoikeus|en=Business Law|",
+      "summary": "This paper examines the conflicting objectives within the European Union’s AI regulatory sandboxes established under the AI Act. Although these sandboxes are intended to promote both innovation and legal certainty, they must balance the needs of two very different stakeholders, regulators and companies. The purpose of the paper was to analyse these conflicting goals and propose step-by-step proced",
+      "score": 13,
+      "topics": [
+        "Datasääntely"
+      ],
+      "tags": [
+        "AI Act"
       ]
     },
     {

@@ -4,12 +4,12 @@
 <link>https://lslander.github.io/Tietosuojaseuranta/</link>
 <description>Tietosuoja, teknologia ja datasääntely</description>
 <language>fi</language>
-<lastBuildDate>Thu, 15 Oct 2026 05:42:41 +0000</lastBuildDate>
+<lastBuildDate>Fri, 16 Oct 2026 05:39:13 +0000</lastBuildDate>
 <item>
 <title>EDPS: Read the blogpost by Wojciech Wiewiórowski.</title>
 <link>https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</link>
 <guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</guid>
-<pubDate>Thu, 15 Oct 2026 09:00:00 +0000</pubDate>
+<pubDate>Fri, 16 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
 </item>
 <item>
@@ -161,14 +161,6 @@
 <category>Tietosuoja</category>
 </item>
 <item>
-<title>Edilex: Tietosuojavaltuutetun toimisto: Mindemo Oy:lle seuraamusmaksu verkkosivuevästeiden tietosuojapuutteista</title>
-<link>https://www.edilex.fi/uutiset/103296</link>
-<guid isPermaLink="true">https://www.edilex.fi/uutiset/103296</guid>
-<pubDate>Thu, 08 Oct 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
 <title>TSV: Mindemo Oy:lle seuraamusmaksu verkkosivuevästeiden tietosuojapuutteista</title>
 <link>https://tietosuoja.fi/-/mindemo-oy-lle-seuraamusmaksu-verkkosivuevasteiden-tietosuojapuutteista</link>
 <guid isPermaLink="true">https://tietosuoja.fi/-/mindemo-oy-lle-seuraamusmaksu-verkkosivuevasteiden-tietosuojapuutteista</guid>
@@ -246,28 +238,12 @@
 <category>Kyberturvallisuus</category>
 </item>
 <item>
-<title>IAPP: OpenAI faces California DOJ subpoena amid growing cybersecurity incident notices</title>
-<link>https://iapp.org/news/a/openai-faces-california-doj-subpoena-amid-growing-cybersecurity-incident-notices</link>
-<guid isPermaLink="true">https://iapp.org/news/a/openai-faces-california-doj-subpoena-amid-growing-cybersecurity-incident-notices</guid>
-<pubDate>Fri, 02 Oct 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
 <title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 40/2026</title>
 <link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-402026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
 <guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-402026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
 <pubDate>Fri, 02 Oct 2026 09:00:00 +0000</pubDate>
 <description>Kyberturvallisuuskeskus julkaisi vakavan varoituksen tietomurroista, johon hyödynnetään haavoittuvia verkon reunalaitteita. Ohjelmistohaavoittuvuudet ja niiden hyväksikäytöt ovat olleet keskeisiä turvallisuusteemoja jo pitkään. Muistutamme myös nopean päivittämisen sekä murtojälkien selvittämisen tärkeydestä. Lisäksi kerromme kuulumisia eri kyberharjoituksista.</description>
 <category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>EUT: 139/2026 : 1 October 2026 - Opinion of the Advocate General at the Court Laila Medina in Case C-12/25</title>
-<link>https://curia.europa.eu/site/jcms/p1_1000088284</link>
-<guid isPermaLink="true">https://curia.europa.eu/site/jcms/p1_1000088284</guid>
-<pubDate>Thu, 01 Oct 2026 09:00:00 +0000</pubDate>
-<description>Bisdom Gent Approximation of laws Advocate General Medina: the right to erasure under the GDPR may, in principle, apply to personal data contained in baptismal registers</description>
-<category>Tietosuoja</category>
 </item>
 <item>
 <title>Kyberturvallisuuskeskus: Citrix NetScaler -haavoittuvuuksia hyväksikäytetty Suomessa</title>
@@ -485,6 +461,14 @@
 <category>Tietosuoja</category>
 </item>
 <item>
+<title>Julkaisu: Navigating the use of AI in the public sector : The complex world of AI ethics and regulation in Finnish municipalities</title>
+<link>https://osuva.uwasa.fi/handle/11111/21234</link>
+<guid isPermaLink="true">https://osuva.uwasa.fi/handle/11111/21234</guid>
+<pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate>
+<description>artificial intelligence, regulation (control), legislation, good governance, public administration, public sector, municipalities, ethics, fi=Julkisen toiminnan johtaminen|en=Public Policy and Management|, fi=Hallintotieteiden maisteriohjelma|en=Master&amp;apos;s Programme in Administrative Sciences|</description>
+<category>Datasääntely</category>
+</item>
+<item>
 <title>EU-komissio: Commission designates ChatGPT, Reddit, Roblox under Digital Services Act</title>
 <link>https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act</link>
 <guid isPermaLink="true">https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act</guid>
@@ -548,6 +532,14 @@
 <pubDate>Fri, 21 Aug 2026 09:00:00 +0000</pubDate>
 <description>Tämän viikon viikkokatsauksessa esiin nousseita aiheita ovat lisääntyneet palkanmaksuhuijaukset, joissa rikolliset pyrkivät ohjaamaan palkkoja omille tileilleen väärennetyillä sähköpostiviesteillä. Lisäksi käsitellään pelien käyttäjien tekemiin lisäsisältöihin piilotettuja haittaohjelmia sekä EU:n uusia menettelyjä sähköisten todisteiden hankkimiseksi rikostutkinnoissa.</description>
 <category>Kyberturvallisuus</category>
+</item>
+<item>
+<title>Julkaisu: Who Is Really Playing in the Sandbox?</title>
+<link>https://osuva.uwasa.fi/handle/11111/21197</link>
+<guid isPermaLink="true">https://osuva.uwasa.fi/handle/11111/21197</guid>
+<pubDate>Wed, 19 Aug 2026 09:00:00 +0000</pubDate>
+<description>Regulatory sandboxes, AI regulatory sandboxes, EU AI Act, regulation of AI, soft-law, AI regulatory challenges, regulation of new technologies, company’s perspective to AI regulation, testing regulatory regime, fi=Talousoikeus|en=Business Law|</description>
+<category>Datasääntely</category>
 </item>
 <item>
 <title>EU-komissio: Call for tenders: Study on how online marketplace design influences user behaviour</title>
@@ -636,6 +628,14 @@ Lisäksi tällä viikolla julkaistu heinäkuun Kybersää osoittaa sateisen syks
 <guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/haavoittuvuuskilpailussa-nopeus-ratkaisee?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
 <pubDate>Fri, 24 Jul 2026 09:00:00 +0000</pubDate>
 <description>Kyberturvallisuuden vanhan sanonnan mukaan kello alkaa tikittää silloin, kun haavoittuvuus löydetään. Nykyisessä uhkaympäristössä sekä teknologisen kehityksen myötä sekuntiviisari lähtee liikkeelle jo paljon aikaisemmin. Ensimmäiset sekunnit kuluvat siitä hetkestä lähtien, kun haavoittuvuus syntyy. Oli haavoittuvuuden syynä sitten ohjelmistovirhe, epäonnistunut päivitys tai jokin muu syy. Kun haav</description>
+<category>Kyberturvallisuus</category>
+</item>
+<item>
+<title>ENISA: Procurement guidelines for the cybersecurity of hospitals and healthcare providers</title>
+<link>https://www.enisa.europa.eu/publications/procurement-guidelines-for-the-cybersecurity-of-hospitals-and-healthcare-providers</link>
+<guid isPermaLink="true">https://www.enisa.europa.eu/publications/procurement-guidelines-for-the-cybersecurity-of-hospitals-and-healthcare-providers</guid>
+<pubDate>Wed, 22 Jul 2026 09:00:00 +0000</pubDate>
+<description></description>
 <category>Kyberturvallisuus</category>
 </item>
 </channel></rss>

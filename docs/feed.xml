@@ -4,13 +4,61 @@
 <link>https://lslander.github.io/Tietosuojaseuranta/</link>
 <description>Tietosuoja, teknologia ja datasääntely</description>
 <language>fi</language>
-<lastBuildDate>Fri, 16 Oct 2026 05:39:13 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 10:44:18 +0000</lastBuildDate>
+<item>
+<title>EU-komissio: First harmonised standard supporting the AI Act published in the Official Journal</title>
+<link>https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal</link>
+<guid isPermaLink="true">https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal</guid>
+<pubDate>Mon, 19 Oct 2026 09:00:00 +0000</pubDate>
+<description>Anonymous (not verified) Mon, 10/19/2026 - 09:37 The European Commission has published the reference to the first harmonised standard supporting the implementation of the AI Act in the Official Journal of the European Union. The standard, EN 18286:2026 - Artificial intelligence - Quality management system for EU AI Act regulatory purposes , developed by CEN and CENELEC, provides a clear legal path</description>
+<category>Datasääntely</category>
+</item>
 <item>
 <title>EDPS: Read the blogpost by Wojciech Wiewiórowski.</title>
 <link>https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</link>
 <guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</guid>
+<pubDate>Mon, 19 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+</item>
+<item>
+<title>EDPB: Norwegian DPA fines Xandr EUR 8 600 000 for unlawful processing of personal data</title>
+<link>https://www.edpb.europa.eu/news/norwegian-dpa-fines-xandr-eur-8-600-000-for-unlawful-processing-of-personal-data_en</link>
+<guid isPermaLink="true">https://www.edpb.europa.eu/news/norwegian-dpa-fines-xandr-eur-8-600-000-for-unlawful-processing-of-personal-data_en</guid>
+<pubDate>Fri, 16 Oct 2026 09:00:00 +0000</pubDate>
+<description>ikerinar Fri, 16/10/2026 - 09:52</description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>Edilex: EU-tuomioistuin vahvisti kuluttajien suojaa pankkihuijauksissa: Tietojenkalastelun uhri saa rahansa takaisin heti, vaikka olisi toiminut törkeän huolimattomasti</title>
+<link>https://www.edilex.fi/uutiset/103436</link>
+<guid isPermaLink="true">https://www.edilex.fi/uutiset/103436</guid>
 <pubDate>Fri, 16 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
+<category>Kyberturvallisuus</category>
+</item>
+<item>
+<title>IAPP: A view from DC: Time is running out to prepare for privacy audits</title>
+<link>https://iapp.org/news/a/a-view-from-dc-time-is-running-out-to-prepare-for-privacy-audits</link>
+<guid isPermaLink="true">https://iapp.org/news/a/a-view-from-dc-time-is-running-out-to-prepare-for-privacy-audits</guid>
+<pubDate>Fri, 16 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 42/2026</title>
+<link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-422026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
+<guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-422026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
+<pubDate>Fri, 16 Oct 2026 09:00:00 +0000</pubDate>
+<description>Tällä viikolla muistutamme Microsoft 365-tilien tietomurroista, joiden määrä on yhä kasvussa. Lisäksi kerromme majoitusvarausten tiedoilla tehtävistä huijauksista sekä nostamme esiin tekoälymurroksen vaikutuksia kyberturvallisuuteen. Lopuksi kerromme syyskuun kybersäästä ja kyberturvallisuushakujen kohdennetuista hakuinfoista.</description>
+<category>Kyberturvallisuus</category>
+</item>
+<item>
+<title>ENISA: Sweden sweeps the winning title of the European Cybersecurity Challenge</title>
+<link>https://www.enisa.europa.eu/news/sweden-sweeps-the-winning-title-of-the-european-cybersecurity-challenge</link>
+<guid isPermaLink="true">https://www.enisa.europa.eu/news/sweden-sweeps-the-winning-title-of-the-european-cybersecurity-challenge</guid>
+<pubDate>Fri, 16 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Kyberturvallisuus</category>
 </item>
 <item>
 <title>Edilex: Euroopan tietosuojaneuvosto julkaisi lausunnon älylasien tietosuojahaasteista</title>
@@ -91,14 +139,6 @@
 <pubDate>Tue, 13 Oct 2026 09:00:00 +0000</pubDate>
 <description>Ivanti on julkaissut haavoittuvuuspäivityksen Ivanti Connect Secure -tuotteen haavoittuvuuteen CVE-2026-104935. Haavoittuvuutta  käytetään aktiivisesti hyväksi. Organisaatioiden tulee päivittää tuote viimeistään nyt ja tarkastaa, ettei hyväksikäyttöä ole tapahtunut.</description>
 <category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>EDPB: Italian DPA fines Wind Tre EUR 16 700 000 for unlawful telemarketing and data protection infringements</title>
-<link>https://www.edpb.europa.eu/news/italian-dpa-fines-wind-tre-eur-16-700-000-for-unlawful-telemarketing-and-data-protection_en</link>
-<guid isPermaLink="true">https://www.edpb.europa.eu/news/italian-dpa-fines-wind-tre-eur-16-700-000-for-unlawful-telemarketing-and-data-protection_en</guid>
-<pubDate>Mon, 12 Oct 2026 09:00:00 +0000</pubDate>
-<description>ikerinar Mon, 12/10/2026 - 13:26</description>
-<category>Tietosuoja</category>
 </item>
 <item>
 <title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 41/2026</title>
@@ -230,12 +270,12 @@
 <category>Kyberturvallisuus</category>
 </item>
 <item>
-<title>IAPP: Thought for the week: AI agents raise new cybersecurity and liability questions</title>
-<link>https://iapp.org/news/a/thought-for-the-week-ai-agents-raise-new-cybersecurity-and-liability-questions</link>
-<guid isPermaLink="true">https://iapp.org/news/a/thought-for-the-week-ai-agents-raise-new-cybersecurity-and-liability-questions</guid>
+<title>UODO: Not every personal data breach needs to be reported to the President of the Personal Data Protection Office 05.10.2026</title>
+<link>https://uodo.gov.pl/en/553/2284</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2284</guid>
 <pubDate>Mon, 05 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
-<category>Kyberturvallisuus</category>
+<category>Tietosuoja</category>
 </item>
 <item>
 <title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 40/2026</title>
@@ -260,6 +300,14 @@
 <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Kyberturvallisuus</category>
+</item>
+<item>
+<title>UODO: The tax authorities versus citizens’ privacy. A parliamentary bill in line with the recommendations of the President of the Personal Data Protection Office 29.09.2026</title>
+<link>https://uodo.gov.pl/en/553/2285</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2285</guid>
+<pubDate>Tue, 29 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
 </item>
 <item>
 <title>UODO: Chinese platform, Polish interest. After the data breach, the President of the Personal Data Protection Office intervenes with the Prosecutor General 29.09.2026</title>
@@ -318,24 +366,9 @@
 <category>Tietosuoja</category>
 </item>
 <item>
-<title>UODO: Quantum Technologies Working Group Begins Its Work 23.09.2026</title>
-<link>https://uodo.gov.pl/en/553/2279</link>
-<guid isPermaLink="true">https://uodo.gov.pl/en/553/2279</guid>
-<pubDate>Wed, 23 Sep 2026 09:00:00 +0000</pubDate>
-<description></description>
-</item>
-<item>
 <title>TSV: Tietosuojavaltuutettu antoi uuden päätöksen koulujen sähköistä opetusalustaa koskevassa asiassa</title>
 <link>https://tietosuoja.fi/-/tietosuojavaltuutettu-antoi-uuden-paatoksen-koulujen-sahkoista-opetusalustaa-koskevassa-asiassa</link>
 <guid isPermaLink="true">https://tietosuoja.fi/-/tietosuojavaltuutettu-antoi-uuden-paatoksen-koulujen-sahkoista-opetusalustaa-koskevassa-asiassa</guid>
-<pubDate>Tue, 22 Sep 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>UODO: The President of the Personal Data Protection Office asks the President of the Republic of Poland to support solutions protecting Internet users 22.09.2026</title>
-<link>https://uodo.gov.pl/en/553/2275</link>
-<guid isPermaLink="true">https://uodo.gov.pl/en/553/2275</guid>
 <pubDate>Tue, 22 Sep 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>
@@ -411,14 +444,6 @@
 <pubDate>Thu, 10 Sep 2026 09:00:00 +0000</pubDate>
 <description>Elokuun kybersää jatkui sateisena ja kesälomien jälkeen tapausmäärät kasvoivat. Tapauksissa nähtiin tietojenkalastelua ja verkkopalvelujen murtoja.</description>
 <category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>Säädöskokoelma: 791/2026, Laki henkilötietojen käsittelystä Rikosseuraamuslaitoksessa annetun lain muuttamisesta</title>
-<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/791</link>
-<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/791</guid>
-<pubDate>Tue, 08 Sep 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
 </item>
 <item>
 <title>Säädöskokoelma: 785/2026, Laki kyberturvallisuuslain 26 §:n ja liitteen I muuttamisesta</title>
@@ -542,14 +567,6 @@
 <category>Datasääntely</category>
 </item>
 <item>
-<title>EU-komissio: Call for tenders: Study on how online marketplace design influences user behaviour</title>
-<link>https://digital-strategy.ec.europa.eu/en/funding/call-tenders-study-how-online-marketplace-design-influences-user-behaviour</link>
-<guid isPermaLink="true">https://digital-strategy.ec.europa.eu/en/funding/call-tenders-study-how-online-marketplace-design-influences-user-behaviour</guid>
-<pubDate>Tue, 18 Aug 2026 09:00:00 +0000</pubDate>
-<description>Anonymous (not verified) Tue, 08/18/2026 - 11:13 Opening: 17 August 2026 Closing: 23 September 2026 The study will explore users&#x27; interactions with features mandated by the Digital Services Act (DSA) on selected online marketplaces designated as Very Large Online Marketplaces (VLOMs). The study should cover user interaction with mechanisms under Article 16 (notice and action), Article 30(7) (trade</description>
-<category>Datasääntely</category>
-</item>
-<item>
 <title>Julkaisu: How in-store QR codes shape the in-store customer experience</title>
 <link>http://urn.fi/URN:NBN:fi:jyu-202608186595</link>
 <guid isPermaLink="true">http://urn.fi/URN:NBN:fi:jyu-202608186595</guid>
@@ -620,22 +637,6 @@ Lisäksi tällä viikolla julkaistu heinäkuun Kybersää osoittaa sateisen syks
 <guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberkestavyyssaadoksen-vaatimukset-selkiytyvat-eu-komissio-julkaisi-uuden-soveltamisohjeen?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
 <pubDate>Wed, 29 Jul 2026 09:00:00 +0000</pubDate>
 <description>Euroopan komissio on julkaissut uuden soveltamisohjeen kyberkestävyyssäädöksen (Cyber Resilience Act, CRA) toimeenpanon tueksi. Ohjeistus on suunnattu erityisesti valmistajille, ohjelmistokehittäjille sekä muille yrityksille, jotka saattavat markkinoille digitaalisia tuotteita. Ohjeistus tarjoaa yrityksille konkreettisia neuvoja siihen, miten ne voivat valmistautua tuleviin kyberturvallisuusvaatim</description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>Kyberturvallisuuskeskus: Haavoittuvuuskilpailussa nopeus ratkaisee</title>
-<link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/haavoittuvuuskilpailussa-nopeus-ratkaisee?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
-<guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/haavoittuvuuskilpailussa-nopeus-ratkaisee?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
-<pubDate>Fri, 24 Jul 2026 09:00:00 +0000</pubDate>
-<description>Kyberturvallisuuden vanhan sanonnan mukaan kello alkaa tikittää silloin, kun haavoittuvuus löydetään. Nykyisessä uhkaympäristössä sekä teknologisen kehityksen myötä sekuntiviisari lähtee liikkeelle jo paljon aikaisemmin. Ensimmäiset sekunnit kuluvat siitä hetkestä lähtien, kun haavoittuvuus syntyy. Oli haavoittuvuuden syynä sitten ohjelmistovirhe, epäonnistunut päivitys tai jokin muu syy. Kun haav</description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>ENISA: Procurement guidelines for the cybersecurity of hospitals and healthcare providers</title>
-<link>https://www.enisa.europa.eu/publications/procurement-guidelines-for-the-cybersecurity-of-hospitals-and-healthcare-providers</link>
-<guid isPermaLink="true">https://www.enisa.europa.eu/publications/procurement-guidelines-for-the-cybersecurity-of-hospitals-and-healthcare-providers</guid>
-<pubDate>Wed, 22 Jul 2026 09:00:00 +0000</pubDate>
-<description></description>
 <category>Kyberturvallisuus</category>
 </item>
 </channel></rss>

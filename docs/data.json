@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-16T05:39:13",
+  "generated": "2026-10-19T10:44:18",
   "window_days": 120,
   "sources": [
     {
@@ -103,7 +103,7 @@
       "name": "Finlex, säädöskokoelma",
       "court": "Säädöskokoelma",
       "ok": true,
-      "fetched": 26,
+      "fetched": 22,
       "error": ""
     },
     {
@@ -111,7 +111,7 @@
       "name": "Finlex, hallituksen esitykset",
       "court": "HE",
       "ok": true,
-      "fetched": 8,
+      "fetched": 5,
       "error": ""
     },
     {
@@ -223,7 +223,7 @@
       "name": "JYX (Jyväskylän yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 10,
+      "fetched": 9,
       "error": ""
     },
     {
@@ -239,7 +239,7 @@
       "name": "Osuva (Vaasan yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 19,
+      "fetched": 20,
       "error": ""
     },
     {
@@ -247,7 +247,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 78,
+      "fetched": 82,
       "error": ""
     },
     {
@@ -293,17 +293,113 @@
   ],
   "items": [
     {
+      "court": "EU-komissio",
+      "source": "Komissio, digitaalinen strategia",
+      "title": "First harmonised standard supporting the AI Act published in the Official Journal",
+      "url": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
+      "date": "2026-10-19",
+      "keywords": "",
+      "summary": "Anonymous (not verified) Mon, 10/19/2026 - 09:37 The European Commission has published the reference to the first harmonised standard supporting the implementation of the AI Act in the Official Journal of the European Union. The standard, EN 18286:2026 - Artificial intelligence - Quality management system for EU AI Act regulatory purposes , developed by CEN and CENELEC, provides a clear legal path",
+      "score": 23,
+      "topics": [
+        "Datasääntely"
+      ],
+      "tags": [
+        "AI Act"
+      ]
+    },
+    {
       "court": "EDPS",
       "source": "Euroopan tietosuojavaltuutettu (EDPS)",
       "title": "Read the blogpost by Wojciech Wiewiórowski.",
       "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
-      "date": "2026-10-16",
+      "date": "2026-10-19",
       "keywords": "",
       "summary": "",
       "score": 23,
       "topics": [],
       "tags": [
         "pvm arvioitu"
+      ]
+    },
+    {
+      "court": "EDPB",
+      "source": "Euroopan tietosuojaneuvosto (EDPB)",
+      "title": "Norwegian DPA fines Xandr EUR 8 600 000 for unlawful processing of personal data",
+      "url": "https://www.edpb.europa.eu/news/norwegian-dpa-fines-xandr-eur-8-600-000-for-unlawful-processing-of-personal-data_en",
+      "date": "2026-10-16",
+      "keywords": "",
+      "summary": "ikerinar Fri, 16/10/2026 - 09:52",
+      "score": 23,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data"
+      ]
+    },
+    {
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "EU-tuomioistuin vahvisti kuluttajien suojaa pankkihuijauksissa: Tietojenkalastelun uhri saa rahansa takaisin heti, vaikka olisi toiminut törkeän huolimattomasti",
+      "url": "https://www.edilex.fi/uutiset/103436",
+      "date": "2026-10-16",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "tietojenkalastelu"
+      ]
+    },
+    {
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "A view from DC: Time is running out to prepare for privacy audits",
+      "url": "https://iapp.org/news/a/a-view-from-dc-time-is-running-out-to-prepare-for-privacy-audits",
+      "date": "2026-10-16",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "privacy"
+      ]
+    },
+    {
+      "court": "Kyberturvallisuuskeskus",
+      "source": "Kyberturvallisuuskeskus",
+      "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 42/2026",
+      "url": "https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-422026?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
+      "date": "2026-10-16",
+      "keywords": "",
+      "summary": "Tällä viikolla muistutamme Microsoft 365-tilien tietomurroista, joiden määrä on yhä kasvussa. Lisäksi kerromme majoitusvarausten tiedoilla tehtävistä huijauksista sekä nostamme esiin tekoälymurroksen vaikutuksia kyberturvallisuuteen. Lopuksi kerromme syyskuun kybersäästä ja kyberturvallisuushakujen kohdennetuista hakuinfoista.",
+      "score": 13,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "kyberturvallisuus"
+      ]
+    },
+    {
+      "court": "ENISA",
+      "source": "ENISA, uutiset",
+      "title": "Sweden sweeps the winning title of the European Cybersecurity Challenge",
+      "url": "https://www.enisa.europa.eu/news/sweden-sweeps-the-winning-title-of-the-european-cybersecurity-challenge",
+      "date": "2026-10-16",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "cyber"
       ]
     },
     {
@@ -470,22 +566,6 @@
       ],
       "tags": [
         "haavoittuvuus"
-      ]
-    },
-    {
-      "court": "EDPB",
-      "source": "Euroopan tietosuojaneuvosto (EDPB)",
-      "title": "Italian DPA fines Wind Tre EUR 16 700 000 for unlawful telemarketing and data protection infringements",
-      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-wind-tre-eur-16-700-000-for-unlawful-telemarketing-and-data-protection_en",
-      "date": "2026-10-12",
-      "keywords": "",
-      "summary": "ikerinar Mon, 12/10/2026 - 13:26",
-      "score": 23,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "data protection"
       ]
     },
     {
@@ -736,19 +816,20 @@
       ]
     },
     {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "Thought for the week: AI agents raise new cybersecurity and liability questions",
-      "url": "https://iapp.org/news/a/thought-for-the-week-ai-agents-raise-new-cybersecurity-and-liability-questions",
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "Not every personal data breach needs to be reported to the President of the Personal Data Protection Office 05.10.2026",
+      "url": "https://uodo.gov.pl/en/553/2284",
       "date": "2026-10-05",
       "keywords": "",
       "summary": "",
-      "score": 13,
+      "score": 16,
       "topics": [
-        "Kyberturvallisuus"
+        "Tietosuoja"
       ],
       "tags": [
-        "cyber"
+        "personal data",
+        "data protection"
       ]
     },
     {
@@ -797,6 +878,24 @@
       ],
       "tags": [
         "cyber"
+      ]
+    },
+    {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "The tax authorities versus citizens’ privacy. A parliamentary bill in line with the recommendations of the President of the Personal Data Protection Office 29.09.2026",
+      "url": "https://uodo.gov.pl/en/553/2285",
+      "date": "2026-09-29",
+      "keywords": "",
+      "summary": "",
+      "score": 19,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data",
+        "data protection",
+        "privacy"
       ]
     },
     {
@@ -916,18 +1015,6 @@
       ]
     },
     {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "Quantum Technologies Working Group Begins Its Work 23.09.2026",
-      "url": "https://uodo.gov.pl/en/553/2279",
-      "date": "2026-09-23",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [],
-      "tags": []
-    },
-    {
       "court": "TSV",
       "source": "Tietosuojavaltuutetun toimisto",
       "title": "Tietosuojavaltuutettu antoi uuden päätöksen koulujen sähköistä opetusalustaa koskevassa asiassa",
@@ -943,23 +1030,6 @@
         "tärkeä",
         "tietosuoja",
         "tietosuojavaltuutet"
-      ]
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "The President of the Personal Data Protection Office asks the President of the Republic of Poland to support solutions protecting Internet users 22.09.2026",
-      "url": "https://uodo.gov.pl/en/553/2275",
-      "date": "2026-09-22",
-      "keywords": "",
-      "summary": "",
-      "score": 16,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data",
-        "data protection"
       ]
     },
     {
@@ -1105,22 +1175,6 @@
       ],
       "tags": [
         "tietojenkalastelu"
-      ]
-    },
-    {
-      "court": "Säädöskokoelma",
-      "source": "Finlex, säädöskokoelma",
-      "title": "791/2026, Laki henkilötietojen käsittelystä Rikosseuraamuslaitoksessa annetun lain muuttamisesta",
-      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/791",
-      "date": "2026-09-08",
-      "keywords": "",
-      "summary": "",
-      "score": 33,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "henkilötiet"
       ]
     },
     {
@@ -1375,22 +1429,6 @@
       ],
       "tags": [
         "AI Act"
-      ]
-    },
-    {
-      "court": "EU-komissio",
-      "source": "Komissio, digitaalinen strategia",
-      "title": "Call for tenders: Study on how online marketplace design influences user behaviour",
-      "url": "https://digital-strategy.ec.europa.eu/en/funding/call-tenders-study-how-online-marketplace-design-influences-user-behaviour",
-      "date": "2026-08-18",
-      "keywords": "",
-      "summary": "Anonymous (not verified) Tue, 08/18/2026 - 11:13 Opening: 17 August 2026 Closing: 23 September 2026 The study will explore users' interactions with features mandated by the Digital Services Act (DSA) on selected online marketplaces designated as Very Large Online Marketplaces (VLOMs). The study should cover user interaction with mechanisms under Article 16 (notice and action), Article 30(7) (trade",
-      "score": 23,
-      "topics": [
-        "Datasääntely"
-      ],
-      "tags": [
-        "DSA"
       ]
     },
     {

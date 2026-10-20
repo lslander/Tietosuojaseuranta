@@ -4,7 +4,14 @@
 <link>https://lslander.github.io/Tietosuojaseuranta/</link>
 <description>Tietosuoja, teknologia ja datasääntely</description>
 <language>fi</language>
-<lastBuildDate>Mon, 19 Oct 2026 10:44:18 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 10:01:33 +0000</lastBuildDate>
+<item>
+<title>EDPS: Read the blogpost by Wojciech Wiewiórowski.</title>
+<link>https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</link>
+<guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</guid>
+<pubDate>Tue, 20 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+</item>
 <item>
 <title>EU-komissio: First harmonised standard supporting the AI Act published in the Official Journal</title>
 <link>https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal</link>
@@ -12,13 +19,6 @@
 <pubDate>Mon, 19 Oct 2026 09:00:00 +0000</pubDate>
 <description>Anonymous (not verified) Mon, 10/19/2026 - 09:37 The European Commission has published the reference to the first harmonised standard supporting the implementation of the AI Act in the Official Journal of the European Union. The standard, EN 18286:2026 - Artificial intelligence - Quality management system for EU AI Act regulatory purposes , developed by CEN and CENELEC, provides a clear legal path</description>
 <category>Datasääntely</category>
-</item>
-<item>
-<title>EDPS: Read the blogpost by Wojciech Wiewiórowski.</title>
-<link>https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</link>
-<guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</guid>
-<pubDate>Mon, 19 Oct 2026 09:00:00 +0000</pubDate>
-<description></description>
 </item>
 <item>
 <title>EDPB: Norwegian DPA fines Xandr EUR 8 600 000 for unlawful processing of personal data</title>
@@ -318,14 +318,6 @@
 <category>Tietosuoja</category>
 </item>
 <item>
-<title>IAPP: The rising significance of data protection in shaping Africa&#x27;s digital future</title>
-<link>https://iapp.org/news/a/the-rising-significance-of-data-protection-in-shaping-africas-digital-future</link>
-<guid isPermaLink="true">https://iapp.org/news/a/the-rising-significance-of-data-protection-in-shaping-africas-digital-future</guid>
-<pubDate>Tue, 29 Sep 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
 <title>UODO: The President of the Republic of Poland signed the first of the laws implementing the DSA 28.09.2026</title>
 <link>https://uodo.gov.pl/en/553/2280</link>
 <guid isPermaLink="true">https://uodo.gov.pl/en/553/2280</guid>
@@ -446,6 +438,14 @@
 <category>Kyberturvallisuus</category>
 </item>
 <item>
+<title>Säädöskokoelma: 791/2026, Laki henkilötietojen käsittelystä Rikosseuraamuslaitoksessa annetun lain muuttamisesta</title>
+<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/791</link>
+<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/791</guid>
+<pubDate>Tue, 08 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
 <title>Säädöskokoelma: 785/2026, Laki kyberturvallisuuslain 26 §:n ja liitteen I muuttamisesta</title>
 <link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/785</link>
 <guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/785</guid>
@@ -490,15 +490,7 @@
 <link>https://osuva.uwasa.fi/handle/11111/21234</link>
 <guid isPermaLink="true">https://osuva.uwasa.fi/handle/11111/21234</guid>
 <pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate>
-<description>artificial intelligence, regulation (control), legislation, good governance, public administration, public sector, municipalities, ethics, fi=Julkisen toiminnan johtaminen|en=Public Policy and Management|, fi=Hallintotieteiden maisteriohjelma|en=Master&amp;apos;s Programme in Administrative Sciences|</description>
-<category>Datasääntely</category>
-</item>
-<item>
-<title>EU-komissio: Commission designates ChatGPT, Reddit, Roblox under Digital Services Act</title>
-<link>https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act</link>
-<guid isPermaLink="true">https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act</guid>
-<pubDate>Mon, 31 Aug 2026 09:00:00 +0000</pubDate>
-<description>Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Online Search Engine (VLOSE), as well as Reddit and Roblox as Very Large Online Platforms (VLOPs), under the Digital Services Act (DSA). These services declared that they reach at least 45 million average monthly users in the EU and thus meet the threshold for designation. Following the notificat</description>
+<description>artificial intelligence, regulation (control), legislation, good governance, public administration, public sector, municipalities, ethics, fi=Julkisen toiminnan johtaminen|en=Public Policy and Management|, fi=Hallintotieteiden maisteriohjelma|en=Master&#x27;s Programme in Administrative Sciences|</description>
 <category>Datasääntely</category>
 </item>
 <item>
@@ -637,6 +629,14 @@ Lisäksi tällä viikolla julkaistu heinäkuun Kybersää osoittaa sateisen syks
 <guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberkestavyyssaadoksen-vaatimukset-selkiytyvat-eu-komissio-julkaisi-uuden-soveltamisohjeen?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
 <pubDate>Wed, 29 Jul 2026 09:00:00 +0000</pubDate>
 <description>Euroopan komissio on julkaissut uuden soveltamisohjeen kyberkestävyyssäädöksen (Cyber Resilience Act, CRA) toimeenpanon tueksi. Ohjeistus on suunnattu erityisesti valmistajille, ohjelmistokehittäjille sekä muille yrityksille, jotka saattavat markkinoille digitaalisia tuotteita. Ohjeistus tarjoaa yrityksille konkreettisia neuvoja siihen, miten ne voivat valmistautua tuleviin kyberturvallisuusvaatim</description>
+<category>Kyberturvallisuus</category>
+</item>
+<item>
+<title>Kyberturvallisuuskeskus: Haavoittuvuuskilpailussa nopeus ratkaisee</title>
+<link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/haavoittuvuuskilpailussa-nopeus-ratkaisee?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
+<guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/haavoittuvuuskilpailussa-nopeus-ratkaisee?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
+<pubDate>Fri, 24 Jul 2026 09:00:00 +0000</pubDate>
+<description>Kyberturvallisuuden vanhan sanonnan mukaan kello alkaa tikittää silloin, kun haavoittuvuus löydetään. Nykyisessä uhkaympäristössä sekä teknologisen kehityksen myötä sekuntiviisari lähtee liikkeelle jo paljon aikaisemmin. Ensimmäiset sekunnit kuluvat siitä hetkestä lähtien, kun haavoittuvuus syntyy. Oli haavoittuvuuden syynä sitten ohjelmistovirhe, epäonnistunut päivitys tai jokin muu syy. Kun haav</description>
 <category>Kyberturvallisuus</category>
 </item>
 </channel></rss>

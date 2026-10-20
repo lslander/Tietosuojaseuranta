@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-19T10:44:18",
+  "generated": "2026-10-20T10:01:33",
   "window_days": 120,
   "sources": [
     {
@@ -103,7 +103,7 @@
       "name": "Finlex, säädöskokoelma",
       "court": "Säädöskokoelma",
       "ok": true,
-      "fetched": 22,
+      "fetched": 23,
       "error": ""
     },
     {
@@ -207,7 +207,7 @@
       "name": "UTUPub (Turun yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 1,
+      "fetched": 2,
       "error": ""
     },
     {
@@ -215,7 +215,7 @@
       "name": "eRepo (Itä-Suomen yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 21,
+      "fetched": 20,
       "error": ""
     },
     {
@@ -247,7 +247,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 82,
+      "fetched": 78,
       "error": ""
     },
     {
@@ -293,6 +293,20 @@
   ],
   "items": [
     {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "Read the blogpost by Wojciech Wiewiórowski.",
+      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
+      "date": "2026-10-20",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [],
+      "tags": [
+        "pvm arvioitu"
+      ]
+    },
+    {
       "court": "EU-komissio",
       "source": "Komissio, digitaalinen strategia",
       "title": "First harmonised standard supporting the AI Act published in the Official Journal",
@@ -306,20 +320,6 @@
       ],
       "tags": [
         "AI Act"
-      ]
-    },
-    {
-      "court": "EDPS",
-      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
-      "title": "Read the blogpost by Wojciech Wiewiórowski.",
-      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
-      "date": "2026-10-19",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [],
-      "tags": [
-        "pvm arvioitu"
       ]
     },
     {
@@ -916,22 +916,6 @@
       ]
     },
     {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "The rising significance of data protection in shaping Africa's digital future",
-      "url": "https://iapp.org/news/a/the-rising-significance-of-data-protection-in-shaping-africas-digital-future",
-      "date": "2026-09-29",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "data protection"
-      ]
-    },
-    {
       "court": "UODO",
       "source": "Puolan tietosuojaviranomainen (UODO)",
       "title": "The President of the Republic of Poland signed the first of the laws implementing the DSA 28.09.2026",
@@ -1180,6 +1164,22 @@
     {
       "court": "Säädöskokoelma",
       "source": "Finlex, säädöskokoelma",
+      "title": "791/2026, Laki henkilötietojen käsittelystä Rikosseuraamuslaitoksessa annetun lain muuttamisesta",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/791",
+      "date": "2026-09-08",
+      "keywords": "",
+      "summary": "",
+      "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "henkilötiet"
+      ]
+    },
+    {
+      "court": "Säädöskokoelma",
+      "source": "Finlex, säädöskokoelma",
       "title": "785/2026, Laki kyberturvallisuuslain 26 §:n ja liitteen I muuttamisesta",
       "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/785",
       "date": "2026-09-07",
@@ -1267,7 +1267,7 @@
       "title": "Navigating the use of AI in the public sector : The complex world of AI ethics and regulation in Finnish municipalities",
       "url": "https://osuva.uwasa.fi/handle/11111/21234",
       "date": "2026-09-02",
-      "keywords": "artificial intelligence, regulation (control), legislation, good governance, public administration, public sector, municipalities, ethics, fi=Julkisen toiminnan johtaminen|en=Public Policy and Management|, fi=Hallintotieteiden maisteriohjelma|en=Master&apos;s Programme in Administrative Sciences|",
+      "keywords": "artificial intelligence, regulation (control), legislation, good governance, public administration, public sector, municipalities, ethics, fi=Julkisen toiminnan johtaminen|en=Public Policy and Management|, fi=Hallintotieteiden maisteriohjelma|en=Master's Programme in Administrative Sciences|",
       "summary": "This thesis examines the implications of the European Union’s Artificial Intelligence Act (EU AI Act) for Finnish municipalities. The use of artificial intelligence in municipalities has increased rapidly, but municipalities continue to face challenges related to the ethical governance of AI and the practical implementation of regulation. In addition, uncertainties surrounding the regulation may h",
       "score": 13,
       "topics": [
@@ -1275,22 +1275,6 @@
       ],
       "tags": [
         "AI Act"
-      ]
-    },
-    {
-      "court": "EU-komissio",
-      "source": "Komissio, digitaalinen strategia",
-      "title": "Commission designates ChatGPT, Reddit, Roblox under Digital Services Act",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-designates-chatgpt-reddit-roblox-under-digital-services-act",
-      "date": "2026-08-31",
-      "keywords": "",
-      "summary": "Anonymous (not verified) Mon, 08/31/2026 - 11:10 The Commission has designated ChatGPT as a Very Large Online Search Engine (VLOSE), as well as Reddit and Roblox as Very Large Online Platforms (VLOPs), under the Digital Services Act (DSA). These services declared that they reach at least 45 million average monthly users in the EU and thus meet the threshold for designation. Following the notificat",
-      "score": 23,
-      "topics": [
-        "Datasääntely"
-      ],
-      "tags": [
-        "DSA"
       ]
     },
     {
@@ -1860,7 +1844,7 @@
     {
       "court": "Säädöskokoelma",
       "source": "Finlex, säädöskokoelma",
-      "title": "581/2026, Laki henkilötietojen käsittelystä Puolustusvoimissa annetun lain muuttamisesta",
+      "title": "581/2026, Laki henkilötietojen käsittelystä Puolustusvoimissa annetun lain muut",
       "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/581",
       "date": "2026-06-29",
       "keywords": "",

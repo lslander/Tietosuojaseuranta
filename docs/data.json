@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-20T10:01:33",
+  "generated": "2026-10-21T10:06:18",
   "window_days": 120,
   "sources": [
     {
@@ -39,7 +39,7 @@
       "name": "Hovioikeuksien ratkaisut",
       "court": "Hovioikeus",
       "ok": true,
-      "fetched": 97,
+      "fetched": 98,
       "error": ""
     },
     {
@@ -118,17 +118,17 @@
       "id": "vn",
       "name": "Valtioneuvosto",
       "court": "VN",
-      "ok": false,
-      "fetched": 0,
-      "error": "403 Client Error: Forbidden for url: https://valtioneuvosto.fi/ajankohtaista"
+      "ok": true,
+      "fetched": 12,
+      "error": ""
     },
     {
       "id": "om",
       "name": "Oikeusministeriö",
       "court": "OM",
-      "ok": false,
-      "fetched": 0,
-      "error": "403 Client Error: Forbidden for url: https://oikeusministerio.fi/ajankohtaista"
+      "ok": true,
+      "fetched": 8,
+      "error": ""
     },
     {
       "id": "tem",
@@ -215,7 +215,7 @@
       "name": "eRepo (Itä-Suomen yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 20,
+      "fetched": 19,
       "error": ""
     },
     {
@@ -247,7 +247,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 78,
+      "fetched": 77,
       "error": ""
     },
     {
@@ -271,7 +271,7 @@
       "name": "Kyberturvallisuuskeskus",
       "court": "Kyberturvallisuuskeskus",
       "ok": true,
-      "fetched": 429,
+      "fetched": 428,
       "error": ""
     },
     {
@@ -297,7 +297,7 @@
       "source": "Euroopan tietosuojavaltuutettu (EDPS)",
       "title": "Read the blogpost by Wojciech Wiewiórowski.",
       "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "keywords": "",
       "summary": "",
       "score": 23,
@@ -341,7 +341,7 @@
     {
       "court": "Edilex",
       "source": "Edilex, uutiset",
-      "title": "EU-tuomioistuin vahvisti kuluttajien suojaa pankkihuijauksissa: Tietojenkalastelun uhri saa rahansa takaisin heti, vaikka olisi toiminut törkeän huolimattomasti",
+      "title": "EU-tuomioistuin vahvisti kuluttajien suojaa pankkihuijauksissa: Tietojenkalastelun uhri saa rahansa takaisin heti, vaikka olisi toiminut törkeän huolimattomasti Maksupalveluntarjoaja voi kuitenkin myö",
       "url": "https://www.edilex.fi/uutiset/103436",
       "date": "2026-10-16",
       "keywords": "",
@@ -352,6 +352,22 @@
       ],
       "tags": [
         "tietojenkalastelu"
+      ]
+    },
+    {
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "When a voice becomes data: How voiceprint litigation informs the design of data governance controls",
+      "url": "https://iapp.org/news/a/when-a-voice-becomes-data-how-voiceprint-litigation-informs-the-design-of-data-governance-controls",
+      "date": "2026-10-16",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Datasääntely"
+      ],
+      "tags": [
+        "data governance"
       ]
     },
     {
@@ -419,6 +435,23 @@
       ]
     },
     {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "We invite you to visit the Personal Data Protection Office consultation point in Katowice 14.10.2026",
+      "url": "https://uodo.gov.pl/en/553/2287",
+      "date": "2026-10-14",
+      "keywords": "",
+      "summary": "",
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data",
+        "data protection"
+      ]
+    },
+    {
       "court": "IAPP",
       "source": "IAPP",
       "title": "When AI hallucinates facts about individuals: Personal data and accuracy under the GDPR",
@@ -460,24 +493,6 @@
       "keywords": "",
       "summary": "",
       "score": 60,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tärkeä",
-        "tietosuoja",
-        "tietosuojavaltuutet"
-      ]
-    },
-    {
-      "court": "Edilex",
-      "source": "Edilex, uutiset",
-      "title": "Plastic Surgery Center Helsingille seuraamusmaksu tietosuojavaltuutetun toimiston määräyksen noudattamatta jättämisestä",
-      "url": "https://www.edilex.fi/uutiset/103376",
-      "date": "2026-10-13",
-      "keywords": "",
-      "summary": "",
-      "score": 50,
       "topics": [
         "Tietosuoja"
       ],
@@ -566,6 +581,24 @@
       ],
       "tags": [
         "haavoittuvuus"
+      ]
+    },
+    {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "The Essence of the Privacy Test: Experts from the Personal Data Protection Office at the Legislative Workshops 12.10.2026",
+      "url": "https://uodo.gov.pl/en/553/2286",
+      "date": "2026-10-12",
+      "keywords": "",
+      "summary": "",
+      "score": 19,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data",
+        "data protection",
+        "privacy"
       ]
     },
     {
@@ -932,23 +965,6 @@
       ]
     },
     {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "Millions of Poles affected. Following a mew medical data leak, the Personal Data Protection Office announces an inspection 25.09.2026",
-      "url": "https://uodo.gov.pl/en/553/2282",
-      "date": "2026-09-25",
-      "keywords": "",
-      "summary": "",
-      "score": 16,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data",
-        "data protection"
-      ]
-    },
-    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 39/2026",
@@ -963,22 +979,6 @@
       "tags": [
         "kyberturvallisuus",
         "haavoittuvuus"
-      ]
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "The 2026 GDPR Summer Leadership Academy Has Come to an End 25.09.2026",
-      "url": "https://uodo.gov.pl/en/553/2276",
-      "date": "2026-09-25",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "GDPR"
       ]
     },
     {

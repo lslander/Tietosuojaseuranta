@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-21T10:06:18",
+  "generated": "2026-10-22T10:09:27",
   "window_days": 120,
   "sources": [
     {
@@ -86,9 +86,9 @@
       "id": "ec-digital",
       "name": "Komissio, digitaalinen strategia",
       "court": "EU-komissio",
-      "ok": true,
-      "fetched": 10,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "error": "403 Client Error: Forbidden for url: https://digital-strategy.ec.europa.eu/en/rss.xml"
     },
     {
       "id": "ep",
@@ -103,7 +103,7 @@
       "name": "Finlex, säädöskokoelma",
       "court": "Säädöskokoelma",
       "ok": true,
-      "fetched": 23,
+      "fetched": 22,
       "error": ""
     },
     {
@@ -111,7 +111,7 @@
       "name": "Finlex, hallituksen esitykset",
       "court": "HE",
       "ok": true,
-      "fetched": 5,
+      "fetched": 6,
       "error": ""
     },
     {
@@ -215,7 +215,7 @@
       "name": "eRepo (Itä-Suomen yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 19,
+      "fetched": 18,
       "error": ""
     },
     {
@@ -223,7 +223,7 @@
       "name": "JYX (Jyväskylän yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 9,
+      "fetched": 10,
       "error": ""
     },
     {
@@ -297,29 +297,13 @@
       "source": "Euroopan tietosuojavaltuutettu (EDPS)",
       "title": "Read the blogpost by Wojciech Wiewiórowski.",
       "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
-      "date": "2026-10-21",
+      "date": "2026-10-22",
       "keywords": "",
       "summary": "",
       "score": 23,
       "topics": [],
       "tags": [
         "pvm arvioitu"
-      ]
-    },
-    {
-      "court": "EU-komissio",
-      "source": "Komissio, digitaalinen strategia",
-      "title": "First harmonised standard supporting the AI Act published in the Official Journal",
-      "url": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
-      "date": "2026-10-19",
-      "keywords": "",
-      "summary": "Anonymous (not verified) Mon, 10/19/2026 - 09:37 The European Commission has published the reference to the first harmonised standard supporting the implementation of the AI Act in the Official Journal of the European Union. The standard, EN 18286:2026 - Artificial intelligence - Quality management system for EU AI Act regulatory purposes , developed by CEN and CENELEC, provides a clear legal path",
-      "score": 23,
-      "topics": [
-        "Datasääntely"
-      ],
-      "tags": [
-        "AI Act"
       ]
     },
     {
@@ -416,22 +400,6 @@
       ],
       "tags": [
         "cyber"
-      ]
-    },
-    {
-      "court": "Edilex",
-      "source": "Edilex, uutiset",
-      "title": "Euroopan tietosuojaneuvosto julkaisi lausunnon älylasien tietosuojahaasteista",
-      "url": "https://www.edilex.fi/uutiset/103391",
-      "date": "2026-10-14",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tietosuoja"
       ]
     },
     {
@@ -866,6 +834,23 @@
       ]
     },
     {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "Administrative fine imposed for failure to comply with a decision of the President of Personal Data Protection Office 05.10.2026",
+      "url": "https://uodo.gov.pl/en/553/2290",
+      "date": "2026-10-05",
+      "keywords": "",
+      "summary": "",
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data",
+        "data protection"
+      ]
+    },
+    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 40/2026",
@@ -898,45 +883,11 @@
       ]
     },
     {
-      "court": "ENISA",
-      "source": "ENISA, uutiset",
-      "title": "Cybersecurity Month @ work: Employees' skills under the looking glass",
-      "url": "https://www.enisa.europa.eu/news/cybersecurity-month-work-employees-skills-under-the-looking-glass",
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "The Personal Data Protection Office Chairman Intervenes in Case Involving Personal Data in Pharmacy Systems 30.09.2026",
+      "url": "https://uodo.gov.pl/en/553/2294",
       "date": "2026-09-30",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "cyber"
-      ]
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "The tax authorities versus citizens’ privacy. A parliamentary bill in line with the recommendations of the President of the Personal Data Protection Office 29.09.2026",
-      "url": "https://uodo.gov.pl/en/553/2285",
-      "date": "2026-09-29",
-      "keywords": "",
-      "summary": "",
-      "score": 19,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data",
-        "data protection",
-        "privacy"
-      ]
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "Chinese platform, Polish interest. After the data breach, the President of the Personal Data Protection Office intervenes with the Prosecutor General 29.09.2026",
-      "url": "https://uodo.gov.pl/en/553/2281",
-      "date": "2026-09-29",
       "keywords": "",
       "summary": "",
       "score": 16,
@@ -951,17 +902,33 @@
     {
       "court": "UODO",
       "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "The President of the Republic of Poland signed the first of the laws implementing the DSA 28.09.2026",
-      "url": "https://uodo.gov.pl/en/553/2280",
-      "date": "2026-09-28",
+      "title": "Failure to provide access to personal data and information may result in an administrative fine 30.09.2026",
+      "url": "https://uodo.gov.pl/en/553/2289",
+      "date": "2026-09-30",
       "keywords": "",
       "summary": "",
       "score": 13,
       "topics": [
-        "Datasääntely"
+        "Tietosuoja"
       ],
       "tags": [
-        "DSA"
+        "personal data"
+      ]
+    },
+    {
+      "court": "ENISA",
+      "source": "ENISA, uutiset",
+      "title": "Cybersecurity Month @ work: Employees' skills under the looking glass",
+      "url": "https://www.enisa.europa.eu/news/cybersecurity-month-work-employees-skills-under-the-looking-glass",
+      "date": "2026-09-30",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "cyber"
       ]
     },
     {
@@ -1761,22 +1728,6 @@
       ]
     },
     {
-      "court": "ENISA",
-      "source": "ENISA, uutiset",
-      "title": "Team Europe wins 1st ever International Cybersecurity Challenge for women",
-      "url": "https://www.enisa.europa.eu/news/team-europe-wins-1st-ever-international-cybersecurity-challenge-for-women",
-      "date": "2026-07-10",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "cyber"
-      ]
-    },
-    {
       "court": "TSV",
       "source": "Tietosuojavaltuutetun toimisto",
       "title": "Euroopan tietosuojaneuvosto julkaisi ohjeet anonymisoinnista ja tiedonharavoinnista",
@@ -1868,41 +1819,6 @@
       "score": 33,
       "topics": [],
       "tags": []
-    },
-    {
-      "court": "Säädöskokoelma",
-      "source": "Finlex, säädöskokoelma",
-      "title": "554/2026, Laki henkilötietojen käsittelystä maahanmuuttohallinnossa annetun lain 1 §:n muuttamisesta",
-      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/554",
-      "date": "2026-06-23",
-      "keywords": "",
-      "summary": "",
-      "score": 33,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "henkilötiet"
-      ]
-    },
-    {
-      "court": "Kyberturvallisuuskeskus",
-      "source": "Kyberturvallisuuskeskus",
-      "title": "FortiBleed-kyberhyökkäyskampanjan vaikutukset näkyvät myös Suomessa",
-      "url": "https://www.kyberturvallisuuskeskus.fi/fi/uutiset/fortibleed-kyberhyokkayskampanjan-vaikutukset-nakyvat-myos-suomessa?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
-      "date": "2026-06-23",
-      "keywords": "",
-      "summary": "Kesäkuussa 2026 paljastunut FortiBleed-kampanja on yksi vuoden merkittävimmistä maailmanlaajuisista kyberhyökkäyksistä. Se koskee erityisesti Fortinetin FortiGate-palomuureja ja SSL-VPN-laitteita, joihin on kohdistunut tietomurtoja ja tietomurron yrityksiä aiemmin vuotaneita ja varastettuja kirjautumistunnuksia hyväksikäyttäen. Kyberturvallisuuskeskus on kartoittanut suomalaisia kohdeorganisaatioi",
-      "score": 31,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "tärkeä",
-        "kyberturvallisuus",
-        "kyberhyökkäy",
-        "tietomurto"
-      ]
     }
   ]
 }

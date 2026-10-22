@@ -4,21 +4,13 @@
 <link>https://lslander.github.io/Tietosuojaseuranta/</link>
 <description>Tietosuoja, teknologia ja datasääntely</description>
 <language>fi</language>
-<lastBuildDate>Wed, 21 Oct 2026 10:06:18 +0000</lastBuildDate>
+<lastBuildDate>Thu, 22 Oct 2026 10:09:27 +0000</lastBuildDate>
 <item>
 <title>EDPS: Read the blogpost by Wojciech Wiewiórowski.</title>
 <link>https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</link>
 <guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</guid>
-<pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
+<pubDate>Thu, 22 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
-</item>
-<item>
-<title>EU-komissio: First harmonised standard supporting the AI Act published in the Official Journal</title>
-<link>https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal</link>
-<guid isPermaLink="true">https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal</guid>
-<pubDate>Mon, 19 Oct 2026 09:00:00 +0000</pubDate>
-<description>Anonymous (not verified) Mon, 10/19/2026 - 09:37 The European Commission has published the reference to the first harmonised standard supporting the implementation of the AI Act in the Official Journal of the European Union. The standard, EN 18286:2026 - Artificial intelligence - Quality management system for EU AI Act regulatory purposes , developed by CEN and CENELEC, provides a clear legal path</description>
-<category>Datasääntely</category>
 </item>
 <item>
 <title>EDPB: Norwegian DPA fines Xandr EUR 8 600 000 for unlawful processing of personal data</title>
@@ -67,14 +59,6 @@
 <pubDate>Fri, 16 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>Edilex: Euroopan tietosuojaneuvosto julkaisi lausunnon älylasien tietosuojahaasteista</title>
-<link>https://www.edilex.fi/uutiset/103391</link>
-<guid isPermaLink="true">https://www.edilex.fi/uutiset/103391</guid>
-<pubDate>Wed, 14 Oct 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
 </item>
 <item>
 <title>UODO: We invite you to visit the Personal Data Protection Office consultation point in Katowice 14.10.2026</title>
@@ -294,6 +278,14 @@
 <category>Tietosuoja</category>
 </item>
 <item>
+<title>UODO: Administrative fine imposed for failure to comply with a decision of the President of Personal Data Protection Office 05.10.2026</title>
+<link>https://uodo.gov.pl/en/553/2290</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2290</guid>
+<pubDate>Mon, 05 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
 <title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 40/2026</title>
 <link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-402026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
 <guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-402026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
@@ -310,36 +302,28 @@
 <category>Kyberturvallisuus</category>
 </item>
 <item>
+<title>UODO: The Personal Data Protection Office Chairman Intervenes in Case Involving Personal Data in Pharmacy Systems 30.09.2026</title>
+<link>https://uodo.gov.pl/en/553/2294</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2294</guid>
+<pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>UODO: Failure to provide access to personal data and information may result in an administrative fine 30.09.2026</title>
+<link>https://uodo.gov.pl/en/553/2289</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2289</guid>
+<pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
 <title>ENISA: Cybersecurity Month @ work: Employees&#x27; skills under the looking glass</title>
 <link>https://www.enisa.europa.eu/news/cybersecurity-month-work-employees-skills-under-the-looking-glass</link>
 <guid isPermaLink="true">https://www.enisa.europa.eu/news/cybersecurity-month-work-employees-skills-under-the-looking-glass</guid>
 <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>UODO: The tax authorities versus citizens’ privacy. A parliamentary bill in line with the recommendations of the President of the Personal Data Protection Office 29.09.2026</title>
-<link>https://uodo.gov.pl/en/553/2285</link>
-<guid isPermaLink="true">https://uodo.gov.pl/en/553/2285</guid>
-<pubDate>Tue, 29 Sep 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>UODO: Chinese platform, Polish interest. After the data breach, the President of the Personal Data Protection Office intervenes with the Prosecutor General 29.09.2026</title>
-<link>https://uodo.gov.pl/en/553/2281</link>
-<guid isPermaLink="true">https://uodo.gov.pl/en/553/2281</guid>
-<pubDate>Tue, 29 Sep 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>UODO: The President of the Republic of Poland signed the first of the laws implementing the DSA 28.09.2026</title>
-<link>https://uodo.gov.pl/en/553/2280</link>
-<guid isPermaLink="true">https://uodo.gov.pl/en/553/2280</guid>
-<pubDate>Mon, 28 Sep 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Datasääntely</category>
 </item>
 <item>
 <title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 39/2026</title>
@@ -638,5 +622,21 @@ Lisäksi tällä viikolla julkaistu heinäkuun Kybersää osoittaa sateisen syks
 <pubDate>Fri, 24 Jul 2026 09:00:00 +0000</pubDate>
 <description>Kyberturvallisuuden vanhan sanonnan mukaan kello alkaa tikittää silloin, kun haavoittuvuus löydetään. Nykyisessä uhkaympäristössä sekä teknologisen kehityksen myötä sekuntiviisari lähtee liikkeelle jo paljon aikaisemmin. Ensimmäiset sekunnit kuluvat siitä hetkestä lähtien, kun haavoittuvuus syntyy. Oli haavoittuvuuden syynä sitten ohjelmistovirhe, epäonnistunut päivitys tai jokin muu syy. Kun haav</description>
 <category>Kyberturvallisuus</category>
+</item>
+<item>
+<title>ENISA: Procurement guidelines for the cybersecurity of hospitals and healthcare providers</title>
+<link>https://www.enisa.europa.eu/publications/procurement-guidelines-for-the-cybersecurity-of-hospitals-and-healthcare-providers</link>
+<guid isPermaLink="true">https://www.enisa.europa.eu/publications/procurement-guidelines-for-the-cybersecurity-of-hospitals-and-healthcare-providers</guid>
+<pubDate>Wed, 22 Jul 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Kyberturvallisuus</category>
+</item>
+<item>
+<title>TSV: Euroopan tietosuojaneuvosto keskusteli eri alojen viranomaisten välisestä tiedonjaosta ja valvonnan tehostamisesta</title>
+<link>https://tietosuoja.fi/-/euroopan-tietosuojaneuvosto-keskusteli-eri-alojen-viranomaisten-valisesta-tiedonjaosta-ja-valvonnan-tehostamisesta</link>
+<guid isPermaLink="true">https://tietosuoja.fi/-/euroopan-tietosuojaneuvosto-keskusteli-eri-alojen-viranomaisten-valisesta-tiedonjaosta-ja-valvonnan-tehostamisesta</guid>
+<pubDate>Mon, 20 Jul 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
 </item>
 </channel></rss>

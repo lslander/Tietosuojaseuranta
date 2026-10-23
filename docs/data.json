@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-22T10:09:27",
+  "generated": "2026-10-23T10:01:43",
   "window_days": 120,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "name": "Tuomioistuinlaitos",
       "court": "Tuomioistuimet",
       "ok": true,
-      "fetched": 30,
+      "fetched": 29,
       "error": ""
     },
     {
@@ -71,7 +71,7 @@
       "name": "Unionin tuomioistuin (EUT ja unionin yleinen tuomioistuin)",
       "court": "EUT",
       "ok": true,
-      "fetched": 6,
+      "fetched": 2,
       "error": ""
     },
     {
@@ -118,17 +118,17 @@
       "id": "vn",
       "name": "Valtioneuvosto",
       "court": "VN",
-      "ok": true,
-      "fetched": 12,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "error": "403 Client Error: Forbidden for url: https://valtioneuvosto.fi/ajankohtaista"
     },
     {
       "id": "om",
       "name": "Oikeusministeriö",
       "court": "OM",
-      "ok": true,
-      "fetched": 8,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "error": "403 Client Error: Forbidden for url: https://oikeusministerio.fi/ajankohtaista"
     },
     {
       "id": "tem",
@@ -167,7 +167,7 @@
       "name": "Euroopan tietosuojavaltuutettu (EDPS)",
       "court": "EDPS",
       "ok": true,
-      "fetched": 3,
+      "fetched": 2,
       "error": ""
     },
     {
@@ -214,16 +214,16 @@
       "id": "uef",
       "name": "eRepo (Itä-Suomen yliopisto)",
       "court": "Julkaisu",
-      "ok": true,
-      "fetched": 18,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "error": "403 Client Error: Forbidden for url: https://erepo.uef.fi/server/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-08-09"
     },
     {
       "id": "jyx",
       "name": "JYX (Jyväskylän yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 10,
+      "fetched": 6,
       "error": ""
     },
     {
@@ -247,7 +247,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 77,
+      "fetched": 84,
       "error": ""
     },
     {
@@ -271,7 +271,7 @@
       "name": "Kyberturvallisuuskeskus",
       "court": "Kyberturvallisuuskeskus",
       "ok": true,
-      "fetched": 428,
+      "fetched": 429,
       "error": ""
     },
     {
@@ -287,23 +287,55 @@
       "name": "ENISA, julkaisut",
       "court": "ENISA",
       "ok": true,
-      "fetched": 10,
+      "fetched": 11,
       "error": ""
     }
   ],
   "items": [
     {
+      "court": "Kyberturvallisuuskeskus",
+      "source": "Kyberturvallisuuskeskus",
+      "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 43/2026",
+      "url": "https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-432026?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
+      "date": "2026-10-23",
+      "keywords": "",
+      "summary": "Tällä viikolla kerromme laajasti vaikuttaneista PHP:n haavoittuvuuksista sekä teletoiminnan häiriötilanteiden ilmoittamista koskevan määräyksen uudistuksesta ja vuonna 2027 voimaan tulevista muutoksista. Lisäksi nostamme esiin suomalaisnuorten menestyksen eettisen hakkeroinnin Euroopan mestaruuskilpailuissa sekä kerromme opettajille suunnatuista maksuttomista kyberturvallisuuden oppimateriaaleista",
+      "score": 13,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "kyberturvallisuus"
+      ]
+    },
+    {
       "court": "EDPS",
       "source": "Euroopan tietosuojavaltuutettu (EDPS)",
       "title": "Read the blogpost by Wojciech Wiewiórowski.",
       "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "keywords": "",
       "summary": "",
       "score": 23,
       "topics": [],
       "tags": [
         "pvm arvioitu"
+      ]
+    },
+    {
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "Securing NIS2, DORA compliance in the cloud supply chain",
+      "url": "https://iapp.org/news/a/securing-nis2-dora-compliance-in-the-cloud-supply-chain",
+      "date": "2026-10-21",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "NIS2"
       ]
     },
     {
@@ -519,23 +551,6 @@
       ]
     },
     {
-      "court": "Julkaisu",
-      "source": "eRepo (Itä-Suomen yliopisto)",
-      "title": "Tapaustutkimus Google Workspace for Education -järjestelmän käytöstä osana perusopetusta",
-      "url": "https://erepo.uef.fi/handle/123456789/39685",
-      "date": "2026-10-13",
-      "keywords": "informaatio-oikeus, EU:n yleinen tietosuoja-asetus, henkilötietojen käsittely, sisäänrakennettu ja oletusarvoinen tietosuoja, tietosuojaperiaate, oppimisalusta, tieto- ja viestintäjärjestelmä, perusopetus, Euroopan unionin tuomioistuin, eurooppaoikeus, european law, tietosuoja, henkilötiedot, data p",
-      "summary": "",
-      "score": 16,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tietosuoja",
-        "henkilötiet"
-      ]
-    },
-    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Ivanti Connect Secure -tuotteissa hyväksikäytetty haavoittuvuus",
@@ -636,54 +651,6 @@
       "tags": []
     },
     {
-      "court": "Julkaisu",
-      "source": "eRepo (Itä-Suomen yliopisto)",
-      "title": "Ysityinen elinkeinonharjoittaja velkajärjestelyssä",
-      "url": "https://erepo.uef.fi/handle/123456789/39648",
-      "date": "2026-10-09",
-      "keywords": "velkajärjestely, maksukyvytön, maksuvara, rikos- ja prosessioikeus, criminal law and juridicial procedure, velkajärjestely, elinkeinonharjoittajat, velat, debt adjustment, persons carrying on a trade, liabilities, skuldsanering, näringsidkare, skulder",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Datasääntely"
-      ],
-      "tags": [
-        "DSA"
-      ]
-    },
-    {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "Notes from the IAPP Canada: OPC draft guidance moves vendor privacy due diligence upstream",
-      "url": "https://iapp.org/news/a/notes-from-the-iapp-canada-opc-draft-guidance-moves-vendor-privacy-due-diligence-upstream",
-      "date": "2026-10-09",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "privacy"
-      ]
-    },
-    {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "Washington's attorney general reflects on state's privacy legislation and enforcement",
-      "url": "https://iapp.org/news/a/washingtons-attorney-general-reflects-on-states-privacy-legislation-and-enforcement",
-      "date": "2026-10-09",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "privacy"
-      ]
-    },
-    {
       "court": "TSV",
       "source": "Tietosuojavaltuutetun toimisto",
       "title": "Mindemo Oy:lle seuraamusmaksu verkkosivuevästeiden tietosuojapuutteista",
@@ -766,22 +733,6 @@
       ],
       "tags": [
         "privacy"
-      ]
-    },
-    {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "New OECD report examines neural data governance issues",
-      "url": "https://iapp.org/news/a/new-oecd-report-examines-neural-data-governance-issues",
-      "date": "2026-10-08",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Datasääntely"
-      ],
-      "tags": [
-        "data governance"
       ]
     },
     {
@@ -1034,18 +985,6 @@
         "haavoittuvuus",
         "cyber"
       ]
-    },
-    {
-      "court": "EDPS",
-      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
-      "title": "TechDispatch on secure multi-party computation",
-      "url": "https://www.edps.europa.eu/data-protection/our-work/publications/techdispatch/2026-09-17-techdispatch-12026-secure-multi-party-computation_en",
-      "date": "2026-09-17",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [],
-      "tags": []
     },
     {
       "court": "Kyberturvallisuuskeskus",
@@ -1793,9 +1732,28 @@
       ]
     },
     {
+      "court": "Julkaisu",
+      "source": "JYX (Jyväskylän yliopisto)",
+      "title": "Evästesuostumusten säädöstenmukaisuus suomalaisilla verkkosivustoilla: käyttöliittymäratkaisut ja tekniset käytännöt",
+      "url": "http://urn.fi/URN:NBN:fi:jyu-202607016218",
+      "date": "2026-07-01",
+      "keywords": "Tietojärjestelmätieteen maisteriohjelma, Master&apos;s Degree Programme in Information Systems, protection of privacy, legislation, data protection, users, fundamental rights, yksilönsuoja, lainsäädäntö, tietosuoja, käyttäjät, perusoikeudet",
+      "summary": "Yksityisyydensuoja on perusoikeus ja se turvataan Euroopan unionin perusoikeuskirjan ja kansallisen perustuslain nojalla. Teknologian nopea kehitys ja henkilötietojen keräämisen sekä käsittelyn lisääntyminen ovat korostaneet tarvetta varmistaa luonnollisten henkilöiden henkilötietojen suoja. Evästeet, joiden avulla käyttäjistä voidaan kerätä erilaisia tietoja, voivat muodostaa uhan käyttäjien yksi",
+      "score": 25,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tietosuoja",
+        "henkilötiet",
+        "evästeet",
+        "data protection"
+      ]
+    },
+    {
       "court": "Säädöskokoelma",
       "source": "Finlex, säädöskokoelma",
-      "title": "581/2026, Laki henkilötietojen käsittelystä Puolustusvoimissa annetun lain muut",
+      "title": "581/2026, Laki henkilötietojen käsittelystä Puolustusvoimissa annetun lain muuttamisesta",
       "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/581",
       "date": "2026-06-29",
       "keywords": "",

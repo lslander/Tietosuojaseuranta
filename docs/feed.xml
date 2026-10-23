@@ -4,13 +4,29 @@
 <link>https://lslander.github.io/Tietosuojaseuranta/</link>
 <description>Tietosuoja, teknologia ja datasääntely</description>
 <language>fi</language>
-<lastBuildDate>Thu, 22 Oct 2026 10:09:27 +0000</lastBuildDate>
+<lastBuildDate>Fri, 23 Oct 2026 10:01:43 +0000</lastBuildDate>
+<item>
+<title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 43/2026</title>
+<link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-432026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
+<guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-432026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
+<pubDate>Fri, 23 Oct 2026 09:00:00 +0000</pubDate>
+<description>Tällä viikolla kerromme laajasti vaikuttaneista PHP:n haavoittuvuuksista sekä teletoiminnan häiriötilanteiden ilmoittamista koskevan määräyksen uudistuksesta ja vuonna 2027 voimaan tulevista muutoksista. Lisäksi nostamme esiin suomalaisnuorten menestyksen eettisen hakkeroinnin Euroopan mestaruuskilpailuissa sekä kerromme opettajille suunnatuista maksuttomista kyberturvallisuuden oppimateriaaleista</description>
+<category>Kyberturvallisuus</category>
+</item>
 <item>
 <title>EDPS: Read the blogpost by Wojciech Wiewiórowski.</title>
 <link>https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</link>
 <guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</guid>
-<pubDate>Thu, 22 Oct 2026 09:00:00 +0000</pubDate>
+<pubDate>Fri, 23 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
+</item>
+<item>
+<title>IAPP: Securing NIS2, DORA compliance in the cloud supply chain</title>
+<link>https://iapp.org/news/a/securing-nis2-dora-compliance-in-the-cloud-supply-chain</link>
+<guid isPermaLink="true">https://iapp.org/news/a/securing-nis2-dora-compliance-in-the-cloud-supply-chain</guid>
+<pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Kyberturvallisuus</category>
 </item>
 <item>
 <title>EDPB: Norwegian DPA fines Xandr EUR 8 600 000 for unlawful processing of personal data</title>
@@ -117,14 +133,6 @@
 <category>Tietosuoja</category>
 </item>
 <item>
-<title>Julkaisu: Tapaustutkimus Google Workspace for Education -järjestelmän käytöstä osana perusopetusta</title>
-<link>https://erepo.uef.fi/handle/123456789/39685</link>
-<guid isPermaLink="true">https://erepo.uef.fi/handle/123456789/39685</guid>
-<pubDate>Tue, 13 Oct 2026 09:00:00 +0000</pubDate>
-<description>informaatio-oikeus, EU:n yleinen tietosuoja-asetus, henkilötietojen käsittely, sisäänrakennettu ja oletusarvoinen tietosuoja, tietosuojaperiaate, oppimisalusta, tieto- ja viestintäjärjestelmä, perusopetus, Euroopan unionin tuomioistuin, eurooppaoikeus, european law, tietosuoja, henkilötiedot, data p</description>
-<category>Tietosuoja</category>
-</item>
-<item>
 <title>Kyberturvallisuuskeskus: Ivanti Connect Secure -tuotteissa hyväksikäytetty haavoittuvuus</title>
 <link>https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet/haavoittuvuus-2026-35?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
 <guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet/haavoittuvuus-2026-35?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
@@ -177,30 +185,6 @@
 <description>ikerinar Fri, 09/10/2026 - 09:26</description>
 </item>
 <item>
-<title>Julkaisu: Ysityinen elinkeinonharjoittaja velkajärjestelyssä</title>
-<link>https://erepo.uef.fi/handle/123456789/39648</link>
-<guid isPermaLink="true">https://erepo.uef.fi/handle/123456789/39648</guid>
-<pubDate>Fri, 09 Oct 2026 09:00:00 +0000</pubDate>
-<description>velkajärjestely, maksukyvytön, maksuvara, rikos- ja prosessioikeus, criminal law and juridicial procedure, velkajärjestely, elinkeinonharjoittajat, velat, debt adjustment, persons carrying on a trade, liabilities, skuldsanering, näringsidkare, skulder</description>
-<category>Datasääntely</category>
-</item>
-<item>
-<title>IAPP: Notes from the IAPP Canada: OPC draft guidance moves vendor privacy due diligence upstream</title>
-<link>https://iapp.org/news/a/notes-from-the-iapp-canada-opc-draft-guidance-moves-vendor-privacy-due-diligence-upstream</link>
-<guid isPermaLink="true">https://iapp.org/news/a/notes-from-the-iapp-canada-opc-draft-guidance-moves-vendor-privacy-due-diligence-upstream</guid>
-<pubDate>Fri, 09 Oct 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>IAPP: Washington&#x27;s attorney general reflects on state&#x27;s privacy legislation and enforcement</title>
-<link>https://iapp.org/news/a/washingtons-attorney-general-reflects-on-states-privacy-legislation-and-enforcement</link>
-<guid isPermaLink="true">https://iapp.org/news/a/washingtons-attorney-general-reflects-on-states-privacy-legislation-and-enforcement</guid>
-<pubDate>Fri, 09 Oct 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
 <title>TSV: Mindemo Oy:lle seuraamusmaksu verkkosivuevästeiden tietosuojapuutteista</title>
 <link>https://tietosuoja.fi/-/mindemo-oy-lle-seuraamusmaksu-verkkosivuevasteiden-tietosuojapuutteista</link>
 <guid isPermaLink="true">https://tietosuoja.fi/-/mindemo-oy-lle-seuraamusmaksu-verkkosivuevasteiden-tietosuojapuutteista</guid>
@@ -244,14 +228,6 @@
 <pubDate>Thu, 08 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>
-</item>
-<item>
-<title>IAPP: New OECD report examines neural data governance issues</title>
-<link>https://iapp.org/news/a/new-oecd-report-examines-neural-data-governance-issues</link>
-<guid isPermaLink="true">https://iapp.org/news/a/new-oecd-report-examines-neural-data-governance-issues</guid>
-<pubDate>Thu, 08 Oct 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Datasääntely</category>
 </item>
 <item>
 <title>Kyberturvallisuuskeskus: Atlassian-tuotteissa kriittinen hyväksikäytetty tiedostojenlukuhaavoittuvuus</title>
@@ -373,13 +349,6 @@
 <pubDate>Fri, 18 Sep 2026 09:00:00 +0000</pubDate>
 <description>Tällä viikolla kerromme toimitusjohtajahuijauksista sekä toivotamme teidät tervetulleiksi GovCyber Finland 2026 -seminaariin. Lisäksi käsittelemme ClickFix-haittaohjelmailmiötä sekä Digi- ja väestötietoviraston vuoden 2026 Digiturvabarometria. Lopuksi tutustumme ajankohtaisiin huijauksiin ja viikolla julkaistuihin haavoittuvuustiedotteisiin.</description>
 <category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>EDPS: TechDispatch on secure multi-party computation</title>
-<link>https://www.edps.europa.eu/data-protection/our-work/publications/techdispatch/2026-09-17-techdispatch-12026-secure-multi-party-computation_en</link>
-<guid isPermaLink="true">https://www.edps.europa.eu/data-protection/our-work/publications/techdispatch/2026-09-17-techdispatch-12026-secure-multi-party-computation_en</guid>
-<pubDate>Thu, 17 Sep 2026 09:00:00 +0000</pubDate>
-<description></description>
 </item>
 <item>
 <title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 37/2026</title>
@@ -636,6 +605,38 @@ Lisäksi tällä viikolla julkaistu heinäkuun Kybersää osoittaa sateisen syks
 <link>https://tietosuoja.fi/-/euroopan-tietosuojaneuvosto-keskusteli-eri-alojen-viranomaisten-valisesta-tiedonjaosta-ja-valvonnan-tehostamisesta</link>
 <guid isPermaLink="true">https://tietosuoja.fi/-/euroopan-tietosuojaneuvosto-keskusteli-eri-alojen-viranomaisten-valisesta-tiedonjaosta-ja-valvonnan-tehostamisesta</guid>
 <pubDate>Mon, 20 Jul 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>Kyberturvallisuuskeskus: Heikosti suojatut verkkolaitteet avaavat väylän kyberhyökkäyksille</title>
+<link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/heikosti-suojatut-verkkolaitteet-avaavat-vaylan-kyberhyokkayksille?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
+<guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/heikosti-suojatut-verkkolaitteet-avaavat-vaylan-kyberhyokkayksille?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
+<pubDate>Wed, 15 Jul 2026 09:00:00 +0000</pubDate>
+<description>Viime vuosien aikana lukuisat kotimaiset organisaatiot ovat joutuneet tietomurron kohteeksi haavoittuvan tai heikosti suojatun verkkolaitteen- tai palvelun vuoksi. Verkkolaitteiden suojaamiseen ja valvontaan on tärkeää kohdentaa riittävästi resursseja. Organisaatioiden tulee varautua ja harjoitella mahdollisten poikkeamatilanteiden varalta.</description>
+<category>Kyberturvallisuus</category>
+</item>
+<item>
+<title>Säädöskokoelma: 736/2026, Laki henkilötietojen käsittelystä maahanmuuttohallinnossa annetun lain 13 §:n muuttamisesta</title>
+<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/736</link>
+<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/736</guid>
+<pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>Säädöskokoelma: 735/2026, Laki henkilötietojen käsittelystä Puolustusvoimissa annetun lain 29 §:n muuttamisesta</title>
+<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/735</link>
+<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/735</guid>
+<pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>Säädöskokoelma: 732/2026, Laki henkilötietojen käsittelystä Tullissa annetun lain muuttamisesta</title>
+<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/732</link>
+<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/732</guid>
+<pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>
 </item>

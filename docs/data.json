@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-23T10:01:43",
+  "generated": "2026-10-26T11:05:19",
   "window_days": 120,
   "sources": [
     {
@@ -183,7 +183,7 @@
       "name": "Helda (Helsingin yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 15,
+      "fetched": 12,
       "error": ""
     },
     {
@@ -191,7 +191,7 @@
       "name": "Helda, oikeustieteellinen tiedekunta",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 22,
+      "fetched": 23,
       "error": ""
     },
     {
@@ -214,16 +214,16 @@
       "id": "uef",
       "name": "eRepo (Itä-Suomen yliopisto)",
       "court": "Julkaisu",
-      "ok": false,
-      "fetched": 0,
-      "error": "403 Client Error: Forbidden for url: https://erepo.uef.fi/server/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-08-09"
+      "ok": true,
+      "fetched": 20,
+      "error": ""
     },
     {
       "id": "jyx",
       "name": "JYX (Jyväskylän yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 6,
+      "fetched": 3,
       "error": ""
     },
     {
@@ -231,7 +231,7 @@
       "name": "Doria (mm. Åbo Akademi)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 2,
+      "fetched": 16,
       "error": ""
     },
     {
@@ -239,7 +239,7 @@
       "name": "Osuva (Vaasan yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 20,
+      "fetched": 19,
       "error": ""
     },
     {
@@ -247,7 +247,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 84,
+      "fetched": 85,
       "error": ""
     },
     {
@@ -293,6 +293,36 @@
   ],
   "items": [
     {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "Read the blogpost by Wojciech Wiewiórowski.",
+      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
+      "date": "2026-10-26",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [],
+      "tags": [
+        "pvm arvioitu"
+      ]
+    },
+    {
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "Notes from the IAPP Canada: Closing Canada's privacy gaps is a matter of trust",
+      "url": "https://iapp.org/news/a/notes-from-the-iapp-canada-closing-canadas-privacy-gaps-is-a-matter-of-trust",
+      "date": "2026-10-23",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "privacy"
+      ]
+    },
+    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 43/2026",
@@ -306,20 +336,6 @@
       ],
       "tags": [
         "kyberturvallisuus"
-      ]
-    },
-    {
-      "court": "EDPS",
-      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
-      "title": "Read the blogpost by Wojciech Wiewiórowski.",
-      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
-      "date": "2026-10-23",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [],
-      "tags": [
-        "pvm arvioitu"
       ]
     },
     {
@@ -352,22 +368,6 @@
       ],
       "tags": [
         "personal data"
-      ]
-    },
-    {
-      "court": "Edilex",
-      "source": "Edilex, uutiset",
-      "title": "EU-tuomioistuin vahvisti kuluttajien suojaa pankkihuijauksissa: Tietojenkalastelun uhri saa rahansa takaisin heti, vaikka olisi toiminut törkeän huolimattomasti Maksupalveluntarjoaja voi kuitenkin myö",
-      "url": "https://www.edilex.fi/uutiset/103436",
-      "date": "2026-10-16",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "tietojenkalastelu"
       ]
     },
     {
@@ -551,6 +551,23 @@
       ]
     },
     {
+      "court": "Julkaisu",
+      "source": "eRepo (Itä-Suomen yliopisto)",
+      "title": "Tapaustutkimus Google Workspace for Education -järjestelmän käytöstä osana perusopetusta",
+      "url": "https://erepo.uef.fi/handle/123456789/39685",
+      "date": "2026-10-13",
+      "keywords": "informaatio-oikeus, EU:n yleinen tietosuoja-asetus, henkilötietojen käsittely, sisäänrakennettu ja oletusarvoinen tietosuoja, tietosuojaperiaate, oppimisalusta, tieto- ja viestintäjärjestelmä, perusopetus, Euroopan unionin tuomioistuin, eurooppaoikeus, european law, tietosuoja, henkilötiedot, data p",
+      "summary": "",
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tietosuoja",
+        "henkilötiet"
+      ]
+    },
+    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Ivanti Connect Secure -tuotteissa hyväksikäytetty haavoittuvuus",
@@ -649,6 +666,22 @@
       "score": 23,
       "topics": [],
       "tags": []
+    },
+    {
+      "court": "Julkaisu",
+      "source": "eRepo (Itä-Suomen yliopisto)",
+      "title": "Ysityinen elinkeinonharjoittaja velkajärjestelyssä",
+      "url": "https://erepo.uef.fi/handle/123456789/39648",
+      "date": "2026-10-09",
+      "keywords": "velkajärjestely, maksukyvytön, maksuvara, rikos- ja prosessioikeus, criminal law and juridicial procedure, velkajärjestely, elinkeinonharjoittajat, velat, debt adjustment, persons carrying on a trade, liabilities, skuldsanering, näringsidkare, skulder",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Datasääntely"
+      ],
+      "tags": [
+        "DSA"
+      ]
     },
     {
       "court": "TSV",
@@ -1322,22 +1355,6 @@
       ]
     },
     {
-      "court": "Julkaisu",
-      "source": "JYX (Jyväskylän yliopisto)",
-      "title": "How in-store QR codes shape the in-store customer experience",
-      "url": "http://urn.fi/URN:NBN:fi:jyu-202608186595",
-      "date": "2026-08-18",
-      "keywords": "QR codes, In-store customer experience, In-store technologies, Omnichannel, Participatory dimension, Fashion retail, Value Creation for Cyber-Physical Systems and Services, Digitaalinen liiketoiminta ja talous (painoala), Tietojärjestelmätiede, Hyvinvoinnin tutkimuksen yhteisö, Kestävä liiketoiminta",
-      "summary": "Retailers are introducing new technologies into brick-and-mortar (B&amp;M) stores to enhance the in-store customer experience (ISCX). In fashion retail, quick response (QR) codes provide customers with online content and are becoming more prevalent due to emerging global recommendations and European Union (EU) regulations. However, an in-depth understanding of how QR codes shape the ISCX and its f",
-      "score": 13,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "cyber"
-      ]
-    },
-    {
       "court": "TSV",
       "source": "Tietosuojavaltuutetun toimisto",
       "title": "Apulaistietosuojavaltuutettu: Tietoa urheilijan lievästä dopingrikkomuksesta ei olisi pitänyt julkaista, kun toimintakielto oli jo päättynyt",
@@ -1732,25 +1749,6 @@
       ]
     },
     {
-      "court": "Julkaisu",
-      "source": "JYX (Jyväskylän yliopisto)",
-      "title": "Evästesuostumusten säädöstenmukaisuus suomalaisilla verkkosivustoilla: käyttöliittymäratkaisut ja tekniset käytännöt",
-      "url": "http://urn.fi/URN:NBN:fi:jyu-202607016218",
-      "date": "2026-07-01",
-      "keywords": "Tietojärjestelmätieteen maisteriohjelma, Master&apos;s Degree Programme in Information Systems, protection of privacy, legislation, data protection, users, fundamental rights, yksilönsuoja, lainsäädäntö, tietosuoja, käyttäjät, perusoikeudet",
-      "summary": "Yksityisyydensuoja on perusoikeus ja se turvataan Euroopan unionin perusoikeuskirjan ja kansallisen perustuslain nojalla. Teknologian nopea kehitys ja henkilötietojen keräämisen sekä käsittelyn lisääntyminen ovat korostaneet tarvetta varmistaa luonnollisten henkilöiden henkilötietojen suoja. Evästeet, joiden avulla käyttäjistä voidaan kerätä erilaisia tietoja, voivat muodostaa uhan käyttäjien yksi",
-      "score": 25,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tietosuoja",
-        "henkilötiet",
-        "evästeet",
-        "data protection"
-      ]
-    },
-    {
       "court": "Säädöskokoelma",
       "source": "Finlex, säädöskokoelma",
       "title": "581/2026, Laki henkilötietojen käsittelystä Puolustusvoimissa annetun lain muuttamisesta",
@@ -1765,18 +1763,6 @@
       "tags": [
         "henkilötiet"
       ]
-    },
-    {
-      "court": "TSV",
-      "source": "Tietosuojavaltuutetun toimisto",
-      "title": "Oikeuspalveluvirastolle huomautus työntekijöiden luottotietojen perusteettomasta tarkastamisesta",
-      "url": "https://tietosuoja.fi/-/oikeuspalveluvirastolle-huomautus-tyontekijoiden-luottotietojen-perusteettomasta-tarkastamisesta",
-      "date": "2026-06-25",
-      "keywords": "",
-      "summary": "",
-      "score": 33,
-      "topics": [],
-      "tags": []
     }
   ]
 }

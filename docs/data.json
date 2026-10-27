@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-26T11:05:19",
+  "generated": "2026-10-27T10:31:08",
   "window_days": 120,
   "sources": [
     {
@@ -183,7 +183,7 @@
       "name": "Helda (Helsingin yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 12,
+      "fetched": 10,
       "error": ""
     },
     {
@@ -215,7 +215,7 @@
       "name": "eRepo (Itä-Suomen yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 20,
+      "fetched": 21,
       "error": ""
     },
     {
@@ -223,7 +223,7 @@
       "name": "JYX (Jyväskylän yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 3,
+      "fetched": 4,
       "error": ""
     },
     {
@@ -247,7 +247,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 85,
+      "fetched": 78,
       "error": ""
     },
     {
@@ -293,17 +293,50 @@
   ],
   "items": [
     {
+      "court": "Julkaisu",
+      "source": "Osuva (Vaasan yliopisto)",
+      "title": "Doping ei poista tietosuojaa – urheilijan henkilötietojen julkaiseminen ratkaisussa C-474/24",
+      "url": "https://osuva.uwasa.fi/handle/11111/21435",
+      "date": "2026-10-27",
+      "keywords": "Doping, EU-oikeuden soveltaminen, Euroopan unionin tuomioistuin, Henkilötieto, Oikeusperiaate, Tietosuoja, Urheilu, fi=Julkisoikeus|en=Public Law|",
+      "summary": "Tämä artikkeli käsittelee Euroopan unionin tuomioistuimen suuren jaoston tuomiota asiassa C-474/24 (NADA Austria ym.), joka koski dopingseuraamuksia koskevien henkilötietojen julkaisemista internetissä. Tuomioistuin katsoi, että yleistä tietosuoja-asetusta sovelletaan antidopingtoimintaan, koska asetuksen 2 artiklan 2 kohdan a alakohdan soveltamisalapoikkeusta on tulkittava suppeasti, eikä urheilu",
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tietosuoja",
+        "henkilötiet"
+      ]
+    },
+    {
       "court": "EDPS",
       "source": "Euroopan tietosuojavaltuutettu (EDPS)",
       "title": "Read the blogpost by Wojciech Wiewiórowski.",
       "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
-      "date": "2026-10-26",
+      "date": "2026-10-27",
       "keywords": "",
       "summary": "",
       "score": 23,
       "topics": [],
       "tags": [
         "pvm arvioitu"
+      ]
+    },
+    {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "Making AI visible: Fourth meeting of the AI Act Correspondents Network",
+      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/making-ai-visible-fourth-meeting-ai-act-correspondents-network",
+      "date": "2026-10-26",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [
+        "Datasääntely"
+      ],
+      "tags": [
+        "AI Act"
       ]
     },
     {
@@ -449,23 +482,6 @@
       "tags": [
         "personal data",
         "data protection"
-      ]
-    },
-    {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "When AI hallucinates facts about individuals: Personal data and accuracy under the GDPR",
-      "url": "https://iapp.org/news/a/when-ai-hallucinates-facts-about-individuals-personal-data-and-accuracy-under-the-gdpr",
-      "date": "2026-10-14",
-      "keywords": "",
-      "summary": "",
-      "score": 16,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "GDPR",
-        "personal data"
       ]
     },
     {
@@ -785,19 +801,20 @@
       ]
     },
     {
-      "court": "EDPS",
-      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
-      "title": "A safeguard and a vulnerability: the human factor in automated decision-making and cybersecurity",
-      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity",
-      "date": "2026-10-05",
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "Record-low rate of complaints against decisions of the President of the Personal Data Protection Office being upheld 06.10.2026",
+      "url": "https://uodo.gov.pl/en/553/2297",
+      "date": "2026-10-06",
       "keywords": "",
       "summary": "",
-      "score": 23,
+      "score": 16,
       "topics": [
-        "Kyberturvallisuus"
+        "Tietosuoja"
       ],
       "tags": [
-        "cyber"
+        "personal data",
+        "data protection"
       ]
     },
     {
@@ -881,22 +898,6 @@
       "tags": [
         "personal data",
         "data protection"
-      ]
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "Failure to provide access to personal data and information may result in an administrative fine 30.09.2026",
-      "url": "https://uodo.gov.pl/en/553/2289",
-      "date": "2026-09-30",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data"
       ]
     },
     {

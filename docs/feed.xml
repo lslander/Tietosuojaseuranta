@@ -4,13 +4,29 @@
 <link>https://lslander.github.io/Tietosuojaseuranta/</link>
 <description>Tietosuoja, teknologia ja datasääntely</description>
 <language>fi</language>
-<lastBuildDate>Mon, 26 Oct 2026 11:05:19 +0000</lastBuildDate>
+<lastBuildDate>Tue, 27 Oct 2026 10:31:08 +0000</lastBuildDate>
+<item>
+<title>Julkaisu: Doping ei poista tietosuojaa – urheilijan henkilötietojen julkaiseminen ratkaisussa C-474/24</title>
+<link>https://osuva.uwasa.fi/handle/11111/21435</link>
+<guid isPermaLink="true">https://osuva.uwasa.fi/handle/11111/21435</guid>
+<pubDate>Tue, 27 Oct 2026 09:00:00 +0000</pubDate>
+<description>Doping, EU-oikeuden soveltaminen, Euroopan unionin tuomioistuin, Henkilötieto, Oikeusperiaate, Tietosuoja, Urheilu, fi=Julkisoikeus|en=Public Law|</description>
+<category>Tietosuoja</category>
+</item>
 <item>
 <title>EDPS: Read the blogpost by Wojciech Wiewiórowski.</title>
 <link>https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</link>
 <guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</guid>
+<pubDate>Tue, 27 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+</item>
+<item>
+<title>EDPS: Making AI visible: Fourth meeting of the AI Act Correspondents Network</title>
+<link>https://www.edps.europa.eu/press-publications/press-news/blog/making-ai-visible-fourth-meeting-ai-act-correspondents-network</link>
+<guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/making-ai-visible-fourth-meeting-ai-act-correspondents-network</guid>
 <pubDate>Mon, 26 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
+<category>Datasääntely</category>
 </item>
 <item>
 <title>IAPP: Notes from the IAPP Canada: Closing Canada&#x27;s privacy gaps is a matter of trust</title>
@@ -80,14 +96,6 @@
 <title>UODO: We invite you to visit the Personal Data Protection Office consultation point in Katowice 14.10.2026</title>
 <link>https://uodo.gov.pl/en/553/2287</link>
 <guid isPermaLink="true">https://uodo.gov.pl/en/553/2287</guid>
-<pubDate>Wed, 14 Oct 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>IAPP: When AI hallucinates facts about individuals: Personal data and accuracy under the GDPR</title>
-<link>https://iapp.org/news/a/when-ai-hallucinates-facts-about-individuals-personal-data-and-accuracy-under-the-gdpr</link>
-<guid isPermaLink="true">https://iapp.org/news/a/when-ai-hallucinates-facts-about-individuals-personal-data-and-accuracy-under-the-gdpr</guid>
 <pubDate>Wed, 14 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>
@@ -254,12 +262,12 @@
 <category>Kyberturvallisuus</category>
 </item>
 <item>
-<title>EDPS: A safeguard and a vulnerability: the human factor in automated decision-making and cybersecurity</title>
-<link>https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity</link>
-<guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity</guid>
-<pubDate>Mon, 05 Oct 2026 09:00:00 +0000</pubDate>
+<title>UODO: Record-low rate of complaints against decisions of the President of the Personal Data Protection Office being upheld 06.10.2026</title>
+<link>https://uodo.gov.pl/en/553/2297</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2297</guid>
+<pubDate>Tue, 06 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
-<category>Kyberturvallisuus</category>
+<category>Tietosuoja</category>
 </item>
 <item>
 <title>UODO: Not every personal data breach needs to be reported to the President of the Personal Data Protection Office 05.10.2026</title>
@@ -297,14 +305,6 @@
 <title>UODO: The Personal Data Protection Office Chairman Intervenes in Case Involving Personal Data in Pharmacy Systems 30.09.2026</title>
 <link>https://uodo.gov.pl/en/553/2294</link>
 <guid isPermaLink="true">https://uodo.gov.pl/en/553/2294</guid>
-<pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>UODO: Failure to provide access to personal data and information may result in an administrative fine 30.09.2026</title>
-<link>https://uodo.gov.pl/en/553/2289</link>
-<guid isPermaLink="true">https://uodo.gov.pl/en/553/2289</guid>
 <pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>

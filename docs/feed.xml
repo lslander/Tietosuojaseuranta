@@ -4,7 +4,14 @@
 <link>https://lslander.github.io/Tietosuojaseuranta/</link>
 <description>Tietosuoja, teknologia ja datasääntely</description>
 <language>fi</language>
-<lastBuildDate>Tue, 27 Oct 2026 10:31:08 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 11:19:03 +0000</lastBuildDate>
+<item>
+<title>EDPS: Read the blogpost by Wojciech Wiewiórowski.</title>
+<link>https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</link>
+<guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</guid>
+<pubDate>Wed, 28 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+</item>
 <item>
 <title>Julkaisu: Doping ei poista tietosuojaa – urheilijan henkilötietojen julkaiseminen ratkaisussa C-474/24</title>
 <link>https://osuva.uwasa.fi/handle/11111/21435</link>
@@ -14,16 +21,25 @@
 <category>Tietosuoja</category>
 </item>
 <item>
-<title>EDPS: Read the blogpost by Wojciech Wiewiórowski.</title>
-<link>https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</link>
-<guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</guid>
+<title>Kyberturvallisuuskeskus: Connect4Cyber kokosi ennätysyleisön Helsinkiin: yhteistyö avaa ovia EU-rahoitukseen</title>
+<link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/connect4cyber-kokosi-ennatysyleison-helsinkiin-yhteistyo-avaa-ovia-eu-rahoitukseen?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
+<guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/connect4cyber-kokosi-ennatysyleison-helsinkiin-yhteistyo-avaa-ovia-eu-rahoitukseen?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
 <pubDate>Tue, 27 Oct 2026 09:00:00 +0000</pubDate>
-<description></description>
+<description>Menestyksekkään EU-hankkeen resepti on yksinkertainen: ihmiset, ideat ja yhteistyö. Tämä ajatus oli keskeinen viesti Connect4Cyber-tapahtumassa, joka kokosi kyberturvallisuusalan toimijoita eri puolilta Eurooppaa Helsinkiin syyskuun lopulla. Ennätyksellisen kiinnostuksen herättänyt tapahtuma tarjosi osallistujille tietoa rahoitusmahdollisuuksista, käytännön kokemuksia onnistuneista hankkeista sekä</description>
+<category>Kyberturvallisuus</category>
 </item>
 <item>
 <title>EDPS: Making AI visible: Fourth meeting of the AI Act Correspondents Network</title>
 <link>https://www.edps.europa.eu/press-publications/press-news/blog/making-ai-visible-fourth-meeting-ai-act-correspondents-network</link>
 <guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/making-ai-visible-fourth-meeting-ai-act-correspondents-network</guid>
+<pubDate>Mon, 26 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Datasääntely</category>
+</item>
+<item>
+<title>IAPP: Italy&#x27;s AI Act framework takes shape: What Legislative Decree No. 179/2026 means for organizations</title>
+<link>https://iapp.org/news/a/italys-ai-act-framework-takes-shape-what-legislative-decree-no-179-2026-means-for-organizations</link>
+<guid isPermaLink="true">https://iapp.org/news/a/italys-ai-act-framework-takes-shape-what-legislative-decree-no-179-2026-means-for-organizations</guid>
 <pubDate>Mon, 26 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Datasääntely</category>
@@ -45,12 +61,42 @@
 <category>Kyberturvallisuus</category>
 </item>
 <item>
+<title>UODO: Freedom of Scientific Research vs. Personal Data Protection – Conference 22.10.2026</title>
+<link>https://uodo.gov.pl/en/553/2300</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2300</guid>
+<pubDate>Thu, 22 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>UODO: Another Field Consultation Point on the map of Poland – this time we invite you to Gdynia 21.10.2026</title>
+<link>https://uodo.gov.pl/en/553/2302</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2302</guid>
+<pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+</item>
+<item>
 <title>IAPP: Securing NIS2, DORA compliance in the cloud supply chain</title>
 <link>https://iapp.org/news/a/securing-nis2-dora-compliance-in-the-cloud-supply-chain</link>
 <guid isPermaLink="true">https://iapp.org/news/a/securing-nis2-dora-compliance-in-the-cloud-supply-chain</guid>
 <pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Kyberturvallisuus</category>
+</item>
+<item>
+<title>UODO: Fraudsters impersonate the Personal Data Protection Office and want to extort data 20.10.2026</title>
+<link>https://uodo.gov.pl/en/553/2301</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2301</guid>
+<pubDate>Tue, 20 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>UODO: Join the 17th edition of the “Your Data—Your Concern” program 20.10.2026</title>
+<link>https://uodo.gov.pl/en/553/2299</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2299</guid>
+<pubDate>Tue, 20 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
 </item>
 <item>
 <title>EDPB: Norwegian DPA fines Xandr EUR 8 600 000 for unlawful processing of personal data</title>
@@ -91,6 +137,14 @@
 <pubDate>Fri, 16 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Kyberturvallisuus</category>
+</item>
+<item>
+<title>UODO: Personal Data Protection Office President’s Comments on the Draft Amendments to the Regulation on Energy Consumption Metering Systems 15.10.2026</title>
+<link>https://uodo.gov.pl/en/553/2304</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2304</guid>
+<pubDate>Thu, 15 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
 </item>
 <item>
 <title>UODO: We invite you to visit the Personal Data Protection Office consultation point in Katowice 14.10.2026</title>
@@ -155,14 +209,6 @@
 <pubDate>Tue, 13 Oct 2026 09:00:00 +0000</pubDate>
 <description>Ivanti on julkaissut haavoittuvuuspäivityksen Ivanti Connect Secure -tuotteen haavoittuvuuteen CVE-2026-104935. Haavoittuvuutta  käytetään aktiivisesti hyväksi. Organisaatioiden tulee päivittää tuote viimeistään nyt ja tarkastaa, ettei hyväksikäyttöä ole tapahtunut.</description>
 <category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>UODO: The Essence of the Privacy Test: Experts from the Personal Data Protection Office at the Legislative Workshops 12.10.2026</title>
-<link>https://uodo.gov.pl/en/553/2286</link>
-<guid isPermaLink="true">https://uodo.gov.pl/en/553/2286</guid>
-<pubDate>Mon, 12 Oct 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
 </item>
 <item>
 <title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 41/2026</title>
@@ -246,44 +292,12 @@
 <category>Tietosuoja</category>
 </item>
 <item>
-<title>IAPP: Don&#x27;t count COPPA out: From privacy statute to safety tool</title>
-<link>https://iapp.org/news/a/dont-count-coppa-out-from-privacy-statute-to-safety-tool</link>
-<guid isPermaLink="true">https://iapp.org/news/a/dont-count-coppa-out-from-privacy-statute-to-safety-tool</guid>
-<pubDate>Thu, 08 Oct 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
 <title>Kyberturvallisuuskeskus: Atlassian-tuotteissa kriittinen hyväksikäytetty tiedostojenlukuhaavoittuvuus</title>
 <link>https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet/haavoittuvuus-2026-33?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
 <guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet/haavoittuvuus-2026-33?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
 <pubDate>Thu, 08 Oct 2026 09:00:00 +0000</pubDate>
 <description>Atlanssian-tuotteissa on kriittinen hyväksikäytetty haavoittuvuus, jonka avulla hyökkääjä voi lukea Atlassian-sovelluksen hakemistossa sijaitsevia tiedostoja ilman tunnistautumista.</description>
 <category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>UODO: Record-low rate of complaints against decisions of the President of the Personal Data Protection Office being upheld 06.10.2026</title>
-<link>https://uodo.gov.pl/en/553/2297</link>
-<guid isPermaLink="true">https://uodo.gov.pl/en/553/2297</guid>
-<pubDate>Tue, 06 Oct 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>UODO: Not every personal data breach needs to be reported to the President of the Personal Data Protection Office 05.10.2026</title>
-<link>https://uodo.gov.pl/en/553/2284</link>
-<guid isPermaLink="true">https://uodo.gov.pl/en/553/2284</guid>
-<pubDate>Mon, 05 Oct 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>UODO: Administrative fine imposed for failure to comply with a decision of the President of Personal Data Protection Office 05.10.2026</title>
-<link>https://uodo.gov.pl/en/553/2290</link>
-<guid isPermaLink="true">https://uodo.gov.pl/en/553/2290</guid>
-<pubDate>Mon, 05 Oct 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
 </item>
 <item>
 <title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 40/2026</title>
@@ -300,14 +314,6 @@
 <pubDate>Thu, 01 Oct 2026 09:00:00 +0000</pubDate>
 <description>Kyberturvallisuuskeskus on julkaissut varoituksen Citrix NetScaler ADC- ja Gateway-tuotteiden useista kriittisistä haavoittuvuuksista, joiden aktiivista hyväksikäyttöä on havaittu myös Suomessa. Haavoittuvuudet voivat mahdollistaa esimerkiksi etäkoodin suorittamisen ilman tunnistautumista, palvelunestohyökkäykset sekä muun haitallisen toiminnan järjestelmissä. Organisaatioita suositellaan päivittä</description>
 <category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>UODO: The Personal Data Protection Office Chairman Intervenes in Case Involving Personal Data in Pharmacy Systems 30.09.2026</title>
-<link>https://uodo.gov.pl/en/553/2294</link>
-<guid isPermaLink="true">https://uodo.gov.pl/en/553/2294</guid>
-<pubDate>Wed, 30 Sep 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
 </item>
 <item>
 <title>ENISA: Cybersecurity Month @ work: Employees&#x27; skills under the looking glass</title>
@@ -628,14 +634,6 @@ Lisäksi tällä viikolla julkaistu heinäkuun Kybersää osoittaa sateisen syks
 <title>Säädöskokoelma: 736/2026, Laki henkilötietojen käsittelystä maahanmuuttohallinnossa annetun lain 13 §:n muuttamisesta</title>
 <link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/736</link>
 <guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/736</guid>
-<pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>Säädöskokoelma: 735/2026, Laki henkilötietojen käsittelystä Puolustusvoimissa annetun lain 29 §:n muuttamisesta</title>
-<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/735</link>
-<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/735</guid>
 <pubDate>Tue, 14 Jul 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>

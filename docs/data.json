@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-27T10:31:08",
+  "generated": "2026-10-28T11:19:03",
   "window_days": 120,
   "sources": [
     {
@@ -103,7 +103,7 @@
       "name": "Finlex, säädöskokoelma",
       "court": "Säädöskokoelma",
       "ok": true,
-      "fetched": 22,
+      "fetched": 21,
       "error": ""
     },
     {
@@ -191,7 +191,7 @@
       "name": "Helda, oikeustieteellinen tiedekunta",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 23,
+      "fetched": 24,
       "error": ""
     },
     {
@@ -223,7 +223,7 @@
       "name": "JYX (Jyväskylän yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 4,
+      "fetched": 3,
       "error": ""
     },
     {
@@ -247,7 +247,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 78,
+      "fetched": 79,
       "error": ""
     },
     {
@@ -293,6 +293,20 @@
   ],
   "items": [
     {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "Read the blogpost by Wojciech Wiewiórowski.",
+      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
+      "date": "2026-10-28",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [],
+      "tags": [
+        "pvm arvioitu"
+      ]
+    },
+    {
       "court": "Julkaisu",
       "source": "Osuva (Vaasan yliopisto)",
       "title": "Doping ei poista tietosuojaa – urheilijan henkilötietojen julkaiseminen ratkaisussa C-474/24",
@@ -310,17 +324,20 @@
       ]
     },
     {
-      "court": "EDPS",
-      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
-      "title": "Read the blogpost by Wojciech Wiewiórowski.",
-      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
+      "court": "Kyberturvallisuuskeskus",
+      "source": "Kyberturvallisuuskeskus",
+      "title": "Connect4Cyber kokosi ennätysyleisön Helsinkiin: yhteistyö avaa ovia EU-rahoitukseen",
+      "url": "https://www.kyberturvallisuuskeskus.fi/fi/uutiset/connect4cyber-kokosi-ennatysyleison-helsinkiin-yhteistyo-avaa-ovia-eu-rahoitukseen?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
       "date": "2026-10-27",
       "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [],
+      "summary": "Menestyksekkään EU-hankkeen resepti on yksinkertainen: ihmiset, ideat ja yhteistyö. Tämä ajatus oli keskeinen viesti Connect4Cyber-tapahtumassa, joka kokosi kyberturvallisuusalan toimijoita eri puolilta Eurooppaa Helsinkiin syyskuun lopulla. Ennätyksellisen kiinnostuksen herättänyt tapahtuma tarjosi osallistujille tietoa rahoitusmahdollisuuksista, käytännön kokemuksia onnistuneista hankkeista sekä",
+      "score": 16,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
       "tags": [
-        "pvm arvioitu"
+        "kyberturvallisuus",
+        "cyber"
       ]
     },
     {
@@ -332,6 +349,22 @@
       "keywords": "",
       "summary": "",
       "score": 23,
+      "topics": [
+        "Datasääntely"
+      ],
+      "tags": [
+        "AI Act"
+      ]
+    },
+    {
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "Italy's AI Act framework takes shape: What Legislative Decree No. 179/2026 means for organizations",
+      "url": "https://iapp.org/news/a/italys-ai-act-framework-takes-shape-what-legislative-decree-no-179-2026-means-for-organizations",
+      "date": "2026-10-26",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
       "topics": [
         "Datasääntely"
       ],
@@ -372,6 +405,35 @@
       ]
     },
     {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "Freedom of Scientific Research vs. Personal Data Protection – Conference 22.10.2026",
+      "url": "https://uodo.gov.pl/en/553/2300",
+      "date": "2026-10-22",
+      "keywords": "",
+      "summary": "",
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data",
+        "data protection"
+      ]
+    },
+    {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "Another Field Consultation Point on the map of Poland – this time we invite you to Gdynia 21.10.2026",
+      "url": "https://uodo.gov.pl/en/553/2302",
+      "date": "2026-10-21",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [],
+      "tags": []
+    },
+    {
       "court": "IAPP",
       "source": "IAPP",
       "title": "Securing NIS2, DORA compliance in the cloud supply chain",
@@ -386,6 +448,35 @@
       "tags": [
         "NIS2"
       ]
+    },
+    {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "Fraudsters impersonate the Personal Data Protection Office and want to extort data 20.10.2026",
+      "url": "https://uodo.gov.pl/en/553/2301",
+      "date": "2026-10-20",
+      "keywords": "",
+      "summary": "",
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data",
+        "data protection"
+      ]
+    },
+    {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "Join the 17th edition of the “Your Data—Your Concern” program 20.10.2026",
+      "url": "https://uodo.gov.pl/en/553/2299",
+      "date": "2026-10-20",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [],
+      "tags": []
     },
     {
       "court": "EDPB",
@@ -465,6 +556,23 @@
       ],
       "tags": [
         "cyber"
+      ]
+    },
+    {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "Personal Data Protection Office President’s Comments on the Draft Amendments to the Regulation on Energy Consumption Metering Systems 15.10.2026",
+      "url": "https://uodo.gov.pl/en/553/2304",
+      "date": "2026-10-15",
+      "keywords": "",
+      "summary": "",
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data",
+        "data protection"
       ]
     },
     {
@@ -597,24 +705,6 @@
       ],
       "tags": [
         "haavoittuvuus"
-      ]
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "The Essence of the Privacy Test: Experts from the Personal Data Protection Office at the Legislative Workshops 12.10.2026",
-      "url": "https://uodo.gov.pl/en/553/2286",
-      "date": "2026-10-12",
-      "keywords": "",
-      "summary": "",
-      "score": 19,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data",
-        "data protection",
-        "privacy"
       ]
     },
     {
@@ -769,22 +859,6 @@
       ]
     },
     {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "Don't count COPPA out: From privacy statute to safety tool",
-      "url": "https://iapp.org/news/a/dont-count-coppa-out-from-privacy-statute-to-safety-tool",
-      "date": "2026-10-08",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "privacy"
-      ]
-    },
-    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Atlassian-tuotteissa kriittinen hyväksikäytetty tiedostojenlukuhaavoittuvuus",
@@ -798,57 +872,6 @@
       ],
       "tags": [
         "haavoittuvuus"
-      ]
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "Record-low rate of complaints against decisions of the President of the Personal Data Protection Office being upheld 06.10.2026",
-      "url": "https://uodo.gov.pl/en/553/2297",
-      "date": "2026-10-06",
-      "keywords": "",
-      "summary": "",
-      "score": 16,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data",
-        "data protection"
-      ]
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "Not every personal data breach needs to be reported to the President of the Personal Data Protection Office 05.10.2026",
-      "url": "https://uodo.gov.pl/en/553/2284",
-      "date": "2026-10-05",
-      "keywords": "",
-      "summary": "",
-      "score": 16,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data",
-        "data protection"
-      ]
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "Administrative fine imposed for failure to comply with a decision of the President of Personal Data Protection Office 05.10.2026",
-      "url": "https://uodo.gov.pl/en/553/2290",
-      "date": "2026-10-05",
-      "keywords": "",
-      "summary": "",
-      "score": 16,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data",
-        "data protection"
       ]
     },
     {
@@ -881,23 +904,6 @@
       ],
       "tags": [
         "kyberturvallisuus"
-      ]
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "The Personal Data Protection Office Chairman Intervenes in Case Involving Personal Data in Pharmacy Systems 30.09.2026",
-      "url": "https://uodo.gov.pl/en/553/2294",
-      "date": "2026-09-30",
-      "keywords": "",
-      "summary": "",
-      "score": 16,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data",
-        "data protection"
       ]
     },
     {
@@ -1747,22 +1753,6 @@
       "tags": [
         "personal data",
         "data protection"
-      ]
-    },
-    {
-      "court": "Säädöskokoelma",
-      "source": "Finlex, säädöskokoelma",
-      "title": "581/2026, Laki henkilötietojen käsittelystä Puolustusvoimissa annetun lain muuttamisesta",
-      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/581",
-      "date": "2026-06-29",
-      "keywords": "",
-      "summary": "",
-      "score": 33,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "henkilötiet"
       ]
     }
   ]

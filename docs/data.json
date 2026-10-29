@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-28T11:19:03",
+  "generated": "2026-10-29T11:30:00",
   "window_days": 120,
   "sources": [
     {
@@ -39,7 +39,7 @@
       "name": "Hovioikeuksien ratkaisut",
       "court": "Hovioikeus",
       "ok": true,
-      "fetched": 98,
+      "fetched": 99,
       "error": ""
     },
     {
@@ -111,7 +111,7 @@
       "name": "Finlex, hallituksen esitykset",
       "court": "HE",
       "ok": true,
-      "fetched": 6,
+      "fetched": 8,
       "error": ""
     },
     {
@@ -183,7 +183,7 @@
       "name": "Helda (Helsingin yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 10,
+      "fetched": 9,
       "error": ""
     },
     {
@@ -215,7 +215,7 @@
       "name": "eRepo (Itä-Suomen yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 21,
+      "fetched": 23,
       "error": ""
     },
     {
@@ -239,7 +239,7 @@
       "name": "Osuva (Vaasan yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 19,
+      "fetched": 20,
       "error": ""
     },
     {
@@ -247,7 +247,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 79,
+      "fetched": 82,
       "error": ""
     },
     {
@@ -293,17 +293,80 @@
   ],
   "items": [
     {
+      "court": "TSV",
+      "source": "Tietosuojavaltuutetun toimisto",
+      "title": "Ajankohtaista tietoturvaloukkauksista: Maksukorttitietoja viedään verkkokauppahyökkäyksissä ja murrettuja Microsoft 365-tilejä hyödynnetään tilisiirtohuijauksissa",
+      "url": "https://tietosuoja.fi/-/ajankohtaista-tietoturvaloukkauksista-maksukorttitietoja-viedaan-verkkokauppahyokkayksissa-ja-murrettuja-microsoft-365-tileja-hyodynnetaan-tilisiirtohuijauksissa",
+      "date": "2026-10-29",
+      "keywords": "",
+      "summary": "",
+      "score": 33,
+      "topics": [],
+      "tags": []
+    },
+    {
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "Hallinto-oikeus: Verohallinto oli voinut kieltäytyä toimittamasta valittajan pyytämiä asiakirjoja sähköisessä muodossa Tietosuoja-asetus ei velvoittanut Verohallintoa luovuttamaan 860 sivun aineistoa ",
+      "url": "https://www.edilex.fi/uutiset/103626",
+      "date": "2026-10-29",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tietosuoja"
+      ]
+    },
+    {
       "court": "EDPS",
       "source": "Euroopan tietosuojavaltuutettu (EDPS)",
       "title": "Read the blogpost by Wojciech Wiewiórowski.",
       "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "keywords": "",
       "summary": "",
       "score": 23,
       "topics": [],
       "tags": [
         "pvm arvioitu"
+      ]
+    },
+    {
+      "court": "Julkaisu",
+      "source": "Osuva (Vaasan yliopisto)",
+      "title": "Antidopingtoiminnan henkilötietojen julkisuus tietosuojan koetinkivenä – kommentti apulaistietosuojavaltuutetun päätökseen",
+      "url": "https://osuva.uwasa.fi/handle/11111/21450",
+      "date": "2026-10-28",
+      "keywords": "Doping, Henkilötieto, Tietosuoja, Tietosuojavaltuutettu, Urheilu, fi=Julkisoikeus|en=Public Law|",
+      "summary": "Kirjoituksessa tarkastellaan apulaistietosuojavaltuutetun 4.8.2026 antamaa päätöstä, jossa arvioitiin Suomen urheilun eettinen keskus SUEK ry:n menettelyä urheilijan dopingrikkomukseen liittyvien henkilötietojen julkaisemisessa. Apulaistietosuojavaltuutettu hylkäsi yleisen edun ja suostumuksen henkilötietojen käsittelyperusteena, mutta hyväksyi sopimusperusteen. Julkaiseminen todettiin kuitenkin s",
+      "score": 31,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tärkeä",
+        "tietosuoja",
+        "henkilötiet",
+        "tietosuojavaltuutet"
+      ]
+    },
+    {
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "Notes from the AI Governance Center: Agentified cyberattacks",
+      "url": "https://iapp.org/news/a/notes-from-the-ai-governance-center-agentified-cyberattacks",
+      "date": "2026-10-28",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "cyber"
       ]
     },
     {
@@ -371,6 +434,18 @@
       "tags": [
         "AI Act"
       ]
+    },
+    {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "The Use of AI in Business – Meeting with the Polish Women Chamber of Commerce 23.10.2026",
+      "url": "https://uodo.gov.pl/en/553/2307",
+      "date": "2026-10-23",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [],
+      "tags": []
     },
     {
       "court": "IAPP",
@@ -495,6 +570,23 @@
       ]
     },
     {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "Presidential Veto Does Not Affect the Competences of the President of the Personal Data Protection Office Regarding the Transparency and Targeting of Political Advertising 16.10.2026",
+      "url": "https://uodo.gov.pl/en/553/2306",
+      "date": "2026-10-16",
+      "keywords": "",
+      "summary": "",
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data",
+        "data protection"
+      ]
+    },
+    {
       "court": "IAPP",
       "source": "IAPP",
       "title": "When a voice becomes data: How voiceprint litigation informs the design of data governance controls",
@@ -508,22 +600,6 @@
       ],
       "tags": [
         "data governance"
-      ]
-    },
-    {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "A view from DC: Time is running out to prepare for privacy audits",
-      "url": "https://iapp.org/news/a/a-view-from-dc-time-is-running-out-to-prepare-for-privacy-audits",
-      "date": "2026-10-16",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "privacy"
       ]
     },
     {
@@ -556,40 +632,6 @@
       ],
       "tags": [
         "cyber"
-      ]
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "Personal Data Protection Office President’s Comments on the Draft Amendments to the Regulation on Energy Consumption Metering Systems 15.10.2026",
-      "url": "https://uodo.gov.pl/en/553/2304",
-      "date": "2026-10-15",
-      "keywords": "",
-      "summary": "",
-      "score": 16,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data",
-        "data protection"
-      ]
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "We invite you to visit the Personal Data Protection Office consultation point in Katowice 14.10.2026",
-      "url": "https://uodo.gov.pl/en/553/2287",
-      "date": "2026-10-14",
-      "keywords": "",
-      "summary": "",
-      "score": 16,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data",
-        "data protection"
       ]
     },
     {

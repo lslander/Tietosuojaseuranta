@@ -4,26 +4,42 @@
 <link>https://lslander.github.io/Tietosuojaseuranta/</link>
 <description>Tietosuoja, teknologia ja datasääntely</description>
 <language>fi</language>
-<lastBuildDate>Thu, 29 Oct 2026 11:30:00 +0000</lastBuildDate>
+<lastBuildDate>Fri, 30 Oct 2026 11:23:11 +0000</lastBuildDate>
 <item>
-<title>TSV: Ajankohtaista tietoturvaloukkauksista: Maksukorttitietoja viedään verkkokauppahyökkäyksissä ja murrettuja Microsoft 365-tilejä hyödynnetään tilisiirtohuijauksissa</title>
-<link>https://tietosuoja.fi/-/ajankohtaista-tietoturvaloukkauksista-maksukorttitietoja-viedaan-verkkokauppahyokkayksissa-ja-murrettuja-microsoft-365-tileja-hyodynnetaan-tilisiirtohuijauksissa</link>
-<guid isPermaLink="true">https://tietosuoja.fi/-/ajankohtaista-tietoturvaloukkauksista-maksukorttitietoja-viedaan-verkkokauppahyokkayksissa-ja-murrettuja-microsoft-365-tileja-hyodynnetaan-tilisiirtohuijauksissa</guid>
-<pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
-<description></description>
-</item>
-<item>
-<title>Edilex: Hallinto-oikeus: Verohallinto oli voinut kieltäytyä toimittamasta valittajan pyytämiä asiakirjoja sähköisessä muodossa Tietosuoja-asetus ei velvoittanut Verohallintoa luovuttamaan 860 sivun aineistoa </title>
-<link>https://www.edilex.fi/uutiset/103626</link>
-<guid isPermaLink="true">https://www.edilex.fi/uutiset/103626</guid>
-<pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
+<title>Edilex: Tietosuojavaltuutetun toimiston ajankohtaista tietoturvaloukkauksista: Maksukorttitietoja viedään verkkokauppahyökkäyksissä ja murrettuja Microsoft 365 -tilejä hyödynnetään tilisiirtohuijauksissa</title>
+<link>https://www.edilex.fi/uutiset/103670</link>
+<guid isPermaLink="true">https://www.edilex.fi/uutiset/103670</guid>
+<pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>
+</item>
+<item>
+<title>Edilex: Hovioikeus: Asianomistajan henkilötietoja poliisin tietojärjestelmistä katsoneen poliisin menettely ei täyttänyt vainoamisen tunnusmerkistöä Käräjäoikeus oli katsonut poliisin syyllistyneen tietosuoja</title>
+<link>https://www.edilex.fi/uutiset/103633</link>
+<guid isPermaLink="true">https://www.edilex.fi/uutiset/103633</guid>
+<pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 44/2026</title>
+<link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-442026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
+<guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-442026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
+<pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
+<description>Viikon nostoissa varoitamme videopuheluista, joissa rikolliset esiintyvät poliiseina ja pankkien edustajina. Organisaatioita muistutamme Brotli- ja Node.js-haavoittuvuuksien riskeistä. Viikkoon mahtui myös hyviä uutisia: Tekstiviestien uusi Roskaposti-merkintä vaikeuttaa huijauksia.</description>
+<category>Kyberturvallisuus</category>
 </item>
 <item>
 <title>EDPS: Read the blogpost by Wojciech Wiewiórowski.</title>
 <link>https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</link>
 <guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</guid>
+<pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+</item>
+<item>
+<title>TSV: Ajankohtaista tietoturvaloukkauksista: Maksukorttitietoja viedään verkkokauppahyökkäyksissä ja murrettuja Microsoft 365-tilejä hyödynnetään tilisiirtohuijauksissa</title>
+<link>https://tietosuoja.fi/-/ajankohtaista-tietoturvaloukkauksista-maksukorttitietoja-viedaan-verkkokauppahyokkayksissa-ja-murrettuja-microsoft-365-tileja-hyodynnetaan-tilisiirtohuijauksissa</link>
+<guid isPermaLink="true">https://tietosuoja.fi/-/ajankohtaista-tietoturvaloukkauksista-maksukorttitietoja-viedaan-verkkokauppahyokkayksissa-ja-murrettuja-microsoft-365-tileja-hyodynnetaan-tilisiirtohuijauksissa</guid>
 <pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
 </item>
@@ -58,6 +74,14 @@
 <pubDate>Tue, 27 Oct 2026 09:00:00 +0000</pubDate>
 <description>Menestyksekkään EU-hankkeen resepti on yksinkertainen: ihmiset, ideat ja yhteistyö. Tämä ajatus oli keskeinen viesti Connect4Cyber-tapahtumassa, joka kokosi kyberturvallisuusalan toimijoita eri puolilta Eurooppaa Helsinkiin syyskuun lopulla. Ennätyksellisen kiinnostuksen herättänyt tapahtuma tarjosi osallistujille tietoa rahoitusmahdollisuuksista, käytännön kokemuksia onnistuneista hankkeista sekä</description>
 <category>Kyberturvallisuus</category>
+</item>
+<item>
+<title>EU-komissio: Commission accepts Temu&#x27;s action plan to remedy the breach of the Digital Services Act</title>
+<link>https://digital-strategy.ec.europa.eu/en/news/commission-accepts-temus-action-plan-remedy-breach-digital-services-act</link>
+<guid isPermaLink="true">https://digital-strategy.ec.europa.eu/en/news/commission-accepts-temus-action-plan-remedy-breach-digital-services-act</guid>
+<pubDate>Mon, 26 Oct 2026 09:00:00 +0000</pubDate>
+<description>Anonymous (not verified) Mon, 10/26/2026 - 10:28 The European Commission has accepted Temu&#x27;s action plan to comply with the Digital Services Act (DSA) and tackle the availability of illegal products online. Temu&#x27;s plan focuses on five measures to remedy its breach of the DSA. The company will carry out a platform-specific risk analysis. It will also use reliable metrics to evaluate the effectivene</description>
+<category>Datasääntely</category>
 </item>
 <item>
 <title>EDPS: Making AI visible: Fourth meeting of the AI Act Correspondents Network</title>
@@ -107,9 +131,32 @@
 <category>Tietosuoja</category>
 </item>
 <item>
+<title>UODO: “Personal Data Protection Office on tour across the country”: Lublin, Ćmińsk and Kielce on the route 22.10.2026</title>
+<link>https://uodo.gov.pl/en/553/2308</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2308</guid>
+<pubDate>Thu, 22 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>EU-komissio: Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act</title>
+<link>https://digital-strategy.ec.europa.eu/en/news/commission-investigate-how-bookingcom-combats-scams-and-fraud-under-digital-services-act</link>
+<guid isPermaLink="true">https://digital-strategy.ec.europa.eu/en/news/commission-investigate-how-bookingcom-combats-scams-and-fraud-under-digital-services-act</guid>
+<pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
+<description>Anonymous (not verified) Wed, 10/21/2026 - 12:06 The European Commission has opened formal proceedings to assess whether Booking.com may have breached the Digital Services Act (DSA) by not having diligently assessed or effectively mitigated risks related to fraudulent listings and phishing scams. The platform may also have breached the DSA when it comes to transparency because it did not clearly l</description>
+<category>Datasääntely</category>
+</item>
+<item>
 <title>UODO: Another Field Consultation Point on the map of Poland – this time we invite you to Gdynia 21.10.2026</title>
 <link>https://uodo.gov.pl/en/553/2302</link>
 <guid isPermaLink="true">https://uodo.gov.pl/en/553/2302</guid>
+<pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+</item>
+<item>
+<title>UODO: We all need to ensure online safety 21.10.2026</title>
+<link>https://uodo.gov.pl/en/553/2309</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2309</guid>
 <pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
 </item>
@@ -130,11 +177,12 @@
 <category>Tietosuoja</category>
 </item>
 <item>
-<title>UODO: Join the 17th edition of the “Your Data—Your Concern” program 20.10.2026</title>
-<link>https://uodo.gov.pl/en/553/2299</link>
-<guid isPermaLink="true">https://uodo.gov.pl/en/553/2299</guid>
-<pubDate>Tue, 20 Oct 2026 09:00:00 +0000</pubDate>
-<description></description>
+<title>EU-komissio: First harmonised standard supporting the AI Act published in the Official Journal</title>
+<link>https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal</link>
+<guid isPermaLink="true">https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal</guid>
+<pubDate>Mon, 19 Oct 2026 09:00:00 +0000</pubDate>
+<description>Anonymous (not verified) Mon, 10/19/2026 - 09:37 The European Commission has published the reference to the first harmonised standard supporting the implementation of the AI Act in the Official Journal of the European Union. The standard, EN 18286:2026 - Artificial intelligence - Quality management system for EU AI Act regulatory purposes , developed by CEN and CENELEC, provides a clear legal path</description>
+<category>Datasääntely</category>
 </item>
 <item>
 <title>EDPB: Norwegian DPA fines Xandr EUR 8 600 000 for unlawful processing of personal data</title>
@@ -143,22 +191,6 @@
 <pubDate>Fri, 16 Oct 2026 09:00:00 +0000</pubDate>
 <description>ikerinar Fri, 16/10/2026 - 09:52</description>
 <category>Tietosuoja</category>
-</item>
-<item>
-<title>UODO: Presidential Veto Does Not Affect the Competences of the President of the Personal Data Protection Office Regarding the Transparency and Targeting of Political Advertising 16.10.2026</title>
-<link>https://uodo.gov.pl/en/553/2306</link>
-<guid isPermaLink="true">https://uodo.gov.pl/en/553/2306</guid>
-<pubDate>Fri, 16 Oct 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>IAPP: When a voice becomes data: How voiceprint litigation informs the design of data governance controls</title>
-<link>https://iapp.org/news/a/when-a-voice-becomes-data-how-voiceprint-litigation-informs-the-design-of-data-governance-controls</link>
-<guid isPermaLink="true">https://iapp.org/news/a/when-a-voice-becomes-data-how-voiceprint-litigation-informs-the-design-of-data-governance-controls</guid>
-<pubDate>Fri, 16 Oct 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Datasääntely</category>
 </item>
 <item>
 <title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 42/2026</title>
@@ -602,38 +634,6 @@ Lisäksi tällä viikolla julkaistu heinäkuun Kybersää osoittaa sateisen syks
 <guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kesalomien-jalkeen-tietojenkalasteluyritykset-lisaantyvat?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
 <pubDate>Fri, 07 Aug 2026 09:00:00 +0000</pubDate>
 <description>Kesälomakauden päättyminen näkyy vuosittain myös kyberrikollisten toiminnassa. Työarkeen palaavien kiire tarjoaa rikollisille otollisen tilaisuuden kalastella käyttäjätunnuksia ja muita luottamuksellisia tietoja.</description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>Kyberturvallisuuskeskus: Mitä tekoälyn tekemiksi kutsutut tietomurrot oikeastaan kertovat?</title>
-<link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/mita-tekoalyn-tekemiksi-kutsutut-tietomurrot-oikeastaan-kertovat?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
-<guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/mita-tekoalyn-tekemiksi-kutsutut-tietomurrot-oikeastaan-kertovat?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
-<pubDate>Fri, 31 Jul 2026 09:00:00 +0000</pubDate>
-<description>Julkisuudessa on viime aikoina keskusteltu tapauksista, joissa tekoälyjärjestelmät ovat turvallisuustesteissä toteuttaneet toimia, jotka muistuttavat tietomurtoja tai luvattomia tunkeutumisyrityksiä. Tapaukset ovat herättäneet kysymyksiä siitä, kuinka itsenäisesti tekoäly kykenee toimimaan ja millaisia riskejä sen käyttöön liittyy kyberturvallisuuden näkökulmasta.</description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>Kyberturvallisuuskeskus: Kyberkestävyyssäädöksen vaatimukset selkiytyvät - EU-komissio julkaisi uuden soveltamisohjeen</title>
-<link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberkestavyyssaadoksen-vaatimukset-selkiytyvat-eu-komissio-julkaisi-uuden-soveltamisohjeen?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
-<guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberkestavyyssaadoksen-vaatimukset-selkiytyvat-eu-komissio-julkaisi-uuden-soveltamisohjeen?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
-<pubDate>Wed, 29 Jul 2026 09:00:00 +0000</pubDate>
-<description>Euroopan komissio on julkaissut uuden soveltamisohjeen kyberkestävyyssäädöksen (Cyber Resilience Act, CRA) toimeenpanon tueksi. Ohjeistus on suunnattu erityisesti valmistajille, ohjelmistokehittäjille sekä muille yrityksille, jotka saattavat markkinoille digitaalisia tuotteita. Ohjeistus tarjoaa yrityksille konkreettisia neuvoja siihen, miten ne voivat valmistautua tuleviin kyberturvallisuusvaatim</description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>Kyberturvallisuuskeskus: Haavoittuvuuskilpailussa nopeus ratkaisee</title>
-<link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/haavoittuvuuskilpailussa-nopeus-ratkaisee?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
-<guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/haavoittuvuuskilpailussa-nopeus-ratkaisee?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
-<pubDate>Fri, 24 Jul 2026 09:00:00 +0000</pubDate>
-<description>Kyberturvallisuuden vanhan sanonnan mukaan kello alkaa tikittää silloin, kun haavoittuvuus löydetään. Nykyisessä uhkaympäristössä sekä teknologisen kehityksen myötä sekuntiviisari lähtee liikkeelle jo paljon aikaisemmin. Ensimmäiset sekunnit kuluvat siitä hetkestä lähtien, kun haavoittuvuus syntyy. Oli haavoittuvuuden syynä sitten ohjelmistovirhe, epäonnistunut päivitys tai jokin muu syy. Kun haav</description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>ENISA: Procurement guidelines for the cybersecurity of hospitals and healthcare providers</title>
-<link>https://www.enisa.europa.eu/publications/procurement-guidelines-for-the-cybersecurity-of-hospitals-and-healthcare-providers</link>
-<guid isPermaLink="true">https://www.enisa.europa.eu/publications/procurement-guidelines-for-the-cybersecurity-of-hospitals-and-healthcare-providers</guid>
-<pubDate>Wed, 22 Jul 2026 09:00:00 +0000</pubDate>
-<description></description>
 <category>Kyberturvallisuus</category>
 </item>
 </channel></rss>

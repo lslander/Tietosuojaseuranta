@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-29T11:30:00",
+  "generated": "2026-10-30T11:23:11",
   "window_days": 120,
   "sources": [
     {
@@ -86,9 +86,9 @@
       "id": "ec-digital",
       "name": "Komissio, digitaalinen strategia",
       "court": "EU-komissio",
-      "ok": false,
-      "fetched": 0,
-      "error": "403 Client Error: Forbidden for url: https://digital-strategy.ec.europa.eu/en/rss.xml"
+      "ok": true,
+      "fetched": 10,
+      "error": ""
     },
     {
       "id": "ep",
@@ -103,7 +103,7 @@
       "name": "Finlex, säädöskokoelma",
       "court": "Säädöskokoelma",
       "ok": true,
-      "fetched": 21,
+      "fetched": 19,
       "error": ""
     },
     {
@@ -247,7 +247,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 82,
+      "fetched": 83,
       "error": ""
     },
     {
@@ -293,6 +293,71 @@
   ],
   "items": [
     {
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "Tietosuojavaltuutetun toimiston ajankohtaista tietoturvaloukkauksista: Maksukorttitietoja viedään verkkokauppahyökkäyksissä ja murrettuja Microsoft 365 -tilejä hyödynnetään tilisiirtohuijauksissa",
+      "url": "https://www.edilex.fi/uutiset/103670",
+      "date": "2026-10-30",
+      "keywords": "",
+      "summary": "",
+      "score": 38,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tärkeä",
+        "tietosuoja",
+        "tietosuojavaltuutet"
+      ]
+    },
+    {
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "Hovioikeus: Asianomistajan henkilötietoja poliisin tietojärjestelmistä katsoneen poliisin menettely ei täyttänyt vainoamisen tunnusmerkistöä Käräjäoikeus oli katsonut poliisin syyllistyneen tietosuoja",
+      "url": "https://www.edilex.fi/uutiset/103633",
+      "date": "2026-10-30",
+      "keywords": "",
+      "summary": "",
+      "score": 26,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tietosuoja",
+        "henkilötiet"
+      ]
+    },
+    {
+      "court": "Kyberturvallisuuskeskus",
+      "source": "Kyberturvallisuuskeskus",
+      "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 44/2026",
+      "url": "https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-442026?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
+      "date": "2026-10-30",
+      "keywords": "",
+      "summary": "Viikon nostoissa varoitamme videopuheluista, joissa rikolliset esiintyvät poliiseina ja pankkien edustajina. Organisaatioita muistutamme Brotli- ja Node.js-haavoittuvuuksien riskeistä. Viikkoon mahtui myös hyviä uutisia: Tekstiviestien uusi Roskaposti-merkintä vaikeuttaa huijauksia.",
+      "score": 13,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "kyberturvallisuus"
+      ]
+    },
+    {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "Read the blogpost by Wojciech Wiewiórowski.",
+      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
+      "date": "2026-10-30",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [],
+      "tags": [
+        "pvm arvioitu"
+      ]
+    },
+    {
       "court": "TSV",
       "source": "Tietosuojavaltuutetun toimisto",
       "title": "Ajankohtaista tietoturvaloukkauksista: Maksukorttitietoja viedään verkkokauppahyökkäyksissä ja murrettuja Microsoft 365-tilejä hyödynnetään tilisiirtohuijauksissa",
@@ -303,36 +368,6 @@
       "score": 33,
       "topics": [],
       "tags": []
-    },
-    {
-      "court": "Edilex",
-      "source": "Edilex, uutiset",
-      "title": "Hallinto-oikeus: Verohallinto oli voinut kieltäytyä toimittamasta valittajan pyytämiä asiakirjoja sähköisessä muodossa Tietosuoja-asetus ei velvoittanut Verohallintoa luovuttamaan 860 sivun aineistoa ",
-      "url": "https://www.edilex.fi/uutiset/103626",
-      "date": "2026-10-29",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tietosuoja"
-      ]
-    },
-    {
-      "court": "EDPS",
-      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
-      "title": "Read the blogpost by Wojciech Wiewiórowski.",
-      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
-      "date": "2026-10-29",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [],
-      "tags": [
-        "pvm arvioitu"
-      ]
     },
     {
       "court": "Julkaisu",
@@ -401,6 +436,22 @@
       "tags": [
         "kyberturvallisuus",
         "cyber"
+      ]
+    },
+    {
+      "court": "EU-komissio",
+      "source": "Komissio, digitaalinen strategia",
+      "title": "Commission accepts Temu's action plan to remedy the breach of the Digital Services Act",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-accepts-temus-action-plan-remedy-breach-digital-services-act",
+      "date": "2026-10-26",
+      "keywords": "",
+      "summary": "Anonymous (not verified) Mon, 10/26/2026 - 10:28 The European Commission has accepted Temu's action plan to comply with the Digital Services Act (DSA) and tackle the availability of illegal products online. Temu's plan focuses on five measures to remedy its breach of the DSA. The company will carry out a platform-specific risk analysis. It will also use reliable metrics to evaluate the effectivene",
+      "score": 23,
+      "topics": [
+        "Datasääntely"
+      ],
+      "tags": [
+        "DSA"
       ]
     },
     {
@@ -499,8 +550,53 @@
     {
       "court": "UODO",
       "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "“Personal Data Protection Office on tour across the country”: Lublin, Ćmińsk and Kielce on the route 22.10.2026",
+      "url": "https://uodo.gov.pl/en/553/2308",
+      "date": "2026-10-22",
+      "keywords": "",
+      "summary": "",
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data",
+        "data protection"
+      ]
+    },
+    {
+      "court": "EU-komissio",
+      "source": "Komissio, digitaalinen strategia",
+      "title": "Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-investigate-how-bookingcom-combats-scams-and-fraud-under-digital-services-act",
+      "date": "2026-10-21",
+      "keywords": "",
+      "summary": "Anonymous (not verified) Wed, 10/21/2026 - 12:06 The European Commission has opened formal proceedings to assess whether Booking.com may have breached the Digital Services Act (DSA) by not having diligently assessed or effectively mitigated risks related to fraudulent listings and phishing scams. The platform may also have breached the DSA when it comes to transparency because it did not clearly l",
+      "score": 23,
+      "topics": [
+        "Datasääntely"
+      ],
+      "tags": [
+        "DSA"
+      ]
+    },
+    {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
       "title": "Another Field Consultation Point on the map of Poland – this time we invite you to Gdynia 21.10.2026",
       "url": "https://uodo.gov.pl/en/553/2302",
+      "date": "2026-10-21",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [],
+      "tags": []
+    },
+    {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "We all need to ensure online safety 21.10.2026",
+      "url": "https://uodo.gov.pl/en/553/2309",
       "date": "2026-10-21",
       "keywords": "",
       "summary": "",
@@ -542,16 +638,20 @@
       ]
     },
     {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "Join the 17th edition of the “Your Data—Your Concern” program 20.10.2026",
-      "url": "https://uodo.gov.pl/en/553/2299",
-      "date": "2026-10-20",
+      "court": "EU-komissio",
+      "source": "Komissio, digitaalinen strategia",
+      "title": "First harmonised standard supporting the AI Act published in the Official Journal",
+      "url": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
+      "date": "2026-10-19",
       "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [],
-      "tags": []
+      "summary": "Anonymous (not verified) Mon, 10/19/2026 - 09:37 The European Commission has published the reference to the first harmonised standard supporting the implementation of the AI Act in the Official Journal of the European Union. The standard, EN 18286:2026 - Artificial intelligence - Quality management system for EU AI Act regulatory purposes , developed by CEN and CENELEC, provides a clear legal path",
+      "score": 23,
+      "topics": [
+        "Datasääntely"
+      ],
+      "tags": [
+        "AI Act"
+      ]
     },
     {
       "court": "EDPB",
@@ -567,39 +667,6 @@
       ],
       "tags": [
         "personal data"
-      ]
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "Presidential Veto Does Not Affect the Competences of the President of the Personal Data Protection Office Regarding the Transparency and Targeting of Political Advertising 16.10.2026",
-      "url": "https://uodo.gov.pl/en/553/2306",
-      "date": "2026-10-16",
-      "keywords": "",
-      "summary": "",
-      "score": 16,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data",
-        "data protection"
-      ]
-    },
-    {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "When a voice becomes data: How voiceprint litigation informs the design of data governance controls",
-      "url": "https://iapp.org/news/a/when-a-voice-becomes-data-how-voiceprint-litigation-informs-the-design-of-data-governance-controls",
-      "date": "2026-10-16",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Datasääntely"
-      ],
-      "tags": [
-        "data governance"
       ]
     },
     {

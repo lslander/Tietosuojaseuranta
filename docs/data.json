@@ -1,5 +1,5 @@
 {
-  "generated": "2026-10-30T11:23:11",
+  "generated": "2026-11-02T13:28:15",
   "window_days": 120,
   "sources": [
     {
@@ -103,7 +103,7 @@
       "name": "Finlex, säädöskokoelma",
       "court": "Säädöskokoelma",
       "ok": true,
-      "fetched": 19,
+      "fetched": 18,
       "error": ""
     },
     {
@@ -111,7 +111,7 @@
       "name": "Finlex, hallituksen esitykset",
       "court": "HE",
       "ok": true,
-      "fetched": 8,
+      "fetched": 7,
       "error": ""
     },
     {
@@ -183,7 +183,7 @@
       "name": "Helda (Helsingin yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 9,
+      "fetched": 7,
       "error": ""
     },
     {
@@ -247,7 +247,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 83,
+      "fetched": 79,
       "error": ""
     },
     {
@@ -293,6 +293,20 @@
   ],
   "items": [
     {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "Read the blogpost by Wojciech Wiewiórowski.",
+      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
+      "date": "2026-11-02",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [],
+      "tags": [
+        "pvm arvioitu"
+      ]
+    },
+    {
       "court": "Edilex",
       "source": "Edilex, uutiset",
       "title": "Tietosuojavaltuutetun toimiston ajankohtaista tietoturvaloukkauksista: Maksukorttitietoja viedään verkkokauppahyökkäyksissä ja murrettuja Microsoft 365 -tilejä hyödynnetään tilisiirtohuijauksissa",
@@ -313,18 +327,65 @@
     {
       "court": "Edilex",
       "source": "Edilex, uutiset",
-      "title": "Hovioikeus: Asianomistajan henkilötietoja poliisin tietojärjestelmistä katsoneen poliisin menettely ei täyttänyt vainoamisen tunnusmerkistöä Käräjäoikeus oli katsonut poliisin syyllistyneen tietosuoja",
+      "title": "Kyberturvallisuuskeskuksen viikkokatsaus 44/2026: videopuheluissa rikolliset esiintyvät poliiseina ja pankkien edustajina",
+      "url": "https://www.edilex.fi/uutiset/103671",
+      "date": "2026-10-30",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "kyberturvallisuus"
+      ]
+    },
+    {
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "Hovioikeus: Asianomistajan henkilötietoja poliisin tietojärjestelmistä katsoneen poliisin menettely ei täyttänyt vainoamisen tunnusmerkistöä",
       "url": "https://www.edilex.fi/uutiset/103633",
       "date": "2026-10-30",
       "keywords": "",
       "summary": "",
-      "score": 26,
+      "score": 23,
       "topics": [
         "Tietosuoja"
       ],
       "tags": [
-        "tietosuoja",
         "henkilötiet"
+      ]
+    },
+    {
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "A view from DC: The one-two punch is a knockout for driver privacy",
+      "url": "https://iapp.org/news/a/a-view-from-dc-the-one-two-punch-is-a-knockout-for-driver-privacy",
+      "date": "2026-10-30",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "privacy"
+      ]
+    },
+    {
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "Notes from the IAPP Canada: Researcher bridges privacy protection and data innovation",
+      "url": "https://iapp.org/news/a/notes-from-the-iapp-canada-khaled-el-emam-bridges-privacy-protection-and-data-innovation",
+      "date": "2026-10-30",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "privacy"
       ]
     },
     {
@@ -341,20 +402,6 @@
       ],
       "tags": [
         "kyberturvallisuus"
-      ]
-    },
-    {
-      "court": "EDPS",
-      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
-      "title": "Read the blogpost by Wojciech Wiewiórowski.",
-      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
-      "date": "2026-10-30",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [],
-      "tags": [
-        "pvm arvioitu"
       ]
     },
     {
@@ -1845,23 +1892,6 @@
       ],
       "tags": [
         "cyber"
-      ]
-    },
-    {
-      "court": "Julkaisu",
-      "source": "Helda, oikeustieteellinen tiedekunta",
-      "title": "Safeguarding vulnerable data subjects in the digital age : The evolving controllers’ responsibilities under European Union data protection law",
-      "url": "http://hdl.handle.net/10138/635542",
-      "date": "2026-07-02",
-      "keywords": "law, Doctoral Programme in Law, Oikeustieteen tohtoriohjelma, Doktorandprogrammet i juridik, 513 Oikeustiede, 513 Juridik, 513 Law",
-      "summary": "This doctoral dissertation examines how European Union (EU) data protection law should interpret, calibrate, and operationalise the responsibilities of data controllers when personal data processing affects individuals in vulnerable positions in the digital age. Contemporary data-processing environments—shaped by artificial intelligence, automated decision-making, platform governance, and data-int",
-      "score": 16,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data",
-        "data protection"
       ]
     }
   ]

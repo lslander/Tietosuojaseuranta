@@ -4,7 +4,14 @@
 <link>https://lslander.github.io/Tietosuojaseuranta/</link>
 <description>Tietosuoja, teknologia ja datasääntely</description>
 <language>fi</language>
-<lastBuildDate>Fri, 30 Oct 2026 11:23:11 +0000</lastBuildDate>
+<lastBuildDate>Mon, 02 Nov 2026 13:28:15 +0000</lastBuildDate>
+<item>
+<title>EDPS: Read the blogpost by Wojciech Wiewiórowski.</title>
+<link>https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</link>
+<guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</guid>
+<pubDate>Mon, 02 Nov 2026 09:00:00 +0000</pubDate>
+<description></description>
+</item>
 <item>
 <title>Edilex: Tietosuojavaltuutetun toimiston ajankohtaista tietoturvaloukkauksista: Maksukorttitietoja viedään verkkokauppahyökkäyksissä ja murrettuja Microsoft 365 -tilejä hyödynnetään tilisiirtohuijauksissa</title>
 <link>https://www.edilex.fi/uutiset/103670</link>
@@ -14,9 +21,33 @@
 <category>Tietosuoja</category>
 </item>
 <item>
-<title>Edilex: Hovioikeus: Asianomistajan henkilötietoja poliisin tietojärjestelmistä katsoneen poliisin menettely ei täyttänyt vainoamisen tunnusmerkistöä Käräjäoikeus oli katsonut poliisin syyllistyneen tietosuoja</title>
+<title>Edilex: Kyberturvallisuuskeskuksen viikkokatsaus 44/2026: videopuheluissa rikolliset esiintyvät poliiseina ja pankkien edustajina</title>
+<link>https://www.edilex.fi/uutiset/103671</link>
+<guid isPermaLink="true">https://www.edilex.fi/uutiset/103671</guid>
+<pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Kyberturvallisuus</category>
+</item>
+<item>
+<title>Edilex: Hovioikeus: Asianomistajan henkilötietoja poliisin tietojärjestelmistä katsoneen poliisin menettely ei täyttänyt vainoamisen tunnusmerkistöä</title>
 <link>https://www.edilex.fi/uutiset/103633</link>
 <guid isPermaLink="true">https://www.edilex.fi/uutiset/103633</guid>
+<pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>IAPP: A view from DC: The one-two punch is a knockout for driver privacy</title>
+<link>https://iapp.org/news/a/a-view-from-dc-the-one-two-punch-is-a-knockout-for-driver-privacy</link>
+<guid isPermaLink="true">https://iapp.org/news/a/a-view-from-dc-the-one-two-punch-is-a-knockout-for-driver-privacy</guid>
+<pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>IAPP: Notes from the IAPP Canada: Researcher bridges privacy protection and data innovation</title>
+<link>https://iapp.org/news/a/notes-from-the-iapp-canada-khaled-el-emam-bridges-privacy-protection-and-data-innovation</link>
+<guid isPermaLink="true">https://iapp.org/news/a/notes-from-the-iapp-canada-khaled-el-emam-bridges-privacy-protection-and-data-innovation</guid>
 <pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>
@@ -28,13 +59,6 @@
 <pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
 <description>Viikon nostoissa varoitamme videopuheluista, joissa rikolliset esiintyvät poliiseina ja pankkien edustajina. Organisaatioita muistutamme Brotli- ja Node.js-haavoittuvuuksien riskeistä. Viikkoon mahtui myös hyviä uutisia: Tekstiviestien uusi Roskaposti-merkintä vaikeuttaa huijauksia.</description>
 <category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>EDPS: Read the blogpost by Wojciech Wiewiórowski.</title>
-<link>https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</link>
-<guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</guid>
-<pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
-<description></description>
 </item>
 <item>
 <title>TSV: Ajankohtaista tietoturvaloukkauksista: Maksukorttitietoja viedään verkkokauppahyökkäyksissä ja murrettuja Microsoft 365-tilejä hyödynnetään tilisiirtohuijauksissa</title>
@@ -610,30 +634,6 @@
 <pubDate>Fri, 14 Aug 2026 09:00:00 +0000</pubDate>
 <description>Tällä viikolla kerromme tietomurroista, joissa verkkosivupalvelimet on valjastettu jakamaan haittaohjelmia verkkosivujen selaajille. Yksinkertaiset varotoimet auttavat suojautumaan haittaohjelman uhkaa vastaan. Kehotamme myös valppauteen pikaviestinpalvelun uusia ominaisuuksia käyttäessä.
 Lisäksi tällä viikolla julkaistu heinäkuun Kybersää osoittaa sateisen syksyn merkkejä.</description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>Kyberturvallisuuskeskus: Heinäkuun Kybersää 2026</title>
-<link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/heinakuun-kybersaa-2026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
-<guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/heinakuun-kybersaa-2026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
-<pubDate>Thu, 13 Aug 2026 09:00:00 +0000</pubDate>
-<description>Heinäkuussa kyberin kentällä nähtiin saderrintamia. Kyberturvallisuuskeskukselle tehtyjen kiristyshaittaohjelmailmoitusten määrä kasvoi. Myös haavoittuvuuksien määrä on jatkuvassa nousussa, mikä näkyy myös Kyberturvallisuuskeskuksen jakamien haavoittuvuustiedotteiden määrässä.</description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus - 32/2026</title>
-<link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-322026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
-<guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-322026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
-<pubDate>Fri, 07 Aug 2026 09:00:00 +0000</pubDate>
-<description>Tällä viikolla muistutamme lomilta paluun yhteydessä yleistyvistä huijauksista sekä tietojenkalastelusta. Nostamme esiin npm-ekosysteemin kohdistuneen uuden toimitusketjuhyökkäyksen sekä kerromme, miten yksikin suojaamaton laite voi avata tien verkkoon. Kerromme lisäksi tälläkin viikolla esiin nousseista ClickFix-tartuntatapauksista. Lopuksi kerromme EU-komission julkaisemasta soveltamisohjeesta j</description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>Kyberturvallisuuskeskus: Kesälomien jälkeen tietojenkalasteluyritykset lisääntyvät</title>
-<link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kesalomien-jalkeen-tietojenkalasteluyritykset-lisaantyvat?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
-<guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kesalomien-jalkeen-tietojenkalasteluyritykset-lisaantyvat?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
-<pubDate>Fri, 07 Aug 2026 09:00:00 +0000</pubDate>
-<description>Kesälomakauden päättyminen näkyy vuosittain myös kyberrikollisten toiminnassa. Työarkeen palaavien kiire tarjoaa rikollisille otollisen tilaisuuden kalastella käyttäjätunnuksia ja muita luottamuksellisia tietoja.</description>
 <category>Kyberturvallisuus</category>
 </item>
 </channel></rss>

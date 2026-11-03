@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-02T13:28:15",
+  "generated": "2026-11-03T12:46:42",
   "window_days": 120,
   "sources": [
     {
@@ -103,7 +103,7 @@
       "name": "Finlex, säädöskokoelma",
       "court": "Säädöskokoelma",
       "ok": true,
-      "fetched": 18,
+      "fetched": 22,
       "error": ""
     },
     {
@@ -215,7 +215,7 @@
       "name": "eRepo (Itä-Suomen yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 23,
+      "fetched": 25,
       "error": ""
     },
     {
@@ -239,7 +239,7 @@
       "name": "Osuva (Vaasan yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 20,
+      "fetched": 19,
       "error": ""
     },
     {
@@ -247,7 +247,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 79,
+      "fetched": 78,
       "error": ""
     },
     {
@@ -293,17 +293,69 @@
   ],
   "items": [
     {
+      "court": "Asianajajaliitto",
+      "source": "Suomen Asianajajaliitto",
+      "title": "Tietosuoja ja kyberturvallisuus asianajajan erikoistumisalueina",
+      "url": "https://asianajajat.fi/2026/11/03/tietosuoja-ja-kyberturvallisuus-asianajajan-erikoistumisalueina/",
+      "date": "2026-11-03",
+      "keywords": "",
+      "summary": "Artikkeli  julkaistiin ensimmäisen kerran Suomen Asianajajat .",
+      "score": 16,
+      "topics": [
+        "Tietosuoja",
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "tietosuoja",
+        "kyberturvallisuus"
+      ]
+    },
+    {
+      "court": "Kyberturvallisuuskeskus",
+      "source": "Kyberturvallisuuskeskus",
+      "title": "IoT- ja OT-ympäristöjen tietoturva alkaa laitteiden suojaamisesta",
+      "url": "https://www.kyberturvallisuuskeskus.fi/fi/uutiset/iot-ja-ot-ymparistojen-tietoturva-alkaa-laitteiden-suojaamisesta?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
+      "date": "2026-11-03",
+      "keywords": "",
+      "summary": "Lokakuussa 2026 Euroopassa nähtiin laajoja kyberhyökkäyksiä kauppojen kylmäjärjestelmiin. Hyökkääjät pääsivät käsiksi etäohjattaviin laitteisiin ja muuttivat niiden lämpötila- ja sulatusasetuksia. Seurauksena oli elintarvikkeiden pilaantumisia ja merkittäviä taloudellisia vahinkoja. Marraskuun alussa vastaavia hyökkäyksiä raportoitiin jälleen useissa Euroopan maissa, myös Virossa. Vastaavanlaisia ",
+      "score": 13,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "kyberhyökkäy"
+      ]
+    },
+    {
       "court": "EDPS",
       "source": "Euroopan tietosuojavaltuutettu (EDPS)",
       "title": "Read the blogpost by Wojciech Wiewiórowski.",
       "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
-      "date": "2026-11-02",
+      "date": "2026-11-03",
       "keywords": "",
       "summary": "",
       "score": 23,
       "topics": [],
       "tags": [
         "pvm arvioitu"
+      ]
+    },
+    {
+      "court": "TSV",
+      "source": "Tietosuojavaltuutetun toimisto",
+      "title": "Apulaistietosuojavaltuutettu: Turvallisuusviranomaisten mahdollisia pilvisiirtymiä on valmisteltava erityisen huolellisesti",
+      "url": "https://tietosuoja.fi/-/apulaistietosuojavaltuutettu-turvallisuusviranomaisten-mahdollisia-pilvisiirtymia-on-valmisteltava-erityisen-huolellisesti",
+      "date": "2026-11-02",
+      "keywords": "",
+      "summary": "",
+      "score": 48,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tärkeä",
+        "tietosuoja",
+        "tietosuojavaltuutet"
       ]
     },
     {
@@ -415,6 +467,22 @@
       "score": 33,
       "topics": [],
       "tags": []
+    },
+    {
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "Hallinto-oikeus: Verohallinto oli voinut kieltäytyä toimittamasta valittajan pyytämiä asiakirjoja sähköisessä muodossa Tietosuoja-asetus ei velvoittanut Verohallintoa luovuttamaan 860 sivun aineistoa ",
+      "url": "https://www.edilex.fi/uutiset/103626",
+      "date": "2026-10-29",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tietosuoja"
+      ]
     },
     {
       "court": "Julkaisu",
@@ -999,22 +1067,6 @@
       "tags": []
     },
     {
-      "court": "EUT",
-      "source": "Unionin tuomioistuimen lehdistötiedotteet",
-      "title": "145/2026 : 8 October 2026 - Opinion of the Advocate General at the Court Laila Medina in Case C-222/25",
-      "url": "https://curia.europa.eu/site/jcms/p1_1000088509",
-      "date": "2026-10-08",
-      "keywords": "",
-      "summary": "Rahapesu Andmebüroo Approximation of laws Advocate General Medina: The Law Enforcement Directive  applies to the processing of personal data by the Financial Intelligence Units (FIUs) in the exercise of their mission to prevent, detect and combat money laundering and terrorist financing",
-      "score": 13,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data"
-      ]
-    },
-    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Atlassian-tuotteissa kriittinen hyväksikäytetty tiedostojenlukuhaavoittuvuus",
@@ -1499,22 +1551,6 @@
       ],
       "tags": [
         "kyberturvallisuus"
-      ]
-    },
-    {
-      "court": "Julkaisu",
-      "source": "Osuva (Vaasan yliopisto)",
-      "title": "Who Is Really Playing in the Sandbox?",
-      "url": "https://osuva.uwasa.fi/handle/11111/21197",
-      "date": "2026-08-19",
-      "keywords": "Regulatory sandboxes, AI regulatory sandboxes, EU AI Act, regulation of AI, soft-law, AI regulatory challenges, regulation of new technologies, company’s perspective to AI regulation, testing regulatory regime, fi=Talousoikeus|en=Business Law|",
-      "summary": "This paper examines the conflicting objectives within the European Union’s AI regulatory sandboxes established under the AI Act. Although these sandboxes are intended to promote both innovation and legal certainty, they must balance the needs of two very different stakeholders, regulators and companies. The purpose of the paper was to analyse these conflicting goals and propose step-by-step proced",
-      "score": 13,
-      "topics": [
-        "Datasääntely"
-      ],
-      "tags": [
-        "AI Act"
       ]
     },
     {

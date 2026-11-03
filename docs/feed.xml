@@ -4,13 +4,38 @@
 <link>https://lslander.github.io/Tietosuojaseuranta/</link>
 <description>Tietosuoja, teknologia ja datasääntely</description>
 <language>fi</language>
-<lastBuildDate>Mon, 02 Nov 2026 13:28:15 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 12:46:42 +0000</lastBuildDate>
+<item>
+<title>Asianajajaliitto: Tietosuoja ja kyberturvallisuus asianajajan erikoistumisalueina</title>
+<link>https://asianajajat.fi/2026/11/03/tietosuoja-ja-kyberturvallisuus-asianajajan-erikoistumisalueina/</link>
+<guid isPermaLink="true">https://asianajajat.fi/2026/11/03/tietosuoja-ja-kyberturvallisuus-asianajajan-erikoistumisalueina/</guid>
+<pubDate>Tue, 03 Nov 2026 09:00:00 +0000</pubDate>
+<description>Artikkeli  julkaistiin ensimmäisen kerran Suomen Asianajajat .</description>
+<category>Tietosuoja</category>
+<category>Kyberturvallisuus</category>
+</item>
+<item>
+<title>Kyberturvallisuuskeskus: IoT- ja OT-ympäristöjen tietoturva alkaa laitteiden suojaamisesta</title>
+<link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/iot-ja-ot-ymparistojen-tietoturva-alkaa-laitteiden-suojaamisesta?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
+<guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/iot-ja-ot-ymparistojen-tietoturva-alkaa-laitteiden-suojaamisesta?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
+<pubDate>Tue, 03 Nov 2026 09:00:00 +0000</pubDate>
+<description>Lokakuussa 2026 Euroopassa nähtiin laajoja kyberhyökkäyksiä kauppojen kylmäjärjestelmiin. Hyökkääjät pääsivät käsiksi etäohjattaviin laitteisiin ja muuttivat niiden lämpötila- ja sulatusasetuksia. Seurauksena oli elintarvikkeiden pilaantumisia ja merkittäviä taloudellisia vahinkoja. Marraskuun alussa vastaavia hyökkäyksiä raportoitiin jälleen useissa Euroopan maissa, myös Virossa. Vastaavanlaisia </description>
+<category>Kyberturvallisuus</category>
+</item>
 <item>
 <title>EDPS: Read the blogpost by Wojciech Wiewiórowski.</title>
 <link>https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</link>
 <guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</guid>
+<pubDate>Tue, 03 Nov 2026 09:00:00 +0000</pubDate>
+<description></description>
+</item>
+<item>
+<title>TSV: Apulaistietosuojavaltuutettu: Turvallisuusviranomaisten mahdollisia pilvisiirtymiä on valmisteltava erityisen huolellisesti</title>
+<link>https://tietosuoja.fi/-/apulaistietosuojavaltuutettu-turvallisuusviranomaisten-mahdollisia-pilvisiirtymia-on-valmisteltava-erityisen-huolellisesti</link>
+<guid isPermaLink="true">https://tietosuoja.fi/-/apulaistietosuojavaltuutettu-turvallisuusviranomaisten-mahdollisia-pilvisiirtymia-on-valmisteltava-erityisen-huolellisesti</guid>
 <pubDate>Mon, 02 Nov 2026 09:00:00 +0000</pubDate>
 <description></description>
+<category>Tietosuoja</category>
 </item>
 <item>
 <title>Edilex: Tietosuojavaltuutetun toimiston ajankohtaista tietoturvaloukkauksista: Maksukorttitietoja viedään verkkokauppahyökkäyksissä ja murrettuja Microsoft 365 -tilejä hyödynnetään tilisiirtohuijauksissa</title>
@@ -66,6 +91,14 @@
 <guid isPermaLink="true">https://tietosuoja.fi/-/ajankohtaista-tietoturvaloukkauksista-maksukorttitietoja-viedaan-verkkokauppahyokkayksissa-ja-murrettuja-microsoft-365-tileja-hyodynnetaan-tilisiirtohuijauksissa</guid>
 <pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
+</item>
+<item>
+<title>Edilex: Hallinto-oikeus: Verohallinto oli voinut kieltäytyä toimittamasta valittajan pyytämiä asiakirjoja sähköisessä muodossa Tietosuoja-asetus ei velvoittanut Verohallintoa luovuttamaan 860 sivun aineistoa </title>
+<link>https://www.edilex.fi/uutiset/103626</link>
+<guid isPermaLink="true">https://www.edilex.fi/uutiset/103626</guid>
+<pubDate>Thu, 29 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
 </item>
 <item>
 <title>Julkaisu: Antidopingtoiminnan henkilötietojen julkisuus tietosuojan koetinkivenä – kommentti apulaistietosuojavaltuutetun päätökseen</title>
@@ -362,14 +395,6 @@
 <description>ikerinar Thu, 08/10/2026 - 15:03</description>
 </item>
 <item>
-<title>EUT: 145/2026 : 8 October 2026 - Opinion of the Advocate General at the Court Laila Medina in Case C-222/25</title>
-<link>https://curia.europa.eu/site/jcms/p1_1000088509</link>
-<guid isPermaLink="true">https://curia.europa.eu/site/jcms/p1_1000088509</guid>
-<pubDate>Thu, 08 Oct 2026 09:00:00 +0000</pubDate>
-<description>Rahapesu Andmebüroo Approximation of laws Advocate General Medina: The Law Enforcement Directive  applies to the processing of personal data by the Financial Intelligence Units (FIUs) in the exercise of their mission to prevent, detect and combat money laundering and terrorist financing</description>
-<category>Tietosuoja</category>
-</item>
-<item>
 <title>Kyberturvallisuuskeskus: Atlassian-tuotteissa kriittinen hyväksikäytetty tiedostojenlukuhaavoittuvuus</title>
 <link>https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet/haavoittuvuus-2026-33?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
 <guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet/haavoittuvuus-2026-33?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
@@ -604,36 +629,11 @@
 <category>Kyberturvallisuus</category>
 </item>
 <item>
-<title>Julkaisu: Who Is Really Playing in the Sandbox?</title>
-<link>https://osuva.uwasa.fi/handle/11111/21197</link>
-<guid isPermaLink="true">https://osuva.uwasa.fi/handle/11111/21197</guid>
-<pubDate>Wed, 19 Aug 2026 09:00:00 +0000</pubDate>
-<description>Regulatory sandboxes, AI regulatory sandboxes, EU AI Act, regulation of AI, soft-law, AI regulatory challenges, regulation of new technologies, company’s perspective to AI regulation, testing regulatory regime, fi=Talousoikeus|en=Business Law|</description>
-<category>Datasääntely</category>
-</item>
-<item>
 <title>TSV: Apulaistietosuojavaltuutettu: Tietoa urheilijan lievästä dopingrikkomuksesta ei olisi pitänyt julkaista, kun toimintakielto oli jo päättynyt</title>
 <link>https://tietosuoja.fi/-/apulaistietosuojavaltuutettu-tietoa-urheilijan-lievasta-dopingrikkomuksesta-ei-olisi-pitanyt-julkaista-kun-toimintakielto-oli-jo-paattynyt</link>
 <guid isPermaLink="true">https://tietosuoja.fi/-/apulaistietosuojavaltuutettu-tietoa-urheilijan-lievasta-dopingrikkomuksesta-ei-olisi-pitanyt-julkaista-kun-toimintakielto-oli-jo-paattynyt</guid>
 <pubDate>Mon, 17 Aug 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>
-</item>
-<item>
-<title>TSV: Norjan tietosuojaviranomaiselta huomautus ELIXIA-liikuntakeskuksille – asiakkaille ei kerrottu riittävän selkeästi oikeudesta vastustaa valokuvien keräämistä</title>
-<link>https://tietosuoja.fi/-/norjan-tietosuojaviranomaiselta-huomautus-elixia-liikuntakeskuksille-asiakkaille-ei-kerrottu-riittavan-selkeasti-oikeudesta-vastustaa-valokuvien-keraamista</link>
-<guid isPermaLink="true">https://tietosuoja.fi/-/norjan-tietosuojaviranomaiselta-huomautus-elixia-liikuntakeskuksille-asiakkaille-ei-kerrottu-riittavan-selkeasti-oikeudesta-vastustaa-valokuvien-keraamista</guid>
-<pubDate>Mon, 17 Aug 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 33/2026</title>
-<link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-332026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
-<guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-332026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
-<pubDate>Fri, 14 Aug 2026 09:00:00 +0000</pubDate>
-<description>Tällä viikolla kerromme tietomurroista, joissa verkkosivupalvelimet on valjastettu jakamaan haittaohjelmia verkkosivujen selaajille. Yksinkertaiset varotoimet auttavat suojautumaan haittaohjelman uhkaa vastaan. Kehotamme myös valppauteen pikaviestinpalvelun uusia ominaisuuksia käyttäessä.
-Lisäksi tällä viikolla julkaistu heinäkuun Kybersää osoittaa sateisen syksyn merkkejä.</description>
-<category>Kyberturvallisuus</category>
 </item>
 </channel></rss>

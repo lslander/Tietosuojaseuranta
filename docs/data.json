@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-03T12:46:42",
+  "generated": "2026-11-04T12:58:40",
   "window_days": 120,
   "sources": [
     {
@@ -215,7 +215,7 @@
       "name": "eRepo (Itä-Suomen yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 25,
+      "fetched": 26,
       "error": ""
     },
     {
@@ -239,7 +239,7 @@
       "name": "Osuva (Vaasan yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 19,
+      "fetched": 20,
       "error": ""
     },
     {
@@ -247,7 +247,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 78,
+      "fetched": 70,
       "error": ""
     },
     {
@@ -293,6 +293,78 @@
   ],
   "items": [
     {
+      "court": "KHO",
+      "source": "Korkeimman hallinto-oikeuden ennakkopäätökset",
+      "title": "KHO:2026:87",
+      "url": "https://www.kho.fi/paatokset/kho202687/",
+      "date": "2026-11-04",
+      "keywords": "Asiakirjajulkisuus – Automaattinen päätöksentekomenettely – Kansalaisuushakemusten käsittelysäännöt – Tekniset ja taktiset menetelmät – Ulkomaalaista koskevan selvityksen luotettavuuden vaarantuminen",
+      "summary": "",
+      "score": 33,
+      "topics": [],
+      "tags": [
+        "automaattinen päätöksenteko"
+      ]
+    },
+    {
+      "court": "TSV",
+      "source": "Tietosuojavaltuutetun toimisto",
+      "title": "Uusi sivusto kokoaa materiaaleja lasten ja nuorten tietosuojasta",
+      "url": "https://tietosuoja.fi/-/uusi-sivusto-kokoaa-materiaaleja-lasten-ja-nuorten-tietosuojasta",
+      "date": "2026-11-04",
+      "keywords": "",
+      "summary": "",
+      "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tietosuoja"
+      ]
+    },
+    {
+      "court": "EU-komissio",
+      "source": "Komissio, digitaalinen strategia",
+      "title": "Call for evidence on advertising repositories",
+      "url": "https://digital-strategy.ec.europa.eu/en/consultations/call-evidence-advertising-repositories",
+      "date": "2026-11-04",
+      "keywords": "",
+      "summary": "Anonymous (not verified) Wed, 11/04/2026 - 11:10 Opening: 04 November 2026 Closing: 02 December 2026 The Commission is seeking feedback on upcoming technical guidelines concerning advertising repositories under the Digital Services Act (DSA). The feedback is being gathered through a call for evidence . The responses collected through the call for evidence will help shape guidelines aimed at ensuri",
+      "score": 23,
+      "topics": [
+        "Datasääntely"
+      ],
+      "tags": [
+        "DSA"
+      ]
+    },
+    {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "Read the blogpost by Wojciech Wiewiórowski.",
+      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
+      "date": "2026-11-04",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [],
+      "tags": [
+        "pvm arvioitu"
+      ]
+    },
+    {
+      "court": "EDPB",
+      "source": "Euroopan tietosuojaneuvosto (EDPB)",
+      "title": "EDPB helps kids stay safe online",
+      "url": "https://www.edpb.europa.eu/news/edpb-helps-kids-stay-safe-online_en",
+      "date": "2026-11-03",
+      "keywords": "",
+      "summary": "ikerinar Tue, 03/11/2026 - 14:17",
+      "score": 23,
+      "topics": [],
+      "tags": []
+    },
+    {
       "court": "Asianajajaliitto",
       "source": "Suomen Asianajajaliitto",
       "title": "Tietosuoja ja kyberturvallisuus asianajajan erikoistumisalueina",
@@ -324,20 +396,6 @@
       ],
       "tags": [
         "kyberhyökkäy"
-      ]
-    },
-    {
-      "court": "EDPS",
-      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
-      "title": "Read the blogpost by Wojciech Wiewiórowski.",
-      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
-      "date": "2026-11-03",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [],
-      "tags": [
-        "pvm arvioitu"
       ]
     },
     {
@@ -1050,18 +1108,6 @@
       "date": "2026-10-08",
       "keywords": "",
       "summary": "ikerinar Thu, 08/10/2026 - 16:36",
-      "score": 23,
-      "topics": [],
-      "tags": []
-    },
-    {
-      "court": "EDPB",
-      "source": "Euroopan tietosuojaneuvosto (EDPB)",
-      "title": "Dutch DPA fines Uber EUR 824 990 000 for unlawful automated decision-making and insufficient information on profiling",
-      "url": "https://www.edpb.europa.eu/news/dutch-dpa-fines-uber-eur-824-990-000-for-unlawful-automated-decision-making-and-insufficient_en",
-      "date": "2026-10-08",
-      "keywords": "",
-      "summary": "ikerinar Thu, 08/10/2026 - 15:03",
       "score": 23,
       "topics": [],
       "tags": []

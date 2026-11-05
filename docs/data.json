@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-04T12:58:40",
+  "generated": "2026-11-05T13:13:44",
   "window_days": 120,
   "sources": [
     {
@@ -39,7 +39,7 @@
       "name": "Hovioikeuksien ratkaisut",
       "court": "Hovioikeus",
       "ok": true,
-      "fetched": 99,
+      "fetched": 100,
       "error": ""
     },
     {
@@ -103,7 +103,7 @@
       "name": "Finlex, säädöskokoelma",
       "court": "Säädöskokoelma",
       "ok": true,
-      "fetched": 22,
+      "fetched": 21,
       "error": ""
     },
     {
@@ -215,7 +215,7 @@
       "name": "eRepo (Itä-Suomen yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 26,
+      "fetched": 25,
       "error": ""
     },
     {
@@ -239,7 +239,7 @@
       "name": "Osuva (Vaasan yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 20,
+      "fetched": 22,
       "error": ""
     },
     {
@@ -247,7 +247,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 70,
+      "fetched": 71,
       "error": ""
     },
     {
@@ -292,6 +292,88 @@
     }
   ],
   "items": [
+    {
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "Apulaistietosuojavaltuutettu: Turvallisuusviranomaisten mahdollisia pilvisiirtymiä on valmisteltava erityisen huolellisesti",
+      "url": "https://www.edilex.fi/uutiset/103743",
+      "date": "2026-11-05",
+      "keywords": "",
+      "summary": "",
+      "score": 38,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tärkeä",
+        "tietosuoja",
+        "tietosuojavaltuutet"
+      ]
+    },
+    {
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "142 tietosuojarikosta: Potilas- ja henkilötietoja urkkineelle HUSin asiakaslaskutusta hoitaneelle reskontranhoitajalle 8 kuukauden ehdollinen vankeusrangaistus ja korvausvelvollisuus Käräjäoikeus tuom",
+      "url": "https://www.edilex.fi/uutiset/103746",
+      "date": "2026-11-05",
+      "keywords": "",
+      "summary": "",
+      "score": 26,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tietosuoja",
+        "henkilötiet"
+      ]
+    },
+    {
+      "court": "Julkaisu",
+      "source": "Osuva (Vaasan yliopisto)",
+      "title": "Kävijäseuranta ja normit",
+      "url": "https://osuva.uwasa.fi/handle/11111/21505",
+      "date": "2026-11-05",
+      "keywords": "normit, sääntely, verkkopalvelut, tietosuoja, seuranta, evästeet, yksityisyys, fi=Tietojärjestelmätiede|en=Information Systems|, fi=Tietojärjestelmätieteen maisteriohjelma|en=Master’s Programme in Information Systems|",
+      "summary": "Kävijäseuranta on vakiintunut laajaksi osaksi verkkopalveluiden liiketoimintaa. Seurannalla kerätään tietoa käyttäjien toiminnasta, jota voidaan hyödyntää muun muassa palvelun kehittämisessä ja liiketoiminnan päätöksenteossa. Teknisen toteutuksen lisäksi kävijäseurantaa ohjaavat sääntely, epäviralliset käytänteet ja käyttäjien odotukset. Tutkimuksen tavoitteena on tunnistaa, millaiset viralliset j",
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tietosuoja",
+        "evästeet"
+      ]
+    },
+    {
+      "court": "Julkaisu",
+      "source": "Osuva (Vaasan yliopisto)",
+      "title": "AI-avusteisen Service Desk -toiminnan turvallisuus-  ja riskienhallintamalli",
+      "url": "https://osuva.uwasa.fi/handle/11111/21497",
+      "date": "2026-11-05",
+      "keywords": "tekoäly, riskienhallinta, service desks, tekoäly, tietoturva, tietotekniikka, tietosuoja, riskit, riskienhallinta, hallinta, atk-tuki, palvelut, prosessit, automaatio, turvallisuus, fi=Automaatio- ja tietotekniikka|en=Automation and Computer Science|, Master’s Programme in Computing Sciences",
+      "summary": "Tekoälyn hyödyntäminen IT-palvelunhallinnassa on lisääntynyt merkittävästi viime vuosina, ja erityisesti Service Desk -toiminnassa tekoälyä hyödynnetään tukipyyntöjen luokittelussa, priorisoinnissa, ratkaisuehdotusten tuottamisessa sekä asiakaspalvelun automatisoinnissa. Tekoälyratkaisut tarjoavat mahdollisuuksia palveluiden tehokkuuden, laadun ja skaalautuvuuden parantamiseen, mutta niiden käyttö",
+      "score": 13,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tietosuoja"
+      ]
+    },
+    {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "Read the blogpost by Wojciech Wiewiórowski.",
+      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
+      "date": "2026-11-05",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [],
+      "tags": [
+        "pvm arvioitu"
+      ]
+    },
     {
       "court": "KHO",
       "source": "Korkeimman hallinto-oikeuden ennakkopäätökset",
@@ -339,17 +421,19 @@
       ]
     },
     {
-      "court": "EDPS",
-      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
-      "title": "Read the blogpost by Wojciech Wiewiórowski.",
-      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
+      "court": "ENISA",
+      "source": "ENISA, uutiset",
+      "title": "Joint statement on cyber incidents in refrigeration systems across the EU",
+      "url": "https://www.enisa.europa.eu/news/joint-statement-on-cyber-incidents-in-refrigeration-systems-across-the-eu",
       "date": "2026-11-04",
       "keywords": "",
       "summary": "",
-      "score": 23,
-      "topics": [],
+      "score": 13,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
       "tags": [
-        "pvm arvioitu"
+        "cyber"
       ]
     },
     {
@@ -380,6 +464,22 @@
       "tags": [
         "tietosuoja",
         "kyberturvallisuus"
+      ]
+    },
+    {
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "Neural data as the newest frontier in data privacy",
+      "url": "https://iapp.org/news/a/neural-data-as-the-newest-frontier-in-data-privacy",
+      "date": "2026-11-03",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "privacy"
       ]
     },
     {
@@ -414,40 +514,6 @@
         "tärkeä",
         "tietosuoja",
         "tietosuojavaltuutet"
-      ]
-    },
-    {
-      "court": "Edilex",
-      "source": "Edilex, uutiset",
-      "title": "Tietosuojavaltuutetun toimiston ajankohtaista tietoturvaloukkauksista: Maksukorttitietoja viedään verkkokauppahyökkäyksissä ja murrettuja Microsoft 365 -tilejä hyödynnetään tilisiirtohuijauksissa",
-      "url": "https://www.edilex.fi/uutiset/103670",
-      "date": "2026-10-30",
-      "keywords": "",
-      "summary": "",
-      "score": 38,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tärkeä",
-        "tietosuoja",
-        "tietosuojavaltuutet"
-      ]
-    },
-    {
-      "court": "Edilex",
-      "source": "Edilex, uutiset",
-      "title": "Kyberturvallisuuskeskuksen viikkokatsaus 44/2026: videopuheluissa rikolliset esiintyvät poliiseina ja pankkien edustajina",
-      "url": "https://www.edilex.fi/uutiset/103671",
-      "date": "2026-10-30",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "kyberturvallisuus"
       ]
     },
     {
@@ -756,6 +822,23 @@
     {
       "court": "UODO",
       "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "The President of the Personal Data Protection Office met with the Chairwoman of KRiBSI 21.10.2026",
+      "url": "https://uodo.gov.pl/en/553/2310",
+      "date": "2026-10-21",
+      "keywords": "",
+      "summary": "",
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data",
+        "data protection"
+      ]
+    },
+    {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
       "title": "Another Field Consultation Point on the map of Poland – this time we invite you to Gdynia 21.10.2026",
       "url": "https://uodo.gov.pl/en/553/2302",
       "date": "2026-10-21",
@@ -776,39 +859,6 @@
       "score": 13,
       "topics": [],
       "tags": []
-    },
-    {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "Securing NIS2, DORA compliance in the cloud supply chain",
-      "url": "https://iapp.org/news/a/securing-nis2-dora-compliance-in-the-cloud-supply-chain",
-      "date": "2026-10-21",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "NIS2"
-      ]
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "Fraudsters impersonate the Personal Data Protection Office and want to extort data 20.10.2026",
-      "url": "https://uodo.gov.pl/en/553/2301",
-      "date": "2026-10-20",
-      "keywords": "",
-      "summary": "",
-      "score": 16,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data",
-        "data protection"
-      ]
     },
     {
       "court": "EU-komissio",
@@ -1898,22 +1948,6 @@
     },
     {
       "court": "ENISA",
-      "source": "ENISA, uutiset",
-      "title": "Where do SMEs stand in preparing for the Cyber Resilience Act?",
-      "url": "https://www.enisa.europa.eu/news/where-do-smes-stand-in-preparing-for-the-cyber-resilience-act",
-      "date": "2026-07-13",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "cyber"
-      ]
-    },
-    {
-      "court": "ENISA",
       "source": "ENISA, julkaisut",
       "title": "SME Cyber Resilience Maturity Assessment Model",
       "url": "https://www.enisa.europa.eu/publications/sme-cyber-resilience-maturity-assessment-model",
@@ -1942,38 +1976,6 @@
       ],
       "tags": [
         "tietosuoja"
-      ]
-    },
-    {
-      "court": "Säädöskokoelma",
-      "source": "Finlex, säädöskokoelma",
-      "title": "675/2026, Valtioneuvoston asetus henkilötietojen käsittelystä Puolustusvoimissa annetun lain muuttamisesta annetun lain voimaantulosta",
-      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/675",
-      "date": "2026-07-07",
-      "keywords": "",
-      "summary": "",
-      "score": 33,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "henkilötiet"
-      ]
-    },
-    {
-      "court": "ENISA",
-      "source": "ENISA, julkaisut",
-      "title": "ENISA’s view on Cybersecurity in the Frontier AI Era",
-      "url": "https://www.enisa.europa.eu/publications/enisas-view-on-cybersecurity-in-the-frontier-ai-era",
-      "date": "2026-07-07",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "cyber"
       ]
     }
   ]

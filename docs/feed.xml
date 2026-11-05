@@ -4,7 +4,46 @@
 <link>https://lslander.github.io/Tietosuojaseuranta/</link>
 <description>Tietosuoja, teknologia ja datasääntely</description>
 <language>fi</language>
-<lastBuildDate>Wed, 04 Nov 2026 12:58:40 +0000</lastBuildDate>
+<lastBuildDate>Thu, 05 Nov 2026 13:13:44 +0000</lastBuildDate>
+<item>
+<title>Edilex: Apulaistietosuojavaltuutettu: Turvallisuusviranomaisten mahdollisia pilvisiirtymiä on valmisteltava erityisen huolellisesti</title>
+<link>https://www.edilex.fi/uutiset/103743</link>
+<guid isPermaLink="true">https://www.edilex.fi/uutiset/103743</guid>
+<pubDate>Thu, 05 Nov 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>Edilex: 142 tietosuojarikosta: Potilas- ja henkilötietoja urkkineelle HUSin asiakaslaskutusta hoitaneelle reskontranhoitajalle 8 kuukauden ehdollinen vankeusrangaistus ja korvausvelvollisuus Käräjäoikeus tuom</title>
+<link>https://www.edilex.fi/uutiset/103746</link>
+<guid isPermaLink="true">https://www.edilex.fi/uutiset/103746</guid>
+<pubDate>Thu, 05 Nov 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>Julkaisu: Kävijäseuranta ja normit</title>
+<link>https://osuva.uwasa.fi/handle/11111/21505</link>
+<guid isPermaLink="true">https://osuva.uwasa.fi/handle/11111/21505</guid>
+<pubDate>Thu, 05 Nov 2026 09:00:00 +0000</pubDate>
+<description>normit, sääntely, verkkopalvelut, tietosuoja, seuranta, evästeet, yksityisyys, fi=Tietojärjestelmätiede|en=Information Systems|, fi=Tietojärjestelmätieteen maisteriohjelma|en=Master’s Programme in Information Systems|</description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>Julkaisu: AI-avusteisen Service Desk -toiminnan turvallisuus-  ja riskienhallintamalli</title>
+<link>https://osuva.uwasa.fi/handle/11111/21497</link>
+<guid isPermaLink="true">https://osuva.uwasa.fi/handle/11111/21497</guid>
+<pubDate>Thu, 05 Nov 2026 09:00:00 +0000</pubDate>
+<description>tekoäly, riskienhallinta, service desks, tekoäly, tietoturva, tietotekniikka, tietosuoja, riskit, riskienhallinta, hallinta, atk-tuki, palvelut, prosessit, automaatio, turvallisuus, fi=Automaatio- ja tietotekniikka|en=Automation and Computer Science|, Master’s Programme in Computing Sciences</description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>EDPS: Read the blogpost by Wojciech Wiewiórowski.</title>
+<link>https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</link>
+<guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</guid>
+<pubDate>Thu, 05 Nov 2026 09:00:00 +0000</pubDate>
+<description></description>
+</item>
 <item>
 <title>KHO: KHO:2026:87</title>
 <link>https://www.kho.fi/paatokset/kho202687/</link>
@@ -29,11 +68,12 @@
 <category>Datasääntely</category>
 </item>
 <item>
-<title>EDPS: Read the blogpost by Wojciech Wiewiórowski.</title>
-<link>https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</link>
-<guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</guid>
+<title>ENISA: Joint statement on cyber incidents in refrigeration systems across the EU</title>
+<link>https://www.enisa.europa.eu/news/joint-statement-on-cyber-incidents-in-refrigeration-systems-across-the-eu</link>
+<guid isPermaLink="true">https://www.enisa.europa.eu/news/joint-statement-on-cyber-incidents-in-refrigeration-systems-across-the-eu</guid>
 <pubDate>Wed, 04 Nov 2026 09:00:00 +0000</pubDate>
 <description></description>
+<category>Kyberturvallisuus</category>
 </item>
 <item>
 <title>EDPB: EDPB helps kids stay safe online</title>
@@ -52,6 +92,14 @@
 <category>Kyberturvallisuus</category>
 </item>
 <item>
+<title>IAPP: Neural data as the newest frontier in data privacy</title>
+<link>https://iapp.org/news/a/neural-data-as-the-newest-frontier-in-data-privacy</link>
+<guid isPermaLink="true">https://iapp.org/news/a/neural-data-as-the-newest-frontier-in-data-privacy</guid>
+<pubDate>Tue, 03 Nov 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
 <title>Kyberturvallisuuskeskus: IoT- ja OT-ympäristöjen tietoturva alkaa laitteiden suojaamisesta</title>
 <link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/iot-ja-ot-ymparistojen-tietoturva-alkaa-laitteiden-suojaamisesta?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
 <guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/iot-ja-ot-ymparistojen-tietoturva-alkaa-laitteiden-suojaamisesta?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
@@ -66,22 +114,6 @@
 <pubDate>Mon, 02 Nov 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>
-</item>
-<item>
-<title>Edilex: Tietosuojavaltuutetun toimiston ajankohtaista tietoturvaloukkauksista: Maksukorttitietoja viedään verkkokauppahyökkäyksissä ja murrettuja Microsoft 365 -tilejä hyödynnetään tilisiirtohuijauksissa</title>
-<link>https://www.edilex.fi/uutiset/103670</link>
-<guid isPermaLink="true">https://www.edilex.fi/uutiset/103670</guid>
-<pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>Edilex: Kyberturvallisuuskeskuksen viikkokatsaus 44/2026: videopuheluissa rikolliset esiintyvät poliiseina ja pankkien edustajina</title>
-<link>https://www.edilex.fi/uutiset/103671</link>
-<guid isPermaLink="true">https://www.edilex.fi/uutiset/103671</guid>
-<pubDate>Fri, 30 Oct 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Kyberturvallisuus</category>
 </item>
 <item>
 <title>Edilex: Hovioikeus: Asianomistajan henkilötietoja poliisin tietojärjestelmistä katsoneen poliisin menettely ei täyttänyt vainoamisen tunnusmerkistöä</title>
@@ -234,6 +266,14 @@
 <category>Datasääntely</category>
 </item>
 <item>
+<title>UODO: The President of the Personal Data Protection Office met with the Chairwoman of KRiBSI 21.10.2026</title>
+<link>https://uodo.gov.pl/en/553/2310</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2310</guid>
+<pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
 <title>UODO: Another Field Consultation Point on the map of Poland – this time we invite you to Gdynia 21.10.2026</title>
 <link>https://uodo.gov.pl/en/553/2302</link>
 <guid isPermaLink="true">https://uodo.gov.pl/en/553/2302</guid>
@@ -246,22 +286,6 @@
 <guid isPermaLink="true">https://uodo.gov.pl/en/553/2309</guid>
 <pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
-</item>
-<item>
-<title>IAPP: Securing NIS2, DORA compliance in the cloud supply chain</title>
-<link>https://iapp.org/news/a/securing-nis2-dora-compliance-in-the-cloud-supply-chain</link>
-<guid isPermaLink="true">https://iapp.org/news/a/securing-nis2-dora-compliance-in-the-cloud-supply-chain</guid>
-<pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>UODO: Fraudsters impersonate the Personal Data Protection Office and want to extort data 20.10.2026</title>
-<link>https://uodo.gov.pl/en/553/2301</link>
-<guid isPermaLink="true">https://uodo.gov.pl/en/553/2301</guid>
-<pubDate>Tue, 20 Oct 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
 </item>
 <item>
 <title>EU-komissio: First harmonised standard supporting the AI Act published in the Official Journal</title>
@@ -610,29 +634,5 @@
 <pubDate>Fri, 28 Aug 2026 09:00:00 +0000</pubDate>
 <description>Tämän viikon viikkokatsauksessa esiin nousseita aiheita ovat muun muassa WordPress-sivustojen murrot, joissa haavoittuvuuksia hyödynnetään haitallisen sisällön levittämiseen. Lisäksi katsauksessa käsitellään Signal-tukena esiintyvää tietojenkalastelua, tekoälyn käyttöön liittyviä uusia avoimuusvelvoitteita sekä kyberkestävyyssäädöksen mukaisia ilmoitusvelvoitteita.</description>
 <category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>KHO: KHO:2026:65</title>
-<link>https://www.kho.fi/paatokset/kho202665/</link>
-<guid isPermaLink="true">https://www.kho.fi/paatokset/kho202665/</guid>
-<pubDate>Thu, 27 Aug 2026 09:00:00 +0000</pubDate>
-<description>Tietosuoja – Sähköisen viestinnän palvelu – Evästeet – Käyttäjän suostumus – Suostumuksen pyytäminen – Kaksitasoinen suostumushallintamekanismi – Suostumuksen vapaaehtoisuus</description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>KHO: KHO:2026:64</title>
-<link>https://www.kho.fi/paatokset/kho202664/</link>
-<guid isPermaLink="true">https://www.kho.fi/paatokset/kho202664/</guid>
-<pubDate>Thu, 27 Aug 2026 09:00:00 +0000</pubDate>
-<description>Tietosuoja – Sähköisen viestinnän palvelu – Evästeet – Käyttäjän suostumus – Uutissisällön personointi – Verkkokutsut – Sananvapaus – Medianvapaus</description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>TSV: Tietosuojavaltuutettu muistuttaa: älylasien käytössä on huomioitava tietosuojasäännöt</title>
-<link>https://tietosuoja.fi/-/tietosuojavaltuutettu-muistuttaa-alylasien-kaytossa-on-huomioitava-tietosuojasaannot</link>
-<guid isPermaLink="true">https://tietosuoja.fi/-/tietosuojavaltuutettu-muistuttaa-alylasien-kaytossa-on-huomioitava-tietosuojasaannot</guid>
-<pubDate>Wed, 26 Aug 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
 </item>
 </channel></rss>

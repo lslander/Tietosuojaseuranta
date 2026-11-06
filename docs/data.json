@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-05T13:13:44",
+  "generated": "2026-11-06T12:56:46",
   "window_days": 120,
   "sources": [
     {
@@ -71,7 +71,7 @@
       "name": "Unionin tuomioistuin (EUT ja unionin yleinen tuomioistuin)",
       "court": "EUT",
       "ok": true,
-      "fetched": 2,
+      "fetched": 4,
       "error": ""
     },
     {
@@ -111,7 +111,7 @@
       "name": "Finlex, hallituksen esitykset",
       "court": "HE",
       "ok": true,
-      "fetched": 7,
+      "fetched": 8,
       "error": ""
     },
     {
@@ -183,7 +183,7 @@
       "name": "Helda (Helsingin yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 7,
+      "fetched": 6,
       "error": ""
     },
     {
@@ -222,9 +222,9 @@
       "id": "jyx",
       "name": "JYX (Jyväskylän yliopisto)",
       "court": "Julkaisu",
-      "ok": true,
-      "fetched": 3,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "error": "HTTPSConnectionPool(host='jyx.jyu.fi', port=443): Max retries exceeded with url: /dspace-oai//request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-08-23 (Caused by ResponseError('too many 503 erro"
     },
     {
       "id": "doria",
@@ -247,7 +247,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 71,
+      "fetched": 77,
       "error": ""
     },
     {
@@ -293,6 +293,71 @@
   ],
   "items": [
     {
+      "court": "EU-komissio",
+      "source": "Komissio, digitaalinen strategia",
+      "title": "Commission preliminarily finds TikTok’s ‘For You’ feed in breach of Digital Services Act for harmful ‘rabbit holes’ effect",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes",
+      "date": "2026-11-06",
+      "keywords": "",
+      "summary": "Anonymous (not verified) Fri, 11/06/2026 - 12:09 The European Commission has preliminarily found TikTok in breach of the Digital Services Act (DSA) for the so-called ‘rabbit hole effect’ of its recommender system. TikTok's ‘For You' feed shows users a continuous stream of personalised videos, even when those are related to mental health struggles and body image. The more a user interacts with a ce",
+      "score": 23,
+      "topics": [
+        "Datasääntely"
+      ],
+      "tags": [
+        "DSA"
+      ]
+    },
+    {
+      "court": "Kyberturvallisuuskeskus",
+      "source": "Kyberturvallisuuskeskus",
+      "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 45/2026",
+      "url": "https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-452026?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
+      "date": "2026-11-06",
+      "keywords": "",
+      "summary": "Tällä viikolla etähallittavien automaatiolaitteiden tietoturva on noussut huolenaiheeksi ympäri Eurooppaa. Suomessakin kylmälaitteiden ilkivaltainen hyväksikäyttö on aiheuttanut vahinkoja. Automaatio- ja säätölaitteiden kyberturvallisuuteen on Suomessa panostettu ja suurimmilta vahingoilta vältyttiin. Kyberturvallisuus on tärkeässä roolissa myös kansallisessa riskiarviossa. Taisto-harjoitus antaa ",
+      "score": 13,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "kyberturvallisuus"
+      ]
+    },
+    {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "Read the blogpost by Wojciech Wiewiórowski.",
+      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
+      "date": "2026-11-06",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [],
+      "tags": [
+        "pvm arvioitu"
+      ]
+    },
+    {
+      "court": "EUT",
+      "source": "Unionin tuomioistuin (EUT ja unionin yleinen tuomioistuin)",
+      "title": "C-205/25 Joachim Lindenberg vastaan Bayerisches Landesamt für Datenschutzaufsicht (tuomio)",
+      "url": "https://eur-lex.europa.eu/legal-content/FI/TXT/?uri=CELEX:62025CJ0205",
+      "date": "2026-11-05",
+      "keywords": "Ennakkoratkaisupyyntö – Jäsenvaltioiden lainsäädännön lähentäminen – Luonnollisten henkilöiden suojelu henkilötietojen käsittelyssä sekä näiden tietojen vapaa liikkuvuus – Asetus (EU) 2016/679 – Kantelumenettelyssä toimivan valvontaviranomaisen asiakirja-aineistoon sisältyvät tiedot – 4 artiklan 7 ja 21 alakohta – Rekisterinpitäjän ja valvontaviranomaisen käsitteet – 15 artikla – Rekisteröidyn oikeus saada tutustua tietoihin – 23 artikla – Rajoitukset – 77 artikla – Oikeus tehdä kantelu valvontaviranomaiselle – Kansallinen säännöstö, jonka mukaan pääsy valvontaviranomaisen asiakirjoihin ja tie",
+      "summary": "ECLI:EU:C:2026:933",
+      "score": 51,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tärkeä",
+        "henkilötiet",
+        "2016/679",
+        "rekisterinpitäj"
+      ]
+    },
+    {
       "court": "Edilex",
       "source": "Edilex, uutiset",
       "title": "Apulaistietosuojavaltuutettu: Turvallisuusviranomaisten mahdollisia pilvisiirtymiä on valmisteltava erityisen huolellisesti",
@@ -313,7 +378,7 @@
     {
       "court": "Edilex",
       "source": "Edilex, uutiset",
-      "title": "142 tietosuojarikosta: Potilas- ja henkilötietoja urkkineelle HUSin asiakaslaskutusta hoitaneelle reskontranhoitajalle 8 kuukauden ehdollinen vankeusrangaistus ja korvausvelvollisuus Käräjäoikeus tuom",
+      "title": "142 tietosuojarikosta: Potilas- ja henkilötietoja urkkineelle HUSin asiakaslaskutusta hoitaneelle reskontranhoitajalle 8 kuukauden ehdollinen vankeusrangaistus ja korvausvelvollisuus",
       "url": "https://www.edilex.fi/uutiset/103746",
       "date": "2026-11-05",
       "keywords": "",
@@ -358,20 +423,6 @@
       ],
       "tags": [
         "tietosuoja"
-      ]
-    },
-    {
-      "court": "EDPS",
-      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
-      "title": "Read the blogpost by Wojciech Wiewiórowski.",
-      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
-      "date": "2026-11-05",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [],
-      "tags": [
-        "pvm arvioitu"
       ]
     },
     {
@@ -517,22 +568,6 @@
       ]
     },
     {
-      "court": "Edilex",
-      "source": "Edilex, uutiset",
-      "title": "Hovioikeus: Asianomistajan henkilötietoja poliisin tietojärjestelmistä katsoneen poliisin menettely ei täyttänyt vainoamisen tunnusmerkistöä",
-      "url": "https://www.edilex.fi/uutiset/103633",
-      "date": "2026-10-30",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "henkilötiet"
-      ]
-    },
-    {
       "court": "IAPP",
       "source": "IAPP",
       "title": "A view from DC: The one-two punch is a knockout for driver privacy",
@@ -591,22 +626,6 @@
       "score": 33,
       "topics": [],
       "tags": []
-    },
-    {
-      "court": "Edilex",
-      "source": "Edilex, uutiset",
-      "title": "Hallinto-oikeus: Verohallinto oli voinut kieltäytyä toimittamasta valittajan pyytämiä asiakirjoja sähköisessä muodossa Tietosuoja-asetus ei velvoittanut Verohallintoa luovuttamaan 860 sivun aineistoa ",
-      "url": "https://www.edilex.fi/uutiset/103626",
-      "date": "2026-10-29",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tietosuoja"
-      ]
     },
     {
       "court": "Julkaisu",
@@ -1491,24 +1510,6 @@
       ],
       "tags": [
         "kyberturvallisuus"
-      ]
-    },
-    {
-      "court": "EUT",
-      "source": "Unionin tuomioistuin (EUT ja unionin yleinen tuomioistuin)",
-      "title": "C-798/24 A ym. (tuomio)",
-      "url": "https://eur-lex.europa.eu/legal-content/FI/TXT/?uri=CELEX:62024CJ0798",
-      "date": "2026-09-03",
-      "keywords": "Ennakkoratkaisupyyntö – Luonnollisten henkilöiden suojelu henkilötietojen käsittelyssä – Asetus (EU) 2016/679 – 5 artikla – Henkilötietojen käsittelyä koskevat periaatteet – 6 artikla – Käsittelyn lainmukaisuus – Yhtiöoikeus – Direktiivi (EU) 2017/1132 – 14 artikla – Yhtiöiden toimesta julkistettavat asiakirjat ja tiedot – Yhtiön hallintoon, johtoon tai valvontaan osallistuvien henkilöiden käsite – Osakeyhtiöiden osakkeenomistajien henkilötietojen saattaminen yleisön saataville – Vähemmistöosakkaat",
-      "summary": "ECLI:EU:C:2026:679",
-      "score": 48,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tärkeä",
-        "henkilötiet",
-        "2016/679"
       ]
     },
     {

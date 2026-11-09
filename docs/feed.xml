@@ -4,7 +4,14 @@
 <link>https://lslander.github.io/Tietosuojaseuranta/</link>
 <description>Tietosuoja, teknologia ja datasääntely</description>
 <language>fi</language>
-<lastBuildDate>Fri, 06 Nov 2026 12:56:46 +0000</lastBuildDate>
+<lastBuildDate>Mon, 09 Nov 2026 13:52:07 +0000</lastBuildDate>
+<item>
+<title>EDPS: Read the blogpost by Wojciech Wiewiórowski.</title>
+<link>https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</link>
+<guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</guid>
+<pubDate>Mon, 09 Nov 2026 09:00:00 +0000</pubDate>
+<description></description>
+</item>
 <item>
 <title>EU-komissio: Commission preliminarily finds TikTok’s ‘For You’ feed in breach of Digital Services Act for harmful ‘rabbit holes’ effect</title>
 <link>https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-tiktoks-you-feed-breach-digital-services-act-harmful-rabbit-holes</link>
@@ -12,6 +19,14 @@
 <pubDate>Fri, 06 Nov 2026 09:00:00 +0000</pubDate>
 <description>Anonymous (not verified) Fri, 11/06/2026 - 12:09 The European Commission has preliminarily found TikTok in breach of the Digital Services Act (DSA) for the so-called ‘rabbit hole effect’ of its recommender system. TikTok&#x27;s ‘For You&#x27; feed shows users a continuous stream of personalised videos, even when those are related to mental health struggles and body image. The more a user interacts with a ce</description>
 <category>Datasääntely</category>
+</item>
+<item>
+<title>IAPP: Notes from the IAPP Canada: Kerr&#x27;s privacy questions echo in Bill C-22</title>
+<link>https://iapp.org/news/a/notes-from-the-iapp-canada-kerrs-privacy-questions-echo-in-bill-c-22</link>
+<guid isPermaLink="true">https://iapp.org/news/a/notes-from-the-iapp-canada-kerrs-privacy-questions-echo-in-bill-c-22</guid>
+<pubDate>Fri, 06 Nov 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
 </item>
 <item>
 <title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 45/2026</title>
@@ -22,26 +37,11 @@
 <category>Kyberturvallisuus</category>
 </item>
 <item>
-<title>EDPS: Read the blogpost by Wojciech Wiewiórowski.</title>
-<link>https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</link>
-<guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</guid>
-<pubDate>Fri, 06 Nov 2026 09:00:00 +0000</pubDate>
-<description></description>
-</item>
-<item>
 <title>EUT: C-205/25 Joachim Lindenberg vastaan Bayerisches Landesamt für Datenschutzaufsicht (tuomio)</title>
 <link>https://eur-lex.europa.eu/legal-content/FI/TXT/?uri=CELEX:62025CJ0205</link>
 <guid isPermaLink="true">https://eur-lex.europa.eu/legal-content/FI/TXT/?uri=CELEX:62025CJ0205</guid>
 <pubDate>Thu, 05 Nov 2026 09:00:00 +0000</pubDate>
 <description>Ennakkoratkaisupyyntö – Jäsenvaltioiden lainsäädännön lähentäminen – Luonnollisten henkilöiden suojelu henkilötietojen käsittelyssä sekä näiden tietojen vapaa liikkuvuus – Asetus (EU) 2016/679 – Kantelumenettelyssä toimivan valvontaviranomaisen asiakirja-aineistoon sisältyvät tiedot – 4 artiklan 7 ja 21 alakohta – Rekisterinpitäjän ja valvontaviranomaisen käsitteet – 15 artikla – Rekisteröidyn oikeus saada tutustua tietoihin – 23 artikla – Rajoitukset – 77 artikla – Oikeus tehdä kantelu valvontaviranomaiselle – Kansallinen säännöstö, jonka mukaan pääsy valvontaviranomaisen asiakirjoihin ja tie</description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>Edilex: Apulaistietosuojavaltuutettu: Turvallisuusviranomaisten mahdollisia pilvisiirtymiä on valmisteltava erityisen huolellisesti</title>
-<link>https://www.edilex.fi/uutiset/103743</link>
-<guid isPermaLink="true">https://www.edilex.fi/uutiset/103743</guid>
-<pubDate>Thu, 05 Nov 2026 09:00:00 +0000</pubDate>
-<description></description>
 <category>Tietosuoja</category>
 </item>
 <item>
@@ -179,6 +179,14 @@
 <category>Tietosuoja</category>
 </item>
 <item>
+<title>UODO: Who and how should protect the patient&#x27;s personal data? Invitation to the webinar 28.10.2026</title>
+<link>https://uodo.gov.pl/en/553/2312</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2312</guid>
+<pubDate>Wed, 28 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
 <title>IAPP: Notes from the AI Governance Center: Agentified cyberattacks</title>
 <link>https://iapp.org/news/a/notes-from-the-ai-governance-center-agentified-cyberattacks</link>
 <guid isPermaLink="true">https://iapp.org/news/a/notes-from-the-ai-governance-center-agentified-cyberattacks</guid>
@@ -217,6 +225,13 @@
 <pubDate>Mon, 26 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Datasääntely</category>
+</item>
+<item>
+<title>UODO: Meeting on the Code of Conduct for the Media 26.10.2026</title>
+<link>https://uodo.gov.pl/en/553/2311</link>
+<guid isPermaLink="true">https://uodo.gov.pl/en/553/2311</guid>
+<pubDate>Mon, 26 Oct 2026 09:00:00 +0000</pubDate>
+<description></description>
 </item>
 <item>
 <title>IAPP: Italy&#x27;s AI Act framework takes shape: What Legislative Decree No. 179/2026 means for organizations</title>
@@ -274,24 +289,9 @@
 <category>Datasääntely</category>
 </item>
 <item>
-<title>UODO: The President of the Personal Data Protection Office met with the Chairwoman of KRiBSI 21.10.2026</title>
-<link>https://uodo.gov.pl/en/553/2310</link>
-<guid isPermaLink="true">https://uodo.gov.pl/en/553/2310</guid>
-<pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
 <title>UODO: Another Field Consultation Point on the map of Poland – this time we invite you to Gdynia 21.10.2026</title>
 <link>https://uodo.gov.pl/en/553/2302</link>
 <guid isPermaLink="true">https://uodo.gov.pl/en/553/2302</guid>
-<pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
-<description></description>
-</item>
-<item>
-<title>UODO: We all need to ensure online safety 21.10.2026</title>
-<link>https://uodo.gov.pl/en/553/2309</link>
-<guid isPermaLink="true">https://uodo.gov.pl/en/553/2309</guid>
 <pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
 </item>

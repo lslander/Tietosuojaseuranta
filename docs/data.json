@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-06T12:56:46",
+  "generated": "2026-11-09T13:52:07",
   "window_days": 120,
   "sources": [
     {
@@ -183,7 +183,7 @@
       "name": "Helda (Helsingin yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 6,
+      "fetched": 7,
       "error": ""
     },
     {
@@ -222,9 +222,9 @@
       "id": "jyx",
       "name": "JYX (Jyväskylän yliopisto)",
       "court": "Julkaisu",
-      "ok": false,
-      "fetched": 0,
-      "error": "HTTPSConnectionPool(host='jyx.jyu.fi', port=443): Max retries exceeded with url: /dspace-oai//request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-08-23 (Caused by ResponseError('too many 503 erro"
+      "ok": true,
+      "fetched": 3,
+      "error": ""
     },
     {
       "id": "doria",
@@ -293,6 +293,20 @@
   ],
   "items": [
     {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "Read the blogpost by Wojciech Wiewiórowski.",
+      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
+      "date": "2026-11-09",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [],
+      "tags": [
+        "pvm arvioitu"
+      ]
+    },
+    {
       "court": "EU-komissio",
       "source": "Komissio, digitaalinen strategia",
       "title": "Commission preliminarily finds TikTok’s ‘For You’ feed in breach of Digital Services Act for harmful ‘rabbit holes’ effect",
@@ -306,6 +320,22 @@
       ],
       "tags": [
         "DSA"
+      ]
+    },
+    {
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "Notes from the IAPP Canada: Kerr's privacy questions echo in Bill C-22",
+      "url": "https://iapp.org/news/a/notes-from-the-iapp-canada-kerrs-privacy-questions-echo-in-bill-c-22",
+      "date": "2026-11-06",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "privacy"
       ]
     },
     {
@@ -325,20 +355,6 @@
       ]
     },
     {
-      "court": "EDPS",
-      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
-      "title": "Read the blogpost by Wojciech Wiewiórowski.",
-      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
-      "date": "2026-11-06",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [],
-      "tags": [
-        "pvm arvioitu"
-      ]
-    },
-    {
       "court": "EUT",
       "source": "Unionin tuomioistuin (EUT ja unionin yleinen tuomioistuin)",
       "title": "C-205/25 Joachim Lindenberg vastaan Bayerisches Landesamt für Datenschutzaufsicht (tuomio)",
@@ -355,24 +371,6 @@
         "henkilötiet",
         "2016/679",
         "rekisterinpitäj"
-      ]
-    },
-    {
-      "court": "Edilex",
-      "source": "Edilex, uutiset",
-      "title": "Apulaistietosuojavaltuutettu: Turvallisuusviranomaisten mahdollisia pilvisiirtymiä on valmisteltava erityisen huolellisesti",
-      "url": "https://www.edilex.fi/uutiset/103743",
-      "date": "2026-11-05",
-      "keywords": "",
-      "summary": "",
-      "score": 38,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tärkeä",
-        "tietosuoja",
-        "tietosuojavaltuutet"
       ]
     },
     {
@@ -647,6 +645,22 @@
       ]
     },
     {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "Who and how should protect the patient's personal data? Invitation to the webinar 28.10.2026",
+      "url": "https://uodo.gov.pl/en/553/2312",
+      "date": "2026-10-28",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data"
+      ]
+    },
+    {
       "court": "IAPP",
       "source": "IAPP",
       "title": "Notes from the AI Governance Center: Agentified cyberattacks",
@@ -727,6 +741,18 @@
       "tags": [
         "AI Act"
       ]
+    },
+    {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "Meeting on the Code of Conduct for the Media 26.10.2026",
+      "url": "https://uodo.gov.pl/en/553/2311",
+      "date": "2026-10-26",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [],
+      "tags": []
     },
     {
       "court": "IAPP",
@@ -841,37 +867,8 @@
     {
       "court": "UODO",
       "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "The President of the Personal Data Protection Office met with the Chairwoman of KRiBSI 21.10.2026",
-      "url": "https://uodo.gov.pl/en/553/2310",
-      "date": "2026-10-21",
-      "keywords": "",
-      "summary": "",
-      "score": 16,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data",
-        "data protection"
-      ]
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
       "title": "Another Field Consultation Point on the map of Poland – this time we invite you to Gdynia 21.10.2026",
       "url": "https://uodo.gov.pl/en/553/2302",
-      "date": "2026-10-21",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [],
-      "tags": []
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "We all need to ensure online safety 21.10.2026",
-      "url": "https://uodo.gov.pl/en/553/2309",
       "date": "2026-10-21",
       "keywords": "",
       "summary": "",
@@ -1961,22 +1958,6 @@
       ],
       "tags": [
         "cyber"
-      ]
-    },
-    {
-      "court": "TSV",
-      "source": "Tietosuojavaltuutetun toimisto",
-      "title": "Euroopan tietosuojaneuvosto julkaisi ohjeet anonymisoinnista ja tiedonharavoinnista",
-      "url": "https://tietosuoja.fi/-/euroopan-tietosuojaneuvosto-julkaisi-ohjeet-anonymisoinnista-ja-tiedonharavoinnista",
-      "date": "2026-07-09",
-      "keywords": "",
-      "summary": "",
-      "score": 33,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tietosuoja"
       ]
     }
   ]

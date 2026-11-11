@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-10T13:27:24",
+  "generated": "2026-11-11T12:41:47",
   "window_days": 120,
   "sources": [
     {
@@ -103,7 +103,7 @@
       "name": "Finlex, säädöskokoelma",
       "court": "Säädöskokoelma",
       "ok": true,
-      "fetched": 21,
+      "fetched": 22,
       "error": ""
     },
     {
@@ -247,7 +247,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 74,
+      "fetched": 78,
       "error": ""
     },
     {
@@ -279,7 +279,7 @@
       "name": "ENISA, uutiset",
       "court": "ENISA",
       "ok": true,
-      "fetched": 12,
+      "fetched": 11,
       "error": ""
     },
     {
@@ -292,6 +292,20 @@
     }
   ],
   "items": [
+    {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "Read the blogpost by Wojciech Wiewiórowski.",
+      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
+      "date": "2026-11-11",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [],
+      "tags": [
+        "pvm arvioitu"
+      ]
+    },
     {
       "court": "EDPB",
       "source": "Euroopan tietosuojaneuvosto (EDPB)",
@@ -349,36 +363,6 @@
       ]
     },
     {
-      "court": "ENISA",
-      "source": "ENISA, julkaisut",
-      "title": "2026 Report on the State of Cybersecurity in the Union",
-      "url": "https://www.enisa.europa.eu/publications/2026-report-on-the-state-of-cybersecurity-in-the-union",
-      "date": "2026-11-10",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "cyber"
-      ]
-    },
-    {
-      "court": "EDPS",
-      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
-      "title": "Read the blogpost by Wojciech Wiewiórowski.",
-      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
-      "date": "2026-11-10",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [],
-      "tags": [
-        "pvm arvioitu"
-      ]
-    },
-    {
       "court": "Julkaisu",
       "source": "Helda (Helsingin yliopisto)",
       "title": "The Sociotechnical Imaginaries of Europe and its Artificial Intelligence : A Discourse Analysis of the European Commission’s Policy Documents",
@@ -424,6 +408,22 @@
       ],
       "tags": [
         "privacy"
+      ]
+    },
+    {
+      "court": "ENISA",
+      "source": "ENISA, julkaisut",
+      "title": "2026 Report on the State of Cybersecurity in the Union",
+      "url": "https://www.enisa.europa.eu/publications/2026-report-on-the-state-of-cybersecurity-in-the-union",
+      "date": "2026-11-09",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "cyber"
       ]
     },
     {
@@ -496,7 +496,7 @@
     {
       "court": "Edilex",
       "source": "Edilex, uutiset",
-      "title": "142 tietosuojarikosta: Potilas- ja henkilötietoja urkkineelle HUSin asiakaslaskutusta hoitaneelle reskontranhoitajalle 8 kuukauden ehdollinen vankeusrangaistus ja korvausvelvollisuus",
+      "title": "142 tietosuojarikosta: Potilas- ja henkilötietoja urkkineelle HUSin asiakaslaskutusta hoitaneelle reskontranhoitajalle 8 kuukauden ehdollinen vankeusrangaistus ja korvausvelvollisuus Käräjäoikeus tuom",
       "url": "https://www.edilex.fi/uutiset/103746",
       "date": "2026-11-05",
       "keywords": "",
@@ -781,22 +781,6 @@
       ]
     },
     {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "Notes from the AI Governance Center: Agentified cyberattacks",
-      "url": "https://iapp.org/news/a/notes-from-the-ai-governance-center-agentified-cyberattacks",
-      "date": "2026-10-28",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "cyber"
-      ]
-    },
-    {
       "court": "Julkaisu",
       "source": "Osuva (Vaasan yliopisto)",
       "title": "Doping ei poista tietosuojaa – urheilijan henkilötietojen julkaiseminen ratkaisussa C-474/24",
@@ -873,22 +857,6 @@
       "score": 13,
       "topics": [],
       "tags": []
-    },
-    {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "Italy's AI Act framework takes shape: What Legislative Decree No. 179/2026 means for organizations",
-      "url": "https://iapp.org/news/a/italys-ai-act-framework-takes-shape-what-legislative-decree-no-179-2026-means-for-organizations",
-      "date": "2026-10-26",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Datasääntely"
-      ],
-      "tags": [
-        "AI Act"
-      ]
     },
     {
       "court": "UODO",
@@ -1498,6 +1466,22 @@
     {
       "court": "Säädöskokoelma",
       "source": "Finlex, säädöskokoelma",
+      "title": "791/2026, Laki henkilötietojen käsittelystä Rikosseuraamuslaitoksessa annetun lain muuttamisesta",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/791",
+      "date": "2026-09-08",
+      "keywords": "",
+      "summary": "",
+      "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "henkilötiet"
+      ]
+    },
+    {
+      "court": "Säädöskokoelma",
+      "source": "Finlex, säädöskokoelma",
       "title": "785/2026, Laki kyberturvallisuuslain 26 §:n ja liitteen I muuttamisesta",
       "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/785",
       "date": "2026-09-07",
@@ -1977,39 +1961,6 @@
       ],
       "tags": [
         "henkilötiet"
-      ]
-    },
-    {
-      "court": "KKO",
-      "source": "Tuomioistuinlaitos",
-      "title": "Korkein oikeus hylkäsi valituslupahakemuksen Vastaamon tietomurtoa ja sitä seuranneita kiristysrikoksia koskeneessa asiassa",
-      "url": "https://www.korkeinoikeus.fi/ajankohtaiset/korkein-oikeus-hylkasi-valituslupahakemuksen-vastaamon-tietomurtoa-ja-sita-seuranneita-kiristysrikoksia-koskeneessa-asiassa/",
-      "date": "2026-07-13",
-      "keywords": "",
-      "summary": "",
-      "score": 35,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "tärkeä",
-        "tietomurto"
-      ]
-    },
-    {
-      "court": "ENISA",
-      "source": "ENISA, julkaisut",
-      "title": "SME Cyber Resilience Maturity Assessment Model",
-      "url": "https://www.enisa.europa.eu/publications/sme-cyber-resilience-maturity-assessment-model",
-      "date": "2026-07-13",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "cyber"
       ]
     }
   ]

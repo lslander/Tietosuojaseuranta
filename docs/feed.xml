@@ -4,7 +4,14 @@
 <link>https://lslander.github.io/Tietosuojaseuranta/</link>
 <description>Tietosuoja, teknologia ja datasääntely</description>
 <language>fi</language>
-<lastBuildDate>Tue, 10 Nov 2026 13:27:24 +0000</lastBuildDate>
+<lastBuildDate>Wed, 11 Nov 2026 12:41:47 +0000</lastBuildDate>
+<item>
+<title>EDPS: Read the blogpost by Wojciech Wiewiórowski.</title>
+<link>https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</link>
+<guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</guid>
+<pubDate>Wed, 11 Nov 2026 09:00:00 +0000</pubDate>
+<description></description>
+</item>
 <item>
 <title>EDPB: Italian DPA fines Poste Italiane and Deutsche Bank a combined EUR 81 000 for lack of transparency in personal data processing</title>
 <link>https://www.edpb.europa.eu/news/italian-dpa-fines-poste-italiane-and-deutsche-bank-a-combined-eur-81-000-for-lack-of_en</link>
@@ -36,21 +43,6 @@
 <category>Kyberturvallisuus</category>
 </item>
 <item>
-<title>ENISA: 2026 Report on the State of Cybersecurity in the Union</title>
-<link>https://www.enisa.europa.eu/publications/2026-report-on-the-state-of-cybersecurity-in-the-union</link>
-<guid isPermaLink="true">https://www.enisa.europa.eu/publications/2026-report-on-the-state-of-cybersecurity-in-the-union</guid>
-<pubDate>Tue, 10 Nov 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>EDPS: Read the blogpost by Wojciech Wiewiórowski.</title>
-<link>https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</link>
-<guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en</guid>
-<pubDate>Tue, 10 Nov 2026 09:00:00 +0000</pubDate>
-<description></description>
-</item>
-<item>
 <title>Julkaisu: The Sociotechnical Imaginaries of Europe and its Artificial Intelligence : A Discourse Analysis of the European Commission’s Policy Documents</title>
 <link>http://hdl.handle.net/10138/640913</link>
 <guid isPermaLink="true">http://hdl.handle.net/10138/640913</guid>
@@ -73,6 +65,14 @@
 <pubDate>Mon, 09 Nov 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>
+</item>
+<item>
+<title>ENISA: 2026 Report on the State of Cybersecurity in the Union</title>
+<link>https://www.enisa.europa.eu/publications/2026-report-on-the-state-of-cybersecurity-in-the-union</link>
+<guid isPermaLink="true">https://www.enisa.europa.eu/publications/2026-report-on-the-state-of-cybersecurity-in-the-union</guid>
+<pubDate>Mon, 09 Nov 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Kyberturvallisuus</category>
 </item>
 <item>
 <title>EU-komissio: Commission preliminarily finds TikTok’s ‘For You’ feed in breach of Digital Services Act for harmful ‘rabbit holes’ effect</title>
@@ -107,7 +107,7 @@
 <category>Tietosuoja</category>
 </item>
 <item>
-<title>Edilex: 142 tietosuojarikosta: Potilas- ja henkilötietoja urkkineelle HUSin asiakaslaskutusta hoitaneelle reskontranhoitajalle 8 kuukauden ehdollinen vankeusrangaistus ja korvausvelvollisuus</title>
+<title>Edilex: 142 tietosuojarikosta: Potilas- ja henkilötietoja urkkineelle HUSin asiakaslaskutusta hoitaneelle reskontranhoitajalle 8 kuukauden ehdollinen vankeusrangaistus ja korvausvelvollisuus Käräjäoikeus tuom</title>
 <link>https://www.edilex.fi/uutiset/103746</link>
 <guid isPermaLink="true">https://www.edilex.fi/uutiset/103746</guid>
 <pubDate>Thu, 05 Nov 2026 09:00:00 +0000</pubDate>
@@ -249,14 +249,6 @@
 <category>Tietosuoja</category>
 </item>
 <item>
-<title>IAPP: Notes from the AI Governance Center: Agentified cyberattacks</title>
-<link>https://iapp.org/news/a/notes-from-the-ai-governance-center-agentified-cyberattacks</link>
-<guid isPermaLink="true">https://iapp.org/news/a/notes-from-the-ai-governance-center-agentified-cyberattacks</guid>
-<pubDate>Wed, 28 Oct 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Kyberturvallisuus</category>
-</item>
-<item>
 <title>Julkaisu: Doping ei poista tietosuojaa – urheilijan henkilötietojen julkaiseminen ratkaisussa C-474/24</title>
 <link>https://osuva.uwasa.fi/handle/11111/21435</link>
 <guid isPermaLink="true">https://osuva.uwasa.fi/handle/11111/21435</guid>
@@ -294,14 +286,6 @@
 <guid isPermaLink="true">https://uodo.gov.pl/en/553/2311</guid>
 <pubDate>Mon, 26 Oct 2026 09:00:00 +0000</pubDate>
 <description></description>
-</item>
-<item>
-<title>IAPP: Italy&#x27;s AI Act framework takes shape: What Legislative Decree No. 179/2026 means for organizations</title>
-<link>https://iapp.org/news/a/italys-ai-act-framework-takes-shape-what-legislative-decree-no-179-2026-means-for-organizations</link>
-<guid isPermaLink="true">https://iapp.org/news/a/italys-ai-act-framework-takes-shape-what-legislative-decree-no-179-2026-means-for-organizations</guid>
-<pubDate>Mon, 26 Oct 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Datasääntely</category>
 </item>
 <item>
 <title>UODO: The Use of AI in Business – Meeting with the Polish Women Chamber of Commerce 23.10.2026</title>
@@ -604,6 +588,14 @@
 <category>Kyberturvallisuus</category>
 </item>
 <item>
+<title>Säädöskokoelma: 791/2026, Laki henkilötietojen käsittelystä Rikosseuraamuslaitoksessa annetun lain muuttamisesta</title>
+<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/791</link>
+<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/791</guid>
+<pubDate>Tue, 08 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
 <title>Säädöskokoelma: 785/2026, Laki kyberturvallisuuslain 26 §:n ja liitteen I muuttamisesta</title>
 <link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/785</link>
 <guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/785</guid>
@@ -634,5 +626,13 @@
 <pubDate>Fri, 04 Sep 2026 09:00:00 +0000</pubDate>
 <description>Microsoft 365 -tilimurtojen määrä kasvoi jälleen elokuussa. Viikkokatsauksessa käsitellään myös KHO:n uusia evästelinjauksia, julkaistua CSIRT-ajankohtaiswebinaaria sekä avautunutta rahoitushakua kyberturvallisuusratkaisujen kehittämiseen.</description>
 <category>Kyberturvallisuus</category>
+</item>
+<item>
+<title>Julkaisu: Navigating the use of AI in the public sector : The complex world of AI ethics and regulation in Finnish municipalities</title>
+<link>https://osuva.uwasa.fi/handle/11111/21234</link>
+<guid isPermaLink="true">https://osuva.uwasa.fi/handle/11111/21234</guid>
+<pubDate>Wed, 02 Sep 2026 09:00:00 +0000</pubDate>
+<description>artificial intelligence, regulation (control), legislation, good governance, public administration, public sector, municipalities, ethics, fi=Julkisen toiminnan johtaminen|en=Public Policy and Management|, fi=Hallintotieteiden maisteriohjelma|en=Master&#x27;s Programme in Administrative Sciences|</description>
+<category>Datasääntely</category>
 </item>
 </channel></rss>

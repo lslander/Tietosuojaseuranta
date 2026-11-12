@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-11T12:41:47",
+  "generated": "2026-11-12T13:45:07",
   "window_days": 120,
   "sources": [
     {
@@ -23,7 +23,7 @@
       "name": "Tuomioistuinlaitos",
       "court": "Tuomioistuimet",
       "ok": true,
-      "fetched": 29,
+      "fetched": 30,
       "error": ""
     },
     {
@@ -103,7 +103,7 @@
       "name": "Finlex, säädöskokoelma",
       "court": "Säädöskokoelma",
       "ok": true,
-      "fetched": 22,
+      "fetched": 17,
       "error": ""
     },
     {
@@ -207,7 +207,7 @@
       "name": "UTUPub (Turun yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 2,
+      "fetched": 1,
       "error": ""
     },
     {
@@ -293,17 +293,94 @@
   ],
   "items": [
     {
+      "court": "TSV",
+      "source": "Tietosuojavaltuutetun toimisto",
+      "title": "EU-maiden tietosuojaviranomaiset selvittävät vuonna 2027 automaattista päätöksentekoa rekrytoinnissa",
+      "url": "https://tietosuoja.fi/-/eu-maiden-tietosuojaviranomaiset-selvittavat-vuonna-2027-automaattista-paatoksentekoa-rekrytoinnissa",
+      "date": "2026-11-12",
+      "keywords": "",
+      "summary": "",
+      "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tietosuoja"
+      ]
+    },
+    {
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "Hallinto-oikeus tietosuoja-asiassa: Viranomainen oli voinut päättää asian enemmän selvittämisen ja valittajan valitus oli hylättävä",
+      "url": "https://www.edilex.fi/uutiset/103831",
+      "date": "2026-11-12",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tietosuoja"
+      ]
+    },
+    {
       "court": "EDPS",
       "source": "Euroopan tietosuojavaltuutettu (EDPS)",
       "title": "Read the blogpost by Wojciech Wiewiórowski.",
       "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
-      "date": "2026-11-11",
+      "date": "2026-11-12",
       "keywords": "",
       "summary": "",
       "score": 23,
       "topics": [],
       "tags": [
         "pvm arvioitu"
+      ]
+    },
+    {
+      "court": "EDPB",
+      "source": "Euroopan tietosuojaneuvosto (EDPB)",
+      "title": "EDPB adopts statement on review of the Republic of Korea adequacy, processor BCR recommendations, and selects topic for 2027 coordinated enforcement action",
+      "url": "https://www.edpb.europa.eu/news/edpb-adopts-statement-on-review-of-the-republic-of-korea-adequacy-processor-bcr_en",
+      "date": "2026-11-11",
+      "keywords": "",
+      "summary": "ikerinar Wed, 11/11/2026 - 12:11",
+      "score": 23,
+      "topics": [],
+      "tags": []
+    },
+    {
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "Lausuntokierros 6.12.2026 saakka: Arviomuistio sähköisen viestinnän tietosuojadirektiivin kansallisista laajennuksista",
+      "url": "https://www.edilex.fi/uutiset/103836",
+      "date": "2026-11-11",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tietosuoja"
+      ]
+    },
+    {
+      "court": "Julkaisu",
+      "source": "eRepo (Itä-Suomen yliopisto)",
+      "title": "Tietosuoja kolmannella sektorilla Sosiotekninen tarkastelu tietosuojavastaavien kokemuksista",
+      "url": "https://erepo.uef.fi/handle/123456789/40094",
+      "date": "2026-11-11",
+      "keywords": "Tietosuoja, tietoturva, tietosuojavastaava, kolmas sektori, sosiotekninen malli, sosiaali- ja terveydenhuollon tiedonhallinta, health and human services information management, tietosuoja, tietoturva, tietosuojavastaavat, kolmas sektori, data protection, data security, data protection officers, thir",
+      "summary": "",
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tietosuoja",
+        "data protection"
       ]
     },
     {
@@ -345,6 +422,22 @@
       "score": 23,
       "topics": [],
       "tags": []
+    },
+    {
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "Inside Greece's new AI Act framework",
+      "url": "https://iapp.org/news/a/inside-greece-s-new-ai-act-framework",
+      "date": "2026-11-10",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Datasääntely"
+      ],
+      "tags": [
+        "AI Act"
+      ]
     },
     {
       "court": "ENISA",
@@ -491,23 +584,6 @@
         "henkilötiet",
         "2016/679",
         "rekisterinpitäj"
-      ]
-    },
-    {
-      "court": "Edilex",
-      "source": "Edilex, uutiset",
-      "title": "142 tietosuojarikosta: Potilas- ja henkilötietoja urkkineelle HUSin asiakaslaskutusta hoitaneelle reskontranhoitajalle 8 kuukauden ehdollinen vankeusrangaistus ja korvausvelvollisuus Käräjäoikeus tuom",
-      "url": "https://www.edilex.fi/uutiset/103746",
-      "date": "2026-11-05",
-      "keywords": "",
-      "summary": "",
-      "score": 26,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tietosuoja",
-        "henkilötiet"
       ]
     },
     {
@@ -690,22 +766,6 @@
       "source": "IAPP",
       "title": "A view from DC: The one-two punch is a knockout for driver privacy",
       "url": "https://iapp.org/news/a/a-view-from-dc-the-one-two-punch-is-a-knockout-for-driver-privacy",
-      "date": "2026-10-30",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "privacy"
-      ]
-    },
-    {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "Notes from the IAPP Canada: Researcher bridges privacy protection and data innovation",
-      "url": "https://iapp.org/news/a/notes-from-the-iapp-canada-khaled-el-emam-bridges-privacy-protection-and-data-innovation",
       "date": "2026-10-30",
       "keywords": "",
       "summary": "",
@@ -1165,18 +1225,6 @@
       "date": "2026-10-09",
       "keywords": "",
       "summary": "ikerinar Fri, 09/10/2026 - 10:02",
-      "score": 23,
-      "topics": [],
-      "tags": []
-    },
-    {
-      "court": "EDPB",
-      "source": "Euroopan tietosuojaneuvosto (EDPB)",
-      "title": "Italian DPA fines BBVA EUR 5 508 000 for failing to respect a customer’s objection to direct marketing",
-      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-bbva-eur-5-508-000-for-failing-to-respect-a-customers-objection-to-direct_en",
-      "date": "2026-10-09",
-      "keywords": "",
-      "summary": "ikerinar Fri, 09/10/2026 - 09:49",
       "score": 23,
       "topics": [],
       "tags": []
@@ -1881,86 +1929,6 @@
       ],
       "tags": [
         "kyberhyökkäy"
-      ]
-    },
-    {
-      "court": "Säädöskokoelma",
-      "source": "Finlex, säädöskokoelma",
-      "title": "736/2026, Laki henkilötietojen käsittelystä maahanmuuttohallinnossa annetun lain 13 §:n muuttamisesta",
-      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/736",
-      "date": "2026-07-14",
-      "keywords": "",
-      "summary": "",
-      "score": 33,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "henkilötiet"
-      ]
-    },
-    {
-      "court": "Säädöskokoelma",
-      "source": "Finlex, säädöskokoelma",
-      "title": "735/2026, Laki henkilötietojen käsittelystä Puolustusvoimissa annetun lain 29 §:n muuttamisesta",
-      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/735",
-      "date": "2026-07-14",
-      "keywords": "",
-      "summary": "",
-      "score": 33,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "henkilötiet"
-      ]
-    },
-    {
-      "court": "Säädöskokoelma",
-      "source": "Finlex, säädöskokoelma",
-      "title": "732/2026, Laki henkilötietojen käsittelystä Tullissa annetun lain muuttamisesta",
-      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/732",
-      "date": "2026-07-14",
-      "keywords": "",
-      "summary": "",
-      "score": 33,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "henkilötiet"
-      ]
-    },
-    {
-      "court": "Säädöskokoelma",
-      "source": "Finlex, säädöskokoelma",
-      "title": "729/2026, Laki henkilötietojen käsittelystä Rajavartiolaitoksessa annetun lain muuttamisesta",
-      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/729",
-      "date": "2026-07-14",
-      "keywords": "",
-      "summary": "",
-      "score": 33,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "henkilötiet"
-      ]
-    },
-    {
-      "court": "Säädöskokoelma",
-      "source": "Finlex, säädöskokoelma",
-      "title": "728/2026, Laki henkilötietojen käsittelystä poliisitoimessa annetun lain muuttamisesta",
-      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/728",
-      "date": "2026-07-14",
-      "keywords": "",
-      "summary": "",
-      "score": 33,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "henkilötiet"
       ]
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-12T13:45:07",
+  "generated": "2026-11-13T13:07:42",
   "window_days": 120,
   "sources": [
     {
@@ -71,7 +71,7 @@
       "name": "Unionin tuomioistuin (EUT ja unionin yleinen tuomioistuin)",
       "court": "EUT",
       "ok": true,
-      "fetched": 4,
+      "fetched": 3,
       "error": ""
     },
     {
@@ -111,7 +111,7 @@
       "name": "Finlex, hallituksen esitykset",
       "court": "HE",
       "ok": true,
-      "fetched": 8,
+      "fetched": 10,
       "error": ""
     },
     {
@@ -167,7 +167,7 @@
       "name": "Euroopan tietosuojavaltuutettu (EDPS)",
       "court": "EDPS",
       "ok": true,
-      "fetched": 2,
+      "fetched": 1,
       "error": ""
     },
     {
@@ -183,7 +183,7 @@
       "name": "Helda (Helsingin yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 8,
+      "fetched": 9,
       "error": ""
     },
     {
@@ -207,7 +207,7 @@
       "name": "UTUPub (Turun yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 1,
+      "fetched": 2,
       "error": ""
     },
     {
@@ -215,7 +215,7 @@
       "name": "eRepo (Itä-Suomen yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 25,
+      "fetched": 26,
       "error": ""
     },
     {
@@ -247,7 +247,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 78,
+      "fetched": 84,
       "error": ""
     },
     {
@@ -295,12 +295,92 @@
     {
       "court": "TSV",
       "source": "Tietosuojavaltuutetun toimisto",
+      "title": "Euroopan tietosuojaneuvostolta arviointi tiedonsiirroista Etelä-Koreaan sekä lopulliset versiot BCR-suosituksista ja oikeutettua etua koskevasta ohjeesta",
+      "url": "https://tietosuoja.fi/-/euroopan-tietosuojaneuvostolta-arviointi-tiedonsiirroista-etela-koreaan-seka-lopulliset-versiot-bcr-suosituksista-ja-oikeutettua-etua-koskevasta-ohjeesta",
+      "date": "2026-11-13",
+      "keywords": "",
+      "summary": "",
+      "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tietosuoja"
+      ]
+    },
+    {
+      "court": "EDPB",
+      "source": "Euroopan tietosuojaneuvosto (EDPB)",
+      "title": "EDPB supports use of other models of contractual clauses for onward transfers of personal data",
+      "url": "https://www.edpb.europa.eu/news/edpb-supports-use-of-other-models-of-contractual-clauses-for-onward-transfers-of-personal-data_en",
+      "date": "2026-11-13",
+      "keywords": "",
+      "summary": "ipetstef Fri, 13/11/2026 - 10:20",
+      "score": 23,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data"
+      ]
+    },
+    {
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 46/2026 Keskus muistuttaa kotien älylaitteiden ja verkkojen tietoturvan merkityksestä. Lisäksi varoitetaan muun muassa pankkien nimissä soitetuista robottihu",
+      "url": "https://www.edilex.fi/uutiset/103881",
+      "date": "2026-11-13",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "kyberturvallisuus"
+      ]
+    },
+    {
+      "court": "Kyberturvallisuuskeskus",
+      "source": "Kyberturvallisuuskeskus",
+      "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 46/2026",
+      "url": "https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-462026?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
+      "date": "2026-11-13",
+      "keywords": "",
+      "summary": "Tällä viikolla muistutamme kotien älylaitteiden ja verkkojen tietoturvan merkityksestä. Lisäksi varoitamme muun muassa pankkien nimissä soitetuista robottihuijauspuheluista. Katsauksessa kerrotaan myös lokakuun kybersäästä ja muistutamme, että vielä ehdit ilmoittautumaan Tekoäly uhkamallinnuksen tukena -webinaariin.",
+      "score": 13,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "kyberturvallisuus"
+      ]
+    },
+    {
+      "court": "TSV",
+      "source": "Tietosuojavaltuutetun toimisto",
       "title": "EU-maiden tietosuojaviranomaiset selvittävät vuonna 2027 automaattista päätöksentekoa rekrytoinnissa",
       "url": "https://tietosuoja.fi/-/eu-maiden-tietosuojaviranomaiset-selvittavat-vuonna-2027-automaattista-paatoksentekoa-rekrytoinnissa",
       "date": "2026-11-12",
       "keywords": "",
       "summary": "",
       "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tietosuoja"
+      ]
+    },
+    {
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "EU-maiden tietosuojaviranomaiset selvittävät vuonna 2027 automaattista päätöksentekoa rekrytoinnissa",
+      "url": "https://www.edilex.fi/uutiset/103863",
+      "date": "2026-11-12",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
       "topics": [
         "Tietosuoja"
       ],
@@ -322,20 +402,6 @@
       ],
       "tags": [
         "tietosuoja"
-      ]
-    },
-    {
-      "court": "EDPS",
-      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
-      "title": "Read the blogpost by Wojciech Wiewiórowski.",
-      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/safeguard-and-vulnerability-human-factor-automated-making-and-cybersecurity_en",
-      "date": "2026-11-12",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [],
-      "tags": [
-        "pvm arvioitu"
       ]
     },
     {
@@ -587,6 +653,22 @@
       ]
     },
     {
+      "court": "HE",
+      "source": "Finlex, hallituksen esitykset",
+      "title": "299/2026, Hallituksen esitys eduskunnalle laeiksi ulkomaalaislain 39 §:n, henkilötietojen käsittelystä maahanmuuttohallinnossa annetun lain sekä verotustietojen julkisuudesta ja salassapidosta annetun lain 18 §:n muuttam",
+      "url": "https://www.finlex.fi/fi/hallituksen-esitykset/2026/299",
+      "date": "2026-11-05",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "henkilötiet"
+      ]
+    },
+    {
       "court": "Julkaisu",
       "source": "Osuva (Vaasan yliopisto)",
       "title": "Kävijäseuranta ja normit",
@@ -601,6 +683,24 @@
       "tags": [
         "tietosuoja",
         "evästeet"
+      ]
+    },
+    {
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "Italy's latest approach to AI, privacy and cybersecurity",
+      "url": "https://iapp.org/news/a/italys-latest-approach-to-ai-privacy-and-cybersecurity",
+      "date": "2026-11-05",
+      "keywords": "",
+      "summary": "",
+      "score": 16,
+      "topics": [
+        "Tietosuoja",
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "privacy",
+        "cyber"
       ]
     },
     {
@@ -666,6 +766,22 @@
       ]
     },
     {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "Protection of Personal Data in Participatory Budgets and Legislative Initiatives 04.11.2026",
+      "url": "https://uodo.gov.pl/en/553/2313",
+      "date": "2026-11-04",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data"
+      ]
+    },
+    {
       "court": "ENISA",
       "source": "ENISA, uutiset",
       "title": "Joint statement on cyber incidents in refrigeration systems across the EU",
@@ -712,22 +828,6 @@
       ]
     },
     {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "Neural data as the newest frontier in data privacy",
-      "url": "https://iapp.org/news/a/neural-data-as-the-newest-frontier-in-data-privacy",
-      "date": "2026-11-03",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "privacy"
-      ]
-    },
-    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "IoT- ja OT-ympäristöjen tietoturva alkaa laitteiden suojaamisesta",
@@ -759,22 +859,6 @@
         "tärkeä",
         "tietosuoja",
         "tietosuojavaltuutet"
-      ]
-    },
-    {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "A view from DC: The one-two punch is a knockout for driver privacy",
-      "url": "https://iapp.org/news/a/a-view-from-dc-the-one-two-punch-is-a-knockout-for-driver-privacy",
-      "date": "2026-10-30",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "privacy"
       ]
     },
     {
@@ -838,6 +922,23 @@
       ],
       "tags": [
         "personal data"
+      ]
+    },
+    {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "Comments by the President of the Personal Data Protection Office on the Proposed Amendments to the Education Law 27.10.2026",
+      "url": "https://uodo.gov.pl/en/553/2314",
+      "date": "2026-10-27",
+      "keywords": "",
+      "summary": "",
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data",
+        "data protection"
       ]
     },
     {
@@ -964,23 +1065,6 @@
       ]
     },
     {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "“Personal Data Protection Office on tour across the country”: Lublin, Ćmińsk and Kielce on the route 22.10.2026",
-      "url": "https://uodo.gov.pl/en/553/2308",
-      "date": "2026-10-22",
-      "keywords": "",
-      "summary": "",
-      "score": 16,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data",
-        "data protection"
-      ]
-    },
-    {
       "court": "EU-komissio",
       "source": "Komissio, digitaalinen strategia",
       "title": "Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act",
@@ -995,18 +1079,6 @@
       "tags": [
         "DSA"
       ]
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "Another Field Consultation Point on the map of Poland – this time we invite you to Gdynia 21.10.2026",
-      "url": "https://uodo.gov.pl/en/553/2302",
-      "date": "2026-10-21",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [],
-      "tags": []
     },
     {
       "court": "EU-komissio",
@@ -1213,18 +1285,6 @@
       "date": "2026-10-09",
       "keywords": "",
       "summary": "ikerinar Fri, 09/10/2026 - 10:25",
-      "score": 23,
-      "topics": [],
-      "tags": []
-    },
-    {
-      "court": "EDPB",
-      "source": "Euroopan tietosuojaneuvosto (EDPB)",
-      "title": "Italian DPA fines IQVIA EUR 7 000 000 for unlawful processing of patients’ health data",
-      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-iqvia-eur-7-000-000-for-unlawful-processing-of-patients-health-data_en",
-      "date": "2026-10-09",
-      "keywords": "",
-      "summary": "ikerinar Fri, 09/10/2026 - 10:02",
       "score": 23,
       "topics": [],
       "tags": []
@@ -1913,22 +1973,6 @@
       ],
       "tags": [
         "tietosuoja"
-      ]
-    },
-    {
-      "court": "Kyberturvallisuuskeskus",
-      "source": "Kyberturvallisuuskeskus",
-      "title": "Heikosti suojatut verkkolaitteet avaavat väylän kyberhyökkäyksille",
-      "url": "https://www.kyberturvallisuuskeskus.fi/fi/uutiset/heikosti-suojatut-verkkolaitteet-avaavat-vaylan-kyberhyokkayksille?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
-      "date": "2026-07-15",
-      "keywords": "",
-      "summary": "Viime vuosien aikana lukuisat kotimaiset organisaatiot ovat joutuneet tietomurron kohteeksi haavoittuvan tai heikosti suojatun verkkolaitteen- tai palvelun vuoksi. Verkkolaitteiden suojaamiseen ja valvontaan on tärkeää kohdentaa riittävästi resursseja. Organisaatioiden tulee varautua ja harjoitella mahdollisten poikkeamatilanteiden varalta.",
-      "score": 13,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "kyberhyökkäy"
       ]
     }
   ]

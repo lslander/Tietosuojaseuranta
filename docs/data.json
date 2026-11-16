@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-13T13:07:42",
+  "generated": "2026-11-16T13:36:29",
   "window_days": 120,
   "sources": [
     {
@@ -71,7 +71,7 @@
       "name": "Unionin tuomioistuin (EUT ja unionin yleinen tuomioistuin)",
       "court": "EUT",
       "ok": true,
-      "fetched": 3,
+      "fetched": 2,
       "error": ""
     },
     {
@@ -183,7 +183,7 @@
       "name": "Helda (Helsingin yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 9,
+      "fetched": 12,
       "error": ""
     },
     {
@@ -207,7 +207,7 @@
       "name": "UTUPub (Turun yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 2,
+      "fetched": 1,
       "error": ""
     },
     {
@@ -215,7 +215,7 @@
       "name": "eRepo (Itä-Suomen yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 26,
+      "fetched": 24,
       "error": ""
     },
     {
@@ -247,7 +247,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 84,
+      "fetched": 80,
       "error": ""
     },
     {
@@ -295,6 +295,78 @@
     {
       "court": "TSV",
       "source": "Tietosuojavaltuutetun toimisto",
+      "title": "Tietosuojavaltuutetun toimisto ottaa käyttöön automaatiota tietoturvaloukkausilmoitusten käsittelyssä",
+      "url": "https://tietosuoja.fi/-/tietosuojavaltuutetun-toimisto-ottaa-kayttoon-automaatiota-tietoturvaloukkausilmoitusten-kasittelyssa",
+      "date": "2026-11-16",
+      "keywords": "",
+      "summary": "",
+      "score": 63,
+      "topics": [
+        "Tietosuoja",
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "tärkeä",
+        "tietosuoja",
+        "tietosuojavaltuutet",
+        "tietoturvaloukkaus"
+      ]
+    },
+    {
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "Tietosuojavaltuutetun toimisto ottaa käyttöön automaatiota tietoturvaloukkausilmoitusten käsittelyssä Tietosuojavaltuutetun toimiston verkkolomakkeella tehtyjä tietoturvaloukkausilmoituksia aletaan vi",
+      "url": "https://www.edilex.fi/uutiset/103892",
+      "date": "2026-11-16",
+      "keywords": "",
+      "summary": "",
+      "score": 53,
+      "topics": [
+        "Tietosuoja",
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "tärkeä",
+        "tietosuoja",
+        "tietosuojavaltuutet",
+        "tietoturvaloukkaus"
+      ]
+    },
+    {
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "Valtakunnansyyttäjä ei ottanut uudelleenratkaistavaksi aluesyyttäjien päätöksiä Wille Rydmanin asiassa Aluesyyttäjät olivat tehneet yhdeksän syyttämättäjättämispäätöstä asiassa, jossa oli kyse Wille R",
+      "url": "https://www.edilex.fi/uutiset/103898",
+      "date": "2026-11-16",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [
+        "Datasääntely"
+      ],
+      "tags": [
+        "DMA"
+      ]
+    },
+    {
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "Euroopan tietosuojaneuvostolta arviointi tiedonsiirroista Etelä-Koreaan sekä lopulliset versiot BCR-suosituksista ja oikeutettua etua koskevasta ohjeesta",
+      "url": "https://www.edilex.fi/uutiset/103886",
+      "date": "2026-11-16",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tietosuoja"
+      ]
+    },
+    {
+      "court": "TSV",
+      "source": "Tietosuojavaltuutetun toimisto",
       "title": "Euroopan tietosuojaneuvostolta arviointi tiedonsiirroista Etelä-Koreaan sekä lopulliset versiot BCR-suosituksista ja oikeutettua etua koskevasta ohjeesta",
       "url": "https://tietosuoja.fi/-/euroopan-tietosuojaneuvostolta-arviointi-tiedonsiirroista-etela-koreaan-seka-lopulliset-versiot-bcr-suosituksista-ja-oikeutettua-etua-koskevasta-ohjeesta",
       "date": "2026-11-13",
@@ -327,7 +399,7 @@
     {
       "court": "Edilex",
       "source": "Edilex, uutiset",
-      "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 46/2026 Keskus muistuttaa kotien älylaitteiden ja verkkojen tietoturvan merkityksestä. Lisäksi varoitetaan muun muassa pankkien nimissä soitetuista robottihu",
+      "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 46/2026",
       "url": "https://www.edilex.fi/uutiset/103881",
       "date": "2026-11-13",
       "keywords": "",
@@ -415,22 +487,6 @@
       "score": 23,
       "topics": [],
       "tags": []
-    },
-    {
-      "court": "Edilex",
-      "source": "Edilex, uutiset",
-      "title": "Lausuntokierros 6.12.2026 saakka: Arviomuistio sähköisen viestinnän tietosuojadirektiivin kansallisista laajennuksista",
-      "url": "https://www.edilex.fi/uutiset/103836",
-      "date": "2026-11-11",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tietosuoja"
-      ]
     },
     {
       "court": "Julkaisu",
@@ -828,6 +884,22 @@
       ]
     },
     {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "We recommend reporting personal data breaches through S46 03.11.2026",
+      "url": "https://uodo.gov.pl/en/553/2316",
+      "date": "2026-11-03",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data"
+      ]
+    },
+    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "IoT- ja OT-ympäristöjen tietoturva alkaa laitteiden suojaamisesta",
@@ -859,6 +931,23 @@
         "tärkeä",
         "tietosuoja",
         "tietosuojavaltuutet"
+      ]
+    },
+    {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "The Voivodeship Administrative Court ruled in favor of the President of the Personal Data Protection Office regarding a bank’s scanning of ID cards 02.11.2026",
+      "url": "https://uodo.gov.pl/en/553/2315",
+      "date": "2026-11-02",
+      "keywords": "",
+      "summary": "",
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data",
+        "data protection"
       ]
     },
     {
@@ -1020,18 +1109,6 @@
       "tags": []
     },
     {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "The Use of AI in Business – Meeting with the Polish Women Chamber of Commerce 23.10.2026",
-      "url": "https://uodo.gov.pl/en/553/2307",
-      "date": "2026-10-23",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [],
-      "tags": []
-    },
-    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 43/2026",
@@ -1045,23 +1122,6 @@
       ],
       "tags": [
         "kyberturvallisuus"
-      ]
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "Freedom of Scientific Research vs. Personal Data Protection – Conference 22.10.2026",
-      "url": "https://uodo.gov.pl/en/553/2300",
-      "date": "2026-10-22",
-      "keywords": "",
-      "summary": "",
-      "score": 16,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data",
-        "data protection"
       ]
     },
     {
@@ -1654,6 +1714,22 @@
       ]
     },
     {
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "The Barbados-Guyana Digital Identity Card Travel Initiative: Identifying the data protection gaps",
+      "url": "https://iapp.org/news/a/the-barbados-guyana-digital-identity-card-travel-initiative-identifying-the-data-protection-gaps",
+      "date": "2026-09-03",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "data protection"
+      ]
+    },
+    {
       "court": "Julkaisu",
       "source": "Osuva (Vaasan yliopisto)",
       "title": "Navigating the use of AI in the public sector : The complex world of AI ethics and regulation in Finnish municipalities",
@@ -1667,26 +1743,6 @@
       ],
       "tags": [
         "AI Act"
-      ]
-    },
-    {
-      "court": "Julkaisu",
-      "source": "UTUPub (Turun yliopisto)",
-      "title": "Age Assurance Systems on Online Platforms",
-      "url": "https://www.utupub.fi/handle/11111/63335",
-      "date": "2026-08-31",
-      "keywords": "age assurance, age verification, age estimation, online platform, data privacy, cybersecurity, iän varmennus, iän todentaminen, iän arviointi, verkkoalusta, tietosuoja, kyberturvallisuus",
-      "summary": "Age assurance refers to methods used to verify or estimate a person’s age. As online platforms face increasing regulatory pressure to protect minors from harmful content, age assurance has become an important mechanism for managing access to age-restricted material. The effectiveness of age assurance depends on the accuracy of the technology, how users respond to requirements, and how data is mana",
-      "score": 22,
-      "topics": [
-        "Tietosuoja",
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "tietosuoja",
-        "kyberturvallisuus",
-        "privacy",
-        "cyber"
       ]
     },
     {

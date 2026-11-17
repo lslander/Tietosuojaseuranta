@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-16T13:36:29",
+  "generated": "2026-11-17T14:24:08",
   "window_days": 120,
   "sources": [
     {
@@ -70,9 +70,9 @@
       "id": "eu-courts",
       "name": "Unionin tuomioistuin (EUT ja unionin yleinen tuomioistuin)",
       "court": "EUT",
-      "ok": true,
-      "fetched": 2,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "error": "403 Client Error: Forbidden for url: https://publications.europa.eu/webapi/rdf/sparql?query=%0APREFIX+cdm%3A+%3Chttp%3A%2F%2Fpublications.europa.eu%2Fontology%2Fcdm%23%3E%0APREFIX+lang%3A+%3Chttp%3A%2"
     },
     {
       "id": "curia-press",
@@ -238,16 +238,16 @@
       "id": "osuva",
       "name": "Osuva (Vaasan yliopisto)",
       "court": "Julkaisu",
-      "ok": true,
-      "fetched": 23,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "error": "HTTPSConnectionPool(host='osuva.uwasa.fi', port=443): Max retries exceeded with url: /server/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-09-03 (Caused by ConnectTimeoutError(<HTTPSCon"
     },
     {
       "id": "edilex",
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 80,
+      "fetched": 81,
       "error": ""
     },
     {
@@ -293,6 +293,75 @@
   ],
   "items": [
     {
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "Europolin suorittama henkilötietojen käsittely: EU- tuomioistuin vahvisti, että Euroopan tietosuojavaltuutetun nostama kanne Europol-asetuksen muuttamisesta on jätettävä tutkimatta Kyseisen asetuksen ",
+      "url": "https://www.edilex.fi/uutiset/103912",
+      "date": "2026-11-17",
+      "keywords": "",
+      "summary": "",
+      "score": 41,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tärkeä",
+        "tietosuoja",
+        "henkilötiet",
+        "tietosuojavaltuutet"
+      ]
+    },
+    {
+      "court": "EDPB",
+      "source": "Euroopan tietosuojaneuvosto (EDPB)",
+      "title": "Irish Data Protection Commission fines MTCH EUR 11 million following Inquiry into Tinder users’ personal data requests",
+      "url": "https://www.edpb.europa.eu/news/irish-data-protection-commission-fines-mtch-eur-11-million-following-inquiry-into-tinder-users_en",
+      "date": "2026-11-17",
+      "keywords": "",
+      "summary": "ikerinar Tue, 17/11/2026 - 11:13",
+      "score": 26,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data",
+        "data protection"
+      ]
+    },
+    {
+      "court": "EU-komissio",
+      "source": "Komissio, digitaalinen strategia",
+      "title": "Commission preliminarily finds Temu in breach of the Digital Services Act for failure to tackle the sale of illegal products",
+      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-temu-breach-digital-services-act-failure-tackle-sale-illegal",
+      "date": "2026-11-17",
+      "keywords": "",
+      "summary": "Anonymous (not verified) Tue, 11/17/2026 - 11:11 The European Commission preliminarily found Temu in breach of the Digital Services Act (DSA) obligation to put in place reasonable, proportionate and effective measures to mitigate the risk of illegal products being offered on its platform. The Commission preliminarily found that Temu's mitigation measures include ineffective controls to check the c",
+      "score": 23,
+      "topics": [
+        "Datasääntely"
+      ],
+      "tags": [
+        "DSA"
+      ]
+    },
+    {
+      "court": "EUT",
+      "source": "Unionin tuomioistuimen lehdistötiedotteet",
+      "title": "165/2026 : 17 November 2026 - Judgment of the Court of Justice in Case C-698/23 P",
+      "url": "https://curia.europa.eu/site/jcms/p1_1000089224",
+      "date": "2026-11-17",
+      "keywords": "",
+      "summary": "EDPS v Parliament and Council Law governing the institutions Processing of personal data by Europol: the Court of Justice confirms that the action brought by the European Data Protection Supervisor (EDPS) against the amendment of the Europol regulation is inadmissible",
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data",
+        "data protection"
+      ]
+    },
+    {
       "court": "TSV",
       "source": "Tietosuojavaltuutetun toimisto",
       "title": "Tietosuojavaltuutetun toimisto ottaa käyttöön automaatiota tietoturvaloukkausilmoitusten käsittelyssä",
@@ -315,7 +384,7 @@
     {
       "court": "Edilex",
       "source": "Edilex, uutiset",
-      "title": "Tietosuojavaltuutetun toimisto ottaa käyttöön automaatiota tietoturvaloukkausilmoitusten käsittelyssä Tietosuojavaltuutetun toimiston verkkolomakkeella tehtyjä tietoturvaloukkausilmoituksia aletaan vi",
+      "title": "Tietosuojavaltuutetun toimisto ottaa käyttöön automaatiota tietoturvaloukkausilmoitusten käsittelyssä",
       "url": "https://www.edilex.fi/uutiset/103892",
       "date": "2026-11-16",
       "keywords": "",
@@ -335,7 +404,7 @@
     {
       "court": "Edilex",
       "source": "Edilex, uutiset",
-      "title": "Valtakunnansyyttäjä ei ottanut uudelleenratkaistavaksi aluesyyttäjien päätöksiä Wille Rydmanin asiassa Aluesyyttäjät olivat tehneet yhdeksän syyttämättäjättämispäätöstä asiassa, jossa oli kyse Wille R",
+      "title": "Valtakunnansyyttäjä ei ottanut uudelleenratkaistavaksi aluesyyttäjien päätöksiä Wille Rydmanin asiassa",
       "url": "https://www.edilex.fi/uutiset/103898",
       "date": "2026-11-16",
       "keywords": "",
@@ -447,8 +516,8 @@
     {
       "court": "Edilex",
       "source": "Edilex, uutiset",
-      "title": "EU-maiden tietosuojaviranomaiset selvittävät vuonna 2027 automaattista päätöksentekoa rekrytoinnissa",
-      "url": "https://www.edilex.fi/uutiset/103863",
+      "title": "Hallinto-oikeus tietosuoja-asiassa: Viranomainen oli voinut päättää asian enemmän selvittämisen ja valittajan valitus oli hylättävä",
+      "url": "https://www.edilex.fi/uutiset/103831",
       "date": "2026-11-12",
       "keywords": "",
       "summary": "",
@@ -461,19 +530,19 @@
       ]
     },
     {
-      "court": "Edilex",
-      "source": "Edilex, uutiset",
-      "title": "Hallinto-oikeus tietosuoja-asiassa: Viranomainen oli voinut päättää asian enemmän selvittämisen ja valittajan valitus oli hylättävä",
-      "url": "https://www.edilex.fi/uutiset/103831",
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "One Year of Applying the Code of Conduct Under the GDPR – Join Us for a Webinar 12.11.2026",
+      "url": "https://uodo.gov.pl/en/553/2318",
       "date": "2026-11-12",
       "keywords": "",
       "summary": "",
-      "score": 23,
+      "score": 13,
       "topics": [
         "Tietosuoja"
       ],
       "tags": [
-        "tietosuoja"
+        "GDPR"
       ]
     },
     {
@@ -658,6 +727,22 @@
       ]
     },
     {
+      "court": "UODO",
+      "source": "Puolan tietosuojaviranomainen (UODO)",
+      "title": "Two days of meetings, consultations, and discussions on data protection in the Lubelskie and Świętokrzyskie Voivodeships 06.11.2026",
+      "url": "https://uodo.gov.pl/en/553/2317",
+      "date": "2026-11-06",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "data protection"
+      ]
+    },
+    {
       "court": "IAPP",
       "source": "IAPP",
       "title": "Notes from the IAPP Canada: Kerr's privacy questions echo in Bill C-22",
@@ -690,25 +775,6 @@
       ]
     },
     {
-      "court": "EUT",
-      "source": "Unionin tuomioistuin (EUT ja unionin yleinen tuomioistuin)",
-      "title": "C-205/25 Joachim Lindenberg vastaan Bayerisches Landesamt für Datenschutzaufsicht (tuomio)",
-      "url": "https://eur-lex.europa.eu/legal-content/FI/TXT/?uri=CELEX:62025CJ0205",
-      "date": "2026-11-05",
-      "keywords": "Ennakkoratkaisupyyntö – Jäsenvaltioiden lainsäädännön lähentäminen – Luonnollisten henkilöiden suojelu henkilötietojen käsittelyssä sekä näiden tietojen vapaa liikkuvuus – Asetus (EU) 2016/679 – Kantelumenettelyssä toimivan valvontaviranomaisen asiakirja-aineistoon sisältyvät tiedot – 4 artiklan 7 ja 21 alakohta – Rekisterinpitäjän ja valvontaviranomaisen käsitteet – 15 artikla – Rekisteröidyn oikeus saada tutustua tietoihin – 23 artikla – Rajoitukset – 77 artikla – Oikeus tehdä kantelu valvontaviranomaiselle – Kansallinen säännöstö, jonka mukaan pääsy valvontaviranomaisen asiakirjoihin ja tie",
-      "summary": "ECLI:EU:C:2026:933",
-      "score": 51,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tärkeä",
-        "henkilötiet",
-        "2016/679",
-        "rekisterinpitäj"
-      ]
-    },
-    {
       "court": "HE",
       "source": "Finlex, hallituksen esitykset",
       "title": "299/2026, Hallituksen esitys eduskunnalle laeiksi ulkomaalaislain 39 §:n, henkilötietojen käsittelystä maahanmuuttohallinnossa annetun lain sekä verotustietojen julkisuudesta ja salassapidosta annetun lain 18 §:n muuttam",
@@ -722,23 +788,6 @@
       ],
       "tags": [
         "henkilötiet"
-      ]
-    },
-    {
-      "court": "Julkaisu",
-      "source": "Osuva (Vaasan yliopisto)",
-      "title": "Kävijäseuranta ja normit",
-      "url": "https://osuva.uwasa.fi/handle/11111/21505",
-      "date": "2026-11-05",
-      "keywords": "normit, sääntely, verkkopalvelut, tietosuoja, seuranta, evästeet, yksityisyys, fi=Tietojärjestelmätiede|en=Information Systems|, fi=Tietojärjestelmätieteen maisteriohjelma|en=Master’s Programme in Information Systems|",
-      "summary": "Kävijäseuranta on vakiintunut laajaksi osaksi verkkopalveluiden liiketoimintaa. Seurannalla kerätään tietoa käyttäjien toiminnasta, jota voidaan hyödyntää muun muassa palvelun kehittämisessä ja liiketoiminnan päätöksenteossa. Teknisen toteutuksen lisäksi kävijäseurantaa ohjaavat sääntely, epäviralliset käytänteet ja käyttäjien odotukset. Tutkimuksen tavoitteena on tunnistaa, millaiset viralliset j",
-      "score": 16,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tietosuoja",
-        "evästeet"
       ]
     },
     {
@@ -757,22 +806,6 @@
       "tags": [
         "privacy",
         "cyber"
-      ]
-    },
-    {
-      "court": "Julkaisu",
-      "source": "Osuva (Vaasan yliopisto)",
-      "title": "AI-avusteisen Service Desk -toiminnan turvallisuus-  ja riskienhallintamalli",
-      "url": "https://osuva.uwasa.fi/handle/11111/21497",
-      "date": "2026-11-05",
-      "keywords": "tekoäly, riskienhallinta, service desks, tekoäly, tietoturva, tietotekniikka, tietosuoja, riskit, riskienhallinta, hallinta, atk-tuki, palvelut, prosessit, automaatio, turvallisuus, fi=Automaatio- ja tietotekniikka|en=Automation and Computer Science|, Master’s Programme in Computing Sciences",
-      "summary": "Tekoälyn hyödyntäminen IT-palvelunhallinnassa on lisääntynyt merkittävästi viime vuosina, ja erityisesti Service Desk -toiminnassa tekoälyä hyödynnetään tukipyyntöjen luokittelussa, priorisoinnissa, ratkaisuehdotusten tuottamisessa sekä asiakaspalvelun automatisoinnissa. Tekoälyratkaisut tarjoavat mahdollisuuksia palveluiden tehokkuuden, laadun ja skaalautuvuuden parantamiseen, mutta niiden käyttö",
-      "score": 13,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tietosuoja"
       ]
     },
     {
@@ -979,25 +1012,6 @@
       "tags": []
     },
     {
-      "court": "Julkaisu",
-      "source": "Osuva (Vaasan yliopisto)",
-      "title": "Antidopingtoiminnan henkilötietojen julkisuus tietosuojan koetinkivenä – kommentti apulaistietosuojavaltuutetun päätökseen",
-      "url": "https://osuva.uwasa.fi/handle/11111/21450",
-      "date": "2026-10-28",
-      "keywords": "Doping, Henkilötieto, Tietosuoja, Tietosuojavaltuutettu, Urheilu, fi=Julkisoikeus|en=Public Law|",
-      "summary": "Kirjoituksessa tarkastellaan apulaistietosuojavaltuutetun 4.8.2026 antamaa päätöstä, jossa arvioitiin Suomen urheilun eettinen keskus SUEK ry:n menettelyä urheilijan dopingrikkomukseen liittyvien henkilötietojen julkaisemisessa. Apulaistietosuojavaltuutettu hylkäsi yleisen edun ja suostumuksen henkilötietojen käsittelyperusteena, mutta hyväksyi sopimusperusteen. Julkaiseminen todettiin kuitenkin s",
-      "score": 31,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tärkeä",
-        "tietosuoja",
-        "henkilötiet",
-        "tietosuojavaltuutet"
-      ]
-    },
-    {
       "court": "UODO",
       "source": "Puolan tietosuojaviranomainen (UODO)",
       "title": "Who and how should protect the patient's personal data? Invitation to the webinar 28.10.2026",
@@ -1011,40 +1025,6 @@
       ],
       "tags": [
         "personal data"
-      ]
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "Comments by the President of the Personal Data Protection Office on the Proposed Amendments to the Education Law 27.10.2026",
-      "url": "https://uodo.gov.pl/en/553/2314",
-      "date": "2026-10-27",
-      "keywords": "",
-      "summary": "",
-      "score": 16,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data",
-        "data protection"
-      ]
-    },
-    {
-      "court": "Julkaisu",
-      "source": "Osuva (Vaasan yliopisto)",
-      "title": "Doping ei poista tietosuojaa – urheilijan henkilötietojen julkaiseminen ratkaisussa C-474/24",
-      "url": "https://osuva.uwasa.fi/handle/11111/21435",
-      "date": "2026-10-27",
-      "keywords": "Doping, EU-oikeuden soveltaminen, Euroopan unionin tuomioistuin, Henkilötieto, Oikeusperiaate, Tietosuoja, Urheilu, fi=Julkisoikeus|en=Public Law|",
-      "summary": "Tämä artikkeli käsittelee Euroopan unionin tuomioistuimen suuren jaoston tuomiota asiassa C-474/24 (NADA Austria ym.), joka koski dopingseuraamuksia koskevien henkilötietojen julkaisemista internetissä. Tuomioistuin katsoi, että yleistä tietosuoja-asetusta sovelletaan antidopingtoimintaan, koska asetuksen 2 artiklan 2 kohdan a alakohdan soveltamisalapoikkeusta on tulkittava suppeasti, eikä urheilu",
-      "score": 16,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tietosuoja",
-        "henkilötiet"
       ]
     },
     {
@@ -1097,18 +1077,6 @@
       ]
     },
     {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "Meeting on the Code of Conduct for the Media 26.10.2026",
-      "url": "https://uodo.gov.pl/en/553/2311",
-      "date": "2026-10-26",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [],
-      "tags": []
-    },
-    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 43/2026",
@@ -1138,22 +1106,6 @@
       ],
       "tags": [
         "DSA"
-      ]
-    },
-    {
-      "court": "EU-komissio",
-      "source": "Komissio, digitaalinen strategia",
-      "title": "First harmonised standard supporting the AI Act published in the Official Journal",
-      "url": "https://digital-strategy.ec.europa.eu/en/library/first-harmonised-standard-supporting-ai-act-published-official-journal",
-      "date": "2026-10-19",
-      "keywords": "",
-      "summary": "Anonymous (not verified) Mon, 10/19/2026 - 09:37 The European Commission has published the reference to the first harmonised standard supporting the implementation of the AI Act in the Official Journal of the European Union. The standard, EN 18286:2026 - Artificial intelligence - Quality management system for EU AI Act regulatory purposes , developed by CEN and CENELEC, provides a clear legal path",
-      "score": 23,
-      "topics": [
-        "Datasääntely"
-      ],
-      "tags": [
-        "AI Act"
       ]
     },
     {
@@ -1336,18 +1288,6 @@
         "kyberturvallisuus",
         "tietomurto"
       ]
-    },
-    {
-      "court": "EDPB",
-      "source": "Euroopan tietosuojaneuvosto (EDPB)",
-      "title": "Italian DPA fines security company EUR 39 000 for violations concerning employees’ data",
-      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-security-company-eur-39-000-for-violations-concerning-employees-data_en",
-      "date": "2026-10-09",
-      "keywords": "",
-      "summary": "ikerinar Fri, 09/10/2026 - 10:25",
-      "score": 23,
-      "topics": [],
-      "tags": []
     },
     {
       "court": "Julkaisu",
@@ -1727,22 +1667,6 @@
       ],
       "tags": [
         "data protection"
-      ]
-    },
-    {
-      "court": "Julkaisu",
-      "source": "Osuva (Vaasan yliopisto)",
-      "title": "Navigating the use of AI in the public sector : The complex world of AI ethics and regulation in Finnish municipalities",
-      "url": "https://osuva.uwasa.fi/handle/11111/21234",
-      "date": "2026-09-02",
-      "keywords": "artificial intelligence, regulation (control), legislation, good governance, public administration, public sector, municipalities, ethics, fi=Julkisen toiminnan johtaminen|en=Public Policy and Management|, fi=Hallintotieteiden maisteriohjelma|en=Master's Programme in Administrative Sciences|",
-      "summary": "This thesis examines the implications of the European Union’s Artificial Intelligence Act (EU AI Act) for Finnish municipalities. The use of artificial intelligence in municipalities has increased rapidly, but municipalities continue to face challenges related to the ethical governance of AI and the practical implementation of regulation. In addition, uncertainties surrounding the regulation may h",
-      "score": 13,
-      "topics": [
-        "Datasääntely"
-      ],
-      "tags": [
-        "AI Act"
       ]
     },
     {

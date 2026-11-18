@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-17T14:24:08",
+  "generated": "2026-11-18T13:58:20",
   "window_days": 120,
   "sources": [
     {
@@ -70,9 +70,9 @@
       "id": "eu-courts",
       "name": "Unionin tuomioistuin (EUT ja unionin yleinen tuomioistuin)",
       "court": "EUT",
-      "ok": false,
-      "fetched": 0,
-      "error": "403 Client Error: Forbidden for url: https://publications.europa.eu/webapi/rdf/sparql?query=%0APREFIX+cdm%3A+%3Chttp%3A%2F%2Fpublications.europa.eu%2Fontology%2Fcdm%23%3E%0APREFIX+lang%3A+%3Chttp%3A%2"
+      "ok": true,
+      "fetched": 2,
+      "error": ""
     },
     {
       "id": "curia-press",
@@ -103,7 +103,7 @@
       "name": "Finlex, säädöskokoelma",
       "court": "Säädöskokoelma",
       "ok": true,
-      "fetched": 17,
+      "fetched": 16,
       "error": ""
     },
     {
@@ -111,7 +111,7 @@
       "name": "Finlex, hallituksen esitykset",
       "court": "HE",
       "ok": true,
-      "fetched": 10,
+      "fetched": 9,
       "error": ""
     },
     {
@@ -174,16 +174,16 @@
       "id": "uodo",
       "name": "Puolan tietosuojaviranomainen (UODO)",
       "court": "UODO",
-      "ok": true,
-      "fetched": 6,
-      "error": ""
+      "ok": false,
+      "fetched": 0,
+      "error": "HTTPSConnectionPool(host='uodo.gov.pl', port=443): Max retries exceeded with url: /en (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unabl"
     },
     {
       "id": "helda",
       "name": "Helda (Helsingin yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 12,
+      "fetched": 10,
       "error": ""
     },
     {
@@ -240,14 +240,14 @@
       "court": "Julkaisu",
       "ok": false,
       "fetched": 0,
-      "error": "HTTPSConnectionPool(host='osuva.uwasa.fi', port=443): Max retries exceeded with url: /server/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-09-03 (Caused by ConnectTimeoutError(<HTTPSCon"
+      "error": "HTTPSConnectionPool(host='osuva.uwasa.fi', port=443): Max retries exceeded with url: /server/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-09-04 (Caused by ConnectTimeoutError(<HTTPSCon"
     },
     {
       "id": "edilex",
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 81,
+      "fetched": 77,
       "error": ""
     },
     {
@@ -293,9 +293,73 @@
   ],
   "items": [
     {
+      "court": "EDPB",
+      "source": "Euroopan tietosuojaneuvosto (EDPB)",
+      "title": "Italian DPA fines a company EUR 25 500 over employee access rights and corporate email accounts",
+      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-a-company-eur-25-500-over-employee-access-rights-and-corporate-email_en",
+      "date": "2026-11-18",
+      "keywords": "",
+      "summary": "ikerinar Wed, 18/11/2026 - 14:07",
+      "score": 23,
+      "topics": [],
+      "tags": []
+    },
+    {
+      "court": "EDPB",
+      "source": "Euroopan tietosuojaneuvosto (EDPB)",
+      "title": "Italian DPA fines Meta EUR 805 million for unlawful access to Facebook users’ photo galleries",
+      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-meta-eur-805-million-for-unlawful-access-to-facebook-users-photo-galleries_en",
+      "date": "2026-11-18",
+      "keywords": "",
+      "summary": "ikerinar Wed, 18/11/2026 - 14:00",
+      "score": 23,
+      "topics": [],
+      "tags": []
+    },
+    {
+      "court": "EDPB",
+      "source": "Euroopan tietosuojaneuvosto (EDPB)",
+      "title": "Italian DPA fines radiology centre and IT provider a combined  EUR 28 000 for exposing patient health data",
+      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-radiology-centre-and-it-provider-a-combined-eur-28-000-for-exposing-patient_en",
+      "date": "2026-11-18",
+      "keywords": "",
+      "summary": "ikerinar Wed, 18/11/2026 - 13:53",
+      "score": 23,
+      "topics": [],
+      "tags": []
+    },
+    {
+      "court": "EDPB",
+      "source": "Euroopan tietosuojaneuvosto (EDPB)",
+      "title": "Italian DPA fines Business School EUR 8 000 for unlawful telemarketing and failure to handle data subject request",
+      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-business-school-eur-8-000-for-unlawful-telemarketing-and-failure-to-handle_en",
+      "date": "2026-11-18",
+      "keywords": "",
+      "summary": "ikerinar Wed, 18/11/2026 - 13:28",
+      "score": 23,
+      "topics": [],
+      "tags": []
+    },
+    {
       "court": "Edilex",
       "source": "Edilex, uutiset",
-      "title": "Europolin suorittama henkilötietojen käsittely: EU- tuomioistuin vahvisti, että Euroopan tietosuojavaltuutetun nostama kanne Europol-asetuksen muuttamisesta on jätettävä tutkimatta Kyseisen asetuksen ",
+      "title": "Komissio totesi alustavasti, että Temu rikkoo digipalvelusäädöstä, koska se ei ole puuttunut laittomien tuotteiden myyntiin",
+      "url": "https://www.edilex.fi/uutiset/103928",
+      "date": "2026-11-18",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [
+        "Datasääntely"
+      ],
+      "tags": [
+        "digipalvelusäädös"
+      ]
+    },
+    {
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "Europolin suorittama henkilötietojen käsittely: EU- tuomioistuin vahvisti, että Euroopan tietosuojavaltuutetun nostama kanne Europol-asetuksen muuttamisesta on jätettävä tutkimatta",
       "url": "https://www.edilex.fi/uutiset/103912",
       "date": "2026-11-17",
       "keywords": "",
@@ -418,22 +482,6 @@
       ]
     },
     {
-      "court": "Edilex",
-      "source": "Edilex, uutiset",
-      "title": "Euroopan tietosuojaneuvostolta arviointi tiedonsiirroista Etelä-Koreaan sekä lopulliset versiot BCR-suosituksista ja oikeutettua etua koskevasta ohjeesta",
-      "url": "https://www.edilex.fi/uutiset/103886",
-      "date": "2026-11-16",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tietosuoja"
-      ]
-    },
-    {
       "court": "TSV",
       "source": "Tietosuojavaltuutetun toimisto",
       "title": "Euroopan tietosuojaneuvostolta arviointi tiedonsiirroista Etelä-Koreaan sekä lopulliset versiot BCR-suosituksista ja oikeutettua etua koskevasta ohjeesta",
@@ -466,22 +514,6 @@
       ]
     },
     {
-      "court": "Edilex",
-      "source": "Edilex, uutiset",
-      "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 46/2026",
-      "url": "https://www.edilex.fi/uutiset/103881",
-      "date": "2026-11-13",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "kyberturvallisuus"
-      ]
-    },
-    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 46/2026",
@@ -498,6 +530,24 @@
       ]
     },
     {
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "Hallinto-oikeus tietosuoja-asiassa: Viranomainen oli voinut päättää asian enemmän selvittämisen ja valittajan valitus oli hylättävä Tietosuojavaltuutettu oli 10.5.2024 asiaa selvitettyään todennut, et",
+      "url": "https://www.edilex.fi/uutiset/103831",
+      "date": "2026-11-12",
+      "keywords": "",
+      "summary": "",
+      "score": 38,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tärkeä",
+        "tietosuoja",
+        "tietosuojavaltuutet"
+      ]
+    },
+    {
       "court": "TSV",
       "source": "Tietosuojavaltuutetun toimisto",
       "title": "EU-maiden tietosuojaviranomaiset selvittävät vuonna 2027 automaattista päätöksentekoa rekrytoinnissa",
@@ -511,38 +561,6 @@
       ],
       "tags": [
         "tietosuoja"
-      ]
-    },
-    {
-      "court": "Edilex",
-      "source": "Edilex, uutiset",
-      "title": "Hallinto-oikeus tietosuoja-asiassa: Viranomainen oli voinut päättää asian enemmän selvittämisen ja valittajan valitus oli hylättävä",
-      "url": "https://www.edilex.fi/uutiset/103831",
-      "date": "2026-11-12",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tietosuoja"
-      ]
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "One Year of Applying the Code of Conduct Under the GDPR – Join Us for a Webinar 12.11.2026",
-      "url": "https://uodo.gov.pl/en/553/2318",
-      "date": "2026-11-12",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "GDPR"
       ]
     },
     {
@@ -589,30 +607,6 @@
       "tags": [
         "personal data"
       ]
-    },
-    {
-      "court": "EDPB",
-      "source": "Euroopan tietosuojaneuvosto (EDPB)",
-      "title": "Italian DPA fines Wind Tre EUR 1,7 million for data security failures affecting over 365 000 customers",
-      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-wind-tre-eur-17-million-for-data-security-failures-affecting-over-365-000_en",
-      "date": "2026-11-10",
-      "keywords": "",
-      "summary": "ikerinar Tue, 10/11/2026 - 12:25",
-      "score": 23,
-      "topics": [],
-      "tags": []
-    },
-    {
-      "court": "EDPB",
-      "source": "Euroopan tietosuojaneuvosto (EDPB)",
-      "title": "Italian DPA fines clothing company for failing to handle erasure request",
-      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-clothing-company-for-failing-to-handle-erasure-request_en",
-      "date": "2026-11-10",
-      "keywords": "",
-      "summary": "ikerinar Tue, 10/11/2026 - 12:12",
-      "score": 23,
-      "topics": [],
-      "tags": []
     },
     {
       "court": "IAPP",
@@ -727,38 +721,6 @@
       ]
     },
     {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "Two days of meetings, consultations, and discussions on data protection in the Lubelskie and Świętokrzyskie Voivodeships 06.11.2026",
-      "url": "https://uodo.gov.pl/en/553/2317",
-      "date": "2026-11-06",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "data protection"
-      ]
-    },
-    {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "Notes from the IAPP Canada: Kerr's privacy questions echo in Bill C-22",
-      "url": "https://iapp.org/news/a/notes-from-the-iapp-canada-kerrs-privacy-questions-echo-in-bill-c-22",
-      "date": "2026-11-06",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "privacy"
-      ]
-    },
-    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 45/2026",
@@ -772,6 +734,25 @@
       ],
       "tags": [
         "kyberturvallisuus"
+      ]
+    },
+    {
+      "court": "EUT",
+      "source": "Unionin tuomioistuin (EUT ja unionin yleinen tuomioistuin)",
+      "title": "C-205/25 Joachim Lindenberg vastaan Bayerisches Landesamt für Datenschutzaufsicht (tuomio)",
+      "url": "https://eur-lex.europa.eu/legal-content/FI/TXT/?uri=CELEX:62025CJ0205",
+      "date": "2026-11-05",
+      "keywords": "Ennakkoratkaisupyyntö – Jäsenvaltioiden lainsäädännön lähentäminen – Luonnollisten henkilöiden suojelu henkilötietojen käsittelyssä sekä näiden tietojen vapaa liikkuvuus – Asetus (EU) 2016/679 – Kantelumenettelyssä toimivan valvontaviranomaisen asiakirja-aineistoon sisältyvät tiedot – 4 artiklan 7 ja 21 alakohta – Rekisterinpitäjän ja valvontaviranomaisen käsitteet – 15 artikla – Rekisteröidyn oikeus saada tutustua tietoihin – 23 artikla – Rajoitukset – 77 artikla – Oikeus tehdä kantelu valvontaviranomaiselle – Kansallinen säännöstö, jonka mukaan pääsy valvontaviranomaisen asiakirjoihin ja tie",
+      "summary": "ECLI:EU:C:2026:933",
+      "score": 51,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tärkeä",
+        "henkilötiet",
+        "2016/679",
+        "rekisterinpitäj"
       ]
     },
     {
@@ -855,22 +836,6 @@
       ]
     },
     {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "Protection of Personal Data in Participatory Budgets and Legislative Initiatives 04.11.2026",
-      "url": "https://uodo.gov.pl/en/553/2313",
-      "date": "2026-11-04",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data"
-      ]
-    },
-    {
       "court": "ENISA",
       "source": "ENISA, uutiset",
       "title": "Joint statement on cyber incidents in refrigeration systems across the EU",
@@ -885,18 +850,6 @@
       "tags": [
         "cyber"
       ]
-    },
-    {
-      "court": "EDPB",
-      "source": "Euroopan tietosuojaneuvosto (EDPB)",
-      "title": "EDPB helps kids stay safe online",
-      "url": "https://www.edpb.europa.eu/news/edpb-helps-kids-stay-safe-online_en",
-      "date": "2026-11-03",
-      "keywords": "",
-      "summary": "ikerinar Tue, 03/11/2026 - 14:17",
-      "score": 23,
-      "topics": [],
-      "tags": []
     },
     {
       "court": "Asianajajaliitto",
@@ -914,22 +867,6 @@
       "tags": [
         "tietosuoja",
         "kyberturvallisuus"
-      ]
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "We recommend reporting personal data breaches through S46 03.11.2026",
-      "url": "https://uodo.gov.pl/en/553/2316",
-      "date": "2026-11-03",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data"
       ]
     },
     {
@@ -967,23 +904,6 @@
       ]
     },
     {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "The Voivodeship Administrative Court ruled in favor of the President of the Personal Data Protection Office regarding a bank’s scanning of ID cards 02.11.2026",
-      "url": "https://uodo.gov.pl/en/553/2315",
-      "date": "2026-11-02",
-      "keywords": "",
-      "summary": "",
-      "score": 16,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data",
-        "data protection"
-      ]
-    },
-    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 44/2026",
@@ -1010,22 +930,6 @@
       "score": 33,
       "topics": [],
       "tags": []
-    },
-    {
-      "court": "UODO",
-      "source": "Puolan tietosuojaviranomainen (UODO)",
-      "title": "Who and how should protect the patient's personal data? Invitation to the webinar 28.10.2026",
-      "url": "https://uodo.gov.pl/en/553/2312",
-      "date": "2026-10-28",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data"
-      ]
     },
     {
       "court": "Kyberturvallisuuskeskus",
@@ -1106,22 +1010,6 @@
       ],
       "tags": [
         "DSA"
-      ]
-    },
-    {
-      "court": "EDPB",
-      "source": "Euroopan tietosuojaneuvosto (EDPB)",
-      "title": "Norwegian DPA fines Xandr EUR 8 600 000 for unlawful processing of personal data",
-      "url": "https://www.edpb.europa.eu/news/norwegian-dpa-fines-xandr-eur-8-600-000-for-unlawful-processing-of-personal-data_en",
-      "date": "2026-10-16",
-      "keywords": "",
-      "summary": "ikerinar Fri, 16/10/2026 - 09:52",
-      "score": 23,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data"
       ]
     },
     {
@@ -1512,22 +1400,6 @@
       "source": "Finlex, säädöskokoelma",
       "title": "833/2026, Laki henkilötietojen käsittelystä Rajavartiolaitoksessa annetun lain 50 §:n muuttamisesta",
       "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/833",
-      "date": "2026-09-10",
-      "keywords": "",
-      "summary": "",
-      "score": 33,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "henkilötiet"
-      ]
-    },
-    {
-      "court": "Säädöskokoelma",
-      "source": "Finlex, säädöskokoelma",
-      "title": "831/2026, Laki henkilötietojen käsittelystä Tullissa annetun lain 35 §:n muuttamisesta",
-      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/831",
       "date": "2026-09-10",
       "keywords": "",
       "summary": "",
@@ -1937,22 +1809,6 @@
       ],
       "tags": [
         "cyber"
-      ]
-    },
-    {
-      "court": "TSV",
-      "source": "Tietosuojavaltuutetun toimisto",
-      "title": "Euroopan tietosuojaneuvosto keskusteli eri alojen viranomaisten välisestä tiedonjaosta ja valvonnan tehostamisesta",
-      "url": "https://tietosuoja.fi/-/euroopan-tietosuojaneuvosto-keskusteli-eri-alojen-viranomaisten-valisesta-tiedonjaosta-ja-valvonnan-tehostamisesta",
-      "date": "2026-07-20",
-      "keywords": "",
-      "summary": "",
-      "score": 33,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tietosuoja"
       ]
     }
   ]

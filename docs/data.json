@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-18T13:58:20",
+  "generated": "2026-11-19T14:27:05",
   "window_days": 120,
   "sources": [
     {
@@ -71,7 +71,7 @@
       "name": "Unionin tuomioistuin (EUT ja unionin yleinen tuomioistuin)",
       "court": "EUT",
       "ok": true,
-      "fetched": 2,
+      "fetched": 3,
       "error": ""
     },
     {
@@ -111,7 +111,7 @@
       "name": "Finlex, hallituksen esitykset",
       "court": "HE",
       "ok": true,
-      "fetched": 9,
+      "fetched": 10,
       "error": ""
     },
     {
@@ -240,14 +240,14 @@
       "court": "Julkaisu",
       "ok": false,
       "fetched": 0,
-      "error": "HTTPSConnectionPool(host='osuva.uwasa.fi', port=443): Max retries exceeded with url: /server/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-09-04 (Caused by ConnectTimeoutError(<HTTPSCon"
+      "error": "HTTPSConnectionPool(host='osuva.uwasa.fi', port=443): Max retries exceeded with url: /server/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-09-05 (Caused by ConnectTimeoutError(<HTTPSCon"
     },
     {
       "id": "edilex",
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 77,
+      "fetched": 86,
       "error": ""
     },
     {
@@ -255,7 +255,7 @@
       "name": "IAPP",
       "court": "IAPP",
       "ok": true,
-      "fetched": 20,
+      "fetched": 19,
       "error": ""
     },
     {
@@ -271,7 +271,7 @@
       "name": "Kyberturvallisuuskeskus",
       "court": "Kyberturvallisuuskeskus",
       "ok": true,
-      "fetched": 429,
+      "fetched": 428,
       "error": ""
     },
     {
@@ -292,6 +292,83 @@
     }
   ],
   "items": [
+    {
+      "court": "KKO",
+      "source": "Korkeimman oikeuden ennakkopäätökset",
+      "title": "KKO:2026:82",
+      "url": "https://www.korkeinoikeus.fi/ennakkopaatokset/ennakkopaatokset-vuosittain/kko202682/",
+      "date": "2026-11-19",
+      "keywords": "Yksityiselämän suoja – Yksityiselämää loukkaava tiedon levittäminen, Sananvapaus",
+      "summary": "",
+      "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "yksityiselämän suoja"
+      ]
+    },
+    {
+      "court": "EUT",
+      "source": "Unionin tuomioistuin (EUT ja unionin yleinen tuomioistuin)",
+      "title": "C-528/25 LK vastaan Firmenauskunft P.U.R. GmbH (tuomio)",
+      "url": "https://eur-lex.europa.eu/legal-content/FI/TXT/?uri=CELEX:62025CJ0528",
+      "date": "2026-11-19",
+      "keywords": "Ennakkoratkaisupyyntö – Direktiivi 2002/58/EY – 13 artiklan 3 ja 5 kohta – Yksityisyyden ja henkilötietojen suoja – Elinkeinonharjoittajina toimiviin tilaajiin, jotka ovat luonnollisia henkilöitä, kohdistetut ei-toivotut puhelut kaupallisissa tarkoituksissa – Cold calling ‑nimellä kutsuttu käytäntö – Yrityshakemisto – Maksullinen hakemistoon merkitseminen – Vaikutus sopimuksen pätevyyteen – Korvattava vahinko",
+      "summary": "ECLI:EU:C:2026:1004",
+      "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "henkilötiet"
+      ]
+    },
+    {
+      "court": "EDPB",
+      "source": "Euroopan tietosuojaneuvosto (EDPB)",
+      "title": "The Norwegian Data Protection Authority fines Social Garden AS for publishing personal data without a lawful basis",
+      "url": "https://www.edpb.europa.eu/news/the-norwegian-data-protection-authority-fines-social-garden-as-for-publishing-personal-data_en",
+      "date": "2026-11-19",
+      "keywords": "",
+      "summary": "ikerinar Thu, 19/11/2026 - 11:07",
+      "score": 26,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data",
+        "data protection"
+      ]
+    },
+    {
+      "court": "EDPB",
+      "source": "Euroopan tietosuojaneuvosto (EDPB)",
+      "title": "Norwegian DPA fines private individual for credit check and publication of personal data without a lawful basis",
+      "url": "https://www.edpb.europa.eu/news/norwegian-dpa-fines-private-individual-for-credit-check-and-publication-of-personal-data_en",
+      "date": "2026-11-19",
+      "keywords": "",
+      "summary": "ikerinar Thu, 19/11/2026 - 10:49",
+      "score": 23,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "personal data"
+      ]
+    },
+    {
+      "court": "EDPB",
+      "source": "Euroopan tietosuojaneuvosto (EDPB)",
+      "title": "EDPB and DPAs from countries and organisation with EU adequacy decision take stock of progress and set 2027 priorities",
+      "url": "https://www.edpb.europa.eu/news/edpb-and-dpas-from-countries-and-organisation-with-eu-adequacy-decision-take-stock-of-progress_en",
+      "date": "2026-11-19",
+      "keywords": "",
+      "summary": "ikerinar Thu, 19/11/2026 - 09:21",
+      "score": 23,
+      "topics": [],
+      "tags": []
+    },
     {
       "court": "EDPB",
       "source": "Euroopan tietosuojaneuvosto (EDPB)",
@@ -446,42 +523,6 @@
       ]
     },
     {
-      "court": "Edilex",
-      "source": "Edilex, uutiset",
-      "title": "Tietosuojavaltuutetun toimisto ottaa käyttöön automaatiota tietoturvaloukkausilmoitusten käsittelyssä",
-      "url": "https://www.edilex.fi/uutiset/103892",
-      "date": "2026-11-16",
-      "keywords": "",
-      "summary": "",
-      "score": 53,
-      "topics": [
-        "Tietosuoja",
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "tärkeä",
-        "tietosuoja",
-        "tietosuojavaltuutet",
-        "tietoturvaloukkaus"
-      ]
-    },
-    {
-      "court": "Edilex",
-      "source": "Edilex, uutiset",
-      "title": "Valtakunnansyyttäjä ei ottanut uudelleenratkaistavaksi aluesyyttäjien päätöksiä Wille Rydmanin asiassa",
-      "url": "https://www.edilex.fi/uutiset/103898",
-      "date": "2026-11-16",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [
-        "Datasääntely"
-      ],
-      "tags": [
-        "DMA"
-      ]
-    },
-    {
       "court": "TSV",
       "source": "Tietosuojavaltuutetun toimisto",
       "title": "Euroopan tietosuojaneuvostolta arviointi tiedonsiirroista Etelä-Koreaan sekä lopulliset versiot BCR-suosituksista ja oikeutettua etua koskevasta ohjeesta",
@@ -495,22 +536,6 @@
       ],
       "tags": [
         "tietosuoja"
-      ]
-    },
-    {
-      "court": "EDPB",
-      "source": "Euroopan tietosuojaneuvosto (EDPB)",
-      "title": "EDPB supports use of other models of contractual clauses for onward transfers of personal data",
-      "url": "https://www.edpb.europa.eu/news/edpb-supports-use-of-other-models-of-contractual-clauses-for-onward-transfers-of-personal-data_en",
-      "date": "2026-11-13",
-      "keywords": "",
-      "summary": "ipetstef Fri, 13/11/2026 - 10:20",
-      "score": 23,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data"
       ]
     },
     {
@@ -530,24 +555,6 @@
       ]
     },
     {
-      "court": "Edilex",
-      "source": "Edilex, uutiset",
-      "title": "Hallinto-oikeus tietosuoja-asiassa: Viranomainen oli voinut päättää asian enemmän selvittämisen ja valittajan valitus oli hylättävä Tietosuojavaltuutettu oli 10.5.2024 asiaa selvitettyään todennut, et",
-      "url": "https://www.edilex.fi/uutiset/103831",
-      "date": "2026-11-12",
-      "keywords": "",
-      "summary": "",
-      "score": 38,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tärkeä",
-        "tietosuoja",
-        "tietosuojavaltuutet"
-      ]
-    },
-    {
       "court": "TSV",
       "source": "Tietosuojavaltuutetun toimisto",
       "title": "EU-maiden tietosuojaviranomaiset selvittävät vuonna 2027 automaattista päätöksentekoa rekrytoinnissa",
@@ -564,16 +571,20 @@
       ]
     },
     {
-      "court": "EDPB",
-      "source": "Euroopan tietosuojaneuvosto (EDPB)",
-      "title": "EDPB adopts statement on review of the Republic of Korea adequacy, processor BCR recommendations, and selects topic for 2027 coordinated enforcement action",
-      "url": "https://www.edpb.europa.eu/news/edpb-adopts-statement-on-review-of-the-republic-of-korea-adequacy-processor-bcr_en",
-      "date": "2026-11-11",
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "Hallinto-oikeus tietosuoja-asiassa: Viranomainen oli voinut päättää asian enemmän selvittämisen ja valittajan valitus oli hylättävä",
+      "url": "https://www.edilex.fi/uutiset/103831",
+      "date": "2026-11-12",
       "keywords": "",
-      "summary": "ikerinar Wed, 11/11/2026 - 12:11",
+      "summary": "",
       "score": 23,
-      "topics": [],
-      "tags": []
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tietosuoja"
+      ]
     },
     {
       "court": "Julkaisu",
@@ -590,22 +601,6 @@
       "tags": [
         "tietosuoja",
         "data protection"
-      ]
-    },
-    {
-      "court": "EDPB",
-      "source": "Euroopan tietosuojaneuvosto (EDPB)",
-      "title": "Italian DPA fines Poste Italiane and Deutsche Bank a combined EUR 81 000 for lack of transparency in personal data processing",
-      "url": "https://www.edpb.europa.eu/news/italian-dpa-fines-poste-italiane-and-deutsche-bank-a-combined-eur-81-000-for-lack-of_en",
-      "date": "2026-11-10",
-      "keywords": "",
-      "summary": "ikerinar Tue, 10/11/2026 - 13:33",
-      "score": 23,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data"
       ]
     },
     {
@@ -657,38 +652,6 @@
       ]
     },
     {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "Thought for the week: Companies face cyber pain as hackers press AI advantage",
-      "url": "https://iapp.org/news/a/thought-for-the-week-companies-face-cyber-pain-as-hackers-press-ai-advantage",
-      "date": "2026-11-09",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "cyber"
-      ]
-    },
-    {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "CalPrivacy Board advances rulemaking to update opt-out preference signals requirements",
-      "url": "https://iapp.org/news/a/calprivacy-board-advances-rulemaking-to-update-opt-out-preference-signals-requirements",
-      "date": "2026-11-09",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "privacy"
-      ]
-    },
-    {
       "court": "ENISA",
       "source": "ENISA, julkaisut",
       "title": "2026 Report on the State of Cybersecurity in the Union",
@@ -734,25 +697,6 @@
       ],
       "tags": [
         "kyberturvallisuus"
-      ]
-    },
-    {
-      "court": "EUT",
-      "source": "Unionin tuomioistuin (EUT ja unionin yleinen tuomioistuin)",
-      "title": "C-205/25 Joachim Lindenberg vastaan Bayerisches Landesamt für Datenschutzaufsicht (tuomio)",
-      "url": "https://eur-lex.europa.eu/legal-content/FI/TXT/?uri=CELEX:62025CJ0205",
-      "date": "2026-11-05",
-      "keywords": "Ennakkoratkaisupyyntö – Jäsenvaltioiden lainsäädännön lähentäminen – Luonnollisten henkilöiden suojelu henkilötietojen käsittelyssä sekä näiden tietojen vapaa liikkuvuus – Asetus (EU) 2016/679 – Kantelumenettelyssä toimivan valvontaviranomaisen asiakirja-aineistoon sisältyvät tiedot – 4 artiklan 7 ja 21 alakohta – Rekisterinpitäjän ja valvontaviranomaisen käsitteet – 15 artikla – Rekisteröidyn oikeus saada tutustua tietoihin – 23 artikla – Rajoitukset – 77 artikla – Oikeus tehdä kantelu valvontaviranomaiselle – Kansallinen säännöstö, jonka mukaan pääsy valvontaviranomaisen asiakirjoihin ja tie",
-      "summary": "ECLI:EU:C:2026:933",
-      "score": 51,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tärkeä",
-        "henkilötiet",
-        "2016/679",
-        "rekisterinpitäj"
       ]
     },
     {
@@ -1566,23 +1510,6 @@
       "url": "https://www.kho.fi/paatokset/kho202665/",
       "date": "2026-08-27",
       "keywords": "Tietosuoja – Sähköisen viestinnän palvelu – Evästeet – Käyttäjän suostumus – Suostumuksen pyytäminen – Kaksitasoinen suostumushallintamekanismi – Suostumuksen vapaaehtoisuus",
-      "summary": "",
-      "score": 36,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tietosuoja",
-        "evästeet"
-      ]
-    },
-    {
-      "court": "KHO",
-      "source": "Korkeimman hallinto-oikeuden ennakkopäätökset",
-      "title": "KHO:2026:64",
-      "url": "https://www.kho.fi/paatokset/kho202664/",
-      "date": "2026-08-27",
-      "keywords": "Tietosuoja – Sähköisen viestinnän palvelu – Evästeet – Käyttäjän suostumus – Uutissisällön personointi – Verkkokutsut – Sananvapaus – Medianvapaus",
       "summary": "",
       "score": 36,
       "topics": [

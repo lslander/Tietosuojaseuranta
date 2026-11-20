@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-19T14:27:05",
+  "generated": "2026-11-20T14:02:05",
   "window_days": 120,
   "sources": [
     {
@@ -71,7 +71,7 @@
       "name": "Unionin tuomioistuin (EUT ja unionin yleinen tuomioistuin)",
       "court": "EUT",
       "ok": true,
-      "fetched": 3,
+      "fetched": 4,
       "error": ""
     },
     {
@@ -207,7 +207,7 @@
       "name": "UTUPub (Turun yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 1,
+      "fetched": 2,
       "error": ""
     },
     {
@@ -240,14 +240,14 @@
       "court": "Julkaisu",
       "ok": false,
       "fetched": 0,
-      "error": "HTTPSConnectionPool(host='osuva.uwasa.fi', port=443): Max retries exceeded with url: /server/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-09-05 (Caused by ConnectTimeoutError(<HTTPSCon"
+      "error": "HTTPSConnectionPool(host='osuva.uwasa.fi', port=443): Max retries exceeded with url: /server/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-09-06 (Caused by ConnectTimeoutError(<HTTPSCon"
     },
     {
       "id": "edilex",
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 86,
+      "fetched": 82,
       "error": ""
     },
     {
@@ -292,6 +292,23 @@
     }
   ],
   "items": [
+    {
+      "court": "Kyberturvallisuuskeskus",
+      "source": "Kyberturvallisuuskeskus",
+      "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 47/2026",
+      "url": "https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-472026?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
+      "date": "2026-11-20",
+      "keywords": "",
+      "summary": "Tällä viikolla kerromme, miten rikolliset voivat hyödyntää kotitalouksien internetyhteyksiä toimintansa peittämiseen ja mitä keinoja kotikäyttäjillä on suojautua ilmiöltä. Lisäksi muistutamme turvallisesta verkko-ostamisesta Black Fridayn alla, nostamme esiin CRA-sääntelyn ajankohtaisia muutoksia, GovCyber Finland -seminaarin tallenteen sekä kokoamme yhteen viikon merkittävimmät haavoittuvuudet ja",
+      "score": 16,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "kyberturvallisuus",
+        "cyber"
+      ]
+    },
     {
       "court": "KKO",
       "source": "Korkeimman oikeuden ennakkopäätökset",
@@ -370,6 +387,22 @@
       "tags": []
     },
     {
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "EU, US officials unmoved by litigation potentially impacting Data Privacy Framework",
+      "url": "https://iapp.org/news/a/eu-us-officials-unmoved-by-litigation-potentially-impacting-data-privacy-framework",
+      "date": "2026-11-19",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "privacy"
+      ]
+    },
+    {
       "court": "EDPB",
       "source": "Euroopan tietosuojaneuvosto (EDPB)",
       "title": "Italian DPA fines a company EUR 25 500 over employee access rights and corporate email accounts",
@@ -431,25 +464,6 @@
       ],
       "tags": [
         "digipalvelusäädös"
-      ]
-    },
-    {
-      "court": "Edilex",
-      "source": "Edilex, uutiset",
-      "title": "Europolin suorittama henkilötietojen käsittely: EU- tuomioistuin vahvisti, että Euroopan tietosuojavaltuutetun nostama kanne Europol-asetuksen muuttamisesta on jätettävä tutkimatta",
-      "url": "https://www.edilex.fi/uutiset/103912",
-      "date": "2026-11-17",
-      "keywords": "",
-      "summary": "",
-      "score": 41,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tärkeä",
-        "tietosuoja",
-        "henkilötiet",
-        "tietosuojavaltuutet"
       ]
     },
     {
@@ -563,22 +577,6 @@
       "keywords": "",
       "summary": "",
       "score": 33,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tietosuoja"
-      ]
-    },
-    {
-      "court": "Edilex",
-      "source": "Edilex, uutiset",
-      "title": "Hallinto-oikeus tietosuoja-asiassa: Viranomainen oli voinut päättää asian enemmän selvittämisen ja valittajan valitus oli hylättävä",
-      "url": "https://www.edilex.fi/uutiset/103831",
-      "date": "2026-11-12",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
       "topics": [
         "Tietosuoja"
       ],
@@ -1358,6 +1356,22 @@
     {
       "court": "Säädöskokoelma",
       "source": "Finlex, säädöskokoelma",
+      "title": "831/2026, Laki henkilötietojen käsittelystä Tullissa annetun lain 35 §:n muuttamisesta",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/831",
+      "date": "2026-09-10",
+      "keywords": "",
+      "summary": "",
+      "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "henkilötiet"
+      ]
+    },
+    {
+      "court": "Säädöskokoelma",
+      "source": "Finlex, säädöskokoelma",
       "title": "830/2026, Laki henkilötietojen käsittelystä poliisitoimessa annetun lain 41 §:n muuttamisesta",
       "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/830",
       "date": "2026-09-10",
@@ -1385,22 +1399,6 @@
       ],
       "tags": [
         "tietojenkalastelu"
-      ]
-    },
-    {
-      "court": "Säädöskokoelma",
-      "source": "Finlex, säädöskokoelma",
-      "title": "791/2026, Laki henkilötietojen käsittelystä Rikosseuraamuslaitoksessa annetun lain muuttamisesta",
-      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/791",
-      "date": "2026-09-08",
-      "keywords": "",
-      "summary": "",
-      "score": 33,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "henkilötiet"
       ]
     },
     {
@@ -1501,23 +1499,6 @@
         "kyberturvallisuus",
         "kyberkestävyy",
         "tietojenkalastelu"
-      ]
-    },
-    {
-      "court": "KHO",
-      "source": "Korkeimman hallinto-oikeuden ennakkopäätökset",
-      "title": "KHO:2026:65",
-      "url": "https://www.kho.fi/paatokset/kho202665/",
-      "date": "2026-08-27",
-      "keywords": "Tietosuoja – Sähköisen viestinnän palvelu – Evästeet – Käyttäjän suostumus – Suostumuksen pyytäminen – Kaksitasoinen suostumushallintamekanismi – Suostumuksen vapaaehtoisuus",
-      "summary": "",
-      "score": 36,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "tietosuoja",
-        "evästeet"
       ]
     },
     {
@@ -1720,22 +1701,6 @@
       ],
       "tags": [
         "haavoittuvuus"
-      ]
-    },
-    {
-      "court": "ENISA",
-      "source": "ENISA, julkaisut",
-      "title": "Procurement guidelines for the cybersecurity of hospitals and healthcare providers",
-      "url": "https://www.enisa.europa.eu/publications/procurement-guidelines-for-the-cybersecurity-of-hospitals-and-healthcare-providers",
-      "date": "2026-07-22",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "cyber"
       ]
     }
   ]

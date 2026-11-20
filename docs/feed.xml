@@ -4,7 +4,15 @@
 <link>https://lslander.github.io/Tietosuojaseuranta/</link>
 <description>Tietosuoja, teknologia ja datasääntely</description>
 <language>fi</language>
-<lastBuildDate>Thu, 19 Nov 2026 14:27:05 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 14:02:05 +0000</lastBuildDate>
+<item>
+<title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 47/2026</title>
+<link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-472026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
+<guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-472026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
+<pubDate>Fri, 20 Nov 2026 09:00:00 +0000</pubDate>
+<description>Tällä viikolla kerromme, miten rikolliset voivat hyödyntää kotitalouksien internetyhteyksiä toimintansa peittämiseen ja mitä keinoja kotikäyttäjillä on suojautua ilmiöltä. Lisäksi muistutamme turvallisesta verkko-ostamisesta Black Fridayn alla, nostamme esiin CRA-sääntelyn ajankohtaisia muutoksia, GovCyber Finland -seminaarin tallenteen sekä kokoamme yhteen viikon merkittävimmät haavoittuvuudet ja</description>
+<category>Kyberturvallisuus</category>
+</item>
 <item>
 <title>KKO: KKO:2026:82</title>
 <link>https://www.korkeinoikeus.fi/ennakkopaatokset/ennakkopaatokset-vuosittain/kko202682/</link>
@@ -45,6 +53,14 @@
 <description>ikerinar Thu, 19/11/2026 - 09:21</description>
 </item>
 <item>
+<title>IAPP: EU, US officials unmoved by litigation potentially impacting Data Privacy Framework</title>
+<link>https://iapp.org/news/a/eu-us-officials-unmoved-by-litigation-potentially-impacting-data-privacy-framework</link>
+<guid isPermaLink="true">https://iapp.org/news/a/eu-us-officials-unmoved-by-litigation-potentially-impacting-data-privacy-framework</guid>
+<pubDate>Thu, 19 Nov 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
 <title>EDPB: Italian DPA fines a company EUR 25 500 over employee access rights and corporate email accounts</title>
 <link>https://www.edpb.europa.eu/news/italian-dpa-fines-a-company-eur-25-500-over-employee-access-rights-and-corporate-email_en</link>
 <guid isPermaLink="true">https://www.edpb.europa.eu/news/italian-dpa-fines-a-company-eur-25-500-over-employee-access-rights-and-corporate-email_en</guid>
@@ -79,14 +95,6 @@
 <pubDate>Wed, 18 Nov 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Datasääntely</category>
-</item>
-<item>
-<title>Edilex: Europolin suorittama henkilötietojen käsittely: EU- tuomioistuin vahvisti, että Euroopan tietosuojavaltuutetun nostama kanne Europol-asetuksen muuttamisesta on jätettävä tutkimatta</title>
-<link>https://www.edilex.fi/uutiset/103912</link>
-<guid isPermaLink="true">https://www.edilex.fi/uutiset/103912</guid>
-<pubDate>Tue, 17 Nov 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
 </item>
 <item>
 <title>EDPB: Irish Data Protection Commission fines MTCH EUR 11 million following Inquiry into Tinder users’ personal data requests</title>
@@ -141,14 +149,6 @@
 <title>TSV: EU-maiden tietosuojaviranomaiset selvittävät vuonna 2027 automaattista päätöksentekoa rekrytoinnissa</title>
 <link>https://tietosuoja.fi/-/eu-maiden-tietosuojaviranomaiset-selvittavat-vuonna-2027-automaattista-paatoksentekoa-rekrytoinnissa</link>
 <guid isPermaLink="true">https://tietosuoja.fi/-/eu-maiden-tietosuojaviranomaiset-selvittavat-vuonna-2027-automaattista-paatoksentekoa-rekrytoinnissa</guid>
-<pubDate>Thu, 12 Nov 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>Edilex: Hallinto-oikeus tietosuoja-asiassa: Viranomainen oli voinut päättää asian enemmän selvittämisen ja valittajan valitus oli hylättävä</title>
-<link>https://www.edilex.fi/uutiset/103831</link>
-<guid isPermaLink="true">https://www.edilex.fi/uutiset/103831</guid>
 <pubDate>Thu, 12 Nov 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>
@@ -531,6 +531,14 @@
 <category>Tietosuoja</category>
 </item>
 <item>
+<title>Säädöskokoelma: 831/2026, Laki henkilötietojen käsittelystä Tullissa annetun lain 35 §:n muuttamisesta</title>
+<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/831</link>
+<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/831</guid>
+<pubDate>Thu, 10 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
 <title>Säädöskokoelma: 830/2026, Laki henkilötietojen käsittelystä poliisitoimessa annetun lain 41 §:n muuttamisesta</title>
 <link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/830</link>
 <guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/830</guid>
@@ -545,14 +553,6 @@
 <pubDate>Thu, 10 Sep 2026 09:00:00 +0000</pubDate>
 <description>Elokuun kybersää jatkui sateisena ja kesälomien jälkeen tapausmäärät kasvoivat. Tapauksissa nähtiin tietojenkalastelua ja verkkopalvelujen murtoja.</description>
 <category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>Säädöskokoelma: 791/2026, Laki henkilötietojen käsittelystä Rikosseuraamuslaitoksessa annetun lain muuttamisesta</title>
-<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/791</link>
-<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/791</guid>
-<pubDate>Tue, 08 Sep 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
 </item>
 <item>
 <title>Säädöskokoelma: 785/2026, Laki kyberturvallisuuslain 26 §:n ja liitteen I muuttamisesta</title>
@@ -603,14 +603,6 @@
 <category>Kyberturvallisuus</category>
 </item>
 <item>
-<title>KHO: KHO:2026:65</title>
-<link>https://www.kho.fi/paatokset/kho202665/</link>
-<guid isPermaLink="true">https://www.kho.fi/paatokset/kho202665/</guid>
-<pubDate>Thu, 27 Aug 2026 09:00:00 +0000</pubDate>
-<description>Tietosuoja – Sähköisen viestinnän palvelu – Evästeet – Käyttäjän suostumus – Suostumuksen pyytäminen – Kaksitasoinen suostumushallintamekanismi – Suostumuksen vapaaehtoisuus</description>
-<category>Tietosuoja</category>
-</item>
-<item>
 <title>TSV: Tietosuojavaltuutettu muistuttaa: älylasien käytössä on huomioitava tietosuojasäännöt</title>
 <link>https://tietosuoja.fi/-/tietosuojavaltuutettu-muistuttaa-alylasien-kaytossa-on-huomioitava-tietosuojasaannot</link>
 <guid isPermaLink="true">https://tietosuoja.fi/-/tietosuojavaltuutettu-muistuttaa-alylasien-kaytossa-on-huomioitava-tietosuojasaannot</guid>
@@ -638,6 +630,14 @@
 <title>TSV: Apulaistietosuojavaltuutettu: Tietoa urheilijan lievästä dopingrikkomuksesta ei olisi pitänyt julkaista, kun toimintakielto oli jo päättynyt</title>
 <link>https://tietosuoja.fi/-/apulaistietosuojavaltuutettu-tietoa-urheilijan-lievasta-dopingrikkomuksesta-ei-olisi-pitanyt-julkaista-kun-toimintakielto-oli-jo-paattynyt</link>
 <guid isPermaLink="true">https://tietosuoja.fi/-/apulaistietosuojavaltuutettu-tietoa-urheilijan-lievasta-dopingrikkomuksesta-ei-olisi-pitanyt-julkaista-kun-toimintakielto-oli-jo-paattynyt</guid>
+<pubDate>Mon, 17 Aug 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>TSV: Norjan tietosuojaviranomaiselta huomautus ELIXIA-liikuntakeskuksille – asiakkaille ei kerrottu riittävän selkeästi oikeudesta vastustaa valokuvien keräämistä</title>
+<link>https://tietosuoja.fi/-/norjan-tietosuojaviranomaiselta-huomautus-elixia-liikuntakeskuksille-asiakkaille-ei-kerrottu-riittavan-selkeasti-oikeudesta-vastustaa-valokuvien-keraamista</link>
+<guid isPermaLink="true">https://tietosuoja.fi/-/norjan-tietosuojaviranomaiselta-huomautus-elixia-liikuntakeskuksille-asiakkaille-ei-kerrottu-riittavan-selkeasti-oikeudesta-vastustaa-valokuvien-keraamista</guid>
 <pubDate>Mon, 17 Aug 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>

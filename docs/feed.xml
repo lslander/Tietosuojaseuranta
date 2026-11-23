@@ -4,7 +4,29 @@
 <link>https://lslander.github.io/Tietosuojaseuranta/</link>
 <description>Tietosuoja, teknologia ja datasääntely</description>
 <language>fi</language>
-<lastBuildDate>Fri, 20 Nov 2026 14:02:05 +0000</lastBuildDate>
+<lastBuildDate>Mon, 23 Nov 2026 15:59:04 +0000</lastBuildDate>
+<item>
+<title>EDPS: Blog post on our collaboration with Oxford’s Institute for Ethics in AI</title>
+<link>https://www.edps.europa.eu/press-publications/press-news/blog/philosophy-meets-ai-policy-launching-our-collaboration-oxfords-institute-ethics-ai_en</link>
+<guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/philosophy-meets-ai-policy-launching-our-collaboration-oxfords-institute-ethics-ai_en</guid>
+<pubDate>Mon, 23 Nov 2026 09:00:00 +0000</pubDate>
+<description></description>
+</item>
+<item>
+<title>EDPS: Philosophy meets AI policy: Launching our collaboration with Oxford’s Institute for Ethics in AI</title>
+<link>https://www.edps.europa.eu/press-publications/press-news/blog/philosophy-meets-ai-policy-launching-our-collaboration-oxfords-institute-ethics-ai</link>
+<guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/philosophy-meets-ai-policy-launching-our-collaboration-oxfords-institute-ethics-ai</guid>
+<pubDate>Mon, 23 Nov 2026 09:00:00 +0000</pubDate>
+<description></description>
+</item>
+<item>
+<title>Kyberturvallisuuskeskus: GL.iNetin pilvipalveluun kohdistunut toimitusketjuhyökkäys, altistanut käyttäjien laitteet haitalliselle koodille</title>
+<link>https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet/haavoittuvuus-2026-40?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
+<guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet/haavoittuvuus-2026-40?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
+<pubDate>Mon, 23 Nov 2026 09:00:00 +0000</pubDate>
+<description>GL.iNetin GoodCloud-etähallintapalveluun on kohdistunut toimitusketjuhyökkäys ja tätä on hyödynnetty haittaohjelmien asentamiseen GL.iNet-reitittimiin ja -KVM-laitteisiin.  Kyberturvallisuuskeskus suosittelee, että GL.iNet-laitteiden omistajat tarkistavat laitteensa haittaohjelmien varalta, asentavat mallikohtaisen vakaan tietoturvapäivityksen ja kytkevät GoodCloud-pilvihallinnan pois päältä, jos </description>
+<category>Kyberturvallisuus</category>
+</item>
 <item>
 <title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 47/2026</title>
 <link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-472026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
@@ -87,14 +109,6 @@
 <guid isPermaLink="true">https://www.edpb.europa.eu/news/italian-dpa-fines-business-school-eur-8-000-for-unlawful-telemarketing-and-failure-to-handle_en</guid>
 <pubDate>Wed, 18 Nov 2026 09:00:00 +0000</pubDate>
 <description>ikerinar Wed, 18/11/2026 - 13:28</description>
-</item>
-<item>
-<title>Edilex: Komissio totesi alustavasti, että Temu rikkoo digipalvelusäädöstä, koska se ei ole puuttunut laittomien tuotteiden myyntiin</title>
-<link>https://www.edilex.fi/uutiset/103928</link>
-<guid isPermaLink="true">https://www.edilex.fi/uutiset/103928</guid>
-<pubDate>Wed, 18 Nov 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Datasääntely</category>
 </item>
 <item>
 <title>EDPB: Irish Data Protection Commission fines MTCH EUR 11 million following Inquiry into Tinder users’ personal data requests</title>
@@ -314,28 +328,12 @@
 <category>Datasääntely</category>
 </item>
 <item>
-<title>EDPS: Making AI visible: Fourth meeting of the AI Act Correspondents Network</title>
-<link>https://www.edps.europa.eu/press-publications/press-news/blog/making-ai-visible-fourth-meeting-ai-act-correspondents-network</link>
-<guid isPermaLink="true">https://www.edps.europa.eu/press-publications/press-news/blog/making-ai-visible-fourth-meeting-ai-act-correspondents-network</guid>
-<pubDate>Mon, 26 Oct 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Datasääntely</category>
-</item>
-<item>
 <title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 43/2026</title>
 <link>https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-432026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</link>
 <guid isPermaLink="true">https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-432026?mtm_campaign=rss&amp;mtm_source=rss&amp;mtm_medium=rss</guid>
 <pubDate>Fri, 23 Oct 2026 09:00:00 +0000</pubDate>
 <description>Tällä viikolla kerromme laajasti vaikuttaneista PHP:n haavoittuvuuksista sekä teletoiminnan häiriötilanteiden ilmoittamista koskevan määräyksen uudistuksesta ja vuonna 2027 voimaan tulevista muutoksista. Lisäksi nostamme esiin suomalaisnuorten menestyksen eettisen hakkeroinnin Euroopan mestaruuskilpailuissa sekä kerromme opettajille suunnatuista maksuttomista kyberturvallisuuden oppimateriaaleista</description>
 <category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>EU-komissio: Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act</title>
-<link>https://digital-strategy.ec.europa.eu/en/news/commission-investigate-how-bookingcom-combats-scams-and-fraud-under-digital-services-act</link>
-<guid isPermaLink="true">https://digital-strategy.ec.europa.eu/en/news/commission-investigate-how-bookingcom-combats-scams-and-fraud-under-digital-services-act</guid>
-<pubDate>Wed, 21 Oct 2026 09:00:00 +0000</pubDate>
-<description>Anonymous (not verified) Wed, 10/21/2026 - 12:06 The European Commission has opened formal proceedings to assess whether Booking.com may have breached the Digital Services Act (DSA) by not having diligently assessed or effectively mitigated risks related to fraudulent listings and phishing scams. The platform may also have breached the DSA when it comes to transparency because it did not clearly l</description>
-<category>Datasääntely</category>
 </item>
 <item>
 <title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 42/2026</title>
@@ -555,6 +553,14 @@
 <category>Kyberturvallisuus</category>
 </item>
 <item>
+<title>Säädöskokoelma: 791/2026, Laki henkilötietojen käsittelystä Rikosseuraamuslaitoksessa annetun lain muuttamisesta</title>
+<link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/791</link>
+<guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/791</guid>
+<pubDate>Tue, 08 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
+<category>Tietosuoja</category>
+</item>
+<item>
 <title>Säädöskokoelma: 785/2026, Laki kyberturvallisuuslain 26 §:n ja liitteen I muuttamisesta</title>
 <link>https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/785</link>
 <guid isPermaLink="true">https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/785</guid>
@@ -630,14 +636,6 @@
 <title>TSV: Apulaistietosuojavaltuutettu: Tietoa urheilijan lievästä dopingrikkomuksesta ei olisi pitänyt julkaista, kun toimintakielto oli jo päättynyt</title>
 <link>https://tietosuoja.fi/-/apulaistietosuojavaltuutettu-tietoa-urheilijan-lievasta-dopingrikkomuksesta-ei-olisi-pitanyt-julkaista-kun-toimintakielto-oli-jo-paattynyt</link>
 <guid isPermaLink="true">https://tietosuoja.fi/-/apulaistietosuojavaltuutettu-tietoa-urheilijan-lievasta-dopingrikkomuksesta-ei-olisi-pitanyt-julkaista-kun-toimintakielto-oli-jo-paattynyt</guid>
-<pubDate>Mon, 17 Aug 2026 09:00:00 +0000</pubDate>
-<description></description>
-<category>Tietosuoja</category>
-</item>
-<item>
-<title>TSV: Norjan tietosuojaviranomaiselta huomautus ELIXIA-liikuntakeskuksille – asiakkaille ei kerrottu riittävän selkeästi oikeudesta vastustaa valokuvien keräämistä</title>
-<link>https://tietosuoja.fi/-/norjan-tietosuojaviranomaiselta-huomautus-elixia-liikuntakeskuksille-asiakkaille-ei-kerrottu-riittavan-selkeasti-oikeudesta-vastustaa-valokuvien-keraamista</link>
-<guid isPermaLink="true">https://tietosuoja.fi/-/norjan-tietosuojaviranomaiselta-huomautus-elixia-liikuntakeskuksille-asiakkaille-ei-kerrottu-riittavan-selkeasti-oikeudesta-vastustaa-valokuvien-keraamista</guid>
 <pubDate>Mon, 17 Aug 2026 09:00:00 +0000</pubDate>
 <description></description>
 <category>Tietosuoja</category>

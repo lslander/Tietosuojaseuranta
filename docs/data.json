@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-20T14:02:05",
+  "generated": "2026-11-23T15:59:04",
   "window_days": 120,
   "sources": [
     {
@@ -103,7 +103,7 @@
       "name": "Finlex, säädöskokoelma",
       "court": "Säädöskokoelma",
       "ok": true,
-      "fetched": 16,
+      "fetched": 18,
       "error": ""
     },
     {
@@ -167,7 +167,7 @@
       "name": "Euroopan tietosuojavaltuutettu (EDPS)",
       "court": "EDPS",
       "ok": true,
-      "fetched": 1,
+      "fetched": 2,
       "error": ""
     },
     {
@@ -183,7 +183,7 @@
       "name": "Helda (Helsingin yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 10,
+      "fetched": 8,
       "error": ""
     },
     {
@@ -215,7 +215,7 @@
       "name": "eRepo (Itä-Suomen yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 24,
+      "fetched": 25,
       "error": ""
     },
     {
@@ -240,14 +240,14 @@
       "court": "Julkaisu",
       "ok": false,
       "fetched": 0,
-      "error": "HTTPSConnectionPool(host='osuva.uwasa.fi', port=443): Max retries exceeded with url: /server/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-09-06 (Caused by ConnectTimeoutError(<HTTPSCon"
+      "error": "HTTPSConnectionPool(host='osuva.uwasa.fi', port=443): Max retries exceeded with url: /server/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-09-09 (Caused by ConnectTimeoutError(<HTTPSCon"
     },
     {
       "id": "edilex",
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 82,
+      "fetched": 77,
       "error": ""
     },
     {
@@ -292,6 +292,46 @@
     }
   ],
   "items": [
+    {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "Blog post on our collaboration with Oxford’s Institute for Ethics in AI",
+      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/philosophy-meets-ai-policy-launching-our-collaboration-oxfords-institute-ethics-ai_en",
+      "date": "2026-11-23",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [],
+      "tags": []
+    },
+    {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "Philosophy meets AI policy: Launching our collaboration with Oxford’s Institute for Ethics in AI",
+      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/philosophy-meets-ai-policy-launching-our-collaboration-oxfords-institute-ethics-ai",
+      "date": "2026-11-23",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [],
+      "tags": []
+    },
+    {
+      "court": "Kyberturvallisuuskeskus",
+      "source": "Kyberturvallisuuskeskus",
+      "title": "GL.iNetin pilvipalveluun kohdistunut toimitusketjuhyökkäys, altistanut käyttäjien laitteet haitalliselle koodille",
+      "url": "https://www.kyberturvallisuuskeskus.fi/fi/haavoittuvuudet/haavoittuvuus-2026-40?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
+      "date": "2026-11-23",
+      "keywords": "",
+      "summary": "GL.iNetin GoodCloud-etähallintapalveluun on kohdistunut toimitusketjuhyökkäys ja tätä on hyödynnetty haittaohjelmien asentamiseen GL.iNet-reitittimiin ja -KVM-laitteisiin.  Kyberturvallisuuskeskus suosittelee, että GL.iNet-laitteiden omistajat tarkistavat laitteensa haittaohjelmien varalta, asentavat mallikohtaisen vakaan tietoturvapäivityksen ja kytkevät GoodCloud-pilvihallinnan pois päältä, jos ",
+      "score": 13,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "kyberturvallisuus"
+      ]
+    },
     {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
@@ -449,22 +489,6 @@
       "score": 23,
       "topics": [],
       "tags": []
-    },
-    {
-      "court": "Edilex",
-      "source": "Edilex, uutiset",
-      "title": "Komissio totesi alustavasti, että Temu rikkoo digipalvelusäädöstä, koska se ei ole puuttunut laittomien tuotteiden myyntiin",
-      "url": "https://www.edilex.fi/uutiset/103928",
-      "date": "2026-11-18",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [
-        "Datasääntely"
-      ],
-      "tags": [
-        "digipalvelusäädös"
-      ]
     },
     {
       "court": "EDPB",
@@ -907,22 +931,6 @@
       ]
     },
     {
-      "court": "EDPS",
-      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
-      "title": "Making AI visible: Fourth meeting of the AI Act Correspondents Network",
-      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/making-ai-visible-fourth-meeting-ai-act-correspondents-network",
-      "date": "2026-10-26",
-      "keywords": "",
-      "summary": "",
-      "score": 23,
-      "topics": [
-        "Datasääntely"
-      ],
-      "tags": [
-        "AI Act"
-      ]
-    },
-    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 43/2026",
@@ -936,22 +944,6 @@
       ],
       "tags": [
         "kyberturvallisuus"
-      ]
-    },
-    {
-      "court": "EU-komissio",
-      "source": "Komissio, digitaalinen strategia",
-      "title": "Commission to investigate how Booking.com combats scams and fraud under the Digital Services Act",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-investigate-how-bookingcom-combats-scams-and-fraud-under-digital-services-act",
-      "date": "2026-10-21",
-      "keywords": "",
-      "summary": "Anonymous (not verified) Wed, 10/21/2026 - 12:06 The European Commission has opened formal proceedings to assess whether Booking.com may have breached the Digital Services Act (DSA) by not having diligently assessed or effectively mitigated risks related to fraudulent listings and phishing scams. The platform may also have breached the DSA when it comes to transparency because it did not clearly l",
-      "score": 23,
-      "topics": [
-        "Datasääntely"
-      ],
-      "tags": [
-        "DSA"
       ]
     },
     {
@@ -1404,6 +1396,22 @@
     {
       "court": "Säädöskokoelma",
       "source": "Finlex, säädöskokoelma",
+      "title": "791/2026, Laki henkilötietojen käsittelystä Rikosseuraamuslaitoksessa annetun lain muuttamisesta",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/791",
+      "date": "2026-09-08",
+      "keywords": "",
+      "summary": "",
+      "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "henkilötiet"
+      ]
+    },
+    {
+      "court": "Säädöskokoelma",
+      "source": "Finlex, säädöskokoelma",
       "title": "785/2026, Laki kyberturvallisuuslain 26 §:n ja liitteen I muuttamisesta",
       "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/785",
       "date": "2026-09-07",
@@ -1685,22 +1693,6 @@
         "kyberturvallisuus",
         "kyberkestävyy",
         "cyber"
-      ]
-    },
-    {
-      "court": "Kyberturvallisuuskeskus",
-      "source": "Kyberturvallisuuskeskus",
-      "title": "Haavoittuvuuskilpailussa nopeus ratkaisee",
-      "url": "https://www.kyberturvallisuuskeskus.fi/fi/uutiset/haavoittuvuuskilpailussa-nopeus-ratkaisee?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
-      "date": "2026-07-24",
-      "keywords": "",
-      "summary": "Kyberturvallisuuden vanhan sanonnan mukaan kello alkaa tikittää silloin, kun haavoittuvuus löydetään. Nykyisessä uhkaympäristössä sekä teknologisen kehityksen myötä sekuntiviisari lähtee liikkeelle jo paljon aikaisemmin. Ensimmäiset sekunnit kuluvat siitä hetkestä lähtien, kun haavoittuvuus syntyy. Oli haavoittuvuuden syynä sitten ohjelmistovirhe, epäonnistunut päivitys tai jokin muu syy. Kun haav",
-      "score": 13,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "haavoittuvuus"
       ]
     }
   ]

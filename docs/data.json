@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-23T15:59:04",
+  "generated": "2026-11-24T15:54:09",
   "window_days": 120,
   "sources": [
     {
@@ -103,7 +103,7 @@
       "name": "Finlex, säädöskokoelma",
       "court": "Säädöskokoelma",
       "ok": true,
-      "fetched": 18,
+      "fetched": 17,
       "error": ""
     },
     {
@@ -240,14 +240,14 @@
       "court": "Julkaisu",
       "ok": false,
       "fetched": 0,
-      "error": "HTTPSConnectionPool(host='osuva.uwasa.fi', port=443): Max retries exceeded with url: /server/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-09-09 (Caused by ConnectTimeoutError(<HTTPSCon"
+      "error": "HTTPSConnectionPool(host='osuva.uwasa.fi', port=443): Max retries exceeded with url: /server/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-09-10 (Caused by ConnectTimeoutError(<HTTPSCon"
     },
     {
       "id": "edilex",
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 77,
+      "fetched": 76,
       "error": ""
     },
     {
@@ -295,20 +295,24 @@
     {
       "court": "EDPS",
       "source": "Euroopan tietosuojavaltuutettu (EDPS)",
-      "title": "Blog post on our collaboration with Oxford’s Institute for Ethics in AI",
-      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/philosophy-meets-ai-policy-launching-our-collaboration-oxfords-institute-ethics-ai_en",
-      "date": "2026-11-23",
+      "title": "Shaping the future of data protection: EDPS and DPOs meet in Amsterdam",
+      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/shaping-future-data-protection-edps-and-dpos-meet-amsterdam",
+      "date": "2026-11-24",
       "keywords": "",
       "summary": "",
       "score": 23,
-      "topics": [],
-      "tags": []
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "data protection"
+      ]
     },
     {
       "court": "EDPS",
       "source": "Euroopan tietosuojavaltuutettu (EDPS)",
-      "title": "Philosophy meets AI policy: Launching our collaboration with Oxford’s Institute for Ethics in AI",
-      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/philosophy-meets-ai-policy-launching-our-collaboration-oxfords-institute-ethics-ai",
+      "title": "Blog post on our collaboration with Oxford’s Institute for Ethics in AI",
+      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/philosophy-meets-ai-policy-launching-our-collaboration-oxfords-institute-ethics-ai_en",
       "date": "2026-11-23",
       "keywords": "",
       "summary": "",
@@ -623,22 +627,6 @@
       "tags": [
         "tietosuoja",
         "data protection"
-      ]
-    },
-    {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "Inside Greece's new AI Act framework",
-      "url": "https://iapp.org/news/a/inside-greece-s-new-ai-act-framework",
-      "date": "2026-11-10",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Datasääntely"
-      ],
-      "tags": [
-        "AI Act"
       ]
     },
     {

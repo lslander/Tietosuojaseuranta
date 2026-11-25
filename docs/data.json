@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-24T15:54:09",
+  "generated": "2026-11-25T15:34:00",
   "window_days": 120,
   "sources": [
     {
@@ -95,7 +95,7 @@
       "name": "Euroopan parlamentti, lehdistötiedotteet",
       "court": "EP",
       "ok": true,
-      "fetched": 0,
+      "fetched": 20,
       "error": ""
     },
     {
@@ -191,7 +191,7 @@
       "name": "Helda, oikeustieteellinen tiedekunta",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 24,
+      "fetched": 25,
       "error": ""
     },
     {
@@ -215,7 +215,7 @@
       "name": "eRepo (Itä-Suomen yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 25,
+      "fetched": 23,
       "error": ""
     },
     {
@@ -238,9 +238,9 @@
       "id": "osuva",
       "name": "Osuva (Vaasan yliopisto)",
       "court": "Julkaisu",
-      "ok": false,
-      "fetched": 0,
-      "error": "HTTPSConnectionPool(host='osuva.uwasa.fi', port=443): Max retries exceeded with url: /server/oai/request?verb=ListRecords&metadataPrefix=oai_dc&from=2026-09-10 (Caused by ConnectTimeoutError(<HTTPSCon"
+      "ok": true,
+      "fetched": 23,
+      "error": ""
     },
     {
       "id": "edilex",
@@ -292,6 +292,73 @@
     }
   ],
   "items": [
+    {
+      "court": "TSV",
+      "source": "Tietosuojavaltuutetun toimisto",
+      "title": "Tietosuojan maailmankokous: tietosuojaviranomaisilta suosituksia tekoälyagenteista ja tekoälyn käytöstä opetuksessa",
+      "url": "https://tietosuoja.fi/-/tietosuojan-maailmankokous-tietosuojaviranomaisilta-suosituksia-tekoalyagenteista-ja-tekoalyn-kaytosta-opetuksessa",
+      "date": "2026-11-25",
+      "keywords": "",
+      "summary": "",
+      "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tietosuoja"
+      ]
+    },
+    {
+      "court": "Edilex",
+      "source": "Edilex, uutiset",
+      "title": "Tietosuojan maailmankokous: tietosuojaviranomaisilta suosituksia tekoälyagenteista ja tekoälyn käytöstä opetuksessa Tietosuojaviranomaiset ovat antaneet tietosuojan maailmankokouksessa Brysselissä 16.",
+      "url": "https://www.edilex.fi/uutiset/104096",
+      "date": "2026-11-25",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tietosuoja"
+      ]
+    },
+    {
+      "court": "Julkaisu",
+      "source": "Osuva (Vaasan yliopisto)",
+      "title": "Kyberturvallisuus ihmisten, teknologian ja organisaation yhteispelinä ; Dokumenttianalyysi kansallisen ohjauksen sosioteknisistä ulottuvuuksista hyvinvointialueiden tietoturva- ja tietosuojalinjauksissa",
+      "url": "https://osuva.uwasa.fi/handle/11111/21577",
+      "date": "2026-11-25",
+      "keywords": "kyberturvallisuus, tietoturva, terveydenhuolto, tietojärjestelmät, organisaatiot, johtaminen, riskienhallinta, hyvinvointialueet, tietotekniikka, sosiaalihuolto, fi=Sosiaali- ja terveyshallintotiede|en=Social and Health Management|, fi=Hallintotieteiden maisteriohjelma|en=Master's Programme in Admin",
+      "summary": "Sosiaali- ja terveydenhuollon digitalisaatio on lisännyt toimialan riippuvuutta tietojärjestelmistä ja tietoverkoista, ja samalla kyberturvallisuuden merkitys on kasvanut. Kyberturvallisuutta ei voida ymmärtää pelkästään teknisenä kysymyksenä, vaan siihen vaikuttavat myös henkilöstön osaaminen, johtaminen, toimintaprosessit ja organisaation toimintaympäristö. Sosiaali- ja terveydenhuollon kybertur",
+      "score": 16,
+      "topics": [
+        "Tietosuoja",
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "tietosuoja",
+        "kyberturvallisuus"
+      ]
+    },
+    {
+      "court": "Julkaisu",
+      "source": "Osuva (Vaasan yliopisto)",
+      "title": "Teknologian vaikutus yksityisyyden suojaan",
+      "url": "https://osuva.uwasa.fi/handle/11111/21583",
+      "date": "2026-11-25",
+      "keywords": "yksilönsuoja, henkilötiedot, yksityisyys, perusoikeudet, ihmisoikeudet, tietosuojalaki, teknologia, valvonta, tietosuoja, fi=Julkisoikeus|en=Public Law|, fi=Hallintotieteiden maisteriohjelma|en=Master's Programme in Administrative Sciences|",
+      "summary": "Tutkimuksen aiheena on teknologian vaikutus yksityisyyden suojaan. Aihe on tänä päivänä hyvinkin ajankohtainen, koska elämme tällä hetkellä hyvin vahvasti teknologian aikakaudella ja teknologia kehittyy jatkuvasti. Aiheen ajankohtaisuutta vahvistaa myös globalisaatio; niin yritykset, viranomaiset kuin tavalliset ihmiset voivat käyttää ja julkaista henkilötietoja maailmanlaajuisesti. Tutkimuksen ai",
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tietosuoja",
+        "henkilötiet"
+      ]
+    },
     {
       "court": "EDPS",
       "source": "Euroopan tietosuojavaltuutettu (EDPS)",
@@ -429,6 +496,22 @@
       "score": 23,
       "topics": [],
       "tags": []
+    },
+    {
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "How to track AI use and meet GDPR obligations effectively",
+      "url": "https://iapp.org/news/a/how-to-track-ai-use-and-meet-gdpr-obligations-effectively",
+      "date": "2026-11-19",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "GDPR"
+      ]
     },
     {
       "court": "IAPP",
@@ -581,6 +664,22 @@
       ]
     },
     {
+      "court": "IAPP",
+      "source": "IAPP",
+      "title": "Closing the AI connector blind spot: A certification model for privacy teams",
+      "url": "https://iapp.org/news/a/closing-the-ai-connector-blind-spot-a-certification-model-for-privacy-teams",
+      "date": "2026-11-13",
+      "keywords": "",
+      "summary": "",
+      "score": 13,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "privacy"
+      ]
+    },
+    {
       "court": "Kyberturvallisuuskeskus",
       "source": "Kyberturvallisuuskeskus",
       "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 46/2026",
@@ -726,21 +825,36 @@
       ]
     },
     {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "Italy's latest approach to AI, privacy and cybersecurity",
-      "url": "https://iapp.org/news/a/italys-latest-approach-to-ai-privacy-and-cybersecurity",
+      "court": "Julkaisu",
+      "source": "Osuva (Vaasan yliopisto)",
+      "title": "Kävijäseuranta ja normit",
+      "url": "https://osuva.uwasa.fi/handle/11111/21505",
       "date": "2026-11-05",
-      "keywords": "",
-      "summary": "",
+      "keywords": "normit, sääntely, verkkopalvelut, tietosuoja, seuranta, evästeet, yksityisyys, fi=Tietojärjestelmätiede|en=Information Systems|, fi=Tietojärjestelmätieteen maisteriohjelma|en=Master’s Programme in Information Systems|",
+      "summary": "Kävijäseuranta on vakiintunut laajaksi osaksi verkkopalveluiden liiketoimintaa. Seurannalla kerätään tietoa käyttäjien toiminnasta, jota voidaan hyödyntää muun muassa palvelun kehittämisessä ja liiketoiminnan päätöksenteossa. Teknisen toteutuksen lisäksi kävijäseurantaa ohjaavat sääntely, epäviralliset käytänteet ja käyttäjien odotukset. Tutkimuksen tavoitteena on tunnistaa, millaiset viralliset j",
       "score": 16,
       "topics": [
-        "Tietosuoja",
-        "Kyberturvallisuus"
+        "Tietosuoja"
       ],
       "tags": [
-        "privacy",
-        "cyber"
+        "tietosuoja",
+        "evästeet"
+      ]
+    },
+    {
+      "court": "Julkaisu",
+      "source": "Osuva (Vaasan yliopisto)",
+      "title": "AI-avusteisen Service Desk -toiminnan turvallisuus-  ja riskienhallintamalli",
+      "url": "https://osuva.uwasa.fi/handle/11111/21497",
+      "date": "2026-11-05",
+      "keywords": "tekoäly, riskienhallinta, service desks, tekoäly, tietoturva, tietotekniikka, tietosuoja, riskit, riskienhallinta, hallinta, atk-tuki, palvelut, prosessit, automaatio, turvallisuus, fi=Automaatio- ja tietotekniikka|en=Automation and Computer Science|, Master’s Programme in Computing Sciences",
+      "summary": "Tekoälyn hyödyntäminen IT-palvelunhallinnassa on lisääntynyt merkittävästi viime vuosina, ja erityisesti Service Desk -toiminnassa tekoälyä hyödynnetään tukipyyntöjen luokittelussa, priorisoinnissa, ratkaisuehdotusten tuottamisessa sekä asiakaspalvelun automatisoinnissa. Tekoälyratkaisut tarjoavat mahdollisuuksia palveluiden tehokkuuden, laadun ja skaalautuvuuden parantamiseen, mutta niiden käyttö",
+      "score": 13,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tietosuoja"
       ]
     },
     {
@@ -884,6 +998,42 @@
       "score": 33,
       "topics": [],
       "tags": []
+    },
+    {
+      "court": "Julkaisu",
+      "source": "Osuva (Vaasan yliopisto)",
+      "title": "Antidopingtoiminnan henkilötietojen julkisuus tietosuojan koetinkivenä – kommentti apulaistietosuojavaltuutetun päätökseen",
+      "url": "https://osuva.uwasa.fi/handle/11111/21450",
+      "date": "2026-10-28",
+      "keywords": "Doping, Henkilötieto, Tietosuoja, Tietosuojavaltuutettu, Urheilu, fi=Julkisoikeus|en=Public Law|",
+      "summary": "Kirjoituksessa tarkastellaan apulaistietosuojavaltuutetun 4.8.2026 antamaa päätöstä, jossa arvioitiin Suomen urheilun eettinen keskus SUEK ry:n menettelyä urheilijan dopingrikkomukseen liittyvien henkilötietojen julkaisemisessa. Apulaistietosuojavaltuutettu hylkäsi yleisen edun ja suostumuksen henkilötietojen käsittelyperusteena, mutta hyväksyi sopimusperusteen. Julkaiseminen todettiin kuitenkin s",
+      "score": 31,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tärkeä",
+        "tietosuoja",
+        "henkilötiet",
+        "tietosuojavaltuutet"
+      ]
+    },
+    {
+      "court": "Julkaisu",
+      "source": "Osuva (Vaasan yliopisto)",
+      "title": "Doping ei poista tietosuojaa – urheilijan henkilötietojen julkaiseminen ratkaisussa C-474/24",
+      "url": "https://osuva.uwasa.fi/handle/11111/21435",
+      "date": "2026-10-27",
+      "keywords": "Doping, EU-oikeuden soveltaminen, Euroopan unionin tuomioistuin, Henkilötieto, Oikeusperiaate, Tietosuoja, Urheilu, fi=Julkisoikeus|en=Public Law|",
+      "summary": "Tämä artikkeli käsittelee Euroopan unionin tuomioistuimen suuren jaoston tuomiota asiassa C-474/24 (NADA Austria ym.), joka koski dopingseuraamuksia koskevien henkilötietojen julkaisemista internetissä. Tuomioistuin katsoi, että yleistä tietosuoja-asetusta sovelletaan antidopingtoimintaan, koska asetuksen 2 artiklan 2 kohdan a alakohdan soveltamisalapoikkeusta on tulkittava suppeasti, eikä urheilu",
+      "score": 16,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "tietosuoja",
+        "henkilötiet"
+      ]
     },
     {
       "court": "Kyberturvallisuuskeskus",
@@ -1461,22 +1611,6 @@
       ],
       "tags": [
         "kyberturvallisuus"
-      ]
-    },
-    {
-      "court": "IAPP",
-      "source": "IAPP",
-      "title": "The Barbados-Guyana Digital Identity Card Travel Initiative: Identifying the data protection gaps",
-      "url": "https://iapp.org/news/a/the-barbados-guyana-digital-identity-card-travel-initiative-identifying-the-data-protection-gaps",
-      "date": "2026-09-03",
-      "keywords": "",
-      "summary": "",
-      "score": 13,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "data protection"
       ]
     },
     {

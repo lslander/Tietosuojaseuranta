@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-25T15:34:00",
+  "generated": "2026-11-26T15:10:35",
   "window_days": 120,
   "sources": [
     {
@@ -95,7 +95,7 @@
       "name": "Euroopan parlamentti, lehdistötiedotteet",
       "court": "EP",
       "ok": true,
-      "fetched": 20,
+      "fetched": 0,
       "error": ""
     },
     {
@@ -183,7 +183,7 @@
       "name": "Helda (Helsingin yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 8,
+      "fetched": 9,
       "error": ""
     },
     {
@@ -215,7 +215,7 @@
       "name": "eRepo (Itä-Suomen yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 23,
+      "fetched": 24,
       "error": ""
     },
     {
@@ -239,7 +239,7 @@
       "name": "Osuva (Vaasan yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 23,
+      "fetched": 25,
       "error": ""
     },
     {
@@ -247,7 +247,7 @@
       "name": "Edilex, uutiset",
       "court": "Edilex",
       "ok": true,
-      "fetched": 76,
+      "fetched": 81,
       "error": ""
     },
     {
@@ -293,6 +293,22 @@
   ],
   "items": [
     {
+      "court": "EDPB",
+      "source": "Euroopan tietosuojaneuvosto (EDPB)",
+      "title": "Hellenic DPA fines Teleperformance Greece EUR 100 000 for GDPR breaches",
+      "url": "https://www.edpb.europa.eu/news/hellenic-dpa-fines-teleperformance-greece-eur-100-000-for-gdpr-breaches_en",
+      "date": "2026-11-26",
+      "keywords": "",
+      "summary": "ikerinar Thu, 26/11/2026 - 09:39",
+      "score": 23,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "GDPR"
+      ]
+    },
+    {
       "court": "TSV",
       "source": "Tietosuojavaltuutetun toimisto",
       "title": "Tietosuojan maailmankokous: tietosuojaviranomaisilta suosituksia tekoälyagenteista ja tekoälyn käytöstä opetuksessa",
@@ -311,7 +327,7 @@
     {
       "court": "Edilex",
       "source": "Edilex, uutiset",
-      "title": "Tietosuojan maailmankokous: tietosuojaviranomaisilta suosituksia tekoälyagenteista ja tekoälyn käytöstä opetuksessa Tietosuojaviranomaiset ovat antaneet tietosuojan maailmankokouksessa Brysselissä 16.",
+      "title": "Tietosuojan maailmankokous: tietosuojaviranomaisilta suosituksia tekoälyagenteista ja tekoälyn käytöstä opetuksessa",
       "url": "https://www.edilex.fi/uutiset/104096",
       "date": "2026-11-25",
       "keywords": "",
@@ -578,23 +594,6 @@
       "tags": []
     },
     {
-      "court": "EDPB",
-      "source": "Euroopan tietosuojaneuvosto (EDPB)",
-      "title": "Irish Data Protection Commission fines MTCH EUR 11 million following Inquiry into Tinder users’ personal data requests",
-      "url": "https://www.edpb.europa.eu/news/irish-data-protection-commission-fines-mtch-eur-11-million-following-inquiry-into-tinder-users_en",
-      "date": "2026-11-17",
-      "keywords": "",
-      "summary": "ikerinar Tue, 17/11/2026 - 11:13",
-      "score": 26,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "personal data",
-        "data protection"
-      ]
-    },
-    {
       "court": "EU-komissio",
       "source": "Komissio, digitaalinen strategia",
       "title": "Commission preliminarily finds Temu in breach of the Digital Services Act for failure to tackle the sale of illegal products",
@@ -750,7 +749,7 @@
       "title": "The Sociotechnical Imaginaries of Europe and its Artificial Intelligence : A Discourse Analysis of the European Commission’s Policy Documents",
       "url": "http://hdl.handle.net/10138/640913",
       "date": "2026-11-09",
-      "keywords": "Europe, legislation, EU law, artificial intelligence, discourse analysis, legislative process, regulation, socio-legal studies, socio-technical imaginaries, the European Union, Oikeustieteen maisterin koulutusohjelma, Helsinki, Master&apos;s Programme in Law, Helsinki, Magisterprogrammet i rättsvete",
+      "keywords": "Europe, legislation, EU law, artificial intelligence, discourse analysis, legislative process, regulation, socio-legal studies, socio-technical imaginaries, the European Union, Oikeustieteen maisterin koulutusohjelma, Helsinki, Master's Programme in Law, Helsinki, Magisterprogrammet i rättsvetenskap",
       "summary": "The European Union adopted the Artificial Intelligence Act in 2024 after a three-year legislative process. This master’s thesis examines how the European Commission constructed artificial intelligence (AI) and Europe in three policy documents that preceded the AI Act. This thesis combines critical discourse analysis with Jasanoff’s framework of sociotechnical imaginaries, and it identifies four im",
       "score": 13,
       "topics": [
@@ -1050,22 +1049,6 @@
       "tags": [
         "kyberturvallisuus",
         "cyber"
-      ]
-    },
-    {
-      "court": "EU-komissio",
-      "source": "Komissio, digitaalinen strategia",
-      "title": "Commission accepts Temu's action plan to remedy the breach of the Digital Services Act",
-      "url": "https://digital-strategy.ec.europa.eu/en/news/commission-accepts-temus-action-plan-remedy-breach-digital-services-act",
-      "date": "2026-10-26",
-      "keywords": "",
-      "summary": "Anonymous (not verified) Mon, 10/26/2026 - 10:28 The European Commission has accepted Temu's action plan to comply with the Digital Services Act (DSA) and tackle the availability of illegal products online. Temu's plan focuses on five measures to remedy its breach of the DSA. The company will carry out a platform-specific risk analysis. It will also use reliable metrics to evaluate the effectivene",
-      "score": 23,
-      "topics": [
-        "Datasääntely"
-      ],
-      "tags": [
-        "DSA"
       ]
     },
     {

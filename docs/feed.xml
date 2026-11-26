@@ -4,7 +4,15 @@
 <link>https://lslander.github.io/Tietosuojaseuranta/</link>
 <description>Tietosuoja, teknologia ja datasääntely</description>
 <language>fi</language>
-<lastBuildDate>Wed, 25 Nov 2026 15:34:00 +0000</lastBuildDate>
+<lastBuildDate>Thu, 26 Nov 2026 15:10:35 +0000</lastBuildDate>
+<item>
+<title>EDPB: Hellenic DPA fines Teleperformance Greece EUR 100 000 for GDPR breaches</title>
+<link>https://www.edpb.europa.eu/news/hellenic-dpa-fines-teleperformance-greece-eur-100-000-for-gdpr-breaches_en</link>
+<guid isPermaLink="true">https://www.edpb.europa.eu/news/hellenic-dpa-fines-teleperformance-greece-eur-100-000-for-gdpr-breaches_en</guid>
+<pubDate>Thu, 26 Nov 2026 09:00:00 +0000</pubDate>
+<description>ikerinar Thu, 26/11/2026 - 09:39</description>
+<category>Tietosuoja</category>
+</item>
 <item>
 <title>TSV: Tietosuojan maailmankokous: tietosuojaviranomaisilta suosituksia tekoälyagenteista ja tekoälyn käytöstä opetuksessa</title>
 <link>https://tietosuoja.fi/-/tietosuojan-maailmankokous-tietosuojaviranomaisilta-suosituksia-tekoalyagenteista-ja-tekoalyn-kaytosta-opetuksessa</link>
@@ -14,7 +22,7 @@
 <category>Tietosuoja</category>
 </item>
 <item>
-<title>Edilex: Tietosuojan maailmankokous: tietosuojaviranomaisilta suosituksia tekoälyagenteista ja tekoälyn käytöstä opetuksessa Tietosuojaviranomaiset ovat antaneet tietosuojan maailmankokouksessa Brysselissä 16.</title>
+<title>Edilex: Tietosuojan maailmankokous: tietosuojaviranomaisilta suosituksia tekoälyagenteista ja tekoälyn käytöstä opetuksessa</title>
 <link>https://www.edilex.fi/uutiset/104096</link>
 <guid isPermaLink="true">https://www.edilex.fi/uutiset/104096</guid>
 <pubDate>Wed, 25 Nov 2026 09:00:00 +0000</pubDate>
@@ -153,14 +161,6 @@
 <description>ikerinar Wed, 18/11/2026 - 13:28</description>
 </item>
 <item>
-<title>EDPB: Irish Data Protection Commission fines MTCH EUR 11 million following Inquiry into Tinder users’ personal data requests</title>
-<link>https://www.edpb.europa.eu/news/irish-data-protection-commission-fines-mtch-eur-11-million-following-inquiry-into-tinder-users_en</link>
-<guid isPermaLink="true">https://www.edpb.europa.eu/news/irish-data-protection-commission-fines-mtch-eur-11-million-following-inquiry-into-tinder-users_en</guid>
-<pubDate>Tue, 17 Nov 2026 09:00:00 +0000</pubDate>
-<description>ikerinar Tue, 17/11/2026 - 11:13</description>
-<category>Tietosuoja</category>
-</item>
-<item>
 <title>EU-komissio: Commission preliminarily finds Temu in breach of the Digital Services Act for failure to tackle the sale of illegal products</title>
 <link>https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-temu-breach-digital-services-act-failure-tackle-sale-illegal</link>
 <guid isPermaLink="true">https://digital-strategy.ec.europa.eu/en/news/commission-preliminarily-finds-temu-breach-digital-services-act-failure-tackle-sale-illegal</guid>
@@ -238,7 +238,7 @@
 <link>http://hdl.handle.net/10138/640913</link>
 <guid isPermaLink="true">http://hdl.handle.net/10138/640913</guid>
 <pubDate>Mon, 09 Nov 2026 09:00:00 +0000</pubDate>
-<description>Europe, legislation, EU law, artificial intelligence, discourse analysis, legislative process, regulation, socio-legal studies, socio-technical imaginaries, the European Union, Oikeustieteen maisterin koulutusohjelma, Helsinki, Master&amp;apos;s Programme in Law, Helsinki, Magisterprogrammet i rättsvete</description>
+<description>Europe, legislation, EU law, artificial intelligence, discourse analysis, legislative process, regulation, socio-legal studies, socio-technical imaginaries, the European Union, Oikeustieteen maisterin koulutusohjelma, Helsinki, Master&#x27;s Programme in Law, Helsinki, Magisterprogrammet i rättsvetenskap</description>
 <category>Datasääntely</category>
 </item>
 <item>
@@ -383,14 +383,6 @@
 <pubDate>Tue, 27 Oct 2026 09:00:00 +0000</pubDate>
 <description>Menestyksekkään EU-hankkeen resepti on yksinkertainen: ihmiset, ideat ja yhteistyö. Tämä ajatus oli keskeinen viesti Connect4Cyber-tapahtumassa, joka kokosi kyberturvallisuusalan toimijoita eri puolilta Eurooppaa Helsinkiin syyskuun lopulla. Ennätyksellisen kiinnostuksen herättänyt tapahtuma tarjosi osallistujille tietoa rahoitusmahdollisuuksista, käytännön kokemuksia onnistuneista hankkeista sekä</description>
 <category>Kyberturvallisuus</category>
-</item>
-<item>
-<title>EU-komissio: Commission accepts Temu&#x27;s action plan to remedy the breach of the Digital Services Act</title>
-<link>https://digital-strategy.ec.europa.eu/en/news/commission-accepts-temus-action-plan-remedy-breach-digital-services-act</link>
-<guid isPermaLink="true">https://digital-strategy.ec.europa.eu/en/news/commission-accepts-temus-action-plan-remedy-breach-digital-services-act</guid>
-<pubDate>Mon, 26 Oct 2026 09:00:00 +0000</pubDate>
-<description>Anonymous (not verified) Mon, 10/26/2026 - 10:28 The European Commission has accepted Temu&#x27;s action plan to comply with the Digital Services Act (DSA) and tackle the availability of illegal products online. Temu&#x27;s plan focuses on five measures to remedy its breach of the DSA. The company will carry out a platform-specific risk analysis. It will also use reliable metrics to evaluate the effectivene</description>
-<category>Datasääntely</category>
 </item>
 <item>
 <title>Kyberturvallisuuskeskus: Kyberturvallisuuskeskuksen viikkokatsaus – 43/2026</title>
@@ -639,6 +631,14 @@
 <guid isPermaLink="true">https://www.tuomioistuimet.fi/ratkaisut/helho20268/</guid>
 <pubDate>Mon, 07 Sep 2026 09:00:00 +0000</pubDate>
 <description>Oikeudenkäynnin julkisuus – Tietopyyntö, Tietosuoja, Väliintulo</description>
+<category>Tietosuoja</category>
+</item>
+<item>
+<title>TSV: Tietosuojavaltuutettu selvittää Kotkamiehen sosiaalisen median videoiden laillisuutta</title>
+<link>https://tietosuoja.fi/-/tietosuojavaltuutettu-selvittaa-kotkamiehen-sosiaalisen-median-videoiden-laillisuutta</link>
+<guid isPermaLink="true">https://tietosuoja.fi/-/tietosuojavaltuutettu-selvittaa-kotkamiehen-sosiaalisen-median-videoiden-laillisuutta</guid>
+<pubDate>Fri, 04 Sep 2026 09:00:00 +0000</pubDate>
+<description></description>
 <category>Tietosuoja</category>
 </item>
 </channel></rss>

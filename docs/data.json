@@ -1,5 +1,5 @@
 {
-  "generated": "2026-11-26T15:10:35",
+  "generated": "2026-11-27T15:01:37",
   "window_days": 120,
   "sources": [
     {
@@ -95,7 +95,7 @@
       "name": "Euroopan parlamentti, lehdistötiedotteet",
       "court": "EP",
       "ok": true,
-      "fetched": 0,
+      "fetched": 20,
       "error": ""
     },
     {
@@ -103,7 +103,7 @@
       "name": "Finlex, säädöskokoelma",
       "court": "Säädöskokoelma",
       "ok": true,
-      "fetched": 17,
+      "fetched": 20,
       "error": ""
     },
     {
@@ -167,7 +167,7 @@
       "name": "Euroopan tietosuojavaltuutettu (EDPS)",
       "court": "EDPS",
       "ok": true,
-      "fetched": 2,
+      "fetched": 3,
       "error": ""
     },
     {
@@ -183,7 +183,7 @@
       "name": "Helda (Helsingin yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 9,
+      "fetched": 8,
       "error": ""
     },
     {
@@ -207,7 +207,7 @@
       "name": "UTUPub (Turun yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 2,
+      "fetched": 3,
       "error": ""
     },
     {
@@ -215,7 +215,7 @@
       "name": "eRepo (Itä-Suomen yliopisto)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 24,
+      "fetched": 22,
       "error": ""
     },
     {
@@ -231,7 +231,7 @@
       "name": "Doria (mm. Åbo Akademi)",
       "court": "Julkaisu",
       "ok": true,
-      "fetched": 16,
+      "fetched": 11,
       "error": ""
     },
     {
@@ -292,6 +292,88 @@
     }
   ],
   "items": [
+    {
+      "court": "Säädöskokoelma",
+      "source": "Finlex, säädöskokoelma",
+      "title": "1067/2026, Laki henkilötietojen käsittelystä Tullissa annetun lain 23 §:n muuttamisesta",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/1067",
+      "date": "2026-11-27",
+      "keywords": "",
+      "summary": "",
+      "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "henkilötiet"
+      ]
+    },
+    {
+      "court": "Säädöskokoelma",
+      "source": "Finlex, säädöskokoelma",
+      "title": "1066/2026, Laki henkilötietojen käsittelystä Rajavartiolaitoksessa annetun lain 35 §:n muuttamisesta",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/1066",
+      "date": "2026-11-27",
+      "keywords": "",
+      "summary": "",
+      "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "henkilötiet"
+      ]
+    },
+    {
+      "court": "Säädöskokoelma",
+      "source": "Finlex, säädöskokoelma",
+      "title": "1065/2026, Laki henkilötietojen käsittelystä poliisitoimessa annetun lain 25 §:n muuttamisesta",
+      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/1065",
+      "date": "2026-11-27",
+      "keywords": "",
+      "summary": "",
+      "score": 33,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "henkilötiet"
+      ]
+    },
+    {
+      "court": "Kyberturvallisuuskeskus",
+      "source": "Kyberturvallisuuskeskus",
+      "title": "Kyberturvallisuuskeskuksen viikkokatsaus – 48/2026",
+      "url": "https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberturvallisuuskeskuksen-viikkokatsaus-482026?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
+      "date": "2026-11-27",
+      "keywords": "",
+      "summary": "M365-tunnusten tietomurrot ovat lisääntyneet merkittävästi. Tietomurtoihin käytetään huijausviestejä, jotka johtavat laitekoodikalasteluun. Huijausketju voi alkaa viattoman näköisellä tarjouspyynnöllä. Tällä viikolla kerromme lisäksi älylaitteiden turvallisesta hankinnasta, reitittimien haavoittuvuudesta ja maanantaina järjestetystä arjen kyberturvallisuuden yleisötilaisuudesta.",
+      "score": 28,
+      "topics": [
+        "Kyberturvallisuus"
+      ],
+      "tags": [
+        "tärkeä",
+        "kyberturvallisuus",
+        "tietomurto"
+      ]
+    },
+    {
+      "court": "Asianajajaliitto",
+      "source": "Suomen Asianajajaliitto",
+      "title": "Laamannin arvonimi asianajaja Markku Fredmanille",
+      "url": "https://asianajajat.fi/2026/11/27/laamannin-arvonimi-asianajaja-markku-fredmanille/",
+      "date": "2026-11-27",
+      "keywords": "",
+      "summary": "Artikkeli  julkaistiin ensimmäisen kerran Suomen Asianajajat .",
+      "score": 13,
+      "topics": [
+        "Datasääntely"
+      ],
+      "tags": [
+        "DMA"
+      ]
+    },
     {
       "court": "EDPB",
       "source": "Euroopan tietosuojaneuvosto (EDPB)",
@@ -373,6 +455,22 @@
       "tags": [
         "tietosuoja",
         "henkilötiet"
+      ]
+    },
+    {
+      "court": "EDPS",
+      "source": "Euroopan tietosuojavaltuutettu (EDPS)",
+      "title": "'Shaping the future of data protection: EDPS and DPOs meet in Amsterdam'",
+      "url": "https://www.edps.europa.eu/press-publications/press-news/blog/shaping-future-data-protection-edps-and-dpos-meet-amsterdam_en",
+      "date": "2026-11-24",
+      "keywords": "",
+      "summary": "",
+      "score": 23,
+      "topics": [
+        "Tietosuoja"
+      ],
+      "tags": [
+        "data protection"
       ]
     },
     {
@@ -893,7 +991,7 @@
       "url": "https://digital-strategy.ec.europa.eu/en/consultations/call-evidence-advertising-repositories",
       "date": "2026-11-04",
       "keywords": "",
-      "summary": "Anonymous (not verified) Wed, 11/04/2026 - 11:10 Opening: 04 November 2026 Closing: 02 December 2026 The Commission is seeking feedback on upcoming technical guidelines concerning advertising repositories under the Digital Services Act (DSA). The feedback is being gathered through a call for evidence . The responses collected through the call for evidence will help shape guidelines aimed at ensuri",
+      "summary": "Anonymous (not verified) Wed, 11/04/2026 - 11:10 Opening: 04 November 2026 Closing: 09 December 2026 The Commission is seeking feedback on upcoming technical guidelines concerning advertising repositories under the Digital Services Act (DSA). The feedback is being gathered through a call for evidence . The responses collected through the call for evidence will help shape guidelines aimed at ensuri",
       "score": 23,
       "topics": [
         "Datasääntely"
@@ -1517,22 +1615,6 @@
     {
       "court": "Säädöskokoelma",
       "source": "Finlex, säädöskokoelma",
-      "title": "791/2026, Laki henkilötietojen käsittelystä Rikosseuraamuslaitoksessa annetun lain muuttamisesta",
-      "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/791",
-      "date": "2026-09-08",
-      "keywords": "",
-      "summary": "",
-      "score": 33,
-      "topics": [
-        "Tietosuoja"
-      ],
-      "tags": [
-        "henkilötiet"
-      ]
-    },
-    {
-      "court": "Säädöskokoelma",
-      "source": "Finlex, säädöskokoelma",
       "title": "785/2026, Laki kyberturvallisuuslain 26 §:n ja liitteen I muuttamisesta",
       "url": "https://www.finlex.fi/fi/lainsaadanto/saadoskokoelma/2026/785",
       "date": "2026-09-07",
@@ -1780,24 +1862,6 @@
       "tags": [
         "tärkeä",
         "tietomurto"
-      ]
-    },
-    {
-      "court": "Kyberturvallisuuskeskus",
-      "source": "Kyberturvallisuuskeskus",
-      "title": "Kyberkestävyyssäädöksen vaatimukset selkiytyvät - EU-komissio julkaisi uuden soveltamisohjeen",
-      "url": "https://www.kyberturvallisuuskeskus.fi/fi/uutiset/kyberkestavyyssaadoksen-vaatimukset-selkiytyvat-eu-komissio-julkaisi-uuden-soveltamisohjeen?mtm_campaign=rss&mtm_source=rss&mtm_medium=rss",
-      "date": "2026-07-29",
-      "keywords": "",
-      "summary": "Euroopan komissio on julkaissut uuden soveltamisohjeen kyberkestävyyssäädöksen (Cyber Resilience Act, CRA) toimeenpanon tueksi. Ohjeistus on suunnattu erityisesti valmistajille, ohjelmistokehittäjille sekä muille yrityksille, jotka saattavat markkinoille digitaalisia tuotteita. Ohjeistus tarjoaa yrityksille konkreettisia neuvoja siihen, miten ne voivat valmistautua tuleviin kyberturvallisuusvaatim",
-      "score": 19,
-      "topics": [
-        "Kyberturvallisuus"
-      ],
-      "tags": [
-        "kyberturvallisuus",
-        "kyberkestävyy",
-        "cyber"
       ]
     }
   ]
